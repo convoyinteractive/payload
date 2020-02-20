@@ -1,0 +1,65 @@
+view: null
+locale: en
+
+meta:
+  title: Meta title
+  description: Meta description
+
+body:
+  - type: image
+    data:
+      sizes:
+        small: /assets/image_s.png
+        large: /assets/image_l.png
+      alt: The alternative text
+      caption: A totaly optional description
+
+  - type: video
+    data:
+      poster: /assets/image.png
+      source: /assets/video.mp4
+      caption: A totally optional description
+
+  - type: quote
+    data:
+      author:
+        name: Gordon Shumway
+        title: ALF – Alien Life Form
+        image: /assets/alf-avatar.jpg
+      cite: |
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+  # You may create a "markdown" component to add basic text formats.
+  # Eg. https://www.markdownguide.org/
+  - type: markdown
+    data: |
+      # Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Deleniti ab odit adipisci **temporibus** eum earum optio qui nobis unde vitae? Quam earum, voluptatum! Libero, impedit.
+
+  # In addition to the components listed above – we also provide
+  # a common selection of "layout components".
+  - type: carousel
+    items:
+      # Within a "layout component" you may nest any component type.
+      - type: video
+        data:
+          poster: /assets/image.png
+          source: /assets/video.mp4
+
+  - type: grid
+    items:
+      - type: image
+        data:
+          sizes:
+            small: /assets/image_s.png
+            large: /assets/image_l.png
+          alt: The alternative text
+
+  - type: accordeon
+    items:
+      - title: The accordeon items title
+        type: markdown
+        data: |
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Earum voluptatum voluptates explicabo perferendis necessitatibus.
+          Veritatis expedita molestias facilis tempore autem voluptas?
