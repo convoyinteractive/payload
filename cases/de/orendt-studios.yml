@@ -1,0 +1,23 @@
+view: null
+locale: de
+
+meta:
+  title: Orendt Studios
+  description: 
+
+body:
+  
+  - type: carousel
+    items:
+      - type: image
+        data:
+          sizes:
+            small: /assets/image_s.png
+            large: /assets/image_l.png
+          alt: The alternative text
+      - type: image
+        data:
+          sizes:
+            small: /assets/image_s.png
+            large: /assets/image_l.png
+          alt: The alternative text
