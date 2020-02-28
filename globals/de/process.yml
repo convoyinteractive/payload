@@ -1,0 +1,26 @@
+body:
+  - type: list
+    items:
+      - type: markdown
+        data: |
+          ### Analysieren
+          Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
+
+          Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
+
+      - type: markdown
+        data: |
+          ### Strukturieren
+          Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
+
+      - type: markdown
+        data: |
+          ### Realisieren
+          Massa cume socies natoque penatib census este magnis dies partus rient montes dolor.
+
+          Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
+
+      - type: markdown
+        data: |
+          ### Optimieren
+          Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
