@@ -1,11 +1,21 @@
-view: null
+view: case
 
 meta:
   title: Orendt Studios
   description:
+  client: Orendt Studios
+  project: Corporate Website
+  services:
+    - Content Strategy
+    - Konzeption
+    - UX/UI Design
+    - Icon Design
+    - Motion Design
+    - Augmented Reality
+    - Web Development
+    - Beratung
 
 body:
-
   - type: carousel
     items:
       - type: image
