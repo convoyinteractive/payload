@@ -1,12 +1,11 @@
 view: null
-locale: de
 
 meta:
   title: Orendt Studios
-  description: 
+  description:
 
 body:
-  
+
   - type: carousel
     items:
       - type: image
