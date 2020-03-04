@@ -8,4 +8,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          msg: "Thank you!"
+          msg: "Thanks for your contribution to the Convoy Interactive Website. You may check your updates at: https://stage.convoyinteractive.com/?preview=$(echo ${GITHUB_REF#refs/heads/})"
