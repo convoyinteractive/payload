@@ -4,8 +4,13 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
+      - shell: bash
+        run: echo "##[set-output name=branch;]$(echo 'https://stage.convoyinteractive.com/?preview='${GITHUB_REF#refs/heads/})"
+        id: preview
       - uses: unsplash/comment-on-pr@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          msg: "Thanks for your contribution to the Convoy Interactive Website. You may check your updates at: https://stage.convoyinteractive.com/?preview=$(echo ${GITHUB_REF#refs/heads/})"
+          msg: |
+            Thanks for your contribution to the Convoy Interactive Website.
+            You may check your updates at: ${{steps.preview.outputs.branch}}
