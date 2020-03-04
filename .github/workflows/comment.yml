@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - shell: bash
-        run: echo "##[set-output name=branch;]$(echo 'https://stage.convoyinteractive.com/?preview='${ github.head_ref })"
+        run: echo "##[set-output name=branch;]$(echo 'https://stage.convoyinteractive.com/?preview='${GITHUB_HEAD_REF})"
         id: preview
       - uses: unsplash/comment-on-pr@master
         env:
