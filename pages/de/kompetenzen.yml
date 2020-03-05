@@ -1,0 +1,57 @@
+view: null
+
+meta:
+  title: Kompetenzen
+  subtitle: Leistungsübersicht
+  description:
+
+body:
+  - type: markdown
+    data: |
+      ## Konsistenz über alle Touchpoints
+
+      Websites, Apps und andere digitale Anwendungen sind heutzutage keine simplen Ergänzungen zu physischen Produkten mehr.
+
+      Um erfolgreich im Wettbewerb zu bestehen, muss das digitale Erlebnis von Anfang bis Ende mit einer verlässlichen und intuitiven Nutzung überzeugen.
+
+      Daher unterstützen wir Unternehmen im digitalen Wandel mit anspruchs-vollen Designlösungen und techno-logischer Kompetenz. Und helfen Ihnen so, ihre Ziele zu erreichen und langfristig erfolgreich zu sein.
+
+      Nur so werden Customer Journeys zu Customer Experiences und Kunden zu Partnern.
+
+  - type: grid
+    items:
+      - type: link
+        data:
+          label: Beratung + Strategie
+          description: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+          path: /de/kompetenzen/beratung-strategie
+
+      - type: link
+        data:
+          label: Digital Branding
+          description: Wir erwecken die DNA Ihrer Marke zum Leben. Konsistent und über alle Touchpoints.
+          path: /de/kompetenzen/digital-branding
+
+      - type: link
+        data:
+          label: User Experience Design
+          description: Wir finden die jeweils beste Lösung für jede Zielgruppe und jeden Use Case.
+          path: /de/kompetenzen/user-experience-design
+
+      - type: link
+        data:
+          label: User Interface Design
+          description: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+          path: /de/kompetenzen/user-interface-design
+
+      - type: link
+        data:
+          label: Web + App Development
+          description: Wir bauen auf zukunftssichere Technologien und entwickeln performante, stabile Lösungen.
+          path: /de/kompetenzen/web-und-app-development
+
+      - type: link
+        data:
+          label: Online Marketing
+          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          path: /de/kompetenzen/online-marketing
