@@ -1,0 +1,55 @@
+view: null
+
+meta:
+  title: Services
+  subtitle: Schedule of services
+  description:
+
+body:
+  - type: markdown
+    data: |
+      ## Lorem ipsum dolor sit amet
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam laboriosam aspernatur eveniet quaerat et beatae!
+
+      Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat. Laudantium nobis debitis velit recusandae neque, explicabo.
+
+      Eveniet officia blanditiis ducimus sint quia quo asperiores tenetur aliquam corrupti eius. Rem iusto, cum ullam omnis animi enim nam.
+
+  - type: grid
+    items:
+      - type: link
+        data:
+          label: Consulting + Strategy
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/consulting-strategy
+
+      - type: link
+        data:
+          label: Digital Branding
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/digital-branding
+
+      - type: link
+        data:
+          label: User Experience Design
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/user-experience-design
+
+      - type: link
+        data:
+          label: User Interface Design
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/user-interface-design
+
+      - type: link
+        data:
+          label: Web + App Development
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/web-und-app-development
+
+      - type: link
+        data:
+          label: Online Marketing
+          description: Nobis expedita, possimus voluptatem nesciunt omnis totam fugiat.
+          path: /en/kompetenzen/online-marketing
