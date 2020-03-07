@@ -4,6 +4,8 @@ meta:
   title: Kompetenzen
   subtitle: Leistungsübersicht
   description:
+  alternates:
+    en: services
 
 body:
   - type: markdown

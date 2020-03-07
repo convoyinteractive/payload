@@ -4,6 +4,8 @@ meta:
   title: Services
   subtitle: Schedule of services
   description:
+  alternates:
+    de: kompetenzen
 
 body:
   - type: markdown
