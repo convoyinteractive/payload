@@ -1,0 +1,8 @@
+body:
+  # - relation: agentur
+  # - relation: kompetenzen
+  # - relation: arbeitsweise
+  # - relation: jobs
+  - type: carousel
+    items:
+
