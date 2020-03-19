@@ -1,0 +1,8 @@
+{
+    "name": "convoyinteractive/payload",
+    "description": "Here we handle our content.",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
