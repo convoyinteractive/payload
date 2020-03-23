@@ -1,7 +1,7 @@
-view: null
+type: default
 
 meta:
-  title:
+  title: Home
   description:
 
 body:

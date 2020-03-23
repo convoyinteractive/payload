@@ -1,8 +1,17 @@
 body:
-  # - relation: about-us
-  # - relation: services
-  # - relation: process
-  # - relation: jobs
-  - type: carousel
-    items:
-
+  - type: link
+    data:
+      label: About us
+      path: /en/about-us
+  - type: link
+    data:
+      label: Services
+      path: /en/services
+  - type: link
+    data:
+      label: Process
+      path: /en/process
+  - type: link
+    data:
+      label: Jobs
+      path: /en/jobs

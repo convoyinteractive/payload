@@ -1,8 +1,17 @@
 body:
-  # - relation: agentur
-  # - relation: kompetenzen
-  # - relation: arbeitsweise
-  # - relation: jobs
-  - type: carousel
-    items:
-
+  - type: link
+    data:
+      label: Agentur
+      path: /de/agentur
+  - type: link
+    data:
+      label: Kompetenzen
+      path: /de/kompetenzen
+  - type: link
+    data:
+      label: Arbeitsweise
+      path: /de/arbeitsweise
+  - type: link
+    data:
+      label: Jobs
+      path: /de/jobs
