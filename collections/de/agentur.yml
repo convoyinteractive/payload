@@ -11,7 +11,7 @@ meta:
       fallback: https://via.placeholder.com/640x640
   description: Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
 
-  alternatives:
+  alternates:
     en: about-us
 
 body:
