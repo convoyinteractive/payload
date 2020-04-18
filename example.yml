@@ -1,65 +1,51 @@
-view: null
-locale: en
+type: default
 
 meta:
-  title: Meta title
-  description: Meta description
+  title: Example
 
 body:
-  - type: image
-    data:
-      sizes:
-        small: /assets/image_s.png
-        large: /assets/image_l.png
-      alt: The alternative text
-      caption: A totaly optional description
+  - type: relation
+    name: jobs
+    as: collection
+    path: en/jobs
 
-  - type: video
-    data:
-      poster: /assets/image.png
-      source: /assets/video.mp4
-      caption: A totally optional description
-
-  - type: quote
-    data:
-      author:
-        name: Gordon Shumway
-        title: ALF – Alien Life Form
-        image: /assets/alf-avatar.jpg
-      cite: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-  # You may create a "markdown" component to add basic text formats.
-  # Eg. https://www.markdownguide.org/
   - type: markdown
-    data: |
-      # Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Deleniti ab odit adipisci **temporibus** eum earum optio qui nobis unde vitae? Quam earum, voluptatum! Libero, impedit.
+    name: my-markdown-section
+    title: My MarkDown Section
+    body: |
+      ## Headline
+      Lorem ipsum dolor sit amet
 
-  # In addition to the components listed above – we also provide
-  # a common selection of "layout components".
-  - type: carousel
-    items:
-      # Within a "layout component" you may nest any component type.
-      - type: video
-        data:
-          poster: /assets/image.png
-          source: /assets/video.mp4
+  - type: image
+    name: my-image
+    title: My Image
+    caption: Lorem ipsum dolor sit amet
+    alt: Lorem ipsum dolor sit amet
+    sizes:
+      small: https://via.placeholder.com/600x400
+      large: https://via.placeholder.com/600x400
+      fallback: https://via.placeholder.com/600x400
 
-  - type: grid
-    items:
-      - type: image
-        data:
-          sizes:
-            small: /assets/image_s.png
-            large: /assets/image_l.png
-          alt: The alternative text
+  - type: svg
+    name: my-svg
+    title: My SVG
+    caption: Lorem ipsum dolor sit amet
+    path: assets/example.svg
 
-  - type: accordeon
+  - type: list
+    name: my-list
+    title: My List
     items:
-      - title: The accordeon items title
-        type: markdown
-        data: |
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Earum voluptatum voluptates explicabo perferendis necessitatibus.
-          Veritatis expedita molestias facilis tempore autem voluptas?
+      - type: markdown
+        body: Lorem ipsum dolor sit amet
+      - type: markdown
+        body: Lorem ipsum dolor sit amet
+      - type: markdown
+        body: Lorem ipsum dolor sit amet
+
+  - type: group
+    name: my-group
+    title: My Group
+    items:
+      - type: markdown
+        body: Lorem ipsum dolor sit amet

@@ -2,6 +2,95 @@ type: default
 
 meta:
   title: Agentur
-  description:
+  subtitle: Über uns
+  image:
+    alt: Lorem ipsum dolor sit amet
+    sizes:
+      small: https://via.placeholder.com/640x640
+      large: https://via.placeholder.com/1600x480
+      fallback: https://via.placeholder.com/640x640
+  description: Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
+
+  alternatives:
+    en: about-us
 
 body:
+  - type: markdown
+    title: Digital Mindset
+    body: |
+      Egal ob junges Startup oder globaler Konzern: Wir verstehen uns als Partner unserer Kunden und unterstützen Unternehmen dabei, digitale Services und Angebote so zu konzipieren, dass diese gern und häufig genutzt werden.
+
+      Bei allem was wir tun, geht es um die möglichst optimale Verbindung aus Design und Technologie. Unser Fokus liegt dabei auf den Bereichen User Experience Design, User Interface Design, Web- und Software-Entwicklung sowie damit verbundenen strategischen und technischen Beratungs-leistungen.
+
+  - type: markdown
+    title: Erfolgsfaktoren
+    body: |
+      Seit der Gründung unserer Agentur vor 10 Jahren in Hamburg haben wir mehr als 80 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
+
+      Unsere Erfolgsfaktoren sind neben fachlichem Know-How vor allem Respekt, Teamwork und Transparenz. Gerade deshalb ist es uns wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten.
+
+  - type: image
+    caption: Lorem ipsum dolor sit amet
+    alt: Lorem ipsum dolor sit amet
+    sizes:
+      small: https://via.placeholder.com/640x480
+      large: https://via.placeholder.com/1024x768
+      fallback: https://via.placeholder.com/640x480
+
+  - type: markdown
+    title: Lorem ipsum dolor
+    body: |
+      Wir sind Experten in unterschiedlichen Disziplinen. Dabei verbindet uns die Leidenschaft für gleichermaßen funktionales wie ästhetisches Design sowie ein grundlegendes Interesse an neuen Technologien.
+      In Kombination mit dem Anspruch, sich und die eigenen Fähigkeiten permanent weiterzuentwickeln, entstehen immer wieder neue und spannende Lösungen.
+
+      Und da die gelungene Symbiose aus nutzerzentriertem Design und tech-nischer Perfektion am Ende häufig das ist, was den Erfolg eines Projekts ausmacht, besteht unser Team zu nahezu gleichen Teilen aus Designern und Entwicklern.
+
+      Flache Hierachien und kurze Kommunikationswege sorgen darüber hinaus für ein entspanntes und vertrauensvolles Arbeitsumfeld.
+      Das spüren auch unsere Kunden: Mit vielen von ihnen arbeiten wir schon seit Jahren erfolgreich zusammen.
+
+  - type: gallery
+    items:
+      - type: image
+        alt: Lorem ipsum dolor
+        sizes:
+          small: https://via.placeholder.com/640x480
+          large: https://via.placeholder.com/1024x768
+          fallback: https://via.placeholder.com/640x480
+      - type: image
+        alt: Lorem ipsum dolor
+        sizes:
+          small: https://via.placeholder.com/640x480
+          large: https://via.placeholder.com/1024x768
+          fallback: https://via.placeholder.com/640x480
+      - type: image
+        alt: Lorem ipsum dolor
+        sizes:
+          small: https://via.placeholder.com/640x480
+          large: https://via.placeholder.com/1024x768
+          fallback: https://via.placeholder.com/640x480
+
+  - type: list
+    title: Wir können Ihnen helfen, wenn…
+    items:
+      - type: text
+        body: Sie einen Relaunch Ihrer Website, Software oder App planen.
+      - type: text
+        body: Sie einen verlässlichen Agenturpartner für Ihr Online-Marketing oder die Umsetzung Ihrer digitalen Kampagnen suchen.
+      - type: text
+        body: Sie Unterstützung bei der Digitalisierung von Prozessen oder Produkten benötigen.
+      - type: text
+        body: Sie Schwierigkeiten haben, bei der Vielzahl an Trends und technischen Möglichkeiten, den Überblick zu behalten.
+      - type: text
+        body: Sie Resultate schnell und verlässlich benötigen bzw. Ihnen schlanke und effektive Prozesse wichtig sind.
+      - type: text
+        body: Sie an messbaren Ergebnissen interessiert sind.
+      - type: text
+        body: Vertrauen und eine offene, transparente Kommunikation für Sie ebenfalls die Grundlage für eine langfristige Zusammenarbeit bilden.
+      - type: text
+        body: Qualität und gutes Design für Sie nicht Nice to Have sondern wesentlicher Bestandteil Ihrer Markenidentität ist.
+
+  - type: quote
+    body: Lorem ipsum dolor lis amet cons adipicing nean commodo egeslem dolor estifays dumes natoque magnis ridiculus.
+    author:
+      name: Kathrin Kellerer
+      title: Junior Marketing Manager, Sony Music

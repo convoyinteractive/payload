@@ -1,6 +1,6 @@
 body:
   - type: markdown
-    data: |
+    body: |
       ### Get in touch
       Convoy Interactive GmbH
       Budapester Straße 47
@@ -11,10 +11,10 @@ body:
       [info@convoyinteractive.com](mailto: info@convoyinteractive.com)
 
   - type: image
-    data:
-      sizes:
-        small: /assets/image_s.png
-        large: /assets/image_l.png
-      alt: The alternative text
+    sizes:
+      small: /assets/image_s.png
+      large: /assets/image_l.png
+      fallback: /assets/image_s.png
+    alt: The alternative text
 
 

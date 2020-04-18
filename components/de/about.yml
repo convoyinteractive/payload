@@ -1,17 +1,13 @@
 body:
   - type: link
-    data:
-      label: Agentur
-      path: /de/agentur
+    label: Agentur
+    path: /de/agentur
   - type: link
-    data:
-      label: Kompetenzen
-      path: /de/kompetenzen
+    label: Kompetenzen
+    path: /de/kompetenzen
   - type: link
-    data:
-      label: Arbeitsweise
-      path: /de/arbeitsweise
+    label: Arbeitsweise
+    path: /de/arbeitsweise
   - type: link
-    data:
-      label: Jobs
-      path: /de/jobs
+    label: Jobs
+    path: /de/jobs
