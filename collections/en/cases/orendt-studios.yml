@@ -1,13 +1,11 @@
-view: case
+type: case
 
 meta:
   title: Orendt Studios
   subtitle: Corporate Website
-  description:
   alternates:
     de: referenzen/orendt-studios
 
-facts:
   client: Orendt Studios
   project: Corporate Website
   services:
