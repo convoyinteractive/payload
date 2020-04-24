@@ -1,4 +1,65 @@
-type: default
+type: services
 
 meta:
   title: Kompetenzen
+  subtitle: Leistungsübersicht
+  hero:
+    type: image
+    alt: Lorem ipsum dolor sit amet
+    sizes:
+      small: https://via.placeholder.com/480x640
+      large: https://via.placeholder.com/480x640
+      fallback: https://via.placeholder.com/480x640
+  alternates:
+    en: services
+
+body:
+  - type: markdown
+    body: |
+      Websites, Apps und andere digitale Anwendungen sind heutzutage keine simplen Ergänzungen zu physischen Produkten mehr.
+
+      Um erfolgreich im Wettbewerb bestehen, muss das digitale Erlebnis von Anfang bis Ende durch eine verlässliche und intuitive Nutzung überzeugen.
+
+      Daher unterstützen wir Unternehmen mit überzeugenden Designlösungen und technologischer Kompetenz. Und helfen Ihnen so, ihre Ziele zu erreichen und langfristig erfolgreich zu sein.
+
+  - type: group
+    title: Unsere Leistungen im Überblick
+    items:
+      - type: link
+        label: Beratung + Strategie
+        description: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen und im Wettbewerb bestehen.
+        url: /de/kompetenzen/beratung-strategie
+
+      - type: link
+        label: User Experience Design
+        description: Wir finden die jeweils beste Lösung für jede Zielgruppe und jeden Use Case.
+        url: /de/kompetenzen/user-experience-design
+
+      - type: link
+        label: User Interface Design
+        description: Wir entwickeln ansprechende und durchdachte User Interfaces, die Ihre Kunden beeindrucken.
+        url: /de/kompetenzen/user-interface-design
+
+      - type: link
+        label: Web + App Development
+        description: Wir bauen auf zukunftssichere Technologien und entwickeln stabile und performante Lösungen.
+        url: /de/kompetenzen/web-und-app-development
+
+      - type: link
+        label: Digital Branding
+        description: Wir erwecken die DNA Ihrer Marke zum Leben. Konsistent und über alle Touchpoints.
+        url: /de/kompetenzen/digital-branding
+
+      - type: link
+        label: Online Marketing
+        description: Wir sorgen dafür, dass Ihre Kommunikation auffällt und im Gedächtnis bleibt.
+        url: /de/kompetenzen/online-marketing
+
+  - type: markdown
+    body: |
+      Darüber hinaus unterstützen wir Sie bei der Entwicklung und Optimierung Ihrer digitalen Produkte und begleiten Ihr Software-Projekt von der ersten Idee bis zum Launch.
+
+  - type: link
+    label: Digital Products
+    description: Wir realisieren Anwendungen, die Ihre Zielgruppe nachhaltig begeistern.
+    url: /de/kompetenzen/digital-products
