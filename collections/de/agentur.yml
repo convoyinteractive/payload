@@ -3,13 +3,15 @@ type: default
 meta:
   title: Agentur
   subtitle: Über uns
-  image:
+  description: Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
+
+  hero:
+    type: image
     alt: Lorem ipsum dolor sit amet
     sizes:
       small: https://via.placeholder.com/640x640
       large: https://via.placeholder.com/1600x480
       fallback: https://via.placeholder.com/640x640
-  description: Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
 
   alternates:
     en: about-us
