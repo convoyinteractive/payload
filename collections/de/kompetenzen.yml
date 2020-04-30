@@ -4,12 +4,8 @@ meta:
   title: Kompetenzen
   subtitle: Leistungsübersicht
   hero:
-    type: image
-    alt: Lorem ipsum dolor sit amet
-    sizes:
-      small: https://via.placeholder.com/480x640
-      large: https://via.placeholder.com/480x640
-      fallback: https://via.placeholder.com/480x640
+    type: svg
+    path: assets/test.svg
   alternates:
     en: services
 
