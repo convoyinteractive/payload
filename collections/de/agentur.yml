@@ -9,9 +9,9 @@ meta:
     type: image
     alt: Lorem ipsum dolor sit amet
     sizes:
-      small: https://via.placeholder.com/640x640
-      large: https://via.placeholder.com/1600x480
-      fallback: https://via.placeholder.com/640x640
+      small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&q=80
+      large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&h=540&q=80
+      fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&q=80
 
   alternates:
     en: about-us
@@ -35,9 +35,9 @@ body:
     caption: Lorem ipsum dolor sit amet
     alt: Lorem ipsum dolor sit amet
     sizes:
-      small: https://via.placeholder.com/640x480
-      large: https://via.placeholder.com/1024x768
-      fallback: https://via.placeholder.com/640x480
+      small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+      large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=786&q=80
+      fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
 
   - type: markdown
     title: Lorem ipsum dolor
@@ -55,21 +55,21 @@ body:
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://via.placeholder.com/640x480
-          large: https://via.placeholder.com/1024x768
-          fallback: https://via.placeholder.com/640x480
+          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=640&q=80
+          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://via.placeholder.com/640x480
-          large: https://via.placeholder.com/1024x768
-          fallback: https://via.placeholder.com/640x480
+          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=480&h=640&q=80
+          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://via.placeholder.com/640x480
-          large: https://via.placeholder.com/1024x768
-          fallback: https://via.placeholder.com/640x480
+          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=786&q=80
+          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
 
   - type: list
     title: Wir können Ihnen helfen, wenn…
