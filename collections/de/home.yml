@@ -1,4 +1,23 @@
 type: default
 
 meta:
-    title: Home
+  title: Digital Design Solutions
+
+  alternates:
+    en: null
+
+body:
+  - type: markdown
+    body: |
+      Convoy ist eine Digitalagentur in Hamburg. Wir gestalten und entwickeln ansprechende, funktionale Websites, Online-Shops und digitale Produkte für Menschen und Marken.
+
+  - type: markdown
+    body: |
+      Wir arbeiten an der Schnittstelle zwischen Design, Technologie und menschlicher Interaktion. Immer mit dem Ziel, die Kommunikation zwischen Unternehmen und ihren Kunden zu vereinfachen.
+
+  - type: feed
+    items:
+
+  - type: markdown
+    body: |
+      Corporate Websites, Microsites, Kampagnen, Landing-Pages, Online-Shops, Applikationen oder Plattformen: Wir entwickeln digitale Nutzer-Erlebnisse, die Ihre Zielgruppe nachhaltig begeistern.
