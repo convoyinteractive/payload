@@ -2,3 +2,6 @@ type: default
 
 meta:
   title: About us
+
+  alternates:
+    de: agentur

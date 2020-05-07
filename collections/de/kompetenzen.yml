@@ -6,6 +6,7 @@ meta:
   hero:
     type: lottie
     path: assets/test.json
+
   alternates:
     en: services
 

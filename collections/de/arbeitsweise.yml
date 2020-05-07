@@ -1,4 +1,7 @@
 type: default
 
 meta:
-    title: Arbeitsweise
+  title: Arbeitsweise
+
+  alternates:
+    en: process
