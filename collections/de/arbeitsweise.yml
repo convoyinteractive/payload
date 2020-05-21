@@ -5,3 +5,24 @@ meta:
 
   alternates:
     en: process
+
+body:
+  - type: markdown
+    body: |
+      ## Jeder bekommt genau das, was er braucht. Nicht mehr und niemals weniger.
+
+  - type: markdown
+    title: Plan
+    body: |
+      Kein Projekt ohne sorgfältige Planung. Nur indem wir unsere Kunden kennen- und ihre Herausforderungen verstehen lernen, können wir zielgerichtet planen und Konzepte entwickeln, die auch Resultate liefern.  Wichtige Schlüsselfaktoren dafür sind Vertrauen und Kommunikation auf Augenhöhe.
+
+
+  - type: markdown
+    title: Plan
+    body: |
+      Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ur ullamcorper ultricies nisi.
+
+  - type: markdown
+    title: Plan
+    body: |
+      Wir entwickeln nicht nur Konzepte und Designs, wir setzen sie auch um. Dabei verstehen wir uns als Partner unserer Kunden und unterstützen sie dabei, digitale Services und Angebote so zu konzipieren, dass diese gern und häufig genutzt werden.
