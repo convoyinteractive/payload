@@ -11,6 +11,14 @@ body:
     body: |
       ## Convoy ist eine vielfach prämierte Digitalagentur in Hamburg. Wir planen, gestalten und realisieren einzigartige digitale Nutzererlebnisse für Menschen und Marken.
 
+  - type: video
+    url: //vimeo.com/
+
+  - type: quote
+    body: Purpose of a convoy is to keep movin’.
+    author:
+      name: Rubber Duck
+
   - type: markdown
     body: |
       Wir arbeiten an der Schnittstelle zwischen Design, Technologie und menschlicher Interaktion. Immer mit dem Ziel, die Kommunikation zwischen Unternehmen und ihren Kunden zu vereinfachen.
@@ -27,3 +35,12 @@ body:
       Lorem ipsum dolor amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor enean massa. Cumes socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque pretium quis curabitur ullamcorper ultricies. Nam eges duis cui etiam rhoncus. Maecenas tempus eget condimentum rhoncus sem.
 
       [Unsere Kompetenzen](/de/kompetenzen) {.cta}
+
+  - type: component
+    title: Alle Leistungen im Überblick
+    resource: services
+
+  - type: component
+    title: Ausgewählte Kunden
+    resource: clients
+

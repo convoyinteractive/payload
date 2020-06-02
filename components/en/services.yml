@@ -1,0 +1,42 @@
+body:
+  - type: markdown
+    title: User Experience Design
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_ux.svg
+
+  - type: markdown
+    title: User Interface Design
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_ui.svg
+
+  - type: markdown
+    title: Web + App Development
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_dev.svg
+
+  - type: markdown
+    title: Strategic Consulting
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_strategy.svg
+
+  - type: markdown
+    title: Online Marketing
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_ad.svg
+
+  - type: markdown
+    title: Digital Branding
+    body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
+    addon:
+      type: svg
+      path: assets/services_ci.svg

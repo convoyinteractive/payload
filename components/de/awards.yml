@@ -1,0 +1,33 @@
+body:
+  - type: image
+    alt: Awwwards - Honorable Mention
+    path: images/awwwards-logo
+    count: 2
+    caption: Honorable Mention
+
+  - type: image
+    alt: Red Dot Design Award
+    path: images/red-dot-logo
+    count: 2
+    caption: Communications Design
+
+  - type: image
+    alt: CSS Design Awards
+    path: images/css-awards-logo
+    count: 2
+    caption: Site Of The Day
+
+  - type: image
+    alt: International Forum Design Award
+    path: images/if-logo
+    caption: Communications Design
+
+  - type: image
+    alt: German Design Award
+    path: images/german-design-award-logo
+    caption: Special Mention Web
+
+  - type: image
+    alt: Deutscher Design Club e.v.
+    path: images/ddc-logo
+    caption: Gold Award

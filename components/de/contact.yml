@@ -11,10 +11,7 @@ body:
       [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
 
   - type: image
-    sizes:
-      small: /assets/image_s.png
-      large: /assets/image_l.png
-      fallback: /assets/image_s.png
+    path: images/agentur
     alt: The alternative text
 
 

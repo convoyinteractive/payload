@@ -3,20 +3,22 @@ type: default
 meta:
   title: Agentur
   subtitle: Über uns
-  description: Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
 
   hero:
     type: image
     alt: Lorem ipsum dolor sit amet
     sizes:
-      small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&q=80
-      large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&h=540&q=80
-      fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&q=80
+      small: images/agentur
+      large: images/agentur
 
   alternates:
     en: about-us
 
 body:
+  - type: markdown
+    body: |
+      ## Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
+
   - type: markdown
     title: Digital Mindset
     body: |
@@ -35,9 +37,8 @@ body:
     caption: Lorem ipsum dolor sit amet
     alt: Lorem ipsum dolor sit amet
     sizes:
-      small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
-      large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=786&q=80
-      fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+      small: images/agentur
+      large: images/agentur
 
   - type: markdown
     title: Lorem ipsum dolor
@@ -55,21 +56,20 @@ body:
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
-          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=640&q=80
-          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          small: images/agentur
+          large: images/agentur
+
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
-          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=480&h=640&q=80
-          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          small: images/agentur
+          large: images/agentur
+
       - type: image
         alt: Lorem ipsum dolor
         sizes:
-          small: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
-          large: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&h=786&q=80
-          fallback: https://images.unsplash.com/photo-1587554801471-37976a256db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&h=480&q=80
+          small: images/agentur
+          large: images/agentur
 
   - type: list
     title: Wir können Ihnen helfen, wenn…
@@ -94,5 +94,13 @@ body:
   - type: quote
     body: Lorem ipsum dolor lis amet cons adipicing nean commodo egeslem dolor estifays dumes natoque magnis ridiculus.
     author:
-      name: Kathrin Kellerer
-      title: Junior Marketing Manager, Sony Music
+      name: Thorsten Orendt
+      title: CEO, Orendt Studios
+
+  - type: component
+    title: Ausgewählte Kunden
+    resource: clients
+
+  - type: component
+    title: Auszeichnungen + Awards
+    resource: awards

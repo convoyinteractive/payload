@@ -1,24 +1,24 @@
 body:
   - type: markdown
+    term: Analysieren
     body: |
-      ### Analysieren
       Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
 
       Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
 
   - type: markdown
+    term: Strukturieren
     body: |
-      ### Strukturieren
       Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
 
   - type: markdown
+    term: Realisieren
     body: |
-      ### Realisieren
       Massa cume socies natoque penatib census este magnis dies partus rient montes dolor.
 
       Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
 
   - type: markdown
+    term: Optimieren
     body: |
-      ### Optimieren
       Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.

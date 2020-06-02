@@ -1,0 +1,42 @@
+body:
+  - type: markdown
+    title: User Experience Design
+    body: Wir finden die jeweils beste Lösung für jede Zielgruppe und jeden Use Case.
+    addon:
+      type: svg
+      path: assets/services_ux.svg
+
+  - type: markdown
+    title: User Interface Design
+    body: Wir entwickeln ansprechende und durch-dachte User Interfaces, die beeindrucken.
+    addon:
+      type: svg
+      path: assets/services_ui.svg
+
+  - type: markdown
+    title: Web + App Development
+    body: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+    addon:
+      type: svg
+      path: assets/services_dev.svg
+
+  - type: markdown
+    title: Strategische Beratung
+    body: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+    addon:
+      type: svg
+      path: assets/services_strategy.svg
+
+  - type: markdown
+    title: Online Marketing
+    body: Wir sorgen dafür, dass Ihre Kommunikation auffällt und im Gedächtnis bleibt.
+    addon:
+      type: svg
+      path: assets/services_ad.svg
+
+  - type: markdown
+    title: Digital Branding
+    body: Wir erwecken die DNA Ihrer Marke zum Leben. Konsistent über alle Touchpoints.
+    addon:
+      type: svg
+      path: assets/services_ci.svg

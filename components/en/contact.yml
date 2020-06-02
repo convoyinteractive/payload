@@ -1,20 +1,17 @@
 body:
   - type: markdown
     body: |
-      ### Get in touch
+      ### So erreichen Sie uns
       Convoy Interactive GmbH
       Budapester Straße 47
       20359 Hamburg
 
       [+49 40 3866 1919 0](tel:+4940386619190)
 
-      [info@convoyinteractive.com](mailto: info@convoyinteractive.com)
+      [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
 
   - type: image
-    sizes:
-      small: /assets/image_s.png
-      large: /assets/image_l.png
-      fallback: /assets/image_s.png
+    path: images/agentur
     alt: The alternative text
 
 

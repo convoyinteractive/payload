@@ -3,6 +3,13 @@ type: default
 meta:
   title: Arbeitsweise
 
+  hero:
+    type: image
+    alt: Lorem ipsum dolor sit amet
+    sizes:
+      small: images/process
+      large: images/process
+
   alternates:
     en: process
 
@@ -12,17 +19,35 @@ body:
       ## Jeder bekommt genau das, was er braucht. Nicht mehr und niemals weniger.
 
   - type: markdown
-    title: Plan
     body: |
-      Kein Projekt ohne sorgfältige Planung. Nur indem wir unsere Kunden kennen- und ihre Herausforderungen verstehen lernen, können wir zielgerichtet planen und Konzepte entwickeln, die auch Resultate liefern.  Wichtige Schlüsselfaktoren dafür sind Vertrauen und Kommunikation auf Augenhöhe.
+      Wir konzipieren nicht nur innovative Nutzererlebnisse und überzeugende Interfaces, wir setzen sie auch technisch gekonnt um. Dabei verstehen wir uns als Partner unserer Kunden und unterstützen sie in allen Phasen der Umsetzung. Auf Wunsch auch darüber hinaus.
 
+      Nur indem wir unsere Auftraggeber kennen- und ihre Herausforderungen verstehen lernen, können wir zielgerichtet planen und Konzepte entwickeln, die Resultate liefern. Wichtige Schlüsselfaktoren dafür sind Vertrauen und Kommunikation auf Augenhöhe.
 
-  - type: markdown
-    title: Plan
-    body: |
-      Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ur ullamcorper ultricies nisi.
+      Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ullamcorper ultricies nisi.
 
-  - type: markdown
-    title: Plan
-    body: |
-      Wir entwickeln nicht nur Konzepte und Designs, wir setzen sie auch um. Dabei verstehen wir uns als Partner unserer Kunden und unterstützen sie dabei, digitale Services und Angebote so zu konzipieren, dass diese gern und häufig genutzt werden.
+  - type: lottie
+    path: assets/process.json
+
+  - type: component
+    title: Unser Workflow
+    resource: process
+
+  - type: definition
+    title: Flexible Preisgestaltung
+    items:
+      - type: markdown
+        term: Festpreis
+        body: |
+          Dieses Modell ist insbesondere geeignet für Projekte mit klar definiertem Arbeitsumfang und Zeitrahmen. Es ist ideal für Projekte, bei denen hinsichtlich des Projektumfangs wenig bis keine Änderungen zu erwarten sind.
+
+      - type: markdown
+        term: Time + Material
+        body: |
+          Dieses Modell ist ideal für die Entwicklung von digitalen Produkten, bei denen sich der genaue Projekt-Scope im Vorfeld nur schwer prognostizieren lässt.
+          Wir starten mit einer groben Aufwands- und Zeiteinschätzung und präzisieren diese in jeder einzelnen Projektphase. So können wir die vollständige Kontrolle über die zu erwartenden Aufwände jederzeit gewährleisten.
+
+      - type: markdown
+        term: Ongoing
+        body: |
+          Dieses Modell ermöglicht es Ihnen, Spezialisten aus unserem Team zu engagieren, die kontinuierlich an Ihren Projekten arbeiten. Es ist optimal, wenn Sie einen längerfristigen Bedarf an Designern, Entwicklern oder anderen Experten haben und eine kontinuierliche Betreuung durch einen festen Partner an Ihrer Seite wünschen.
