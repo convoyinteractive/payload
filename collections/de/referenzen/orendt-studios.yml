@@ -1,0 +1,20 @@
+type: case
+
+meta:
+  title: Orendt Studios
+  subtitle: Corporate Website
+  alternates:
+    en: cases/orendt-studios
+
+  client: Orendt Studios
+  project: Corporate Website
+  services:
+    - Konzeption
+    - UX/UI Design
+    - Icon Design
+    - Motion Design
+    - Augmented Reality
+    - Web Development
+    - Beratung
+
+body:
