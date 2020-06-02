@@ -9,12 +9,17 @@
 
 @servers($servers)
 
-@task('deploy', ['on' => 'production', 'confirm' => true])
+@task('live:deploy', ['on' => 'production', 'confirm' => true])
     cd {{ $_ENV['PRODUCTION_STORAGE_DIR'] }}/content
     git pull origin master
 @endtask
 
-@task('reset', ['on' => 'staging'])
+@task('stage:deploy', ['on' => 'staging', 'confirm' => false])
+    cd {{ $_ENV['STAGE_STORAGE_DIR'] }}/content
+    git pull origin master
+@endtask
+
+@task('stage:reset', ['on' => 'staging', 'confirm' => false])
     cd {{ $_ENV['STAGE_STORAGE_DIR'] }}/content
     git checkout master
     git branch | grep -ve " master$" | xargs git branch -D
