@@ -2,3 +2,6 @@ type: default
 
 meta:
   title: Process
+
+  alternates:
+    de: arbeitsweise

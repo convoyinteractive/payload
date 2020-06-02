@@ -1,0 +1,42 @@
+type: services
+
+meta:
+  title: Strategische Beratung
+  subtitle: Kompetenzen
+  hero:
+    type: svg
+    path: assets/test.svg
+  alternates:
+    en: services
+
+body:
+  - type: markdown
+    body: |
+      Mit unserem Team aus Spezialisiten arbeiten wir iterativ entlang der Bedürfnisse Ihrer Nutzer. Dabei agieren wir als Außenstehende unbefangen und sehen Dinge aus einer anderen Perspektive. Am Ende entstehen so Lösungen, die das Potenzial Ihrer digitalen Produkte voll ausschöpfen.
+
+  - type: definition
+    title: Unsere Leistungen im Detail
+    items:
+      - type: markdown
+        term: Analyse + Research
+        body: |
+          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
+          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
+
+      - type: markdown
+        term: Beratung + Strategie
+        body: |
+          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
+          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
+
+      - type: markdown
+        term: Stakeholder Workshops
+        body: |
+          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
+          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
+
+      - type: markdown
+        term: Monitoring + Evaluation
+        body: |
+          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
+          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.

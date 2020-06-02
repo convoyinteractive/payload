@@ -1,4 +1,29 @@
 type: default
 
 meta:
-    title: Home
+  title: More action, less noise.
+
+  alternates:
+    en: null
+
+body:
+  - type: markdown
+    body: |
+      ## Convoy ist eine vielfach prämierte Digitalagentur in Hamburg. Wir planen, gestalten und realisieren einzigartige digitale Nutzererlebnisse für Menschen und Marken.
+
+  - type: markdown
+    body: |
+      Wir arbeiten an der Schnittstelle zwischen Design, Technologie und menschlicher Interaktion. Immer mit dem Ziel, die Kommunikation zwischen Unternehmen und ihren Kunden zu vereinfachen.
+
+      [Mehr über uns](/de/agentur) {.cta}
+
+  - type: feed
+    items:
+
+  - type: markdown
+    body: |
+      Egal ob Website, Kampagne, Online-Shop, Software oder App: Wir verfügen über die notwendigen Skills, um aus digitalen Produkten erfolgreiche digitale Produkte zu machen.
+
+      Lorem ipsum dolor amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor enean massa. Cumes socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque pretium quis curabitur ullamcorper ultricies. Nam eges duis cui etiam rhoncus. Maecenas tempus eget condimentum rhoncus sem.
+
+      [Unsere Kompetenzen](/de/kompetenzen) {.cta}

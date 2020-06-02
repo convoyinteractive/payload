@@ -1,4 +1,7 @@
 type: default
 
 meta:
-    title: Jobs
+  title: Jobs
+
+  alternates:
+    en: jobs

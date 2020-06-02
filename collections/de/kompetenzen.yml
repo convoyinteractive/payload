@@ -4,8 +4,9 @@ meta:
   title: Kompetenzen
   subtitle: Leistungsübersicht
   hero:
-    type: svg
-    path: assets/test.svg
+    type: lottie
+    path: assets/test.json
+
   alternates:
     en: services
 
