@@ -90,6 +90,9 @@ body:
         body: Vertrauen und eine offene, transparente Kommunikation für Sie ebenfalls die Grundlage für eine langfristige Zusammenarbeit bilden.
       - type: text
         body: Qualität und gutes Design für Sie nicht Nice to Have sondern wesentlicher Bestandteil Ihrer Markenidentität ist.
+      - type: markdown
+        body: |
+          [Unsere Kompetenzen](/de/kompetenzen) {.cta}
 
   - type: quote
     body: Lorem ipsum dolor lis amet cons adipicing nean commodo egeslem dolor estifays dumes natoque magnis ridiculus.
