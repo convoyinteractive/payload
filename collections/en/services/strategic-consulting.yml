@@ -1,8 +1,12 @@
-type: default
+type: services
 
 meta:
   title: Strategic Consulting
   subtitle: Services
+
+  hero:
+    type: lottie
+    path: assets/strategic-consulting.json
 
   alternates:
     de: kompetenzen/strategische-beratung

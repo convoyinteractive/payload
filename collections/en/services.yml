@@ -4,5 +4,9 @@ meta:
   title: Services
   subtitle: Schedule of services
 
+  hero:
+    type: lottie
+    path: assets/services.json
+
   alternates:
     de: kompetenzen

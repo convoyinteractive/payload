@@ -6,10 +6,10 @@ meta:
 
   hero:
     type: lottie
-    path: assets/services_strategy.json
+    path: assets/strategic-consulting.json
 
   alternates:
-    en: services/strategy
+    en: services/strategic-consulting
 
 body:
   - type: markdown

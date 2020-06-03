@@ -1,8 +1,12 @@
-type: default
+type: services
 
 meta:
   title: User Experience Design
   subtitle: Services
+
+  hero:
+    type: lottie
+    path: assets/user-experience-design.json
 
   alternates:
     de: kompetenzen/user-experience-design
