@@ -1,32 +1,32 @@
 body:
   - type: image
     alt: Orendt Studios
-    path: images/orendt-studios-logo
+    path: images/logos/orendt-studios
 
   - type: image
     alt: Mercedes Benz
-    path: images/mercedes-benz-logo
+    path: images/logos/mercedes-benz
 
   - type: image
     alt: Poggenpohl
-    path: images/poggenpohl-logo
+    path: images/logos/poggenpohl
 
   - type: image
     alt: Sony Music
-    path: images/sony-music-logo
+    path: images/logos/sony-music
 
   - type: image
     alt: Winkhaus
-    path: images/winkhaus-logo
+    path: images/logos/winkhaus
 
   - type: image
     alt: EHA
-    path: images/eha-logo
+    path: images/logos/eha
 
   - type: image
     alt: Schöner Wohnen Farbe
-    path: images/schoener-wohnen-farbe-logo
+    path: images/logos/schoener-wohnen-farbe
 
   - type: image
     alt: Von Poll
-    path: images/von-poll-logo
+    path: images/logos/von-poll
