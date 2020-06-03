@@ -36,11 +36,13 @@ body:
 
       [Unsere Kompetenzen](/de/kompetenzen) {.cta}
 
-  - type: component
+  - type: relation
+    as: component
     title: Alle Leistungen im Überblick
     resource: services
 
-  - type: component
+  - type: relation
+    as: component
     title: Ausgewählte Kunden
     resource: clients
 
