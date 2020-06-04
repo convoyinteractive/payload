@@ -2,6 +2,7 @@ type: default
 
 meta:
   title: Arbeitsweise
+  subtitle: Unser Prozess
 
   hero:
     type: image
@@ -26,12 +27,15 @@ body:
 
       Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ullamcorper ultricies nisi.
 
-  - type: lottie
-    path: assets/process.json
-
-  - type: component
+  - type: relation
+    as: component
     title: Unser Workflow
     resource: process
+
+  - type: relation
+    as: component
+    title: Unsere Kompetenzen
+    resource: services
 
   - type: definition
     title: Flexible Preisgestaltung
