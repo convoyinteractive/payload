@@ -1,3 +1,4 @@
 body:
   - type: relation
-    path: cases/orendt-studios
+    as: collection
+    resource: cases/orendt-studios

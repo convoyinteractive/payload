@@ -1,3 +1,4 @@
 body:
   - type: relation
-    path: referenzen/orendt-studios
+    as: collection
+    resource: referenzen/orendt-studios
