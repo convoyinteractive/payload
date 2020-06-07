@@ -27,10 +27,16 @@ body:
 
       Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ullamcorper ultricies nisi.
 
+  - type: lottie
+    path: assets/process.json
+
   - type: relation
     as: component
     title: Unser Workflow
     resource: process
+    addon:
+      type: lottie
+      path: assets/counter.json
 
   - type: relation
     as: component
