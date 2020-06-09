@@ -4,5 +4,9 @@ meta:
   title: Web + App Development
   subtitle: Kompetenzen
 
+  hero:
+    type: lottie
+    path: assets/web-app-development.json
+
   alternates:
     de: services/web-app-development
