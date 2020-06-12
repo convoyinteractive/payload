@@ -30,16 +30,14 @@ body:
   - type: lottie
     path: assets/process.json
 
-  - type: relation
-    as: component
+  - type: component
     title: Unser Workflow
     resource: process
     addon:
       type: lottie
       path: assets/counter.json
 
-  - type: relation
-    as: component
+  - type: component
     title: Unsere Kompetenzen
     resource: services
 

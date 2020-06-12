@@ -100,12 +100,10 @@ body:
       name: Thorsten Orendt
       title: CEO, Orendt Studios
 
-  - type: relation
-    as: component
+  - type: component
     title: Ausgewählte Kunden
     resource: clients
 
-  - type: relation
-    as: component
+  - type: component
     title: Auszeichnungen + Awards
     resource: awards

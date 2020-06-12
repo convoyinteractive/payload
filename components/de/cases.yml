@@ -1,4 +1,3 @@
 body:
-  - type: relation
-    as: collection
+  - type: collection
     resource: referenzen/orendt-studios
