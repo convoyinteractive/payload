@@ -21,6 +21,7 @@ body:
       Daher unterstützen wir Unternehmen mit überzeugenden Designlösungen und technologischer Kompetenz. Und helfen Ihnen so, ihre Ziele zu erreichen und langfristig erfolgreich zu sein.
 
   - type: component
+    alias: portfolio
     title: Unsere Leistungen im Überblick
     resource: services
 
