@@ -25,3 +25,6 @@ body:
     title: Unsere Leistungen im Überblick
     resource: services
 
+  - type: component
+    title: Ausgewählte Kunden
+    resource: clients
