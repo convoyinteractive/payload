@@ -19,3 +19,25 @@ meta:
     - Beratung
 
 body:
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        sizes:
+          small: images/cases/orendtstudios_website_desktop
+          large: images/cases/orendtstudios_website_desktop
+      - type: image
+        sizes:
+          small: images/cases/orendtstudios_website_desktop
+          large: images/cases/orendtstudios_website_desktop
+      - type: image
+        sizes:
+          small: images/cases/orendtstudios_website_desktop
+          large: images/cases/orendtstudios_website_desktop
+
+  - type: markdown
+    title: Lorem ipsum dolor
+    body: |
+      Lorem ipsum dolor sites amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum socis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus.
+
+      Donec quam felis ultricies necu pellentesque eus pretium quis sem. Nulla consequat masa quis enim. Pede justo fringila velo aliquet necu vulputate eget arcu.
