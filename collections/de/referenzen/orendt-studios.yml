@@ -7,16 +7,24 @@ meta:
   alternates:
     en: cases/orendt-studios
 
-  client: Orendt Studios
-  project: Corporate Website
-  services:
-    - Konzeption
-    - UX/UI Design
-    - Icon Design
-    - Motion Design
-    - Augmented Reality
-    - Web Development
-    - Beratung
+details:
+  - label: Kunde
+    value:
+      - Orendt Studios
+
+  - label: Projekt
+    value:
+      - Corporate Website
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - UX/UI Design
+      - Icon Design
+      - Motion Design
+      - Augmented Reality
+      - Web Development
+      - Beratung
 
 body:
   - type: gallery
@@ -36,8 +44,29 @@ body:
           large: images/cases/orendtstudios_website_desktop
 
   - type: markdown
-    title: Lorem ipsum dolor
     body: |
-      Lorem ipsum dolor sites amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum socis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus.
+      Anlässlich des 125-jährigen Jubiläums einer der weltweit traditionsreichsten Küchenmarken entwickelten wir eine Microsite, die neben Milestones der Unternehmensgeschichte auch zwei ganz neue Produktreihen präsentiert.
 
-      Donec quam felis ultricies necu pellentesque eus pretium quis sem. Nulla consequat masa quis enim. Pede justo fringila velo aliquet necu vulputate eget arcu.
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        sizes:
+          small: images/cases/orendtstudios_mobile_screen_1
+          large: images/cases/orendtstudios_mobile_screen_1
+      - type: image
+        alias: phone
+        sizes:
+          small: images/cases/orendtstudios_mobile_screen_2
+          large: images/cases/orendtstudios_mobile_screen_2
+      - type: image
+        alias: phone
+        sizes:
+          small: images/cases/orendtstudios_mobile_screen_3
+          large: images/cases/orendtstudios_mobile_screen_3
+      - type: image
+        alias: phone
+        sizes:
+          small: images/cases/orendtstudios_mobile_screen_4
+          large: images/cases/orendtstudios_mobile_screen_4
