@@ -14,11 +14,9 @@ meta:
 body:
   - type: markdown
     body: |
-      Websites, Apps und andere digitale Anwendungen sind heutzutage keine simplen Ergänzungen zu physischen Produkten mehr.
+      Websites, Apps und andere digitale Anwendungen sind längst keine bloßen Ergänzungen zu physischen Produkten mehr. Um erfolgreich im Wettbewerb zu bestehen, muss das digitale Erlebnis von Anfang bis Ende durch eine verlässliche und intuitive Usability überzeugen.
 
-      Um erfolgreich im Wettbewerb bestehen, muss das digitale Erlebnis von Anfang bis Ende durch eine verlässliche und intuitive Nutzung überzeugen.
-
-      Daher unterstützen wir Unternehmen mit überzeugenden Designlösungen und technologischer Kompetenz. Und helfen Ihnen so, ihre Ziele zu erreichen und langfristig erfolgreich zu sein.
+      Wir unterstützen Unternehmen mit überzeugenden Designlösungen und technologischer Kompetenz. Und helfen ihnen so, ihre Ziele zu erreichen und langfristig erfolgreich zu sein.
 
   - type: component
     alias: portfolio

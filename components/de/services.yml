@@ -8,21 +8,21 @@ body:
 
   - type: markdown
     title: User Interface Design
-    body: Wir entwickeln ansprechende und durch-dachte User Interfaces, die beeindrucken.
+    body: Wir gestalten ansprechende und intuitive User Interfaces.
     addon:
       type: svg
       path: assets/services_ui.svg
 
   - type: markdown
     title: Web + App Development
-    body: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+    body: Wir entwickeln zukunftssichere Lösungen mit Hilfe modernster Technologien.
     addon:
       type: svg
       path: assets/services_dev.svg
 
   - type: markdown
-    title: Strategische Beratung
-    body: Wir entwickeln Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
+    title: Strategie + Beratung
+    body: Wir konzipieren Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
     addon:
       type: svg
       path: assets/services_strategy.svg
@@ -35,8 +35,8 @@ body:
       path: assets/services_ad.svg
 
   - type: markdown
-    title: Digital Branding
-    body: Wir erwecken die DNA Ihrer Marke zum Leben. Konsistent über alle Touchpoints.
+    title: Digital Products
+    body: Wir realisieren Anwendungen, die Ihre Zielgruppe nachhaltig begeistern.
     addon:
       type: svg
       path: assets/services_ci.svg

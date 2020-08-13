@@ -21,11 +21,9 @@ body:
 
   - type: markdown
     body: |
-      Wir konzipieren nicht nur innovative Nutzererlebnisse und überzeugende Interfaces, wir setzen sie auch technisch gekonnt um. Dabei verstehen wir uns als Partner unserer Kunden und unterstützen sie in allen Phasen der Umsetzung. Auf Wunsch auch darüber hinaus.
+      Digitale Innovation erfordert einen klaren Fokus. Wir helfen dabei, Potenziale zu identifizieren, die die größten Chancen auf Erfolg bieten. Dabei konzipieren wir nicht nur überraschende Nutzererlebnisse und überzeugende Interfaces, sondern setzen sie auch auf Basis modernster Technologien um.
 
-      Nur indem wir unsere Auftraggeber kennen- und ihre Herausforderungen verstehen lernen, können wir zielgerichtet planen und Konzepte entwickeln, die Resultate liefern. Wichtige Schlüsselfaktoren dafür sind Vertrauen und Kommunikation auf Augenhöhe.
-
-      Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean comodo ligula eget dolor enean massa. Cum socis natoque penatibus est magnis dis donec quam felis. Ultricies neco pellentesque eus pretium quis curabit ullamcorper ultricies nisi.
+      Indem wir Sie kennenlernen und Ihre Herausforderungen verstehen, können wir zielgerichtet planen und Konzepte entwickeln, die nachvollziehbare Resultate liefern. Als Partner an Ihrer Seite unterstützen wir Sie dabei in allen Phasen der Umsetzung. Und natürlich auch darüber hinaus.
 
   - type: lottie
     path: assets/process.json
@@ -47,15 +45,14 @@ body:
       - type: markdown
         term: Festpreis
         body: |
-          Dieses Modell ist insbesondere geeignet für Projekte mit klar definiertem Arbeitsumfang und Zeitrahmen. Es ist ideal für Projekte, bei denen hinsichtlich des Projektumfangs wenig bis keine Änderungen zu erwarten sind.
+          Dieses Modell ist besonders geeignet für Projekte mit klar definiertem Arbeitsumfang und Zeitrahmen. Es ist ideal, wenn hinsichtlich des Projektumfangs wenig bis keine Änderungen zu erwarten sind.
 
       - type: markdown
         term: Time + Material
         body: |
-          Dieses Modell ist ideal für die Entwicklung von digitalen Produkten, bei denen sich der genaue Projekt-Scope im Vorfeld nur schwer prognostizieren lässt.
-          Wir starten mit einer groben Aufwands- und Zeiteinschätzung und präzisieren diese in jeder einzelnen Projektphase. So können wir die vollständige Kontrolle über die zu erwartenden Aufwände jederzeit gewährleisten.
+          Dieses Modell ist ideal für die Entwicklung von digitalen Produkten, bei denen sich Aufwand und Zeitrahmen im Vorfeld nur schwer vorhersagen lassen. Daher starten wir in der Regel mit einer groben Einschätzung und präzisieren diese in jeder einzelnen Projektphase. So können wir die vollständige Kontrolle über die zu erwartenden Kosten jederzeit gewährleisten.
 
       - type: markdown
         term: Ongoing
         body: |
-          Dieses Modell ermöglicht es Ihnen, Spezialisten aus unserem Team zu engagieren, die kontinuierlich an Ihren Projekten arbeiten. Es ist optimal, wenn Sie einen längerfristigen Bedarf an Designern, Entwicklern oder anderen Experten haben und eine kontinuierliche Betreuung durch einen festen Partner an Ihrer Seite wünschen.
+          Dieses Modell ermöglicht es Ihnen, einzelne Spezialisten aus unserem Team zu engagieren, die an Ihren Projekten arbeiten. Das ist optimal, wenn Sie eine kontinuierliche Betreuung durch einen festen Partner wünschen. Die Abrechnung der angefallenen Aufwände erfolgt bei diesem Modell in der Regel zum Monatsende oder auf Basis eines zuvor definierten Stundenkontingents.

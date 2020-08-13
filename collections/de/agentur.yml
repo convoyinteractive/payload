@@ -17,21 +17,19 @@ meta:
 body:
   - type: markdown
     body: |
-      ## Convoy ipsum dolor amet conseque adis piscing elit commodo ligula eget dolor. Massa cum estes socies natoque penatibus magnis dis montes.
+      ## Design ist niemals nur Form, sondern immer auch Funktion. Convoy steht dafür, beides miteinander in Einklang zu bringen.
 
   - type: markdown
     title: Digital Mindset
     body: |
-      Egal ob junges Startup oder globaler Konzern: Wir verstehen uns als Partner unserer Kunden und unterstützen Unternehmen dabei, digitale Services und Angebote so zu konzipieren, dass diese gern und häufig genutzt werden.
-
-      Bei allem was wir tun, geht es um die möglichst optimale Verbindung aus Design und Technologie. Unser Fokus liegt dabei auf den Bereichen User Experience Design, User Interface Design, Web- und Software-Entwicklung sowie damit verbundenen strategischen und technischen Beratungs-leistungen.
+      Bei allem was wir tun geht es um die optimale Verbindung von Design und Technologie. Unser Fokus liegt dabei auf den Bereichen User Experience Design, User Interface Design, Web- und Software-Entwicklung sowie allen damit verbundenen strategischen und technischen Beratungsleistungen.
 
   - type: markdown
     title: Erfolgsfaktoren
     body: |
-      Seit der Gründung unserer Agentur vor 10 Jahren in Hamburg haben wir mehr als 80 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
+      Unsere Erfolgsfaktoren sind neben fachlichem Know-how vor allem Respekt, Teamwork und Transparenz. Deshalb ist es uns auch so wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten.
 
-      Unsere Erfolgsfaktoren sind neben fachlichem Know-How vor allem Respekt, Teamwork und Transparenz. Gerade deshalb ist es uns wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten.
+      So haben wir seit Gründung unserer Agentur vor 10 Jahren in Hamburg bereits mehr als 100 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
 
   - type: image
     caption: Lorem ipsum dolor sit amet
@@ -41,7 +39,7 @@ body:
       large: images/agentur
 
   - type: markdown
-    title: Lorem ipsum dolor
+    title: Experten mit Weitsicht
     body: |
       Wir sind Experten in unterschiedlichen Disziplinen. Dabei verbindet uns die Leidenschaft für gleichermaßen funktionales wie ästhetisches Design sowie ein grundlegendes Interesse an neuen Technologien.
       In Kombination mit dem Anspruch, sich und die eigenen Fähigkeiten permanent weiterzuentwickeln, entstehen immer wieder neue und spannende Lösungen.
@@ -79,17 +77,13 @@ body:
       - type: text
         body: Sie einen verlässlichen Agenturpartner für Ihr Online-Marketing oder die Umsetzung Ihrer digitalen Kampagnen suchen.
       - type: text
-        body: Sie Unterstützung bei der Digitalisierung von Prozessen oder Produkten benötigen.
+        body: Sie Unterstützung bei der Digitalisierung von Prozessen oder Produkten brauchen.
+      - type: text
+        body: Sie schnelle und verlässliche Resultate benötigen und Ihnen schlanke und effektive Prozesse wichtig sind.
       - type: text
         body: Sie Schwierigkeiten haben, bei der Vielzahl an Trends und technischen Möglichkeiten, den Überblick zu behalten.
       - type: text
-        body: Sie Resultate schnell und verlässlich benötigen bzw. Ihnen schlanke und effektive Prozesse wichtig sind.
-      - type: text
-        body: Sie an messbaren Ergebnissen interessiert sind.
-      - type: text
-        body: Vertrauen und eine offene, transparente Kommunikation für Sie ebenfalls die Grundlage für eine langfristige Zusammenarbeit bilden.
-      - type: text
-        body: Qualität und gutes Design für Sie nicht Nice to Have sondern wesentlicher Bestandteil Ihrer Markenidentität ist.
+        body: Qualität und gutes Design für Sie nicht nice to have, sondern wesentliche Bestandteile Ihrer Markenidentität sind.
       - type: markdown
         body: |
           [Unsere Kompetenzen](/de/kompetenzen) {.cta}
