@@ -1,0 +1,35 @@
+type: case
+
+meta:
+  title: Ooigo
+  subtitle: App, Branding + Online Marketing
+
+  hero:
+    type: image
+    sizes:
+      small: images/cases/ooigo-hero
+      large: images/cases/ooigo-hero  
+
+  alternates:
+    de: referenzen/ooigo
+
+details:
+  - label: Kunde
+    value:
+      - Ooigo
+      
+  - label: Projekt
+    value:
+      - App, Branding + Online Marketing
+      
+  - label: Leistungen
+    value:
+      - Konzeption
+      - User Experience Design
+      - User Interface Design
+      - Responsive Web Design
+      - Icon Design
+      - Illustration
+      - Motion Design    
+      - Frontend Development
+      - Beratung
