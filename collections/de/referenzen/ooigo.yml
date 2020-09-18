@@ -10,7 +10,7 @@ meta:
       small: images/cases/ooigo-hero
       large: images/cases/ooigo-hero  
 
-   alternates:
+  alternates:
     en: cases/ooigo
 
 details:
@@ -88,16 +88,16 @@ body:
           small: images/cases/ooigo-screen-4
           large: images/cases/ooigo-screen-4
  
-   - type: image
+  - type: image
     sizes:
       small: images/cases/ooigo-character
       large: images/cases/oooigo-character
       
-   - type: image
+  - type: image
     caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz in der Design-Implementierung. 
     sizes:
       small: images/cases/ooigo-pattern-libary
       large: images/cases/ooigo-pattern-libary
 
-   - type: lottie
+  - type: lottie
     path: assets/corona-ooigo.json
