@@ -24,7 +24,7 @@ details:
       - Responsive Web Design
       - Icon Design
       - Illustration
-      - Motion Design    
+      - Motion Design
       - Frontend Development
       - Beratung
 
@@ -37,7 +37,7 @@ body:
   - type: image
     sizes:
       small: images/cases/ooigo-app
-      large: images/cases/ooigo-app   
+      large: images/cases/ooigo-app
 
   - type: image
     name: Individuell gestaltete Interessen-Icons
@@ -52,7 +52,7 @@ body:
       - type: image
         sizes:
           small: images/cases/ooigo-print-1
-          large: images/cases/ooigo-print-1       
+          large: images/cases/ooigo-print-1
       - type: image
         sizes:
           small: images/cases/ooigo-print-2
