@@ -57,6 +57,12 @@ body:
         sizes:
           small: images/cases/ooigo-print-2
           large: images/cases/ooigo-print-2
+          
+  - type: markdown
+    body: |
+      #### Effizienter Workflow
+      Gerade bei langfristig angelegten Projekten profitieren Kunden von systematisierten Workflows: In diesem Fall haben wir für jede Animation Masterdateien in After Effects und LottieFiles angelegt. Einmal erstellt, lassen sich diese universell in App, Website und Social Media Formaten nutzen.
+
        
   - type: gallery
     alias: group
