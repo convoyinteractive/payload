@@ -8,7 +8,7 @@ meta:
     type: image
     sizes:
       small: images/cases/ooigo-hero
-      large: images/cases/ooigo-hero  
+      large: images/cases/ooigo-hero
 
   alternates:
     de: referenzen/ooigo
@@ -17,11 +17,11 @@ details:
   - label: Kunde
     value:
       - Ooigo
-      
+
   - label: Projekt
     value:
       - App, Branding + Online Marketing
-      
+
   - label: Leistungen
     value:
       - Konzeption
@@ -30,6 +30,6 @@ details:
       - Responsive Web Design
       - Icon Design
       - Illustration
-      - Motion Design    
+      - Motion Design
       - Frontend Development
       - Beratung
