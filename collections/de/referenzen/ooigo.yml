@@ -75,8 +75,8 @@ body:
       - type: image
         alias: phone
         sizes:
-          small: images/ooigo-screen-2
-          large: images/ooigo-screen-2
+          small: images/cases/ooigo-screen-2
+          large: images/cases/ooigo-screen-2
       - type: image
         alias: phone
         sizes:
