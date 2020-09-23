@@ -10,3 +10,6 @@ body:
 
   - type: collection
     resource: cases/eha
+
+  - type: collection
+    resource: cases/architects-finest
