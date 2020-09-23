@@ -51,8 +51,8 @@ body:
     path: images/cases/architects-finest-screen-desktop-1
       
   - type: markdown
+    title: Jedem Farbton seine Story 
     body: |
-      ## Jedem Farbton seine Story 
       Die Microsite stellt alle sechzehn Farbtöne von Architects’ Finest auf eigenen Landing-Pages vor. Jede davon zeigt hochwertige Interioraufnahmen, listet allgemeine Produktinformationen und erzählt die Entstehungsgeschichte des jeweiligen Farbtons.
 
   - type: image
@@ -61,8 +61,8 @@ body:
       large: images/cases/architects-finest-screen-desktop-2
   
   - type: markdown
+    title: Interaktives Storytelling
     body: |
-      ## Interaktives Storytelling
       Die Geschichte hinter Architects’ Finest vermitteln wir auf der Microsite in besonderer Art und Weise: Beim ersten Seitenaufruf werden Besucher in sieben kurzen Episoden durch die Story geführt und erschließen sich diese eigenständig mit nur wenigen Klicks oder Swipes. Das Keyvisual am Seitenende führt tiefer in die Seite, direkt zu den einzelnen Farbtönen der Kollektion. 
       
   - type: gallery
