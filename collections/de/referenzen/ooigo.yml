@@ -5,7 +5,10 @@ color: E1FBFF
 meta:
   title: Ooigo
   subtitle: App, Branding + Online Marketing
-
+  
+  image:
+  path: images/cases/ooigo-hero
+  
   alternates:
     en: cases/ooigo
 
