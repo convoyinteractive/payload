@@ -5,6 +5,9 @@ color: E9F0F7
 meta:
   title: EHA
   subtitle: Website + Online-Marketing
+  
+  image:
+  path: images/cases/eha-hero
 
   alternates:
     en: cases/eha
