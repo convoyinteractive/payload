@@ -34,16 +34,16 @@ details:
       
 body:
  
-  - type: image
-    alt: EHA Website Einstieg
-    path: images/cases/eha-website-einstieg
- 
   - type: markdown
     body: |
       Seit mehr als fünf Jahren betreuen wir den Hamburger Energie-Dienstleister EHA als fester Designpartner. 
       
       Im Rahmen eines Design Refresh Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet. Die neu erstellten Guidelines haben wir anschließend auf Website, Software und diverse Marketing-Materialien adaptiert und entwickeln diese seitdem kontinuierlich weiter. 
 
+  - type: image
+    alt: EHA Website Einstieg
+    path: images/cases/eha-website-einstieg
+    
   - type: markdown
     title: Digital First
     body: |
