@@ -72,15 +72,15 @@ body:
       - type: image
         alias: phone
         sizes:
-          small: images/cases/architects-finest-screen-mobile-1
+          large: images/cases/architects-finest-screen-mobile-1
       - type: image
         alias: phone
         sizes:
-          small: images/cases/architects-finest-screen-mobile-2
+          large: images/cases/architects-finest-screen-mobile-2
       - type: image
         alias: phone
         sizes:
-          small: images/cases/architects-finest-screen-mobile-3
+          large: images/cases/architects-finest-screen-mobile-3
       - type: image
         alias: phone
         sizes:
