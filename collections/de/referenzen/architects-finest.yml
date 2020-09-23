@@ -6,6 +6,11 @@ color: E7D6D2
 meta:
   title: Architects’ Finest
   subtitle: Microsite
+  
+  image:
+  sizes:
+      small: images/cases/architects-finest-hero-mobile
+      large: images/cases/architects-finest-hero
 
   alternates:
     en: cases/architects-finest
@@ -33,12 +38,6 @@ details:
       - Beratung
 
 body:
-
-  - type: image
-    alt: Architects Finest
-    sizes:
-      small: images/cases/architects-finest-hero-mobile
-      large: images/cases/architects-finest-hero
 
   - type: markdown
     body: |
