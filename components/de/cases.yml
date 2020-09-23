@@ -1,3 +1,6 @@
 body:
   - type: collection
     resource: referenzen/orendt-studios
+  
+  - type: collection
+    resource: referenzen/architects-finest
