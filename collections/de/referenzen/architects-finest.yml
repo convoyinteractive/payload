@@ -1,7 +1,9 @@
 
 type: case
 
-color: E7D6D2
+theme:
+  text: '#000000'
+  background: '#E7D6D2'
 
 meta:
   title: Architects’ Finest
