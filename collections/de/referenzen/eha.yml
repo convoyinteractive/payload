@@ -1,6 +1,8 @@
 type: case
 
-color: E9F0F7
+theme:
+  text: '#000000'
+  background: '#E9F0F7'
 
 meta:
   title: EHA
