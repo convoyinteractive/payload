@@ -7,7 +7,7 @@ meta:
   subtitle: Website + Online-Marketing
   
   image:
-  path: images/cases/eha-hero
+    path: images/cases/eha-hero
 
   alternates:
     en: cases/eha
