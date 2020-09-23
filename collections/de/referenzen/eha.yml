@@ -84,4 +84,17 @@ details:
     caption: Zu unseren Aufgaben gehörte auch die Überarbeitung der EHA Bildsprache. Umsetzung © Thies Rätzke Images 
     alt: EHA Bildsprache
     path: images/cases/eha-photo-look
+    
+  - type: quote
+    body: Es macht einfach Spaß unser Branding in so vielen unterschiedlichen Anwendungen bei EHA im Einsatz zu sehen und selbst täglich damit zu arbeiten.
+    author:
+      name: Malwin
+      title: Senior Designer
+      
+  - type: markdown
+    caption: Integrierte Interfaces
+    body: |
+      Im Rahmen der Neugestaltung verschiedenster EHA-Software zur Visualisierung von Plan- und Verbrauchsdaten entwickelten wir spezielle Icon-Sets und erweiterten das bestehende Farbschema. So konnten wir den spezifischen Anforderungen an die jeweilige Software gerecht werden und gleichzeitig sicherstellen, dass sich deren User Interfaces optimal in das neue Branding integrieren.
+
+  
       
