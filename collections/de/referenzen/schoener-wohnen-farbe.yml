@@ -5,6 +5,9 @@ color: ECE8E2
 meta:
   title: Schöner Wohnen Farbe
   subtitle: Website + Online-Marketing
+  
+  image:
+    path: images/cases/schoener-wohnen-farbe-hero
 
   alternates:
     en: cases/schoener-wohnen-farbe
@@ -35,19 +38,19 @@ details:
 
 body:
 
+  - type: markdown
+    body: |
+      Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet. 
+      
+      Für den Relaunch der Website setzen wir auf einen modularen Seitenaufbau in Kombination mit einem flexiblen Design-System sowie auf hilfreiche Tools und Features, die das Produktangebot optimal ergänzen.
+
   - type: gallery
     alias: impressions
     items:
       - type: image
         alt: Schöner Wohnen Farbe Website
         path: images/cases/schoener-wohnen-farbe-website-slide-1
-      
-  - type: markdown
-    body: |
-      Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet. 
-      
-      Für den Relaunch der Website setzen wir auf einen modularen Seitenaufbau in Kombination mit einem flexiblen Design-System sowie auf hilfreiche Tools und Features, die das Produktangebot optimal ergänzen.
-        
+
   - type: markdown
     title: Zeitgemäße Produktdarstellung
     body: |
