@@ -1,6 +1,8 @@
 type: case
 
-color: E1FBFF
+theme:
+  text: '#000000'
+  background: '#E1FBFF'
 
 meta:
   title: Ooigo
