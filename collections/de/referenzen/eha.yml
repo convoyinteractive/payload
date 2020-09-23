@@ -58,15 +58,19 @@ body:
     alias: group
     items:
       - type: image
+        alias: screen
         alt: EHA Website Leistungen
         path: images/cases/eha-website-leistungen
       - type: image
+        alias: screen
         alt: EHA Website Blog
         path: images/cases/eha-website-blog
       - type: image
+        alias: screen
         alt: EHA Website Karriere
         path: images/cases/eha-website-karriere
       - type: image
+        alias: screen
         alt: EHA Website Unternehmen
         path: images/cases/eha-website-unternehmen
 
