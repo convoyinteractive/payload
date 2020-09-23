@@ -73,10 +73,9 @@ body:
     body: |
       Für den EHA internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Website-Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
   
-  - type: image
+  - type: svg
     caption: Der Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch und konstruiert anmutet. Durch die Kombination beider Schriften entsteht ein eigenständiger Mix, der EHA als moderne B2B-Marke präsentiert.
-    alt: EHA Corporate Design
-    path: images/cases/eha-corporate-design
+    path: assets/eha-corporate-design.svg
     
   - type: image
     caption: Mittlerweile haben wir über 100 Icons entwickelt, die dabei helfen, Inhalte und Funktionen in Website oder Software zu veranschaulichen.
