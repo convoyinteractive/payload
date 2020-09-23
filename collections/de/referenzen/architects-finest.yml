@@ -48,8 +48,7 @@ body:
 
   - type: image
     alt: Architects Finest Microsite Desktop
-    sizes:
-      large: images/cases/architects-finest-screen-desktop-1
+    path: images/cases/architects-finest-screen-desktop-1
       
   - type: markdown
     body: |
@@ -71,17 +70,13 @@ body:
     items:
       - type: image
         alias: phone
-        sizes:
-          large: images/cases/architects-finest-screen-mobile-1
+        path: images/cases/architects-finest-screen-mobile-1
       - type: image
         alias: phone
-        sizes:
-          large: images/cases/architects-finest-screen-mobile-2
+        path: images/cases/architects-finest-screen-mobile-2
+      - type: image
+        alias: phone 
+        path: images/cases/architects-finest-screen-mobile-3
       - type: image
         alias: phone
-        sizes:
-          large: images/cases/architects-finest-screen-mobile-3
-      - type: image
-        alias: phone
-        sizes:
-          large: images/cases/architects-finest-screen-mobile-4
+        path: images/cases/architects-finest-screen-mobile-4
