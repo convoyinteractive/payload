@@ -5,10 +5,10 @@ color: E1FBFF
 meta:
   title: Ooigo
   subtitle: App, Branding + Online Marketing
-  
+
   image:
     path: images/cases/ooigo-hero
-  
+
   alternates:
     en: cases/ooigo
 
@@ -41,12 +41,12 @@ body:
 
   - type: image
     path: images/cases/ooigo-app
-    
+
   - type: markdown
     title: O wie Original
     body: |
-      Bei der ersten Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet, indem sie Streaming-Inhalte nach Alter und Interessen filtert, liegt der Fokus vor allem auf einer möglichst einfachen und intuitiven Bedienbarkeit. 
-      
+      Bei der ersten Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet, indem sie Streaming-Inhalte nach Alter und Interessen filtert, liegt der Fokus vor allem auf einer möglichst einfachen und intuitiven Bedienbarkeit.
+
       Das UI-Design der App setzt daher auf klare Farben, einen kindgerechten Look und so wenige Bedienelemente wie nötig. Illustrationen und gestalterische Details sind liebevoll ausgearbeitet, damit die App Spaß macht und möglichst regelmäßig von der jungen Zielgruppe genutzt wird.
 
   - type: image
@@ -69,10 +69,10 @@ body:
     alias: group
     items:
       - type: image
-        alt: Anzeige-Motive für das Print-Magazin Biene Maja 
+        alt: Anzeige-Motive für das Print-Magazin Biene Maja
         path: images/cases/ooigo-print-1
       - type: image
-        alt: Anzeige-Motive für das Print-Magazin Super Wings 
+        alt: Anzeige-Motive für das Print-Magazin Super Wings
         path: images/cases/ooigo-print-2
 
   - type: markdown
@@ -112,7 +112,7 @@ body:
 
   - type: lottie
     path: assets/corona-ooigo.json
-    
+
   - type: gallery
     alias: group
     items:
