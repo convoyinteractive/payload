@@ -54,7 +54,7 @@ body:
     items:
       - type: image
         alt: EHA Website Leistungen
-        path: images/cases/eha-website-leistungen.png
+        path: images/cases/eha-website-leistungen
       - type: image
         alt: EHA Website Blog
         path: images/cases/eha-website-blog
