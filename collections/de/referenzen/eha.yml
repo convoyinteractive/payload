@@ -1,1 +1,87 @@
+type: case
 
+color: #ECE8E2
+
+meta:
+  title: EHA
+  subtitle: Website + Online-Marketing
+
+  alternates:
+    en: cases/eha
+
+details:
+  - label: Kunde
+    value:
+      - EHA Energie-Handelsgesellschaft
+
+  - label: Projekt
+    value:
+      - Digital Branding
+      - Corporate Website
+      - Software
+      - Online Marketing
+
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - User Experience Design
+      - User Interface Design
+      - Responsive Web Design
+      - Icon Design
+      - Illustration
+      - Beratung
+      
+ body:
+ 
+  - type: markdown
+    body: |
+      Seit mehr als fünf Jahren betreuen wir den Hamburger Energie-Dienstleister EHA als fester Designpartner. 
+      
+      Im Rahmen eines Design Refresh Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet. Die neu erstellten Guidelines haben wir anschließend auf Website, Software und diverse Marketing-Materialien adaptiert und entwickeln diese seitdem kontinuierlich weiter. 
+ 
+  - type: image
+    alt: EHA Website Einstieg
+    path: images/cases/eha-website-einstieg
+
+  - type: markdown
+    caption: Digital First
+    body: |
+      Bei der Überarbeitung des Brandings standen für uns die digitalen Touchpoints im Fokus, über die Kunden mit EHA interagieren. Erstmals lag der Schwerpunkt des Redesigns also nicht auf Geschäftsausstattung und Print-Kommunikation sondern auf Website, Software und Online-Marketing.
+      
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alt: EHA Website Leistungen
+        path: images/cases/eha-website-leistungen.png
+      - type: image
+        alt: EHA Website Blog
+        path: images/cases/eha-website-blog
+      - type: image
+        alt: EHA Website Karriere
+        path: images/cases/eha-website-karriere
+      - type: image
+        alt: EHA Website Unternehmen
+        path: images/cases/eha-website-unternehmen
+        
+  - type: markdown
+    caption: B2B-Kommunikation mit System
+    body: |
+      Für den EHA internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Website-Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
+  
+  - type: image
+    caption: Der Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch und konstruiert anmutet. Durch die Kombination beider Schriften entsteht ein eigenständiger Mix, der EHA als moderne B2B-Marke präsentiert.
+    alt: EHA Corporate Design
+    path: images/cases/eha-corporate-design
+    
+  - type: image
+    caption: Mittlerweile haben wir über 100 Icons entwickelt, die dabei helfen, Inhalte und Funktionen in Website oder Software zu veranschaulichen.
+    alt: EHA Icon Set
+    path: images/cases/eha-icons
+      
+  - type: image
+    caption: Zu unseren Aufgaben gehörte auch die Überarbeitung der EHA Bildsprache. Umsetzung © Thies Rätzke Images 
+    alt: EHA Bildsprache
+    path: images/cases/eha-photo-look
+      
