@@ -11,3 +11,5 @@ body:
   - type: collection
     resource: referenzen/eha
 
+  - type: collection
+    resource: referenzen/architects-finest
