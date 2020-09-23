@@ -37,28 +37,20 @@ body:
       Ooigo ist die erste Hörspiel-App für Kinder und Jugendliche, entwickelt vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Design-Themen rund um App, Website, Social Media, Online- und klassisches Marketing und begleiten Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
 
   - type: image
-    sizes:
-      small: images/cases/ooigo-app
-      large: images/cases/ooigo-app
+    path: images/cases/ooigo-app
 
   - type: image
     name: Individuell gestaltete Interessen-Icons
     title: Individuell gestaltete Interessen-Icons
-    sizes:
-      small: images/cases/ooigo-icons-interests
-      large: images/cases/ooigo-icons-interests
+    path: images/cases/ooigo-icons-interests
 
   - type: gallery
     alias: group
     items:
       - type: image
-        sizes:
-          small: images/cases/ooigo-print-1
-          large: images/cases/ooigo-print-1
+        path: images/cases/ooigo-print-1
       - type: image
-        sizes:
-          small: images/cases/ooigo-print-2
-          large: images/cases/ooigo-print-2
+        path: images/cases/ooigo-print-2
 
   - type: markdown
     title: Effizienter Workflow
@@ -71,35 +63,23 @@ body:
     items:
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/ooigo-screen-1
-          large: images/cases/ooigo-screen-1
+        path: images/cases/ooigo-screen-1
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/ooigo-screen-2
-          large: images/cases/ooigo-screen-2
+        path: images/cases/ooigo-screen-2
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/ooigo-screen-3
-          large: images/cases/ooigo-screen-3
+        path: images/cases/ooigo-screen-3
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/ooigo-screen-4
-          large: images/cases/ooigo-screen-4
+        path: images/cases/ooigo-screen-4
 
   - type: image
-    sizes:
-      small: images/cases/ooigo-character
-      large: images/cases/oooigo-character
+    path: images/cases/ooigo-character
 
   - type: image
     caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz in der Design-Implementierung.
-    sizes:
-      small: images/cases/ooigo-pattern-libary
-      large: images/cases/ooigo-pattern-libary
+    path: images/cases/ooigo-pattern-libary
 
   - type: lottie
     path: assets/corona-ooigo.json
