@@ -1,1 +1,33 @@
 
+type: case
+
+meta:
+  title: Architects’ Finest
+  subtitle: Microsite
+
+  alternates:
+    en: cases/architects-finest
+
+details:
+  - label: Kunde
+    value:
+      - Schöner Wohnen Farbe
+
+  - label: Projekt
+    value:
+      - Microsite
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - UX/UI Design
+      - Responsive Web Design
+      - Motion Design
+      - 3D
+      - Frontend Development
+      - Social Media Strategie
+      - Content Creation
+      - Online Marketing
+      - Beratung
+
+body:
