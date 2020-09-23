@@ -7,7 +7,7 @@ meta:
   subtitle: App, Branding + Online Marketing
   
   image:
-  path: images/cases/ooigo-hero
+    path: images/cases/ooigo-hero
   
   alternates:
     en: cases/ooigo
