@@ -7,6 +7,9 @@ meta:
   alternates:
     en: cases/orendt-studios
 
+  image:
+    path: images/cases/orendtstudios_hero
+
 details:
   - label: Kunde
     value:
@@ -27,6 +30,10 @@ details:
       - Beratung
 
 body:
+  - type: markdown
+    body: |
+      Anlässlich des 125-jährigen Jubiläums einer der weltweit traditionsreichsten Küchenmarken entwickelten wir eine Microsite, die neben Milestones der Unternehmensgeschichte auch zwei ganz neue Produktreihen präsentiert.
+
   - type: gallery
     alias: impressions
     items:
@@ -42,10 +49,6 @@ body:
         sizes:
           small: images/cases/orendtstudios_website_desktop
           large: images/cases/orendtstudios_website_desktop
-
-  - type: markdown
-    body: |
-      Anlässlich des 125-jährigen Jubiläums einer der weltweit traditionsreichsten Küchenmarken entwickelten wir eine Microsite, die neben Milestones der Unternehmensgeschichte auch zwei ganz neue Produktreihen präsentiert.
 
   - type: gallery
     alias: group
