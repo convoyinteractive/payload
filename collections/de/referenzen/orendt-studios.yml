@@ -3,12 +3,12 @@ type: case
 meta:
   title: Orendt Studios
   subtitle: Corporate Website
+  
+  iamge:
+    path: images/cases/orendtstudios-hero
 
   alternates:
     en: cases/orendt-studios
-
-  image:
-    path: images/cases/orendtstudios_hero
 
 details:
   - label: Kunde
@@ -38,38 +38,56 @@ body:
     alias: impressions
     items:
       - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
-      - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
-      - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
+        alt: Orendt Studios Website Detail 1
+        path: images/cases/orendtstudios-website-desktop
 
   - type: gallery
     alias: group
     items:
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_1
-          large: images/cases/orendtstudios_mobile_screen_1
+        alt: Mobile Layout Bogner Case
+        path: images/cases/orendtstudios-mobile-screen-1
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_2
-          large: images/cases/orendtstudios_mobile_screen_2
+        alt: Mobile Layout E-Commerce Case
+        path: images/cases/orendtstudios-mobile-screen-2
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_3
-          large: images/cases/orendtstudios_mobile_screen_3
+        alt: Mobile Layout Liebeskind Case
+        path: images/cases/orendtstudios-mobile-screen-3
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_4
-          large: images/cases/orendtstudios_mobile_screen_4
+        alt: Mobile Layout Portfolio
+        path: images/cases/orendtstudios-mobile-screen-4
+        
+  - type: quote
+    body: Mit Convoy haben wir einen Agentur-Partner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.
+    author:
+      name: Torsten Orendt
+      title: Inhaber und CEO Orendt Studios Holding
+      
+  - type: image
+    alt: Orendt Studios Seiteneinstieg Case Juvia
+    path: images/cases/orendtstudios-video-placeholder-juvia
+    
+  - type: image
+    alt: Orendt Studios Seiteneinstieg Case Boger
+    path: images/cases/orendtstudios-video-placeholder-boger
+    
+  - type: image
+    alt: Orendt Studios Seiteneinstieg Case s.Oliver
+    path: images/cases/orendtstudios-video-placeholder-soliver
+    
+  - type: image
+    alt: Orendt Studios Seiteneinstieg Case Comma
+    path: images/cases/orendtstudios-video-placeholder-comma
+    
+  - type: markdown
+    title: Eine Landing-Page für jede Unit
+    body: |
+      Für die drei Units „Photo“, „Film“ und „CGI“ erstellten wir eigene, teils sehr umfangreiche Landing-Pages mit Absprungmöglichkeiten zu weiteren Inhalten. Eine tabellarische Übersicht am Seitenende vermittelt einen Überblick über das jeweilige Leistungsangebot.
+
+  - type: image
+    alt: Orendt Studios Webdesign
+    path: images/cases/orendtstudios-website-desktop-komplete
