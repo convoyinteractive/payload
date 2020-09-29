@@ -1,5 +1,6 @@
 body:
   - type: markdown
+    link: /de/kompetenzen/user-experience-design
     title: User Experience Design
     body: Wir finden die jeweils beste Lösung für jede Zielgruppe und jeden Use Case.
     addon:
@@ -7,6 +8,7 @@ body:
       path: assets/user-experience-design_small.json
 
   - type: markdown
+    link: /de/kompetenzen/user-interface-design
     title: User Interface Design
     body: Wir gestalten ansprechende und intuitive User Interfaces.
     addon:
@@ -14,6 +16,7 @@ body:
       path: assets/user-inerface-design_small.json
 
   - type: markdown
+    link: /de/kompetenzen/web-app-development
     title: Web + App Development
     body: Wir entwickeln zukunftssichere Lösungen mit Hilfe modernster Technologien.
     addon:
@@ -21,6 +24,7 @@ body:
       path: assets/web-app-development_small.json
 
   - type: markdown
+    link: /de/kompetenzen/strategische-beratung
     title: Strategie + Beratung
     body: Wir konzipieren Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
     addon:
@@ -28,6 +32,7 @@ body:
       path: assets/strategic-consulting_small.json
 
   - type: markdown
+    link: /de/kompetenzen/online-marketing
     title: Online Marketing
     body: Wir sorgen dafür, dass Ihre Kommunikation auffällt und im Gedächtnis bleibt.
     addon:
