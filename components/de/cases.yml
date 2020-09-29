@@ -1,5 +1,9 @@
 body:
   - type: collection
     resource: referenzen/orendt-studios
+
   - type: collection
     resource: referenzen/ooigo
+
+  - type: collection
+    resource: referenzen/teamcast
