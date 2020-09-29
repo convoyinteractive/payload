@@ -10,3 +10,13 @@ meta:
 
   alternates:
     de: kompetenzen
+
+body:
+  - type: markdown
+    body:
+  - type: component
+    alias: portfolio
+    resource: services
+
+  - type: component
+    resource: clients

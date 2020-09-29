@@ -3,40 +3,40 @@ body:
     title: User Experience Design
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_ux.svg
+      type: lottie
+      path: assets/user-experience-design_small.json
 
   - type: markdown
     title: User Interface Design
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_ui.svg
+      type: lottie
+      path: assets/user-inerface-design_small.json
 
   - type: markdown
     title: Web + App Development
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_dev.svg
+      type: lottie
+      path: assets/web-app-development_small.json
 
   - type: markdown
     title: Strategic Consulting
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_strategy.svg
+      type: lottie
+      path: assets/strategic-consulting_small.json
 
   - type: markdown
     title: Online Marketing
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_ad.svg
+      type: lottie
+      path: assets/online-marketing_small.json
 
   - type: markdown
-    title: Digital Branding
+    title: Digital Products
     body: Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor.
     addon:
-      type: svg
-      path: assets/services_ci.svg
+      type: lottie
+      path: assets/product-development_small.json
