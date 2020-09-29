@@ -6,7 +6,7 @@ theme:
 
 meta:
   title: Teamcast
-  subtitle: WebApp
+  subtitle: Software as a Service
 
   image:
     path: images/cases/teamcast-hero
@@ -21,7 +21,7 @@ details:
 
   - label: Projekt
     value:
-      - WebApp
+      - Cloud Service
 
   - label: Leistungen
     value:
@@ -97,5 +97,5 @@ body:
     body: Mit Hilfe der Teamcast App haben wir die Mitarbeiterplanung für Handwerksbetriebe digitalisiert und um ein Vielfaches vereinfacht.
     author:
       name: Tobias
-      title: Senior Developer
+      title: Senior Software-Developer
 
