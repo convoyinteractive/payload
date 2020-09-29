@@ -86,4 +86,16 @@ body:
     title: Mitarbeiterplanung in Echtzeit
     body: |
       Mit Hilfe von Teamcast können Mitarbeiter und Baustellen mit nur wenigen Klicks angelegt und einander zugeordnet werden. Das reduziert den Aufwand für die Wochenplanung um ein Vielfaches. Gleichzeitig haben Teamleitung und Mitarbeiter jederzeit Zugriff auf Echtzeitdaten und können bei Ausfällen oder Planänderungen schnell und flexibel reagieren.
-     
+  
+  - type: image
+    alias: screen
+    caption: Das Teamcast-Produktvideo gibt einen Überblick über die wesentlichen Funktionen der App.
+    alt: Teamcast Video
+    path: images/cases/teamcast-video
+    
+  - type: quote
+    body: Mit Hilfe der Teamcast App haben wir die Mitarbeiterplanung für Handwerksbetriebe digitalisiert und um ein Vielfaches vereinfacht.
+    author:
+      name: Tobias
+      title: Senior Developer
+  
