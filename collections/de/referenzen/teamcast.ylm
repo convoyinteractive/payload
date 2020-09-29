@@ -1,1 +1,89 @@
+type: case
 
+theme:
+  text: '#000000'
+  background: '#DCEBF1'
+
+meta:
+  title: Teamcast
+  subtitle: WebApp
+
+  image:
+    path: images/cases/teamcast-hero
+
+  alternates:
+    en: cases/teamcast
+
+details:
+  - label: Kunde
+    value:
+      - Volker Thullesen
+
+  - label: Projekt
+    value:
+      - WebApp
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - User Experience Design
+      - User Interface Design
+      - Icon Design
+      - Frontend Development
+      - Backend Development
+      - Information Architecture
+      - Beratung
+     
+body:
+
+  - type: markdown
+    body: |
+      Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben. 
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Teamcast Personen Liste
+        path: images/cases/teamcast-app-personen
+      - type: image
+        alias: screen
+        alt: Teamcast Planung
+        path: images/cases/teamcast-app-planung
+      - type: image
+        alias: screen
+        alt: Teamcast Calender Overlay
+        path: images/cases/teamcast-app-overlay
+        
+  - type: markdown
+    title: In nur 8 Wochen vom Konzept zum MVP
+    body: |
+      In einem agilen Prozess haben wir innerhalb weniger Wochen Konzept, UX- und UI-Design entwickelt und als MVP umgesetzt. Seitdem ist das Produkt bei mehreren Unternehmen täglich im Einsatz. Nutzer-Feedback, das wir dadurch generieren, hilft uns, die App kontinuierlich zu optimieren und weiterzuentwickeln.
+       
+  - type: image
+    alias: screen
+    alt: Teamcast Wireframe Personen
+    path: images/cases/teamcast-wireframe-personen
+           
+  - type: image
+    alias: screen
+    alt: Teamcast Wireframe Dacharchiv
+    path: images/cases/teamcast-wireframe-dacharchiv
+    
+  - type: image
+    alias: screen
+    alt: Teamcast Wireframe Baustelle
+    path: images/cases/teamcast-wireframe-bausstelle
+    
+  - type: image
+    alias: screen
+    caption: Aufbau und Funktionen der App definierten wir anhand von Wireframes, die uns als Basis für Design und Umsetzung dienten.
+    alt: Teamcast Wireframe Baustelle
+    path: images/cases/teamcast-wireframe-einstellungen
+    
+  - type: markdown
+    title: Mitarbeiterplanung in Echtzeit
+    body: |
+      Mit Hilfe von Teamcast können Mitarbeiter und Baustellen mit nur wenigen Klicks angelegt und einander zugeordnet werden. Das reduziert den Aufwand für die Wochenplanung um ein Vielfaches. Gleichzeitig haben Teamleitung und Mitarbeiter jederzeit Zugriff auf Echtzeitdaten und können bei Ausfällen oder Planänderungen schnell und flexibel reagieren.
+     
