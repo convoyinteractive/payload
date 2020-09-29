@@ -3,40 +3,42 @@ body:
     title: User Experience Design
     body: Wir finden die jeweils beste Lösung für jede Zielgruppe und jeden Use Case.
     addon:
-      type: svg
-      path: assets/services_ux.svg
+      type: lottie
+      path: assets/user-experience-design_small.json
 
   - type: markdown
     title: User Interface Design
     body: Wir gestalten ansprechende und intuitive User Interfaces.
     addon:
-      type: svg
-      path: assets/services_ui.svg
+      type: lottie
+      path: assets/user-inerface-design_small.json
 
   - type: markdown
     title: Web + App Development
     body: Wir entwickeln zukunftssichere Lösungen mit Hilfe modernster Technologien.
     addon:
-      type: svg
-      path: assets/services_dev.svg
+      type: lottie
+      path: assets/web-app-development_small.json
 
   - type: markdown
     title: Strategie + Beratung
     body: Wir konzipieren Lösungen, mit denen Sie Ihre digitalen Chancen nutzen.
     addon:
-      type: svg
-      path: assets/services_strategy.svg
+      type: lottie
+      path: assets/beratung-und-strategie_small.json
 
   - type: markdown
     title: Online Marketing
     body: Wir sorgen dafür, dass Ihre Kommunikation auffällt und im Gedächtnis bleibt.
     addon:
-      type: svg
-      path: assets/services_ad.svg
+      type: lottie
+      path: assets/online-marketing_small.json
 
   - type: markdown
     title: Digital Products
     body: Wir realisieren Anwendungen, die Ihre Zielgruppe nachhaltig begeistern.
     addon:
-      type: svg
-      path: assets/services_ci.svg
+      type: lottie
+      path: assets/digitale-produkte_small.json
+      
+
