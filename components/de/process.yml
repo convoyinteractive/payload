@@ -2,23 +2,21 @@ body:
   - type: markdown
     term: Analysieren
     body: |
-      Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
-
-      Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
+      In dieser Phase stehen Aufgabe und User-Research im Vordergrund. Dafür analysieren wir Problemstellung, Zielgruppe, Mitbewerber und bestehende Maßnahmen. In Workshops, Umfragen und Interviews entwickeln wir gemeinsam mit unseren Kunden ein detailliertes Verständnis aller Anforderungen sowie Ziele und KPIs.
 
   - type: markdown
-    term: Strukturieren
+    term: Definieren
     body: |
-      Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
-
+      In dieser Phase werten wir Insights und Feedback aus und entwickeln erste Hypothesen und Ideenansätze, die helfen, die strategische Richtung festzulegen.
+      
   - type: markdown
     term: Realisieren
     body: |
-      Massa cume socies natoque penatib census este magnis dies partus rient montes dolor.
-
-      Donec pede justo fringilla velo liquet neos vulputate eget arcus inne enim justos dorondem split.
+      In dieser Phase planen wir die User Experience. Dafür widmen wir uns strukturellen Themen wie Content, Informationsarchitektur, User Journey oder Navigationsstruktur und erarbeiten verschiedene Design-Ansätze für Look und Feel. Zur Visualisierung nutzen wir Wireframes und Design-Mockups und testen beides in Form von Prototypen.
 
   - type: markdown
     term: Optimieren
     body: |
-      Lorem ipsum dolor siti amet consect tuer adipiscing elit nean com modo ligula eget dolor. Massa cume socies natoque penatibus estes magnis dies parturient montes.
+      In dieser Phase validieren und verbessern wir unsere Lösungsansätze. Die besten von ihnen setzen wir um und dokumentieren sie schlussendlich in Backlogs oder Pattern-Libraries.
+
+      Auf diese Weise antizipieren wir bereits im Projektverlauf mögliche Probleme und können sicher sein, dass die von uns entwickelten Lösungen am Ende tatsächlich auf die Bedürfnisse unserer Kunden und Nutzer einzahlen und die gewünschten Ergebnisse erzielen.
