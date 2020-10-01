@@ -6,10 +6,8 @@ meta:
 
   hero:
     type: image
-    alt: Lorem ipsum dolor sit amet
-    sizes:
-      small: images/process
-      large: images/process
+    alt: Arbeitsweise
+    path: images/arbeitsweise-hero
 
   alternates:
     en: process
@@ -26,7 +24,8 @@ body:
       Indem wir Sie kennenlernen und Ihre Herausforderungen verstehen, können wir zielgerichtet planen und Konzepte entwickeln, die nachvollziehbare Resultate liefern. Als Partner an Ihrer Seite unterstützen wir Sie dabei in allen Phasen der Umsetzung. Und natürlich auch darüber hinaus.
 
   - type: lottie
-    path: assets/process.json
+    mode: onscroll
+    path: assets/workflow-screen.json
 
   - type: component
     title: Unser Workflow
