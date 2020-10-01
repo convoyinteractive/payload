@@ -7,7 +7,7 @@ meta:
   hero:
     type: image
     alt: Convoy Agentur 
-    path: images/agentur
+    path: images/convoy-agentur-hero
 
   alternates:
     en: about-us
