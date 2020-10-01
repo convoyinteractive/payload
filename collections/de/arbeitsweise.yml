@@ -26,7 +26,7 @@ body:
       Indem wir Sie kennenlernen und Ihre Herausforderungen verstehen, können wir zielgerichtet planen und Konzepte entwickeln, die nachvollziehbare Resultate liefern. Als Partner an Ihrer Seite unterstützen wir Sie dabei in allen Phasen der Umsetzung. Und natürlich auch darüber hinaus.
 
   - type: lottie
-    path: assets/process.json
+    path: assets/workflow-screen.json
 
   - type: component
     title: Unser Workflow
