@@ -1,4 +1,14 @@
 body:
+
+  - type: markdown
+    body: |
+      ## Our Workflow
+      In our experience, an agile workflow is the most promising path leading to the success of a project. To this end, we structure the overall tasks in small individual packages with clear responsibilities and can thus react quickly and flexibly during the course of the project.
+ 
+  - type: lottie
+    mode: loop
+    path: assets/workflow.json
+    
   - type: markdown
     term: Analysing
     body: |
