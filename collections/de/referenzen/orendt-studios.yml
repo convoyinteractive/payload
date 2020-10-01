@@ -1,9 +1,13 @@
 type: case
 
+theme:
+  text: '#000000'
+  background: '#DCEBF1'
+
 meta:
   title: Orendt Studios
   subtitle: Corporate Website
-  
+
   image:
     path: images/cases/orendtstudios-hero
 
@@ -38,6 +42,7 @@ body:
     alias: impressions
     items:
       - type: image
+        alias: screen
         alt: Orendt Studios Website Detail 1
         path: images/cases/orendtstudios-website-desktop
 
@@ -60,34 +65,39 @@ body:
         alias: phone
         alt: Mobile Layout Portfolio
         path: images/cases/orendtstudios-mobile-screen-4
-        
+
   - type: quote
     body: Mit Convoy haben wir einen Agentur-Partner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.
     author:
       name: Torsten Orendt
       title: Inhaber und CEO Orendt Studios Holding
-      
+
   - type: image
+    alias: screen
     alt: Orendt Studios Seiteneinstieg Case Juvia
     path: images/cases/orendtstudios-video-placeholder-juvia
-    
+
   - type: image
+    alias: screen
     alt: Orendt Studios Seiteneinstieg Case Boger
     path: images/cases/orendtstudios-video-placeholder-boger
-    
+
   - type: image
+    alias: screen
     alt: Orendt Studios Seiteneinstieg Case s.Oliver
     path: images/cases/orendtstudios-video-placeholder-soliver
-    
+
   - type: image
+    alias: screen
     alt: Orendt Studios Seiteneinstieg Case Comma
     path: images/cases/orendtstudios-video-placeholder-comma
-    
+
   - type: markdown
     title: Eine Landing-Page für jede Unit
     body: |
       Für die drei Units „Photo“, „Film“ und „CGI“ erstellten wir eigene, teils sehr umfangreiche Landing-Pages mit Absprungmöglichkeiten zu weiteren Inhalten. Eine tabellarische Übersicht am Seitenende vermittelt einen Überblick über das jeweilige Leistungsangebot.
 
   - type: image
+    alias: screen
     alt: Orendt Studios Webdesign
     path: images/cases/orendtstudios-website-desktop-komplete
