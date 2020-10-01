@@ -6,10 +6,8 @@ meta:
 
   hero:
     type: image
-    alt: Lorem ipsum dolor sit amet
-    sizes:
-      small: images/process
-      large: images/process
+    alt: Arbeitsweise
+    path: images/arbeitsweise-hero
 
   alternates:
     en: process
