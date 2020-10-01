@@ -1,21 +1,31 @@
 body:
+
   - type: markdown
-    term: Analysing
+    body: |
+      ## Our Workflow
+      In our experience, an agile workflow is the most promising path leading to the success of a project. To this end, we structure the overall tasks in small individual packages with clear responsibilities and can thus react quickly and flexibly during the course of the project.
+ 
+  - type: lottie
+    mode: loop
+    path: assets/workflow.json
+    
+  - type: markdown
+    title: Analysing
     body: |
       The task and user research are the main focus in this phase. We analyse the problem, target group, the competitors and measures in place. In workshops, surveys and interviews, we develop a detailed understanding with our customers of all the requirements as well as goals and KPIs.
 
   - type: markdown
-    term: Defining
+    title: Defining
     body: |
       In this phase we evaluate insights and feedback and develop first hypotheses and ideas that help determine the strategic direction to be taken.
       
   - type: markdown
-    term: Implementing
+    title: Implementing
     body: |
       We plan the user experience in this phase. To do so, we focus on structural topics such as contents, information architecture, the user journey or navigation structure and work out different design approaches for the look and feel. For visualisation, we use wireframes and design mock-ups and test these both in form of prototypes. 
 
   - type: markdown
-    term: Optimising
+    title: Optimising
     body: |
       In this phase, we validate and improve our approaches to solutions. We implement the best of them and document them in backlog or pattern libraries. 
 

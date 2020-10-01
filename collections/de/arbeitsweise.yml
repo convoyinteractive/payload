@@ -28,11 +28,7 @@ body:
     path: assets/workflow-screen.json
 
   - type: component
-    title: Unser Workflow
     resource: process
-    addon:
-      type: lottie
-      path: assets/counter.json
 
   - type: component
     title: Unsere Kompetenzen
