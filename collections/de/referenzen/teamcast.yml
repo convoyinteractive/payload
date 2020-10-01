@@ -41,7 +41,7 @@ body:
       Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben.
 
   - type: gallery
-    alias: group
+    alias: impressions
     items:
       - type: image
         alias: screen
