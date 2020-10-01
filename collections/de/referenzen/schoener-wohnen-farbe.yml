@@ -107,15 +107,15 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Schöner Wohnen Farbe Colour Storie Natural Touch
+        alt: Schöner Wohnen Farbe Colour Story Natural Touch
         path: images/cases/schoener-wohnen-farbe-colour-storys-1
       - type: image
         alias: screen
-        alt: Schöner Wohnen Farbe Colour Storie Frühling
+        alt: Schöner Wohnen Farbe Colour Story Frühling
         path: images/cases/schoener-wohnen-farbe-colour-storys-2
       - type: image
         alias: screen
-        alt: Schöner Wohnen Farbe Colour Storie Kleine Räume
+        alt: Schöner Wohnen Farbe Colour Story Kleine Räume
         path: images/cases/schoener-wohnen-farbe-colour-storys-3
 
   - type: markdown
