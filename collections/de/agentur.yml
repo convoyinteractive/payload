@@ -61,6 +61,22 @@ body:
         alt: Convoy Agentur Macbook
         path: images/convoy-agentur-humor
         
+      - type: image
+        alt: Convoy Agentur Figurensammlung
+        path: images/convoy-agentur-figuren
+        
+      - type: image
+        alt: Convoy Agentur Tobias
+        path: images/convoy-agentur-tobias
+        
+      - type: image
+        alt: Convoy Agentur Marc und Felix
+        path: images/convoy-agentur-marc-felix
+        
+      - type: image
+        alt: Convoy Agentur Eingang
+        path: images/convoy-agentur-eingang
+        
   - type: list
     title: Wir können Ihnen helfen, wenn…
     items:
