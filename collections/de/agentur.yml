@@ -30,11 +30,8 @@ body:
       So haben wir seit Gründung unserer Agentur vor 10 Jahren in Hamburg bereits mehr als 100 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
       
   - type: image
-    caption: Lorem ipsum dolor sit amet
-    alt: Lorem ipsum dolor sit amet
-    sizes:
-      small: images/agentur
-      large: images/agentur
+    alt: Convoy Interactive Agency
+    path: images/convoy-agentur-video
 
   - type: markdown
     title: Experten mit Weitsicht
@@ -58,7 +55,7 @@ body:
         path: images/convoy-agentur-macbook
 
       - type: image
-        alt: Convoy Agentur Macbook
+        alt: Convoy Agentur Humor
         path: images/convoy-agentur-humor
         
       - type: image
