@@ -60,6 +60,7 @@ body:
       Für den Relaunch der Website wünschte sich Schöner Wohnen Farbe neben einem Responsive Design die Optimierung der bestehenden Informationsarchitektur, einen übersichtlichen und möglichst modularen Seitenaufbau sowie eine zeitgemäße Darstellung des umfangreichen Produktsortiments.
 
   - type: image
+    alias: screen
     alt: Schöner Wohnen Farbe Website
     caption: Wie die gesamte Website ist auch die Homepage sehr modular aufgebaut. Vordefinierte Inhaltselemente können nahezu beliebig angeordnet werden.
     path: images/cases/schoener-wohnen-farbe-website-komplett
@@ -95,6 +96,7 @@ body:
       Hilfreiche Features wie die filterbare Farbtonübersicht, die Händlersuche, der digitale Produktberater oder das Online-Magazin „Colour Stories“ ergänzen das Sortiment, schaffen echte Mehrwerte und sorgen für wiederkehrende Besucher.
 
   - type: image
+    alias: screen
     alt: Schöner Wohnen Farbe Farbtonübersicht
     path: images/cases/schoener-wohnen-farbe-farbtonuebersicht
 
