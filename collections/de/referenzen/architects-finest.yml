@@ -48,6 +48,7 @@ body:
       Darüber hinaus sind wir verantwortlich für die Strategie und Umsetzung der begleitenden Social-Media-Kampagne sowie für die Produktion diverser Online-Werbemittel.
 
   - type: image
+    alias: screen
     alt: Architects Finest Microsite Desktop
     path: images/cases/architects-finest-screen-desktop-1
 
@@ -57,9 +58,9 @@ body:
       Die Microsite stellt alle sechzehn Farbtöne von Architects’ Finest auf eigenen Landing-Pages vor. Jede davon zeigt hochwertige Interioraufnahmen, listet allgemeine Produktinformationen und erzählt die Entstehungsgeschichte des jeweiligen Farbtons.
 
   - type: image
+    alias: screen
     alt: Architects Finest Microsite Desktop
-    sizes:
-      large: images/cases/architects-finest-screen-desktop-2
+    path: images/cases/architects-finest-screen-desktop-2
 
   - type: markdown
     title: Interaktives Storytelling
