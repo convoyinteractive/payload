@@ -46,6 +46,7 @@ body:
       Im Rahmen eines Design Refresh Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet. Die neu erstellten Guidelines haben wir anschließend auf Website, Software und diverse Marketing-Materialien adaptiert und entwickeln diese seitdem kontinuierlich weiter.
 
   - type: image
+    alias: screen
     alt: EHA Website Einstieg
     path: images/cases/eha-website-einstieg
 
