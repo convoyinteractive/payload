@@ -21,7 +21,7 @@
 
 @task('stage:reset', ['on' => 'staging', 'confirm' => false])
     cd {{ $_ENV['STAGE_STORAGE_DIR'] }}/content
-    git checkout master
+    git reset --hard origin/master
     git branch | grep -ve " master$" | xargs git branch -D
     git pull
 @endtask
