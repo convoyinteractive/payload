@@ -71,10 +71,10 @@ body:
   - type: gallery
     alias: group
     items:
-      - type: image
+      - type: screen
         alt: Anzeige-Motive für das Print-Magazin Biene Maja
         path: images/cases/ooigo-print-1
-      - type: image
+      - type: screen
         alt: Anzeige-Motive für das Print-Magazin Super Wings
         path: images/cases/ooigo-print-2
 
