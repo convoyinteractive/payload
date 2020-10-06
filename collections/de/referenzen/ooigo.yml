@@ -89,7 +89,7 @@ body:
     items:
       - type: image
         alias: phone
-        background: '#FFFFFF'
+        color: '#FFFFFF'
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
         path: images/cases/ooigo-screen-1
       - type: image
