@@ -35,7 +35,6 @@ details:
       - Frontend Development
       - Beratung
 
-
 body:
   - type: markdown
     body: |
@@ -85,29 +84,28 @@ body:
     body: |
       Gerade bei langfristig angelegten Projekten profitieren Kunden von systematisierten Workflows: In diesem Fall haben wir für jede Animation Masterdateien in After Effects und LottieFiles angelegt. Einmal erstellt, lassen sich diese universell in App, Website und Social Media Formaten nutzen.
 
-
   - type: gallery
     alias: group
     items:
       - type: image
         alias: phone
-        color: '#FFFFFF' 
+        color: '#FFFFFF'
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
         path: images/cases/ooigo-screen-1
       - type: image
         alias: phone
-        color: '#FFFFFF' 
+        color: '#FFFFFF'
         alt: Ooigo Hörspiel Loading Screen Animation Luftballon
         path: images/cases/ooigo-screen-2
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Seilspringen
         alias: phone
-        color: '#FFFFFF' 
+        color: '#FFFFFF'
         path: images/cases/ooigo-screen-3
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Pipimachen
         alias: phone
-        color: '#FFFFFF' 
+        color: '#FFFFFF'
         path: images/cases/ooigo-screen-4
 
   - type: image
