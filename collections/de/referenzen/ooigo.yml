@@ -1,0 +1,138 @@
+type: case
+
+theme:
+  text: '#000000'
+  background: '#E1FBFF'
+
+meta:
+  title: Ooigo
+  subtitle: App, Branding + Online Marketing
+
+  image:
+    path: images/cases/ooigo-hero
+
+  alternates:
+    en: cases/ooigo
+
+details:
+  - label: Kunde
+    value:
+      - Ooigo
+
+  - label: Projekt
+    value:
+      - App, Branding + Online Marketing
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - User Experience Design
+      - User Interface Design
+      - Responsive Web Design
+      - Icon Design
+      - Illustration
+      - Motion Design
+      - Frontend Development
+      - Beratung
+
+body:
+  - type: markdown
+    body: |
+      Ooigo ist die erste Hörspiel-App für Kinder und Jugendliche, entwickelt vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Design-Themen rund um App, Website, Social Media, Online- und klassisches Marketing und begleiten Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
+
+  - type: image
+    path: images/cases/ooigo-app
+
+  - type: markdown
+    title: O wie Original
+    body: |
+      Bei der ersten Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet, indem sie Streaming-Inhalte nach Alter und Interessen filtert, liegt der Fokus vor allem auf einer möglichst einfachen und intuitiven Bedienbarkeit.
+
+      Das UI-Design der App setzt daher auf klare Farben, einen kindgerechten Look und so wenige Bedienelemente wie nötig. Illustrationen und gestalterische Details sind liebevoll ausgearbeitet, damit die App Spaß macht und möglichst regelmäßig von der jungen Zielgruppe genutzt wird.
+
+  - type: image
+    alt: Ooigo Website
+    caption: Die Homepage der Ooigo-Website liefert einen kompakten Überblick über die wichtigsten Features der App.
+    alias: screen
+    path: images/cases/ooigo-landingpage-desktop
+
+  - type: image
+    alt: Individuell gestaltete Interessen-Icons
+    title: Individuell gestaltete Interessen-Icons
+    path: images/cases/ooigo-icons-interests
+
+  - type: quote
+    body: Die Zusammenarbeit mit Convoy ist bei jedem einzelnen Projekt extrem professionell, angenehm und die Ergebnisse mehr als überzeugend. Wir könnten uns keinen besseren Partner an unserer Seite wünschen.
+    author:
+      name: Kathrin Kellerer
+      title: Marketing Manager Sony Music Entertainment
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Anzeige-Motive für das Print-Magazin Biene Maja
+        path: images/cases/ooigo-print-1
+      - type: image
+        alias: screen
+        alt: Anzeige-Motive für das Print-Magazin Super Wings
+        path: images/cases/ooigo-print-2
+
+  - type: markdown
+    title: Effizienter Workflow
+    body: |
+      Gerade bei langfristig angelegten Projekten profitieren Kunden von systematisierten Workflows: In diesem Fall haben wir für jede Animation Masterdateien in After Effects und LottieFiles angelegt. Einmal erstellt, lassen sich diese universell in App, Website und Social Media Formaten nutzen.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        color: '#FFFFFF'
+        alt: Ooigo Hörspiel App Loading Screen Animation Auge
+        path: images/cases/ooigo-screen-1
+      - type: image
+        alias: phone
+        color: '#FFFFFF'
+        alt: Ooigo Hörspiel Loading Screen Animation Luftballon
+        path: images/cases/ooigo-screen-2
+      - type: image
+        alt: Ooigo Hörspiel Loading Screen Animation Seilspringen
+        alias: phone
+        color: '#FFFFFF'
+        path: images/cases/ooigo-screen-3
+      - type: image
+        alt: Ooigo Hörspiel Loading Screen Animation Pipimachen
+        alias: phone
+        color: '#FFFFFF'
+        path: images/cases/ooigo-screen-4
+
+  - type: image
+    alt: Ooigo Character Illustration
+    path: images/cases/ooigo-character
+
+  - type: image
+    alt: Ooigo Pattern Library
+    caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz in der Design-Implementierung.
+    path: images/cases/ooigo-pattern-libary
+
+  - type: lottie
+    mode: onscroll
+    path: assets/corona-ooigo.json
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alt: Ooigo Tragetasche vorne
+        path: images/cases/ooigo-merchandise-1
+      - type: image
+        alt: Ooigo Tragetasche hinten
+        path: images/cases/ooigo-merchandise-2
+      - type: image
+        alt: Ooigo Tragetasche Aufkleber
+        path: images/cases/ooigo-merchandise-3
+      - type: image
+        alt: Ooigo Tragetasche Buttons
+        path: images/cases/ooigo-merchandise-4

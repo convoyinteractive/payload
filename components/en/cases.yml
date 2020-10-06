@@ -1,3 +1,6 @@
 body:
   - type: collection
     resource: cases/orendt-studios
+    
+  - type: collection
+    resource: cases/ooigo
