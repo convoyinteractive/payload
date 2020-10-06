@@ -103,3 +103,8 @@ body:
     title: Integrierte Interfaces
     body: |
       Im Rahmen der Neugestaltung verschiedenster EHA-Software zur Visualisierung von Plan- und Verbrauchsdaten entwickelten wir spezielle Icon-Sets und erweiterten das bestehende Farbschema. So konnten wir den spezifischen Anforderungen an die jeweilige Software gerecht werden und gleichzeitig sicherstellen, dass sich deren User Interfaces optimal in das neue Branding integrieren.
+
+  - type: image
+    caption: Mobile Dashboard-Ansicht der EHA ONE Software
+    alt: EHA One Software
+    path: images/cases/eha-one-dashboard
