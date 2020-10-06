@@ -1,0 +1,134 @@
+type: case
+
+theme:
+  text: '#000000'
+  background: '#ECE8E2'
+
+meta:
+  title: Schöner Wohnen Farbe
+  subtitle: Website + Online-Marketing
+
+  image:
+    path: images/cases/schoener-wohnen-farbe-hero
+
+  alternates:
+    en: cases/schoener-wohnen-farbe
+
+details:
+  - label: Kunde
+    value:
+      - Schöner Wohnen Farbe
+
+  - label: Projekt
+    value:
+      - Product Website
+      - Online Marketing
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - Digital Strategie
+      - UX/UI Design
+      - Responsive Web Design
+      - Icon Design
+      - Frontend Development
+      - Backend Development
+      - Content Creation
+      - Redaktion
+      - Online Marketing
+      - Beratung
+
+body:
+
+  - type: markdown
+    body: |
+      Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet.
+
+      Für den Relaunch der Website setzen wir auf einen modularen Seitenaufbau in Kombination mit einem flexiblen Design-System sowie auf hilfreiche Tools und Features, die das Produktangebot optimal ergänzen.
+
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Website
+        path: images/cases/schoener-wohnen-farbe-website-slide-1
+
+  - type: markdown
+    title: Zeitgemäße Produktdarstellung
+    body: |
+      Für den Relaunch der Website wünschte sich Schöner Wohnen Farbe neben einem Responsive Design die Optimierung der bestehenden Informationsarchitektur, einen übersichtlichen und möglichst modularen Seitenaufbau sowie eine zeitgemäße Darstellung des umfangreichen Produktsortiments.
+
+  - type: image
+    alias: screen
+    alt: Schöner Wohnen Farbe Website
+    caption: Wie die gesamte Website ist auch die Homepage sehr modular aufgebaut. Vordefinierte Inhaltselemente können nahezu beliebig angeordnet werden.
+    path: images/cases/schoener-wohnen-farbe-website-komplett
+
+  - type: markdown
+    title: Flexibles Designsystem
+    body: |
+      Das speziell für die Website entwickelte Designsystem bietet größtmögliche Flexibi-lität in der Ausgestaltung. So konnten wir beispielsweise Landing-Pages für einzelne Sortimente individuell und unter Berücksichtigung des jeweiligen Produktauftritts gestalten und diese trotzdem stimmig in den Gesamtkontext integrieren.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Designfarben Landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-1
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Architects Finest Landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-2
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Naturell Landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-3
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe My Colour Landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-4
+
+  - type: markdown
+    title: Echte Mehrwerte
+    body: |
+      Hilfreiche Features wie die filterbare Farbtonübersicht, die Händlersuche, der digitale Produktberater oder das Online-Magazin „Colour Stories“ ergänzen das Sortiment, schaffen echte Mehrwerte und sorgen für wiederkehrende Besucher.
+
+  - type: image
+    alias: screen
+    alt: Schöner Wohnen Farbe Farbtonübersicht
+    path: images/cases/schoener-wohnen-farbe-farbtonuebersicht
+
+  - type: gallery
+    title: Beispiele aus dem Online-Magazin „Colour Stories“
+    caption: Unser Aufgabenbereich umfasst auch die redaktionelle Betreuung der „Colour Stories“. Seit der Einführung des Magazins haben wir mehr als 50 Stories realisiert.
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Colour Story Natural Touch
+        path: images/cases/schoener-wohnen-farbe-colour-storys-1
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Colour Story Frühling
+        path: images/cases/schoener-wohnen-farbe-colour-storys-2
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Colour Story Kleine Räume
+        path: images/cases/schoener-wohnen-farbe-colour-storys-3
+
+  - type: markdown
+    title: Zusammenspiel von PIM und CMS
+    body: |
+      Jedes Produkt verfügt über eine eigene Detailseite, die zur Händlersuche oder direkt zu Partner-Shops verlinkt — below the fold ergänzt um Bildergalerien, verwandte Produkte und Datenblätter zum Download.
+
+      Sämtliche produktbezogenen Daten werden dabei zentral aus dem hauseigenen Produktinformationssystem gespeist, währen redaktionelle Inhalte separat über ein Content-Management-System gepflegt werden können.
+
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe Detailseite Trendfarbe
+        path: images/cases/schoener-wohnen-farbe-detailseite-1
