@@ -1,6 +1,3 @@
 body:
   - type: collection
     resource: cases/orendt-studios
-  
-  - type: collection
-    resource: cases/schoener-wohnen-farbe
