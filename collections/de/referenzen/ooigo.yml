@@ -89,7 +89,6 @@ body:
     items:
       - type: image
         alias: phone
-        color: '#FFFFFF'
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
         path: images/cases/ooigo-screen-1
       - type: image
@@ -115,6 +114,7 @@ body:
     path: images/cases/ooigo-pattern-libary
 
   - type: lottie
+    mode: onscroll
     path: assets/corona-ooigo.json
 
   - type: gallery
