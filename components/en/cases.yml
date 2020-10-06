@@ -7,3 +7,6 @@ body:
 
   - type: collection
     resource: referenzen/teamcast
+
+  - type: collection
+    resource: cases/eha
