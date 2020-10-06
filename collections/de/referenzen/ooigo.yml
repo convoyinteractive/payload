@@ -55,7 +55,7 @@ body:
     alt: Ooigo Website
     caption: Die Homepage der Ooigo-Website liefert einen kompakten Überblick über die wichtigsten Features der App.
     alias: screen
-    path: images/cases/ooigo-website
+    path: images/cases/ooigo-landingpage-desktop
 
   - type: image
     alt: Individuell gestaltete Interessen-Icons
