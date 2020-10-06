@@ -2,7 +2,7 @@ type: case
 
 theme:
   text: '#000000'
-  background: '#DCEBF1'
+  background: '#F2F4F0'
 
 meta:
   title: Orendt Studios
@@ -80,7 +80,7 @@ body:
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Boger
-    path: images/cases/orendtstudios-video-placeholder-boger
+    path: images/cases/orendtstudios-video-placeholder-bogner
 
   - type: image
     alias: screen
