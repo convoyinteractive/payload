@@ -43,8 +43,20 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Orendt Studios Website Detail 1
+        alt: Orendt Studios Website Portfolio
         path: images/cases/orendtstudios-website-desktop
+      - type: image
+        alias: screen
+        alt: Orendt Studios by Numbers
+        path: images/cases/orendtstudios-website-desktop-numbers
+      - type: image
+        alias: screen
+        alt: Orendt Studios Case
+        path: images/cases/orendtstudios-website-desktop-case
+      - type: image
+        alias: screen
+        alt: Orendt Studios Services Icons
+        path: images/cases/orendtstudios-website-desktop-services
 
   - type: gallery
     alias: group
