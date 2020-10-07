@@ -10,20 +10,19 @@ meta:
 
   alternates:
     de: services/web-app-development
-    
+
 body:
-  
   - type: markdown
     body: |
       Auch die beste Idee kann ihre Wirkung nur entfalten, wenn wir sie technisch perfekt umsetzen. Deshalb bauen wir auf zukunftssichere Technologien und entwickeln performante, stabile und nachhaltige Lösungen.
-      
+
   - type: definition
     title: Unsere Leistungen im Überblick
     items:
       - type: markdown
         term: Websites + E-Commerce
         body: |
-          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content-Management-Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS.       
+          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content-Management-Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS.
       - type: markdown
         term: Web-Apps + Cloud-Services
         body: |
