@@ -77,9 +77,9 @@ body:
         path: images/cases/dreifragezeichen-mobile-audioplayer
   
   - type: markdown
-    caption: Die drei ??? und das www
+    title: Die drei ??? und das www
     body: |
-      Auch bei diesem Projekt war es wichtig, das von uns entwickelte Design zu systema-tisieren und anschließend in einer Pattern-Library zu dokumentieren. So konnten wir nicht nur eine reibungslose Abstimmung zwischen Auftraggeber, Designern und Entwicklern gewährleisten, sondern das erstellte Regelwerk vor allem auch ohne großen Mehraufwand auf die „Die Drei ??? Kids“ Welt adaptieren.
+      Auch bei diesem Projekt war es wichtig, das von uns entwickelte Design zu systematisieren und anschließend in einer Pattern-Library zu dokumentieren. So konnten wir nicht nur eine reibungslose Abstimmung zwischen Auftraggeber, Designern und Entwicklern gewährleisten, sondern das erstellte Regelwerk vor allem auch ohne großen Mehraufwand auf die „Die Drei ??? Kids“ Welt adaptieren.
 
   - type: quote
     body: Unglaublich, was Convoy innerhalb weniger Wochen auf die Beine gestellt hat. Wir sind restlos begeistert.
@@ -111,7 +111,7 @@ body:
     path: images/cases/dreifragezeichen-kids-teaser-fall-der-woche
     
   - type: image
-    caption: Das Design der „Die Drei ??? Kids“ Website unterscheidet sich nur geringfügig, aber durch-aus wahrnehmbar vom Design der Hauptseite.
+    caption: Das Design der „Die Drei ??? Kids“ Website unterscheidet sich nur geringfügig, aber durchaus wahrnehmbar vom Design der Hauptseite.
     alt: Die drei Fragezeichen Kids Fun Facts Teaser
     path: images/cases/dreifragezeichen-kids-teaser-fun-facts
   
@@ -120,7 +120,7 @@ body:
     path: assets/dreifragezeichen-pattern-library.svg
   
   - type: markdown
-    caption: Drei Farben für drei Detektive
+    title: Drei Farben für drei Detektive
     body: |
       Die Farbwelt der drei Detektive ist sehr einfach gehalten. Daran haben wir uns beim Design der Website orientiert und deren Look reduziert auf Blau, Rot und Schwarz, in Kombination mit Weiß. Jedem Farbton ist dabei eine klare Funktion zugewiesen, die konsistent in allen Inhaltselementen und Modulen zur Anwendung kommt. Für eine schlüssige Nutzerführung braucht es nicht mehr.
       
