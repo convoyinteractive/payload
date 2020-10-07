@@ -10,7 +10,7 @@ meta:
 
   alternates:
     de: kompetenzen/strategische-beratung
-    
+
 body:
   - type: markdown
     body: |
@@ -37,4 +37,3 @@ body:
   - type: component
     title: Further Services
     resource: services
-
