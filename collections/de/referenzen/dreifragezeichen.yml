@@ -97,7 +97,7 @@ body:
     path: images/cases/dreifragezeichen-teaser-geschichte
     
   - type: image
-    cpation: Eine Auswahl animierter Thementeaser, die wir an das Scrollverhalten koppeln und dadurch kleine Überraschungseffekte erzeugen.
+    caption: Eine Auswahl animierter Thementeaser, die wir an das Scrollverhalten koppeln und dadurch kleine Überraschungseffekte erzeugen.
     alt: Die drei Fragezeichen Fall der Woche Teaser
     path: images/cases/dreifragezeichen-teaser-fall-der-woche
     
