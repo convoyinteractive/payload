@@ -22,7 +22,7 @@ body:
       - type: markdown
         term: User Interface Design
         body: |
-          Wir gestalten ansprechende und intuitiv bedienbare digitale Nutzeroberflächen und Interaktionsprozesse. Dabei stellen wir sicher, dass Anwender selbst komplexe Inhalte und Funktionen schnell erfassen und einfach ans jeweilige Ziel gelangen. Indem wir viel Arbeit in jedes Detail stecken, verleihen wir Ihrer Website oder App einen individuellen Look, der Ihre Marke digital erlebbar macht.            
+          Wir gestalten ansprechende und intuitiv bedienbare digitale Nutzeroberflächen und Interaktionsprozesse. Dabei stellen wir sicher, dass Anwender selbst komplexe Inhalte und Funktionen schnell erfassen und einfach ans jeweilige Ziel gelangen. Indem wir viel Arbeit in jedes Detail stecken, verleihen wir Ihrer Website oder App einen individuellen Look, der Ihre Marke digital erlebbar macht.
       - type: markdown
         term: Responsive Web Design
         body: |
@@ -30,12 +30,12 @@ body:
       - type: markdown
         term: Interaction Design
         body: |
-          Moderne Websites und Anwendungen sind viel mehr als statische Screens. Durch die Integration von Animationen, Videos und Micro Interactions gestalten wir digitale Erlebnisse, die begeistern und sorgen neben dem außergewöhnlichen Look auch für das entsprechende Feel. Das verstärkt den Joy of Use, garantiert ein höheres Involvement der Nutzer und schafft so mehr Aufmerksamkeit für Ihre Produkte.       
+          Moderne Websites und Anwendungen sind viel mehr als statische Screens. Durch die Integration von Animationen, Videos und Micro Interactions gestalten wir digitale Erlebnisse, die begeistern und sorgen neben dem außergewöhnlichen Look auch für das entsprechende Feel. Das verstärkt den Joy of Use, garantiert ein höheres Involvement der Nutzer und schafft so mehr Aufmerksamkeit für Ihre Produkte.
       - type: markdown
         term: Design-Systems + Pattern Libraries
         body: |
           Designs erstellen wir systematisch nach dem Atomic-Design-Prinzip. Dabei zerlegen wir unsere Layouts in kleine Bausteine und dokumentieren diese in Design-Bibliotheken oder Living Styleguides. Dadurch sorgen wir nicht nur für größtmögliche Konsistenz in der Umsetzung, sondern schaffen eine Single Source of Truth (SSOT) für eine nachhaltige Weiterentwicklung.
-          
+
   - type: component
     title: Weitere Kompetenzen
     resource: services
