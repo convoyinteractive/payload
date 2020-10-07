@@ -12,9 +12,15 @@ meta:
     de: kompetenzen
 
 body:
+
   - type: markdown
-    body:
+    body: |
+      Websites, apps and other digital applications are long since not just mere additions to physical products. To be successful in the competitive marketplace, the digital experience needs to be convincing from start to finish with reliable and intuitive usability. 
+
+      We support companies with convincing design solutions and technological expertise, thereby helping them to achieve their goals and be successful on a long-term scale. 
+
   - type: component
+    title: Our services at a glance
     alias: portfolio
     resource: services
 
