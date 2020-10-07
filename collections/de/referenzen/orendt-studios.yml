@@ -26,18 +26,21 @@ details:
   - label: Leistungen
     value:
       - Konzeption
-      - UX/UI Design
+      - Content Strategy
+      - User Experience Design
+      - Responsive Web Design
       - Icon Design
       - Motion Design
-      - Augmented Reality
-      - Web Development
+      - 3D
+      - Frontend Development
+      - Backend Development
       - Beratung
 
 body:
   - type: markdown
     body: |
-      Anlässlich des 125-jährigen Jubiläums einer der weltweit traditionsreichsten Küchenmarken entwickelten wir eine Microsite, die neben Milestones der Unternehmensgeschichte auch zwei ganz neue Produktreihen präsentiert.
-
+      Die Orendt Studios Holding versammelt Europas größte Medienproduktion für digitalen Content und E-Commerce-Bildproduktion unter einem Dach. Im Rahmen einer strategischen Neuausrichtung wurde Convoy mit dem Relaunch des Onlineauftritts beauftragt.
+  
   - type: gallery
     alias: impressions
     items:
@@ -47,16 +50,21 @@ body:
         path: images/cases/orendtstudios-website-desktop
       - type: image
         alias: screen
-        alt: Orendt Studios by Numbers
-        path: images/cases/orendtstudios-website-desktop-numbers
-      - type: image
-        alias: screen
         alt: Orendt Studios Case
         path: images/cases/orendtstudios-website-desktop-case
       - type: image
         alias: screen
         alt: Orendt Studios Services Icons
         path: images/cases/orendtstudios-website-desktop-services
+      - type: image
+        alias: screen
+        alt: Orendt Studios by Numbers
+        path: images/cases/orendtstudios-website-desktop-numbers
+
+  - type: markdown
+    title: Picture Perfect
+    body: |
+      Der überwiegende Teil der Kunden von Orendt Studios stammt aus dem Fashion-Bereich. Darum setzten wir für den Relaunch der Holding-Website auf ein puristisches Layout und starke Schwarz-Weiß-Kontraste. So ist eine ideale Bühne entstanden für den farbenfrohen, visuell ansprechenden Content, den wir großformatig in Szene setzen.
 
   - type: gallery
     alias: group
@@ -79,10 +87,26 @@ body:
         path: images/cases/orendtstudios-mobile-screen-4
 
   - type: quote
-    body: Mit Convoy haben wir einen Agentur-Partner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.
+    body: „Mit Convoy haben wir einen Agenturpartner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.“
     author:
       name: Torsten Orendt
       title: Inhaber und CEO Orendt Studios Holding
+
+  - type: gallery
+    caption: User Flow Maps und Wireframes sind hilfreiche Werkzeuge, um User Journey, Seitenaufbau und Inhaltsstruktur zu visualisieren und auf Schwachstellen zu prüfen.
+    alias: group
+    items:
+      - type: image
+        alt: Wireframe
+        path: images/cases/orendtstudios-wireframe
+      - type: image
+        alt: Wireframe
+        path: images/cases/orendtstudios-user-flow-map
+        
+  - type: markdown
+    title: Content im Kontext
+    body: |
+      Kernstück der neuen Website sind die aufwendig inszenierten Case Studies. Für jedes Projekt wurde ein virtueller Raum konzipiert und auf das Branding des jeweiligen Kunden abgestimmt. Dadurch erscheint der von Orendt Studios produzierte Content direkt im richtigen Kontext. Zudem erleichtert der modulare Aufbau die Inhaltspflege und das Erstellen weiterer Cases.
 
   - type: image
     alias: screen
@@ -103,13 +127,13 @@ body:
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Comma
     path: images/cases/orendtstudios-video-placeholder-comma
-
+    
   - type: markdown
     title: Eine Landing-Page für jede Unit
     body: |
-      Für die drei Units „Photo“, „Film“ und „CGI“ erstellten wir eigene, teils sehr umfangreiche Landing-Pages mit Absprungmöglichkeiten zu weiteren Inhalten. Eine tabellarische Übersicht am Seitenende vermittelt einen Überblick über das jeweilige Leistungsangebot.
-
-  - type: image
+      Für die drei Units „Photo“, „Film“ und „CGI-Visualisierung“ haben wir eigene, teils sehr umfangreiche Landing-Pages erstellt, mit Absprungmöglichkeiten zu weiteren Inhalten. Dank einer Übersicht am Seitenende erfassen User das jeweilige Leistungsangebot innerhalb weniger Sekunden.
+ 
+ - type: image
     alias: screen
     alt: Orendt Studios Webdesign
     path: images/cases/orendtstudios-website-desktop-komplete
