@@ -10,3 +10,31 @@ meta:
 
   alternates:
     de: kompetenzen/strategische-beratung
+    
+body:
+  - type: markdown
+    body: |
+      As digital experts, we don’t just focus on the design and technology of an individual measure, but always on the brand image as a whole. This is why we develop solutions that allow you to take advantage of your digital opportunities and accelerate the progress of your growth.
+  - type: definition
+    title: Our services in detail
+    items:
+      - type: markdown
+        term: Analysis + research
+        body: |
+          No project without careful preparation! Only if we acquire a deeper understanding of the customer, user, brand, product or competition, can we recognise problems early and identify potentials.
+      - type: markdown
+        term: Strategic consulting
+        body: |
+          We advise and support you strategically in topics related to contents, structure, technology or design. As external consultants we see things from a distance, alternately taking the perspective of the company and the user. This way, we provide for an ideal fit for brand, product and target group.
+      - type: markdown
+        term: Stakeholder workshops
+        body: |
+          In a joint kick-off workshop, we gather everyone involved in the project around the (virtual) table and get to know you, your plan and your users in detail, prioritising requirements and defining targets as well as KPIs. Depending on the requirements and scope of the project, we dedicate ourselves in further sessions extensively to topics relating to user experience, design, contents or technology. We define the focus areas and contents according to what makes sense and is relevant to the individual project.
+      - type: markdown
+        term: Monitoring + evaluation
+        body: |
+          With the successful rollout of a product or service, the first milestone is usually already achieved. For the measure to be successful long-term, though, we also support you beyond the launch – for example with quality management, continuous maintenance, regular analyses, reports or technical support.
+  - type: component
+    title: Further Services
+    resource: services
+
