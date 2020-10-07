@@ -10,3 +10,34 @@ meta:
 
   alternates:
     de: kompetenzen/web-app-development
+
+body:
+  - type: markdown
+    body: |
+      Even the best idea can only unleash its full effect if we implement it to technical perfection. This is why we rely on future-proof technologies and develop high-performance, stable and long-term solutions.
+  - type: definition
+    title: Our services at a glance
+    items:
+      - type: markdown
+        term: Websites + e-commerce
+        body: |
+          We develop corporate websites, microsites and online shops with modern technologies such as NuxtJS or NextJS. Depending on requirements and demands, we use a wide variety of content management systems. We work with open source systems such as WordPress or Strapi.io as well as with headless CMS, e.g. CraftCMS.
+      - type: markdown
+        term: Web apps + cloud services
+        body: |
+          To develop cloud services, apps and micro-services, we rely on frameworks such as Laravel or Lumen. We secure real-time communication with the help of web sockets and NodeJS and develop reactive user interfaces with modern JavaScript frameworks such as React or Vue.
+      - type: markdown
+        term: Mobile + desktop apps
+        body: |
+          We develop mobile apps for iOS and Android –  depending on requirements either with ReactNative as a native app or with Cordova as a hybrid app. To implement desktop apps or interfaces for your cloud service, we use Electron for MS Windows and Mac.
+      - type: markdown
+        term: Interfaces + plug-ins
+        body: |
+          For an optimal connection of online shop to inventory control system, website to CRM or mobile app to content management system, we expand your website, digital product or cloud service with REST or GraphQL interfaces and develop connections or plug-ins to third-party interfaces. We also develop authorisation processes such as OAUTH or web tokens – you alone decide who’s allowed to use your data.
+      - type: markdown
+        term: Search engine optimisation (SEO)
+        body: |
+          To ensure that your website, microsite or landing page isn’t just technically perfect, but is also found quickly, we optimise it to rank highly in search engines. With our extensive know-how, we support you in planning your launch or relaunch and of course support you beyond that, too – for example by ensuring that existing rankings are maintained and new traffic and valuable leads are generated.
+  - type: component
+    title: Further Services
+    resource: services
