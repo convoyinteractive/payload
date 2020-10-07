@@ -1,8 +1,8 @@
 type: case
 
 theme:
-  text: '#000000'
-  background: '#F2F4F0'
+  text: "#000000"
+  background: "#F2F4F0"
 
 meta:
   title: Orendt Studios
@@ -40,7 +40,7 @@ body:
   - type: markdown
     body: |
       Die Orendt Studios Holding versammelt Europas größte Medienproduktion für digitalen Content und E-Commerce-Bildproduktion unter einem Dach. Im Rahmen einer strategischen Neuausrichtung wurde Convoy mit dem Relaunch des Onlineauftritts beauftragt.
-  
+
   - type: gallery
     alias: impressions
     items:
@@ -102,7 +102,7 @@ body:
       - type: image
         alt: Wireframe
         path: images/cases/orendtstudios-user-flow-map
-        
+
   - type: markdown
     title: Content im Kontext
     body: |
@@ -127,12 +127,12 @@ body:
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Comma
     path: images/cases/orendtstudios-video-placeholder-comma
-    
+
   - type: markdown
     title: Eine Landing-Page für jede Unit
     body: |
       Für die drei Units „Photo“, „Film“ und „CGI-Visualisierung“ haben wir eigene, teils sehr umfangreiche Landing-Pages erstellt, mit Absprungmöglichkeiten zu weiteren Inhalten. Dank einer Übersicht am Seitenende erfassen User das jeweilige Leistungsangebot innerhalb weniger Sekunden.
- 
+
   - type: image
     alias: screen
     alt: Orendt Studios Webdesign
