@@ -11,18 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: ${{ github.head_ref }}
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Run prettier
-      run: npm run prettier
+      - name: Run prettier
+        run: npm run prettier
 
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Apply changes from prettier
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply changes from prettier
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
