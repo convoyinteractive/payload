@@ -133,7 +133,7 @@ body:
     body: |
       Für die drei Units „Photo“, „Film“ und „CGI-Visualisierung“ haben wir eigene, teils sehr umfangreiche Landing-Pages erstellt, mit Absprungmöglichkeiten zu weiteren Inhalten. Dank einer Übersicht am Seitenende erfassen User das jeweilige Leistungsangebot innerhalb weniger Sekunden.
  
- - type: image
+  - type: image
     alias: screen
     alt: Orendt Studios Webdesign
     path: images/cases/orendtstudios-website-desktop-komplete
