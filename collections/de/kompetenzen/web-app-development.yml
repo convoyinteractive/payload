@@ -10,3 +10,33 @@ meta:
 
   alternates:
     de: services/web-app-development
+    
+body:
+  
+  - type: markdown
+    body: |
+      Auch die beste Idee kann ihre Wirkung nur entfalten, wenn wir sie technisch perfekt umsetzen. Deshalb bauen wir auf zukunftssichere Technologien und entwickeln performante, stabile und nachhaltige Lösungen.
+      
+  - type: definition
+    title: Unsere Leistungen im Überblick
+    items:
+      - type: markdown
+        term: Websites + E-Commerce
+        body: |
+          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content-Management-Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS.       
+      - type: markdown
+        term: Web-Apps + Cloud-Services
+        body: |
+          Für die Entwicklung von Cloud-Services, WebApps und Micro-Services setzen wir auf Frameworks wie Laravel oder Lumen. Realtime Communication schaffen wir mit Hilfe von WebSockets und NodeJS und entwickeln reaktive User-Interfaces mit modernen JavaScript Frameworks wie React oder Vue.
+      - type: markdown
+        term: Mobile + Desktop Apps
+        body: |
+          Wir entwickeln Mobile-Apps für iOS und Android — je nach Anforderung mit ReactNative als Native App oder mit Cordova als Hybrid-App. Für die Umsetzung von Desktop-Apps oder Interfaces für Ihren Cloud-Service nutzen wir Electron für MS Windows und Mac.
+      - type: markdown
+        term: Schnittstellen + Plugins
+        body: |
+          Für eine optimale Verbindung von Online-Shop zu Warenwirtschaftssystem, Website zu CRM oder Mobile-App zu Content Management System erweitern wir Ihre Website, Ihr digitales Produkt oder Ihren Cloud-Service um REST- oder GraphQL Schnittstellen und entwickeln Anbindungen oder Plugins zu Drittanbieter-Schnittstellen. Darüber hinaus entwickeln wir Authorisierungsprozesse wie OAUTH oder Web-Tokens. So entscheiden allein Sie, wer Ihre Daten nutzen darf.
+      - type: markdown
+        term: Search Engine Optimization (SEO)
+        body: |
+          Damit Ihre Website, Microsite oder Landing-Page nicht nur technisch perfekt umgesetzt, sondern auch schnell gefunden wird, optimieren wir sie für eine bestmögliche Platzierung in Suchmaschinen. Mit unserem umfangreichen Know-How unterstützen wir Sie bei der Planung Ihres Launchs oder Relaunchs und begleiten Sie selbstverständlich auch darüber hinaus. So sorgen wir dafür, dass bestehende Rankings erhalten bleiben und neuer Traffic und wertvolle Leads generiert werden.
