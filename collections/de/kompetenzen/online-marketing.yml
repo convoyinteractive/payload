@@ -6,7 +6,7 @@ meta:
 
   alternates:
     de: services/online-marketing
-    
+
 body:
   - type: markdown
     body: |
@@ -34,12 +34,12 @@ body:
       - type: markdown
         term: Social Media Kampagnen
         body: |
-          …     
+          …
       - type: markdown
         term: Content Creation
         body: |
-          …    
-          
+          …
+
   - type: component
     title: Weitere Kompetenzen
     resource: services
