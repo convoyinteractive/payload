@@ -10,3 +10,32 @@ meta:
 
   alternates:
     de: services/user-experience-design
+
+body:
+  - type: markdown
+    body: |
+      Bei allem was wir tun, stellen wir den Nutzer, seine Bedürfnisse, Erwartungen und Gewohnheiten in den Mittelpunkt. Dabei agieren wir als Außenstehende unbefangen und sehen Dinge aus einer anderen Perspektive. So entstehen Anwendungen, die Menschen überzeugen und wirklich genutzt werden.
+
+  - type: definition
+    title: Unsere Leistungen im Detail
+    items:
+      - type: markdown
+        term: User Research
+        body: |
+          Mit Hilfe von User Journey Maps identifizieren wir mögliche Touchpoints sowie kritische Phasen entlang der Customer Journey. Wir analysieren wann und wie Ihre Produkte oder Services verwendet werden und was Nutzern dabei wichtig ist. Unser Ziel ist es, Bedürfnisse und Nutzungskontexte zu verstehen und mit den Anforderungen Ihres Unternehmens in Einklang zu bringen.
+      - type: markdown
+        term: Usability Testing
+        body: |
+          User Interfaces entwickeln wir unter Berücksichtigung von Nutzer, Kontext und Endgerät. Bevor wir einen Lösungsansatz weiterverfolgen, testen wir Usability und User Experience ausführlich anhand von Prototypen. Darüber hinaus unterstützen wir Sie dabei, die Usability von bestehenden Maßnahmen und Anwendungen zu verbessern.
+      - type: markdown
+        term: Information Architecture
+        body: |
+          Ein schlüssiger Seitenaufbau und eine nachvollziehbare Struktur bilden die Basis für intuitive Nutzbarkeit und eine überzeugende User Experience. User Flows und Wireframes helfen uns bei Visualisierung und Aufbau von Sitemaps und Informationsarchitektur. Dadurch können wir selbst komplexe Informationen so strukturieren, dass Nutzer schnell die Inhalte finden, die sie suchen.
+      - type: markdown
+        term: Conversion Optimierung
+        body: |
+          Selbst die anwenderfreundlichste Marketing-Maßnahme ist nur dann erfolgreich, wenn sie auf Ihre Unternehmensziele einzahlt und messbare Resultate liefert. Damit wir digitale Services oder Angebote optimal planen können, müssen wir Zielgruppe und Nutzungskontext verstehen. So können wir Inhalte nicht nur suchmaschinenfreundlich, sondern vor allem bedarfsgerecht gestalten. Darüber hinaus helfen klare Zielvorgaben bei Tracking und Auswertung von Leads und Conversions.
+          
+  - type: component
+    title: Weitere Kompetenzen
+    resource: services
