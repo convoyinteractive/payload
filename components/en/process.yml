@@ -1,14 +1,13 @@
 body:
-
   - type: markdown
     body: |
       ## Our Workflow
       In our experience, an agile workflow is the most promising path leading to the success of a project. To this end, we structure the overall tasks in small individual packages with clear responsibilities and can thus react quickly and flexibly during the course of the project.
- 
+
   - type: lottie
     mode: loop
     path: assets/workflow.json
-    
+
   - type: markdown
     title: Analysing
     body: |
@@ -18,15 +17,15 @@ body:
     title: Defining
     body: |
       In this phase we evaluate insights and feedback and develop first hypotheses and ideas that help determine the strategic direction to be taken.
-      
+
   - type: markdown
     title: Implementing
     body: |
-      We plan the user experience in this phase. To do so, we focus on structural topics such as contents, information architecture, the user journey or navigation structure and work out different design approaches for the look and feel. For visualisation, we use wireframes and design mock-ups and test these both in form of prototypes. 
+      We plan the user experience in this phase. To do so, we focus on structural topics such as contents, information architecture, the user journey or navigation structure and work out different design approaches for the look and feel. For visualisation, we use wireframes and design mock-ups and test these both in form of prototypes.
 
   - type: markdown
     title: Optimising
     body: |
       In this phase, we validate and improve our approaches to solutions. We implement the best of them and document them in backlog or pattern libraries. 
 
-      This way we already anticipate during the course of the project any problems that might arise and can be certain that the solutions we have developed actually meet the needs of our customers and users and that they achieve the desired results. 
+      This way we already anticipate during the course of the project any problems that might arise and can be certain that the solutions we have developed actually meet the needs of our customers and users and that they achieve the desired results.

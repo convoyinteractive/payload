@@ -1,8 +1,8 @@
 type: case
 
 theme:
-  text: '#000000'
-  background: '#ECE8E2'
+  text: "#000000"
+  background: "#ECE8E2"
 
 meta:
   title: Schöner Wohnen Farbe
@@ -39,7 +39,6 @@ details:
       - Beratung
 
 body:
-
   - type: markdown
     body: |
       Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet.

@@ -49,7 +49,7 @@ body:
     items:
       - type: markdown
         body: Lorem ipsum dolor sit amet
-  
+
   - type: quote
     body: I do have something to say!
     author:

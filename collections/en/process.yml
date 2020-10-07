@@ -15,14 +15,14 @@ meta:
 body:
   - type: markdown
     body: |
-      ## Everybody gets what they need. Not more, not less. 
+      ## Everybody gets what they need. Not more, not less.
 
   - type: markdown
     body: |
       Digital innovation requires a clear focus. We help to identify those areas of potential that offer the greatest opportunities for success. We don’t just offer surprising user experiences and convincing interfaces in the process, but also implement these on the basis of state-of-the-art technologies. 
 
-      By getting to know our clients and understanding their challenges, we can plan purposefully and develop concepts that deliver retraceable results. As a partner at their side we support them in all phases of implementation – and of course beyond. 
-      
+      By getting to know our clients and understanding their challenges, we can plan purposefully and develop concepts that deliver retraceable results. As a partner at their side we support them in all phases of implementation – and of course beyond.
+
   - type: lottie
     mode: onscroll
     path: assets/workflow-screen.json
@@ -48,11 +48,9 @@ body:
       - type: markdown
         term: Time + material
         body: |
-          This model is ideal for developing digital products for which effort and timeframe are difficult to predict in advance. This is why we usually begin with a rough estimate, which we state more precisely within each individual project phase. In so doing, we are always able to guarantee full control of the costs to be expected. 
-          
+          This model is ideal for developing digital products for which effort and timeframe are difficult to predict in advance. This is why we usually begin with a rough estimate, which we state more precisely within each individual project phase. In so doing, we are always able to guarantee full control of the costs to be expected.
+
       - type: markdown
         term: Ongoing
         body: |
           This model allows you to engage the services of individual specialists from our team to work on your projects on an ongoing basis. This is ideal if you wish for continuous support from a permanent partner. With this model, the expenses incurred are usually invoiced at the end of the month or on the basis of an allotted number of hours previously agreed upon.
-          
-

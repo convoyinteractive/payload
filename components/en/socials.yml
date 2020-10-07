@@ -4,29 +4,29 @@ body:
     plattform: Instagram
     handle: convoyinteractive
     addon:
-        type: svg
-        path: assets/instagram.svg
+      type: svg
+      path: assets/instagram.svg
 
   - type: social
     url: //github.com/convoyinteractive
     plattform: GitHub
     handle: convoyinteractive
     addon:
-        type: svg
-        path: assets/github.svg
+      type: svg
+      path: assets/github.svg
 
   - type: social
     url: //dribbble.com/convoy
     plattform: Dribbble
     handle: convoy
     addon:
-        type: svg
-        path: assets/dribbble.svg
+      type: svg
+      path: assets/dribbble.svg
 
   - type: social
     url: //behance.net/convoy
     plattform: Behance
     handle: convoy
     addon:
-        type: svg
-        path: assets/behance.svg
+      type: svg
+      path: assets/behance.svg

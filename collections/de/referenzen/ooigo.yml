@@ -1,8 +1,8 @@
 type: case
 
 theme:
-  text: '#000000'
-  background: '#E1FBFF'
+  text: "#000000"
+  background: "#E1FBFF"
 
 meta:
   title: Ooigo
@@ -89,23 +89,23 @@ body:
     items:
       - type: image
         alias: phone
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
         path: images/cases/ooigo-screen-1
       - type: image
         alias: phone
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         alt: Ooigo Hörspiel Loading Screen Animation Luftballon
         path: images/cases/ooigo-screen-2
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Seilspringen
         alias: phone
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         path: images/cases/ooigo-screen-3
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Pipimachen
         alias: phone
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         path: images/cases/ooigo-screen-4
 
   - type: image

@@ -6,7 +6,7 @@ meta:
 
   hero:
     type: image
-    alt: Convoy Agentur 
+    alt: Convoy Agentur
     path: images/convoy-agentur-hero
 
   alternates:
@@ -26,9 +26,9 @@ body:
     title: Erfolgsfaktoren
     body: |
       Unsere Erfolgsfaktoren sind neben fachlichem Know-how vor allem Respekt, Teamwork und Transparenz. Deshalb ist es uns auch so wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten. 
-      
+
       So haben wir seit Gründung unserer Agentur vor 10 Jahren in Hamburg bereits mehr als 100 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
-      
+
   - type: image
     alt: Convoy Interactive Agency
     path: images/convoy-agentur-video
@@ -37,13 +37,13 @@ body:
     title: Experten mit Weitsicht
     body: |
       Wir alle sind Experten in unterschiedlichen Disziplinen. Uns verbindet die Leidenschaft für funktionales und ästhetisches Design sowie ein grundlegendes Interesse an neuen Technologien. 
-      
+
       Nicht zuletzt deshalb besteht unser Team zu fast gleichen Teilen aus Designern und Entwicklern. Weil wir zudem an schlanke und agile Prozesse glauben, gibt es bei uns keine Berater oder Projekt-Manager. Diese Aufgabe übernehmen unsere beiden Geschäftsführer, weshalb mindestens einer von ihnen direkt in jedes Projekt involviert und meistens auch erster Ansprechpartner für unsere Kunden ist.
-      
+
       Diese Struktur sorgt für flache Hierarchien und kurze Kommunikationswege – und für ein entspanntes und vertrauensvolles Arbeitsumfeld. Das spüren auch unsere Kunden: Mit vielen von ihnen arbeiten wir schon seit mehreren Jahren erfolgreich zusammen.
-      
+
       [Wie wir arbeiten](/de/arbeitsweise) {.cta}
-      
+
   - type: gallery
     items:
       - type: image
@@ -57,23 +57,23 @@ body:
       - type: image
         alt: Convoy Agentur Humor
         path: images/convoy-agentur-humor
-        
+
       - type: image
         alt: Convoy Agentur Tobias
         path: images/convoy-agentur-tobias
-        
+
       - type: image
         alt: Convoy Agentur Marc und Felix
         path: images/convoy-agentur-marc-felix
-        
+
       - type: image
         alt: Convoy Agentur Figurensammlung
         path: images/convoy-agentur-figuren
-        
+
       - type: image
         alt: Convoy Agentur Eingang
         path: images/convoy-agentur-eingang
-        
+
   - type: list
     title: Wir können Ihnen helfen, wenn…
     items:

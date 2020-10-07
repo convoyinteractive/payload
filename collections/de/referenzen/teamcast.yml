@@ -1,8 +1,8 @@
 type: case
 
 theme:
-  text: '#000000'
-  background: '#DCEBF1'
+  text: "#000000"
+  background: "#DCEBF1"
 
 meta:
   title: Teamcast
@@ -35,7 +35,6 @@ details:
       - Beratung
 
 body:
-
   - type: markdown
     body: |
       Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben.
@@ -98,4 +97,3 @@ body:
     author:
       name: Tobias
       title: Senior Software-Developer
-

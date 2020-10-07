@@ -1,9 +1,11 @@
 {
   "private": true,
   "scripts": {
+    "prettier": "prettier --write **/*.yml",
     "test": "yamllint **/*.yml"
   },
   "dependencies": {
+    "prettier": "^2.1.2",
     "yaml-lint": "^1.2.4"
   }
 }

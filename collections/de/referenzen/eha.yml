@@ -1,8 +1,8 @@
 type: case
 
 theme:
-  text: '#000000'
-  background: '#E9F0F7'
+  text: "#000000"
+  background: "#E9F0F7"
 
 meta:
   title: EHA
@@ -26,7 +26,6 @@ details:
       - Software
       - Online Marketing
 
-
   - label: Leistungen
     value:
       - Konzeption
@@ -38,7 +37,6 @@ details:
       - Beratung
 
 body:
-
   - type: markdown
     body: |
       Seit mehr als fünf Jahren betreuen wir den Hamburger Energie-Dienstleister EHA als fester Designpartner.

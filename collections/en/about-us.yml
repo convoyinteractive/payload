@@ -6,7 +6,7 @@ meta:
 
   hero:
     type: image
-    alt: Convoy Agentur 
+    alt: Convoy Agentur
     path: images/convoy-agentur-hero
 
   alternates:
@@ -19,15 +19,15 @@ body:
   - type: markdown
     title: Digital Mindset
     body: |
-      Everything we do is about the ideal combination of design and technology. Our focus is on user experience design, user interface design, web and software development as well as all related strategic and technical consulting services. 
-      
+      Everything we do is about the ideal combination of design and technology. Our focus is on user experience design, user interface design, web and software development as well as all related strategic and technical consulting services.
+
   - type: markdown
     title: Success factors
     body: |
       In addition to professional know-how, our success factors are primarily respect, teamwork and transparency. That is why it’s so important for us to closely involve our customers in the development process in each project and to accompany them in a spirit of partnership. 
-      
+
       In this vein, we have already got more than 100 digital projects off the ground for a variety of industries since the foundation of our agency in Hamburg ten years ago.
-      
+
   - type: image
     alt: Convoy Interactive Agency
     path: images/convoy-agentur-video
@@ -42,7 +42,7 @@ body:
       This structure ensures flat hierarchies and short communication channels – and for a relaxed and trusting working environment. Our customers feel this, too: we have already been working successfully with many of them for several years. 
 
       [How we work](/en/process) {.cta}
-      
+
   - type: gallery
     items:
       - type: image
@@ -56,23 +56,23 @@ body:
       - type: image
         alt: Convoy Agentur Humor
         path: images/convoy-agentur-humor
-        
+
       - type: image
         alt: Convoy Agentur Tobias
         path: images/convoy-agentur-tobias
-        
+
       - type: image
         alt: Convoy Agentur Marc and Felix
         path: images/convoy-agentur-marc-felix
-        
+
       - type: image
         alt: Convoy Agentur Figure Collection
         path: images/convoy-agentur-figuren
-        
+
       - type: image
         alt: Convoy Agentur Entrance
         path: images/convoy-agentur-eingang
-        
+
   - type: list
     title: We can help you if …
     items:
@@ -81,11 +81,11 @@ body:
       - type: text
         body: you are looking for a reliable agency partner for your online marketing or for implementing your digital campaign.
       - type: text
-        body: you require support for digitalising processes or products. 
+        body: you require support for digitalising processes or products.
       - type: text
-        body: you need fast and reliable results, and lean and effective processes are important to you. 
+        body: you need fast and reliable results, and lean and effective processes are important to you.
       - type: text
-        body: you have difficulties keeping up with the many trends and technical possibilities. 
+        body: you have difficulties keeping up with the many trends and technical possibilities.
       - type: text
         body: quality and good design are not just “nice to have” for you, but essential components of your brand identity.
       - type: markdown
