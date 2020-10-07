@@ -46,7 +46,7 @@ body:
     path: images/cases/dreifragezeichen-homepage
     
   - type: markdown
-    caption: Eine neue Zentrale für die drei Detektive
+    title: Eine neue Zentrale für die drei Detektive
     body: |
       Mit mehr als 200 Episoden sind Justus Jonas, Peter Shaw und Bob Andrews seit Ende der 1970er Jahre nicht nur in deutschen Kinderzimmern Stammgäste. Anfangs in Buchform und später vor allem als Hörspielreihe hat die Serie längst Kultstatus erreicht.
       
