@@ -6,7 +6,7 @@ body:
 
   - type: lottie
     mode: loop
-    path: assets/workflow.json
+    path: assets/de/workflow.json
 
   - type: markdown
     title: Analysieren

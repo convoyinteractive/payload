@@ -6,7 +6,7 @@ body:
 
   - type: lottie
     mode: loop
-    path: assets/workflow.json
+    path: assets/en/workflow.json
 
   - type: markdown
     title: Analysing
@@ -26,6 +26,6 @@ body:
   - type: markdown
     title: Optimising
     body: |
-      In this phase, we validate and improve our approaches to solutions. We implement the best of them and document them in backlog or pattern libraries. 
+      In this phase, we validate and improve our approaches to solutions. We implement the best of them and document them in backlog or pattern libraries.
 
       This way we already anticipate during the course of the project any problems that might arise and can be certain that the solutions we have developed actually meet the needs of our customers and users and that they achieve the desired results.
