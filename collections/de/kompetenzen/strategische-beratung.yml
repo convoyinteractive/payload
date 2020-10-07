@@ -14,22 +14,20 @@ meta:
 body:
   - type: markdown
     body: |
-      Mit unserem Team aus Spezialisiten arbeiten wir iterativ entlang der Bedürfnisse Ihrer Nutzer. Dabei agieren wir als Außenstehende unbefangen und sehen Dinge aus einer anderen Perspektive. Am Ende entstehen so Lösungen, die das Potenzial Ihrer digitalen Produkte voll ausschöpfen.
-
+      Als digitale Experten haben wir nicht nur Gestaltung und Technologie einer einzelnen Maßnahme im Blick, sondern immer den gesamten Markenauftritt. Deshalb entwickeln wir Lösungen, mit denen Sie Ihre digitalen Chancen nutzen und Ihr Wachstum vorantreiben.
+  
   - type: definition
     title: Unsere Leistungen im Detail
     items:
       - type: markdown
         term: Analyse + Research
         body: |
-          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
-          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
-
+          Kein Projekt ohne sorgfältige Vorbereitung! Nur indem wir ein tiefgreifendes Verständnis von Kunde, Nutzer, Marke, Produkt und Wettbewerb erlangen, können wir Probleme frühzeitig erkennen und Potenziale identifizieren. 
+          
       - type: markdown
-        term: Beratung + Strategie
+        term: Strategische Beratung
         body: |
-          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
-          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
+          In einem gemeinsamen Kickoff-Workshop bringen wir alle Projektbeteiligten an einen Tisch und lernen Sie, Ihr Vorhaben und Ihre Nutzer genau kennen, priorisieren Anforderungen und definieren Ziele sowie KPIs. Je nach Bedarf und Umfang des Projekts widmen wir uns in weiteren Sessions ausführlich Themen wie User Experience, Design, Content oder Technik. Schwerpunkte und Inhalte bestimmen wir anhand dessen, was für das jeweilige Projekt sinnvoll und wichtig ist. 
 
       - type: markdown
         term: Stakeholder Workshops
@@ -40,9 +38,8 @@ body:
       - type: markdown
         term: Monitoring + Evaluation
         body: |
-          In einem gemeinsamen Kickoff-Workshop lernen wir Ihr Vorhaben und Ihre Zielgruppe kennen, priorisieren Anforderungen, definieren Ziele und KPIs.
-          Je nach Bedarf und Projektumfang widmen wir uns in weiteren Workshops ausführlich Themen wie User Experience, Design, Content oder Technik. Inhalte und Schwerpunkte bestimmen wir danach, was für Ihr Projekt und die beteiligten Stakeholder sinnvoll und wichtig ist.
-
+          Mit dem erfolgreichen Rollout eines Produktes oder Service ist der erste Milestone in der Regel erreicht. Damit die Maßnahme jedoch langfristig erfolgreich ist, unterstützen wir Sie auch über den Launch hinaus – zum Beispiel mit Qualitätsmanagement, kontinuierlicher Pflege, regelmäßigen Analysen, Reportings oder technischem Support.
+  
   - type: component
     title: Unser Workflow
     resource: process
