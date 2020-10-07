@@ -13,6 +13,6 @@ body:
 
   - type: collection
     resource: cases/architects-finest
-    
+
   - type: collection
     resource: referenzen/dreifragezeichen
