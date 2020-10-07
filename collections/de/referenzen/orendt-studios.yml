@@ -87,7 +87,7 @@ body:
         path: images/cases/orendtstudios-mobile-screen-4
 
   - type: quote
-    body: „Mit Convoy haben wir einen Agenturpartner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.“
+    body: Mit Convoy haben wir einen Agenturpartner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.
     author:
       name: Torsten Orendt
       title: Inhaber und CEO Orendt Studios Holding
@@ -96,9 +96,9 @@ body:
     caption: User Flow Maps und Wireframes sind hilfreiche Werkzeuge, um User Journey, Seitenaufbau und Inhaltsstruktur zu visualisieren und auf Schwachstellen zu prüfen.
     alias: group
     items:
-      - type: image
-        alt: Wireframe
-        path: images/cases/orendtstudios-wireframe
+      - type: lottie
+        mode: inview
+        path: assets/wireframe-1.json
       - type: image
         alt: Wireframe
         path: images/cases/orendtstudios-user-flow-map
