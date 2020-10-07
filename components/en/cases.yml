@@ -1,18 +1,1 @@
 body:
-  - type: collection
-    resource: cases/orendt-studios
-
-  - type: collection
-    resource: cases/ooigo
-
-  - type: collection
-    resource: referenzen/teamcast
-
-  - type: collection
-    resource: cases/eha
-
-  - type: collection
-    resource: cases/architects-finest
-
-  - type: collection
-    resource: referenzen/dreifragezeichen
