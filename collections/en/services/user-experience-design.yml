@@ -14,22 +14,22 @@ meta:
 body:
   - type: markdown
     body: |
-      In all that we do, we focus on the users, their needs, expectations and habits first. As outsiders we are unbiased and see things from a different perspective. This leads to applications that people believe in and that are actually used. 
+      In all that we do, we focus on the users, their needs, expectations and habits first. As outsiders we are unbiased and see things from a different perspective. This leads to applications that people believe in and that are actually used.
   - type: definition
     title: Our services in detail
     items:
       - type: markdown
         term: User research
         body: |
-          With the help of user journey maps we identify possible touchpoints as well as critical phases along the customer journey. We analyse when and how your products or services are applied and what is important to users in the process. Our aim is to understand needs and usage contexts and to bring them in line with your company’s requirements. 
+          With the help of user journey maps we identify possible touchpoints as well as critical phases along the customer journey. We analyse when and how your products or services are applied and what is important to users in the process. Our aim is to understand needs and usage contexts and to bring them in line with your company’s requirements.
       - type: markdown
         term: Usability testing
         body: |
-          We develop user interfaces taking into account the user, context and end device. Before pursuing an approach to solving the problem, we test usability and user experience extensively using prototypes. In addition, we support you in improving the usability of existing measures and applications in place. 
+          We develop user interfaces taking into account the user, context and end device. Before pursuing an approach to solving the problem, we test usability and user experience extensively using prototypes. In addition, we support you in improving the usability of existing measures and applications in place.
       - type: markdown
         term: Information architecture
         body: |
-          A logical page layout and an understandable structure are the basis for intuitive usability and a compelling user experience. User flows and wireframes help us to visualise and set up site maps and information architecture. This enables us to structure even complex information in such a way that users quickly find the contents that they are looking for. 
+          A logical page layout and an understandable structure are the basis for intuitive usability and a compelling user experience. User flows and wireframes help us to visualise and set up site maps and information architecture. This enables us to structure even complex information in such a way that users quickly find the contents that they are looking for.
       - type: markdown
         term: Conversion optimisation
         body: |
