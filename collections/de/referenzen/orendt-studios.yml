@@ -1,14 +1,18 @@
 type: case
 
+theme:
+  text: '#000000'
+  background: '#F2F4F0'
+
 meta:
   title: Orendt Studios
   subtitle: Corporate Website
 
+  image:
+    path: images/cases/orendtstudios-hero
+
   alternates:
     en: cases/orendt-studios
-
-  image:
-    path: images/cases/orendtstudios_hero
 
 details:
   - label: Kunde
@@ -22,54 +26,114 @@ details:
   - label: Leistungen
     value:
       - Konzeption
-      - UX/UI Design
+      - Content Strategy
+      - User Experience Design
+      - Responsive Web Design
       - Icon Design
       - Motion Design
-      - Augmented Reality
-      - Web Development
+      - 3D
+      - Frontend Development
+      - Backend Development
       - Beratung
 
 body:
   - type: markdown
     body: |
-      Anlässlich des 125-jährigen Jubiläums einer der weltweit traditionsreichsten Küchenmarken entwickelten wir eine Microsite, die neben Milestones der Unternehmensgeschichte auch zwei ganz neue Produktreihen präsentiert.
-
+      Die Orendt Studios Holding versammelt Europas größte Medienproduktion für digitalen Content und E-Commerce-Bildproduktion unter einem Dach. Im Rahmen einer strategischen Neuausrichtung wurde Convoy mit dem Relaunch des Onlineauftritts beauftragt.
+  
   - type: gallery
     alias: impressions
     items:
       - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
+        alias: screen
+        alt: Orendt Studios Website Portfolio
+        path: images/cases/orendtstudios-website-desktop
       - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
+        alias: screen
+        alt: Orendt Studios Case
+        path: images/cases/orendtstudios-website-desktop-case
       - type: image
-        sizes:
-          small: images/cases/orendtstudios_website_desktop
-          large: images/cases/orendtstudios_website_desktop
+        alias: screen
+        alt: Orendt Studios Services Icons
+        path: images/cases/orendtstudios-website-desktop-services
+      - type: image
+        alias: screen
+        alt: Orendt Studios by Numbers
+        path: images/cases/orendtstudios-website-desktop-numbers
+
+  - type: markdown
+    title: Picture Perfect
+    body: |
+      Der überwiegende Teil der Kunden von Orendt Studios stammt aus dem Fashion-Bereich. Darum setzten wir für den Relaunch der Holding-Website auf ein puristisches Layout und starke Schwarz-Weiß-Kontraste. So ist eine ideale Bühne entstanden für den farbenfrohen, visuell ansprechenden Content, den wir großformatig in Szene setzen.
 
   - type: gallery
     alias: group
     items:
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_1
-          large: images/cases/orendtstudios_mobile_screen_1
+        alt: Mobile Layout Bogner Case
+        path: images/cases/orendtstudios-mobile-screen-1
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_2
-          large: images/cases/orendtstudios_mobile_screen_2
+        alt: Mobile Layout E-Commerce Case
+        path: images/cases/orendtstudios-mobile-screen-2
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_3
-          large: images/cases/orendtstudios_mobile_screen_3
+        alt: Mobile Layout Liebeskind Case
+        path: images/cases/orendtstudios-mobile-screen-3
       - type: image
         alias: phone
-        sizes:
-          small: images/cases/orendtstudios_mobile_screen_4
-          large: images/cases/orendtstudios_mobile_screen_4
+        alt: Mobile Layout Portfolio
+        path: images/cases/orendtstudios-mobile-screen-4
+
+  - type: quote
+    body: „Mit Convoy haben wir einen Agenturpartner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.“
+    author:
+      name: Torsten Orendt
+      title: Inhaber und CEO Orendt Studios Holding
+
+  - type: gallery
+    caption: User Flow Maps und Wireframes sind hilfreiche Werkzeuge, um User Journey, Seitenaufbau und Inhaltsstruktur zu visualisieren und auf Schwachstellen zu prüfen.
+    alias: group
+    items:
+      - type: image
+        alt: Wireframe
+        path: images/cases/orendtstudios-wireframe
+      - type: image
+        alt: Wireframe
+        path: images/cases/orendtstudios-user-flow-map
+        
+  - type: markdown
+    title: Content im Kontext
+    body: |
+      Kernstück der neuen Website sind die aufwendig inszenierten Case Studies. Für jedes Projekt wurde ein virtueller Raum konzipiert und auf das Branding des jeweiligen Kunden abgestimmt. Dadurch erscheint der von Orendt Studios produzierte Content direkt im richtigen Kontext. Zudem erleichtert der modulare Aufbau die Inhaltspflege und das Erstellen weiterer Cases.
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios Seiteneinstieg Case Juvia
+    path: images/cases/orendtstudios-video-placeholder-juvia
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios Seiteneinstieg Case Boger
+    path: images/cases/orendtstudios-video-placeholder-bogner
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios Seiteneinstieg Case s.Oliver
+    path: images/cases/orendtstudios-video-placeholder-soliver
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios Seiteneinstieg Case Comma
+    path: images/cases/orendtstudios-video-placeholder-comma
+    
+  - type: markdown
+    title: Eine Landing-Page für jede Unit
+    body: |
+      Für die drei Units „Photo“, „Film“ und „CGI-Visualisierung“ haben wir eigene, teils sehr umfangreiche Landing-Pages erstellt, mit Absprungmöglichkeiten zu weiteren Inhalten. Dank einer Übersicht am Seitenende erfassen User das jeweilige Leistungsangebot innerhalb weniger Sekunden.
+ 
+  - type: image
+    alias: screen
+    alt: Orendt Studios Webdesign
+    path: images/cases/orendtstudios-website-desktop-komplete
