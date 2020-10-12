@@ -99,9 +99,9 @@ body:
       - type: lottie
         mode: inview
         path: assets/wireframe-1.json
-      - type: image
-        alt: Wireframe
-        path: images/cases/orendtstudios-user-flow-map
+      - type: lottie
+        mode: inview
+        path: assets/wireframe-2.json
 
   - type: markdown
     title: Content im Kontext
@@ -111,22 +111,22 @@ body:
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Juvia
-    path: images/cases/orendtstudios-video-placeholder-juvia
+    path: videos/orendt-3d-animation-juvia
 
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Boger
-    path: images/cases/orendtstudios-video-placeholder-bogner
+    path: videos/orendt-3d-animation-bogner
 
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case s.Oliver
-    path: images/cases/orendtstudios-video-placeholder-soliver
+    path: videos/orendt-3d-animation-s-oliver
 
   - type: image
     alias: screen
-    alt: Orendt Studios Seiteneinstieg Case Comma
-    path: images/cases/orendtstudios-video-placeholder-comma
+    alt: Orendt Studios Seiteneinstieg Case Liebeskind Berlin
+    path: videos/orendt-3d-animation-liebeskind-berlin
 
   - type: markdown
     title: Eine Landing-Page für jede Unit
