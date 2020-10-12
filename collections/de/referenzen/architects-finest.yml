@@ -70,16 +70,16 @@ body:
     items:
       - type: image
         alias: phone
-        path: images/cases/architects-finest-screen-mobile-1
+        path: videos/architects-finest-mobile-screen-1
       - type: image
         alias: phone
-        path: images/cases/architects-finest-screen-mobile-2
+        path: videos/architects-finest-mobile-screen-2
       - type: image
         alias: phone
-        path: images/cases/architects-finest-screen-mobile-3
+        path: videos/architects-finest-mobile-screen-3
       - type: image
         alias: phone
-        path: images/cases/architects-finest-screen-mobile-4
+        path: videos/architects-finest-mobile-screen-4
 
   - type: markdown
     title: 3D-Animationen für ein emotionales Produkterlebnis
