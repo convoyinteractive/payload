@@ -56,7 +56,7 @@ body:
     alt: Ooigo Website
     caption: Die Homepage der Ooigo-Website liefert einen kompakten Überblick über die wichtigsten Features der App.
     alias: screen
-    path: videos/ooigo-website-scroll
+    path: videos/cases/ooigo-website-scroll
 
   - type: image
     alt: Individuell gestaltete Interessen-Icons
@@ -93,22 +93,22 @@ body:
         alias: phone
         color: "#FFFFFF"
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
-        path: videos/ooigo-screen-1
+        path: videos/cases/ooigo-screen-1
       - type: image
         alias: phone
         color: "#FFFFFF"
         alt: Ooigo Hörspiel Loading Screen Animation Luftballon
-        path: videos/ooigo-screen-2
+        path: videos/cases/ooigo-screen-2
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Seilspringen
         alias: phone
         color: "#FFFFFF"
-        path: videos/ooigo-screen-3
+        path: videos/cases/ooigo-screen-3
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Pipimachen
         alias: phone
         color: "#FFFFFF"
-        path: videos/ooigo-screen-4
+        path: videos/cases/ooigo-screen-4
 
   - type: image
     alt: Ooigo Character Illustration
