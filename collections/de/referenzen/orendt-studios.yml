@@ -111,22 +111,22 @@ body:
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Juvia
-    path: videos/orendt-3d-animation-juvia
+    path: videos/cases/orendt-3d-animation-juvia
 
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Boger
-    path: videos/orendt-3d-animation-bogner
+    path: videos/cases/orendt-3d-animation-bogner
 
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case s.Oliver
-    path: videos/orendt-3d-animation-s-oliver
+    path: videos/cases/orendt-3d-animation-s-oliver
 
   - type: image
     alias: screen
     alt: Orendt Studios Seiteneinstieg Case Liebeskind Berlin
-    path: videos/orendt-3d-animation-liebeskind-berlin
+    path: videos/cases/orendt-3d-animation-liebeskind-berlin
 
   - type: markdown
     title: Eine Landing-Page für jede Unit
