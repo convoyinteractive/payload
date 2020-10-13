@@ -65,9 +65,7 @@ body:
   - type: markdown
     title: Emotionales Produkterlebnis
     body: |
-    Die Story erzählen wir auf zwei Ebenen: Produkte werden farbig und großformatig präsentiert, ergänzt um schwarzweiße Momentaufnahmen, die die Produktkommunikation emotional aufladen. Verstärkt wird dieser Eindruck durch die verwendeten Schriften: auf der einen Seite eine sachlich-informative Grotesk, auf der anderen Seite eine leicht anmutende Kursive. 
-
-    Durch die Kombination dieser Elemente entsteht ein visuell spannender Seitenaufbau, der Besucher durch die Story führt. Das variable Layoutraster wird auf jeder Unterseite neu interpretiert und sorgt so für Abwechslung.
+      Die Story erzählen wir auf zwei Ebenen: Produkte werden farbig und großformatig präsentiert, ergänzt um schwarzweiße Momentaufnahmen, die die Produktkommunikation emotional aufladen. Verstärkt wird dieser Eindruck durch die verwendeten Schriften: auf der einen Seite eine sachlich-informative Grotesk, auf der anderen Seite eine leicht anmutende Kursive. Durch die Kombination dieser Elemente entsteht ein visuell spannender Seitenaufbau, der Besucher durch die Story führt. Das variable Layoutraster wird auf jeder Unterseite neu interpretiert und sorgt so für Abwechslung.
 
   - type: gallery
     alias: group
