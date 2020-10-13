@@ -16,6 +16,6 @@ body:
 
   - type: collection
     resource: referenzen/dreifragezeichen
-    
+
   - type: collection
     resource: referenzen/poggenpohl
