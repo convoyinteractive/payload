@@ -1,0 +1,26 @@
+type: case
+
+theme:
+  text: "#000000"
+  background: "#E8EDE3"
+
+meta:
+  title: Poggenpohl
+  subtitle: Microsite
+
+  image:
+    sizes: 
+      small: images/cases/poggenpohl-hero-mobile
+      large: images/cases/poggenpohl-hero
+
+  alternates:
+    de: referenzen/poggenpohl
+
+details:
+  - label: Kunde
+    value:
+      -  Poggenpohl
+
+  - label: Projekt
+    value:
+      - Microsite
