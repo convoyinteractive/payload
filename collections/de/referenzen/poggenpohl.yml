@@ -9,7 +9,7 @@ meta:
   subtitle: Microsite
 
   image:
-    sizes: 
+    sizes:
       small: images/cases/poggenpohl-hero-mobile
       large: images/cases/poggenpohl-hero
 
@@ -19,7 +19,7 @@ meta:
 details:
   - label: Kunde
     value:
-      -  Poggenpohl
+      - Poggenpohl
 
   - label: Projekt
     value:
@@ -57,7 +57,7 @@ body:
       Der Einstieg in die Microsite erfolgt über die wichtigsten Milestones der Poggenpohl-Unternehmensgeschichte. Auf der Startseite durchscrollt man diese in chronologischer Reihenfolge, bis man am Seitenende in der Gegenwart angekommen ist. Dort präsentieren sich dem Website-Besucher zwei neue Küchenserien. Ein Klick auf einen der beiden Teaser führt tiefer in die Seite und direkt zum ausgewählten Produkt.
 
   - type: image
-    alt: Poggenpohl Website 
+    alt: Poggenpohl Website
     caption: Im Hintergrund laufen Archivaufnahmen in Schleife, während man von oben nach unten durch die Geschichte scrollt.
     alias: screen
     path: videos/cases/poggenpohl-website-scroll
@@ -69,21 +69,21 @@ body:
 
   - type: gallery
     alias: group
-    items: 
+    items:
       - type: image
-        alias: phone 
+        alias: phone
         color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-1
       - type: image
-        alias: phone 
+        alias: phone
         color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-2
       - type: image
-        alias: phone 
+        alias: phone
         color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-3
       - type: image
-        alias: phone 
+        alias: phone
         color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-4
 
