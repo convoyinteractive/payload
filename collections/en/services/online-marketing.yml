@@ -4,6 +4,10 @@ meta:
   title: Online Marketing
   subtitle: Services
 
+  hero:
+    type: lottie
+    path: assets/online-marketing.json
+
   alternates:
     de: kompetenzen/online-marketing
 
