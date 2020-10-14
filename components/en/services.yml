@@ -1,5 +1,6 @@
 body:
   - type: markdown
+    link: /en/services/user-experience-design
     title: User Experience Design
     body: We find the best individual solution for each target group and each use case.
     addon:
@@ -7,6 +8,7 @@ body:
       path: assets/user-experience-design_small.json
 
   - type: markdown
+    link: /en/services/user-interface-design
     title: User Interface Design
     body: We design attractive and intuitive user interfaces.
     addon:
@@ -14,6 +16,7 @@ body:
       path: assets/user-inerface-design_small.json
 
   - type: markdown
+    link: /en/services/web-app-development
     title: Web + App Development
     body: We develop future-proof solutions with the help of state-of-the-art technologies.
     addon:
@@ -21,6 +24,7 @@ body:
       path: assets/web-app-development_small.json
 
   - type: markdown
+    link: /en/services/strategic-consulting
     title: Strategic Consulting
     body: We conceptualise solutions for you to take advantage of your digital opportunities.
     addon:
@@ -28,6 +32,7 @@ body:
       path: assets/strategic-consulting_small.json
 
   - type: markdown
+    link: /en/services/online-marketing
     title: Online Marketing
     body: We make sure that your communication attracts attention and is remembered.
     addon:
