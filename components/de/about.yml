@@ -11,3 +11,7 @@ body:
   - type: link
     label: Jobs
     path: /de/jobs
+    
+  - type: image
+    path: images/humorpille
+    alt: Mit Spaß bei der Arbeit
