@@ -16,7 +16,9 @@ body:
       ## Convoy ist eine mehrfach ausgezeichnete Digitalagentur aus Hamburg. Wir planen, gestalten und realisieren einzigartige digitale Erlebnisse für Menschen und Marken.
 
   - type: video
-    url: //vimeo.com/
+    alias: showreel
+    preview:
+    path:
 
   - type: quote
     body: Purpose of a convoy is to keep movin’.
