@@ -1,5 +1,7 @@
 type: case
 
+name: eha
+
 theme:
   text: "#000000"
   background: "#E9F0F7"

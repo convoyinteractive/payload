@@ -1,5 +1,7 @@
 type: case
 
+name: orendt-studios
+
 theme:
   text: "#000000"
   background: "#F2F4F0"
