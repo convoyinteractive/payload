@@ -45,11 +45,23 @@ body:
       - type: image
         alias: screen
         alt: Poggenpohl Website Portfolio
-        path: images/cases/poggenpohl-website-1
+        path: images/cases/poggenpohl-website-desktop-01
       - type: image
         alias: screen
         alt: Poggenpohl Website Portfolio
-        path: images/cases/poggenpohl-website-1
+        path: images/cases/poggenpohl-website-desktop-02
+      - type: image
+        alias: screen
+        alt: Poggenpohl Website Portfolio
+        path: images/cases/poggenpohl-website-desktop-03
+      - type: image
+        alias: screen
+        alt: Poggenpohl Website Portfolio
+        path: images/cases/poggenpohl-website-desktop-04
+      - type: image
+        alias: screen
+        alt: Poggenpohl Website Portfolio
+        path: images/cases/poggenpohl-website-desktop-05
 
   - type: markdown
     title: Aus Rückblick wird Ausblick
