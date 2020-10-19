@@ -1,5 +1,7 @@
 type: case
 
+name: poggenpohl
+
 theme:
   text: "#000000"
   background: "#E8EDE3"
