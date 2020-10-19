@@ -26,16 +26,16 @@ body:
       - type: markdown
         term: Usability Testing
         body: |
-          User Interfaces entwickeln wir unter Berücksichtigung von Nutzer, Kontext und Endgerät. Bevor wir einen Lösungsansatz weiterverfolgen, testen wir Usability und User Experience ausführlich anhand von Prototypen. Darüber hinaus unterstützen wir Sie dabei, die Usability von bestehenden Maßnahmen und Anwendungen zu verbessern.
+          User Interfaces entwickeln wir unter Berücksichtigung von Nutzer, Kontext und Endgerät. Bevor wir einen Lösungsansatz weiterverfolgen, testen wir Usability und User Experience ausführlich anhand von Prototypen. Darüber hinaus unterstützen wir Sie dabei, die Usability von bestehenden Maßnahmen und Anwendungen zu verbessern.      
       - type: markdown
         term: Information Architecture
         body: |
-          Ein schlüssiger Seitenaufbau und eine nachvollziehbare Struktur bilden die Basis für intuitive Nutzbarkeit und eine überzeugende User Experience. User Flows und Wireframes helfen uns bei Visualisierung und Aufbau von Sitemaps und Informationsarchitektur. Dadurch können wir selbst komplexe Informationen so strukturieren, dass Nutzer schnell die Inhalte finden, die sie suchen.
+          Ein schlüssiger Seitenaufbau und eine nachvollziehbare Struktur bilden die Basis für intuitive Nutzbarkeit und eine überzeugende User Experience. User Flows und Wireframes helfen uns bei Visualisierung und Aufbau von Sitemaps und Informationsarchitektur. Dadurch können wir sogar komplexe Informationen so strukturieren, dass Nutzer schnell die Inhalte finden, die sie suchen.
       - type: markdown
         term: Conversion Optimierung
         body: |
-          Selbst die anwenderfreundlichste Marketing-Maßnahme ist nur dann erfolgreich, wenn sie auf Ihre Unternehmensziele einzahlt und messbare Resultate liefert. Damit wir digitale Services oder Angebote optimal planen können, müssen wir Zielgruppe und Nutzungskontext verstehen. So können wir Inhalte nicht nur suchmaschinenfreundlich, sondern vor allem bedarfsgerecht gestalten. Darüber hinaus helfen klare Zielvorgaben bei Tracking und Auswertung von Leads und Conversions.
-
+          Selbst die anwenderfreundlichste Marketing-Maßnahme ist nur dann erfolgreich, wenn sie auf Ihre Unternehmensziele einzahlt und messbare Resultate liefert. Damit wir digitale Services oder Angebote optimal planen können, müssen wir Zielgruppe und Nutzungskontext verstehen. So können wir Inhalte nicht nur suchmaschinenfreundlich, sondern vor allem bedarfsgerecht gestalten. Klare Zielvorgaben sind außerdem nützlich bei Tracking und Auswertung von Leads und Conversions.
+  
   - type: component
     title: Weitere Kompetenzen
     resource: services
