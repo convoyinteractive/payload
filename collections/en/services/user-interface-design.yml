@@ -10,3 +10,30 @@ meta:
 
   alternates:
     de: kompetenzen/user-interface-design
+
+body:
+  - type: markdown
+    body: |
+      We attach great importance to clear and consistent designs, which we create on a systematic and modular footing and document in pattern libraries. We look for the best individual solution for each target group and every use case – for you to inspire new customers and retain existing ones.
+  - type: definition
+    title: Our services in detail
+    items:
+      - type: markdown
+        term: User interface design
+        body: |
+          We create appealing and intuitively operable user interfaces and interaction processes. In so doing, we make sure that users understand even complex contents and functions quickly and achieve respective targets easily. By putting a good deal of work into every detail, we give your website or app an individual look that allows your brand to be experienced digitally.
+      - type: markdown
+        term: Responsive web design
+        body: |
+          We set web designs up responsively and thus optimised for all end devices. In so doing, we follow the mobile first principle: we begin with the smallest screen resolution, then scale our designs systematically and consistently upwards, adapting them to the specific requirements of larger and larger screens.
+      - type: markdown
+        term: Interaction design
+        body: |
+          State-of-the-art websites are much more than static screens. By integrating animations, videos and micro-interactions, we create exciting digital experiences that provide not just for an exceptional look but also the appropriate feel. This intensifies the enjoyment of use, guarantees higher involvement on part of the user and thus attracts more attention for your products.
+      - type: markdown
+        term: Design systems + pattern libraries
+        body: |
+          We devise designs systematically according to the atomic design principle. We break down our layouts in little building blocks and document these in design libraries or living styleguides. This way, we not only ensure the greatest possible consistency in terms of implementation, but also create a Single Source of Truth (SSOT) for long-term further development.
+  - type: component
+    title: Further Services
+    resource: services

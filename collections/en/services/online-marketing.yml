@@ -4,5 +4,44 @@ meta:
   title: Online Marketing
   subtitle: Services
 
+  hero:
+    type: lottie
+    path: assets/online-marketing.json
+
   alternates:
     de: kompetenzen/online-marketing
+
+body:
+  - type: markdown
+    body: |
+      Every user experience is also a brand experience. We bring your brand’s DNA to life – consistently across all touchpoints, on every platform and in each medium. So that you stand out and remain etched on your customers’ memories.
+  - type: definition
+    title: Our services in detail
+    items:
+      - type: markdown
+        term: Digital Branding
+        body: |
+          In addition to implementing various online marketing measures we also support you in sharpening your branding. By analysing and developing existing design specifications or adapting styleguides or guidelines for the use in digital channels, we set the foundation for both an appealing and consistent brand presence.
+      - type: markdown
+        term: Landungpages- + Microsites
+        body: |
+          We develop concepts that stage products and messages in line with the branding and at the same time generate traffic and leads. But what’s even more important: we make brands become a digital experience for your target group. Whether campaign website, microsite or landing page – the interaction isn’t just fun, but also leaves a lasting favourable impression.
+      - type: markdown
+        term: Display Advertising
+        body: |
+          …
+      - type: markdown
+        term: Newsletter + e-mail campaigns
+        body: |
+          In the field of e-mail marketing, we support you with the concept and implementation of mailings and campaigns. In addition to the design, this usually includes templating. Depending on your requirements, we also provide support in conceiving and creating contents as well as in statistical campaign evaluations. For processing and dispatch, we use service providers such as MailChimp or CleverReach.
+      - type: markdown
+        term: Social media campaigns
+        body: |
+          …
+      - type: markdown
+        term: Content creation
+        body: |
+          …
+  - type: component
+    title: Further services
+    resource: services

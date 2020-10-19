@@ -4,5 +4,42 @@ meta:
   title: Online Marketing
   subtitle: Kompetenzen
 
+  hero:
+    type: lottie
+    path: assets/online-marketing.json
+
   alternates:
     de: services/online-marketing
+
+body:
+  - type: markdown
+    body: |
+      Jedes Nutzererlebnis ist zugleich ein Markenerlebnis. Wir erwecken die DNA Ihrer Marke zum Leben – konsequent über alle Touchpoints, auf jeder Plattform und in jedem Medium. Damit Sie auffallen und Ihren Kunden im Gedächtnis bleiben.
+
+  - type: definition
+    title: Unsere Leistungen im Detail
+    items:
+      - type: markdown
+        term: Digital Branding
+        body: |
+          Neben der Umsetzung diverser Online-Marketing-Maßnahmen unterstützen wir Sie auch bei der Schärfung Ihres Brandings. Indem wir bestehende Designvorgaben analysieren, weiterentwickeln und Stylguides oder Guidelines für die Anwendung in digitalen Kanälen anpassen, schaffen wir das Fundament für einen gleichermaßen ansprechenden wie einheitlichen Markenauftritt.
+      - type: markdown
+        term: Kampagnen- + Microsites
+        body: |
+          Wir entwickeln Konzepte, die Produkte und Botschaften markenkonform inszenieren und gleichzeitig Traffic und Leads generieren. Aber noch wichtiger: Wir machen Marken für Ihre Zielgruppe digital erlebbar. Ganz gleich ob Kampagnen-Website, Microsite oder Landing-Page – die Momente der Interaktion machen nicht nur Spaß, sondern hinterlassen einen bleibenden Eindruck.
+      - type: markdown
+        term: Display Advertising
+        body: |
+          Sie planen eine Ads-Kampagne im Google Display Network oder auf Social Media-Plattformen? Wir heflen Ihnen nicht nur bei der Planung und Steuerung, sondern stehen Ihnen mit unseren umfassenden Kenntnissen auch bei der Kreation, Erstellung und Optimierung aller benötigten Assets zur Seite. Damit Sie Ihre Zielvorhaben erreichen und Ihr Budget optimal aussteuern.
+      - type: markdown
+        term: Newsletter + E-Mail-Kampagnen
+        body: |
+          Im Bereich E-Mail-Marketing greifen wir Ihnen bei der Konzeption und Umsetzung von Mailings und Kampagnen unter die Arme. Das beinhaltet neben der Gestaltung in der Regel auch das Templating. Außerdem unterstützen wir auch bei der Konzeption und Erstellung von Content sowie bei der Kampagnen-Auswertung. Für Abwicklung und Versand nutzen wir Service-Provider wie MailChimp oder CleverReach.
+      - type: markdown
+        term: Content Creation
+        body: |
+          Falls gewünscht, stehen wir als externe Redaktion für die Content-Produktion bereit. So übernehmen wir beispielsweise die Themenrecherche und die Erstellung professioneller Texte für Websites, Mailings, Kampagnen, Blogs oder Online-Magazine. Darüber hinaus kümmern wir uns auch um Themen wie Bildrecherche, Art-Buying, Layout oder Photo- und Videoproduktion – für ein starkes Content-Gesamtpaket.
+
+  - type: component
+    title: Weitere Kompetenzen
+    resource: services

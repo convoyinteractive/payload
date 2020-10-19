@@ -10,3 +10,32 @@ meta:
 
   alternates:
     de: services/user-interface-design
+
+body:
+  - type: markdown
+    body: |
+      Wir legen Wert auf klare Designs aus einem Guss, die wir systematisch und modular erstellen und in Pattern Libraries dokumentieren. Dabei suchen wir die jeweils beste Lösung für jede Zielgruppe und jeden Use Case. Damit Sie neue Kunden begeistern und bestehende binden.
+
+  - type: definition
+    title: Unsere Leistungen im Detail
+    items:
+      - type: markdown
+        term: User Interface Design
+        body: |
+          Wir gestalten ansprechende und intuitiv bedienbare digitale Nutzeroberflächen und Interaktionsprozesse. Indem wir viel Arbeit in jedes Detail stecken, verleihen wir Ihrer Website oder App einen individuellen Look, der Ihre Marke digital erlebbar macht. Dabei stellen wir sicher, dass Anwender auch komplexe Inhalte und Funktionen schnell erfassen und einfach ans jeweilige Ziel gelangen.
+      - type: markdown
+        term: Responsive Web Design
+        body: |
+          Web Designs legen wir responsiv und damit optimiert für jedes Endgerät an. Dabei verfahren wir nach dem Mobile First Prinzip: Wir starten mit der kleinsten Bildschirmauflösung, skalieren unsere Designs dann systematisch nach oben und passen sie dabei den spezifischen Anforderungen größerer und großer Screens an.
+      - type: markdown
+        term: Interaction Design
+        body: |
+          Moderne Websites und Anwendungen sind viel mehr als statische Screens. Durch die Integration von Animationen, Videos und Micro-Interactions gestalten wir digitale Erlebnisse, die begeistern. Neben dem außergewöhnlichen Look sorgen wir auch für das entsprechende Feel. Das verstärkt den Joy of Use, garantiert ein höheres Involvement der Nutzer und schafft so mehr Aufmerksamkeit für Ihre Produkte.
+      - type: markdown
+        term: Design-Systems + Pattern Libraries
+        body: |
+          Designs erstellen wir systematisch nach dem Atomic-Design-Prinzip. Dabei zerlegen wir unsere Layouts in kleine Bausteine und dokumentieren diese in Design-Bibliotheken oder Living Styleguides. Dadurch sorgen wir nicht nur für größtmögliche Konsistenz in der Umsetzung, sondern schaffen eine Single Source of Truth (SSOT) für eine nachhaltige Weiterentwicklung.
+
+  - type: component
+    title: Weitere Kompetenzen
+    resource: services
