@@ -47,12 +47,12 @@ type: component
 resource: path/to/your/component
 ```
 
-## External Contributions
-The project is maintained by the convoyinteractive organization and is closed to contributions from the organization members only. Nevertheless, if you think you can improve our content or if you have found a typo somewhere, feel free to send in a PR.
+## Contribution Guide
+Doing one thing at a time – keep your PRs small, so they are easier to review and we can keep our release cycles short.
 
-## General Contributions Guide
-Doing one thing at a time – keep your PRs small, so its easier to review and we can keep our release cycles short.
-
-Remember, all bugfixes like typos, broken links etc. should be sent to the `production` branch. Bug fixes should never be sent to the `master` branch unless they fix contents that exist only in the upcoming release.
+Remember, all bug fixes like typos, broken links etc. should be sent to the `production` branch. Bug fixes should never be sent to the `master` branch unless they fix contents that exist only in the upcoming release.
 
 New content or updates should be sent to the `master` branch which contains the upcoming release.
+
+### External Contributors
+The project is maintained by the convoyinteractive organization and is closed to contributions from the organization members only. Nevertheless, if you think you can improve our content or if you have found a typo somewhere, feel free to send in a PR.
