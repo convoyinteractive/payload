@@ -15,7 +15,7 @@ body: Purpose of a convoy is to keep movin’.
 ```
 
 ### Collection components
-As its name implies, a collection components collects other components. So you may group your content to provide a much better structure. A collection component must include a ***type*** and a ***items*** attribute but its by far not limited to this attributes.
+As its name implies, a collection component collects other components. So you may group your content to provide a much better structure. A collection component must include a ***type*** and a ***items*** attribute but its by far not limited to this attributes.
 
 Supported component types: `definition`, `gallery`, `group`, `list`
 
