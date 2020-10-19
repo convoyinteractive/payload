@@ -42,7 +42,6 @@ body:
   - type: markdown
     body: |
       Die Orendt Studios Holding versammelt Europas größte Medienproduktion für digitalen Content und E-Commerce-Bildproduktion unter einem Dach. Im Rahmen einer strategischen Neuausrichtung wurde Convoy mit dem Relaunch des Onlineauftritts beauftragt.
-
   - type: gallery
     alias: impressions
     items:
@@ -100,10 +99,10 @@ body:
     items:
       - type: lottie
         mode: inview
-        path: assets/wireframe-1.json
+        path: assets/orendt-wireframe.json
       - type: lottie
         mode: inview
-        path: assets/wireframe-2.json
+        path: assets/orendt-userflow.json
 
   - type: markdown
     title: Content im Kontext
