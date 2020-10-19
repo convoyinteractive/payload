@@ -44,7 +44,7 @@ body:
   - type: markdown
     body: |
       Im Rahmen der Markteinführung von Architects’ Finest, der Farbton-Kollektion für gehobene Wohnansprüche von Schöner Wohnen Farbe, wurden wir mit der Konzeption und Umsetzung einer Microsite beauftragt. Darüber hinaus sind wir verantwortlich für die Strategie und Umsetzung der begleitenden Social Media-Kampagne sowie für die Produktion diverser Online-Werbemittel.
-
+  
   - type: image
     alias: screen
     alt: Architects Finest Microsite Desktop
@@ -54,7 +54,7 @@ body:
     title: Jedem Farbton seine Story
     body: |
       Die Microsite stellt alle sechzehn Farbtöne von Architects’ Finest auf eigenen Landing-Pages vor. Jede davon zeigt hochwertige Interioraufnahmen, listet allgemeine Produktinformationen auf und erzählt die Entstehungsgeschichte des jeweiligen Farbtons.
-
+  
   - type: image
     alias: screen
     alt: Architects Finest Microsite Desktop
@@ -64,7 +64,7 @@ body:
     title: Interaktives Storytelling
     body: |
       Die Geschichte hinter Architects’ Finest vermitteln wir auf besondere Art und Weise: Beim ersten Aufruf der Microsite werden Besucher in sieben kurzen Episoden durch die Story geführt und erschließen sich diese eigenständig mit wenigen Klicks oder Swipes. Das Keyvisual am Seitenende führt tiefer in die Seite, direkt zu den einzelnen Farbtönen der Kollektion.
-
+  
   - type: gallery
     alias: group
     items:
@@ -85,7 +85,7 @@ body:
     title: 3D-Animationen für ein emotionales Produkterlebnis
     body: |
       Produktdarstellungen auf Websites haben einen entscheidenden Nachteil: die fehlende Haptik. Da wir die Wertigkeit des Architects’ Finest Packagings auch über die Microsite vermitteln möchten, haben wir mehrere 3D-Animationen erstellt, von denen sich jede einem besonderen Detail der Farbdose widmet.
-
+  
   - type: image
     caption: Eigens kreierte 3D-Animationen highlighten die besonderen Eigenschaften des Architects’ Finest Produkt-Packagings.
     alt: Architects’ Finest Packaging 3D-Animation
@@ -101,7 +101,7 @@ body:
     title: Social Media gleich mitgedacht
     body: |
       Im Anschluss an den Launch der Microsite adaptierten wir unser Konzept auf den Social Media-Bereich. Grundlage dafür bildete eine detaillierte strategische Analyse relevanter Zielgruppen sowie geeigneter Plattformen und Formate. Dort erzählen wir die Story unter Berücksichtigung der spezifischen Eigenschaften der jeweiligen Kanäle konsistent weiter. Innerhalb kurzer Zeit konnten wir so eine solide Fanbase aufbauen und Reichweiten kontinuierlich steigern.
-
+  
   - type: image
     alt: Social Media
     path: images/cases/architects-finest-social-media-logos
