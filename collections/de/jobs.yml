@@ -45,10 +45,8 @@ body:
         body: Einen Platz in einem Team aus netten und kompetenten Kolleginnen und Kollegen.
       - type: text
         body: Ein inspirierendes Arbeitsumfeld in einem schicken Büro mit Blick über Sankt Pauli.
-      - type: markdown
       - type: text
         body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
-      - type: markdown
 
   - type: component
     resource: jobs
