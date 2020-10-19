@@ -49,7 +49,7 @@ body:
         body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
 
   - type: definition
-    title: Aktuell suchen wir
+    term: Aktuell suchen wir
     items:
       - type: collection
         title: Praktikant User Interface Design (m/w/d)
