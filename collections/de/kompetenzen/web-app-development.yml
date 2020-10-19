@@ -15,18 +15,18 @@ body:
   - type: markdown
     body: |
       Auch die beste Idee kann ihre Wirkung nur entfalten, wenn wir sie technisch perfekt umsetzen. Deshalb bauen wir auf zukunftssichere Technologien und entwickeln performante, stabile und nachhaltige Lösungen.
-
+  
   - type: definition
     title: Unsere Leistungen im Überblick
     items:
       - type: markdown
         term: Websites + E-Commerce
         body: |
-          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content-Management-Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS.
+          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content Management Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS. 
       - type: markdown
         term: Web-Apps + Cloud-Services
         body: |
-          Für die Entwicklung von Cloud-Services, WebApps und Micro-Services setzen wir auf Frameworks wie Laravel oder Lumen. Realtime Communication schaffen wir mit Hilfe von WebSockets und NodeJS und entwickeln reaktive User-Interfaces mit modernen JavaScript Frameworks wie React oder Vue.
+          Für die Entwicklung von Cloud-Services, WebApps und Micro-Services setzen wir auf Frameworks wie Laravel oder Lumen. Realtime Communication ermöglichen wir mit Hilfe von WebSockets und NodeJS. Reaktive User-Interfaces entwickeln wir mit modernen JavaScript Frameworks wie React oder Vue.
       - type: markdown
         term: Mobile + Desktop Apps
         body: |
@@ -38,7 +38,7 @@ body:
       - type: markdown
         term: Search Engine Optimization (SEO)
         body: |
-          Damit Ihre Website, Microsite oder Landing-Page nicht nur technisch perfekt umgesetzt, sondern auch schnell gefunden wird, optimieren wir sie für eine bestmögliche Platzierung in Suchmaschinen. Mit unserem umfangreichen Know-How unterstützen wir Sie bei der Planung Ihres Launchs oder Relaunchs und begleiten Sie selbstverständlich auch darüber hinaus. So sorgen wir dafür, dass bestehende Rankings erhalten bleiben und neuer Traffic und wertvolle Leads generiert werden.
+          Damit Ihre Website, Microsite oder Landing-Page auch schnell gefunden wird, optimieren wir sie für eine bestmögliche Platzierung in Suchmaschinen. Mit umfangreichem Know-how unterstützen wir Sie bei der Planung Ihres Launchs oder Relaunchs und begleiten Sie selbstverständlich auch darüber hinaus. So sorgen wir dafür, dass bestehende Rankings erhalten bleiben und neuer Traffic und wertvolle Leads generiert werden.
 
   - type: component
     title: Weitere Kompetenzen
