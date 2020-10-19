@@ -8,7 +8,7 @@ theme:
 
 meta:
   title: EHA
-  subtitle: Branding, Website, Software + Online-Marketing
+  subtitle: Website + Online-Marketing
 
   image:
     path: images/cases/eha-hero
@@ -41,9 +41,9 @@ details:
 body:
   - type: markdown
     body: |
-      Seit mehr als fünf Jahren betreuen wir als fester Designpartner den Hamburger Energie-Dienstleister EHA.
+      Seit mehr als fünf Jahren betreuen wir den Hamburger Energie-Dienstleister EHA als fester Designpartner.
 
-      Im Rahmen eines umfangreichen Designrefreshs Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet und die neu erstellten Guidelines anschließend auf Website, Software und diverse Marketingmaterialien adaptiert. Seitdem entwickeln wir diese kontinuierlich weiter.
+      Im Rahmen eines Design Refresh Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet. Die neu erstellten Guidelines haben wir anschließend auf Website, Software und diverse Marketing-Materialien adaptiert und entwickeln diese seitdem kontinuierlich weiter.
 
   - type: image
     alias: screen
@@ -53,7 +53,7 @@ body:
   - type: markdown
     title: Digital First
     body: |
-      Bei der Überarbeitung des Brandings standen für uns die digitalen Touchpoints im Fokus, über die Kunden mit EHA interagieren. Erstmals lag der Schwerpunkt des Redesigns also nicht auf Geschäftsausstattung und Printkommunikation, sondern auf Website, Software und Onlinemarketing.
+      Bei der Überarbeitung des Brandings standen für uns die digitalen Touchpoints im Fokus, über die Kunden mit EHA interagieren. Erstmals lag der Schwerpunkt des Redesigns also nicht auf Geschäftsausstattung und Print-Kommunikation sondern auf Website, Software und Online-Marketing.
 
   - type: gallery
     alias: group
@@ -78,14 +78,14 @@ body:
   - type: markdown
     title: B2B-Kommunikation mit System
     body: |
-      Für den EHA-internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
+      Für den EHA internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Website-Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
 
   - type: svg
-    caption: Die Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch anmutet. Durch die Kombination beider Schriften entsteht ein eigenständiger Mix, der den modernen B2B-Charakter von EHA widerspiegelt.
+    caption: Der Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch und konstruiert anmutet. Durch die Kombination beider Schriften entsteht ein eigenständiger Mix, der EHA als moderne B2B-Marke präsentiert.
     path: assets/eha-corporate-design.svg
 
   - type: image
-    caption: Mittlerweile haben wir über 100 Icons entwickelt, die dabei helfen, Inhalte und Funktionen zu veranschaulichen.
+    caption: Mittlerweile haben wir über 100 Icons entwickelt, die dabei helfen, Inhalte und Funktionen in Website oder Software zu veranschaulichen.
     alt: EHA Icon Set
     path: images/cases/eha-icons
 
@@ -95,7 +95,7 @@ body:
     path: images/cases/eha-photo-look
 
   - type: quote
-    body: Es macht einfach Spaß, unser Branding in so vielen unterschiedlichen Anwendungen bei EHA im Einsatz zu sehen und selbst täglich damit zu arbeiten.
+    body: Es macht einfach Spaß unser Branding in so vielen unterschiedlichen Anwendungen bei EHA im Einsatz zu sehen und selbst täglich damit zu arbeiten.
     author:
       name: Malwin
       title: Senior Designer
@@ -103,7 +103,7 @@ body:
   - type: markdown
     title: Integrierte Interfaces
     body: |
-      Im Rahmen der Neugestaltung verschiedenster EHA-Software zur Visualisierung von Plan- und Verbrauchsdaten, entwickelten wir spezielle Icon-Sets und erweiterten das bestehende Farbschema. So konnten wir den spezifischen Anforderungen an die jeweilige Software gerecht werden und gleichzeitig sicherstellen, dass sich deren User Interfaces optimal in das neue Branding einfügen.
+      Im Rahmen der Neugestaltung verschiedenster EHA-Software zur Visualisierung von Plan- und Verbrauchsdaten entwickelten wir spezielle Icon-Sets und erweiterten das bestehende Farbschema. So konnten wir den spezifischen Anforderungen an die jeweilige Software gerecht werden und gleichzeitig sicherstellen, dass sich deren User Interfaces optimal in das neue Branding integrieren.
 
   - type: image
     caption: Mobile Dashboard-Ansicht der EHA ONE Software
