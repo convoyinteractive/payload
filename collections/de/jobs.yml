@@ -48,5 +48,9 @@ body:
       - type: text
         body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
 
-  - type: component
-    resource: jobs
+  - type: definition
+    title: Aktuell suchen wir
+    items: 
+      - type: collection
+        title: Praktikant User Interface Design (m/w/d)
+        resource: jobs/user-interface-design-praktikant
