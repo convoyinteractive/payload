@@ -40,7 +40,7 @@ body:
   - type: markdown
     body: |
       Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben.
-
+  
   - type: image
     alias: screen
     alt: Teamcast Personen Liste
@@ -55,7 +55,7 @@ body:
     title: In nur 8 Wochen vom Konzept zum MVP
     body: |
       In einem agilen Prozess haben wir in kürzester Zeit ein Konzept sowie UX- und UI-Design entwickelt und als MVP umgesetzt. Seitdem ist das Produkt bei mehreren Unternehmen täglich im Einsatz. Dadurch sammeln wir Nutzerfeedback, das uns hilft, die WebApp kontinuierlich zu optimieren.
-
+  
   - type: gallery
     alias: group
     caption: Aufbau und Funktionen der WebApp definierten wir anhand von Wireframes, die uns als Basis für Design und Umsetzung dienten.
@@ -81,7 +81,7 @@ body:
     title: Mitarbeiterplanung in Echtzeit
     body: |
       Mithilfe von Teamcast können Mitarbeiter und Baustellen mit nur wenigen Klicks angelegt und einander zugeordnet werden. Das reduziert den Aufwand für die Wochenplanung um ein Vielfaches. Gleichzeitig haben Teamleitung und Mitarbeiter jederzeit Zugriff auf Echtzeitdaten und können bei Ausfällen oder Planänderungen schnell und flexibel reagieren.
-
+  
   - type: image
     alias: screen
     caption: Das Teamcast-Produktvideo gibt einen Überblick über die wesentlichen Funktionen der App.
