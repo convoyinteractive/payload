@@ -28,7 +28,7 @@ items:
 ```
 
 ### Asset components
-Asset components reference an additional file within the `assets` directory or a binary file on our file storage. An asset component should provide a ***path** attribute.
+Asset components reference an additional file within the `assets` directory or a binary file on our file storage. An asset component should provide a ***path*** attribute.
 
 Supported component types: `image`, `lottie`, `svg`, `video`
 
