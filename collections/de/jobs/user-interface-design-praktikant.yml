@@ -1,0 +1,20 @@
+type: default
+
+meta:
+  title: Praktikant User Interface Design (m/w/d)
+  subtitle: Stellenangebot
+
+  hero:
+    type: image
+    alt: Jobs bei Convoy
+    path: images/convoy-hinterhof
+
+  alternates:
+    en: jobs/user-interface-design-praktikant
+
+body:
+  - type: markdown
+    body: |
+      Du studierst Kommunikationsdesign, Medien- oder Interaktionsdesign mit einem Schwerpunkt im Bereich Digitale Medien. Im Rahmen deines Pflichtpraktikums begleitest du bei uns die Konzeption und Gestaltung von digitalen Projekten. Dabei unterstützt du unsere Senior Designer bei der Entwicklung konsistenter, funktionaler und optisch ansprechender User Interfaces.
+
+      Einstieg ab Januar 2021
