@@ -22,9 +22,9 @@ Supported component types: `definition`, `gallery`, `group`, `list`
 ```yml
 type: definition
 items:
-    - term: Vue.js
-      type: text
-      body: Vue is a progressive framework for building user interfaces. 
+  - term: Vue.js
+    type: text
+    body: Vue is a progressive framework for building user interfaces. 
 ```
 
 ### Asset components
