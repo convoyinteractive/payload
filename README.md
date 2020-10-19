@@ -7,7 +7,7 @@ All content is stored in [YAML](https://yaml.org/) files within a "locale" direc
 ### Basic components
 A basic component contains at least a ***type*** and a ***body*** attribute. Nevertheless you are completely free to add as many attributes to a component as you need to.
 
-Currently supported components: `markdown`, `text`, `quote`
+Supported component types: `markdown`, `text`, `quote`
 
 ```yml
 type: quote
@@ -17,7 +17,7 @@ body: Purpose of a convoy is to keep movin’.
 ### Collection components
 As its name implies, a collection components collects other components. So you may group your content to provide a much better structure. A collection component must include a ***type*** and a ***items*** attribute but its by far not limited to this attributes.
 
-Supported components: `definition`, `gallery`, `group`, `list`
+Supported component types: `definition`, `gallery`, `group`, `list`
 
 ```yml
 type: definition
@@ -30,7 +30,7 @@ items:
 ### Asset components
 Asset components reference an additional file within the `assets` directory or a binary file on our file storage. An asset component should provide a ***path** attribute.
 
-Supported components: `image`, `lottie`, `svg`, `video`
+Supported component types: `image`, `lottie`, `svg`, `video`
 
 ```yml
 type: svg
