@@ -59,6 +59,9 @@ body:
       - type: image
         alt: Fun at Work
         path: images/convoy-agentur-humor
+ 
+      - type: image
+        path: videos/convoy-agentur-slider-code
 
       - type: image
         alt: Our senior developer Tobias
@@ -75,6 +78,9 @@ body:
       - type: image
         alt: Entrance to our office
         path: images/convoy-agentur-eingang
+
+      - type: image
+        path: videos/convoy-agentur-slider-decor
 
   - type: list
     title: We can help you if …
