@@ -54,19 +54,19 @@ body:
     alias: group
     items:
       - type: image
-        alias: screen
+        alias: phone
         alt: Die Smartphone-Ansicht des Golfhouse Online-Shops
         path: images/cases/golfhouse-mobile-products
       - type: image
-        alias: screen
+        alias: phone
         alt: Das Mobile-Menu des Golfhouse Online-Shops
         path: images/cases/golfhouse-mobile-menu
       - type: image
-        alias: screen
+        alias: phone
         alt: Golfnews auf der Startseite
         path: images/cases/golfhouse-mobile-news
       - type: image
-        alias: screen
+        alias: phone
         alt: Der Bestellvorgang im Golfhouse Online-Shop
         path: images/cases/golfhouse-mobile-checkout
 
@@ -81,7 +81,7 @@ body:
       Für eine gelungene User Experience im E-Commerce sind Konsistenz im Design, eine gelungene Usability und die Berücksichtigung von Nutzergewohnheiten entscheidend. Unerlässlich ist es darum, das User Interface systematisch zu entwickeln und Designkomponenten nachvollziehbar in Bibliotheken zu organisieren. Living-Stylesguides und Pattern Libraries helfen bei der konsistenten Weiterentwicklung des Designs und unterstützen so den nachhaltigen Betrieb des Shops.
 
   - type: gallery
-    alias: group
+    alias: impressions
     items:
       - type: image
         alias: screen
