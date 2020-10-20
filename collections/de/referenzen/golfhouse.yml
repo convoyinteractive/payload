@@ -1,0 +1,103 @@
+type: case
+
+name: golfhouse
+
+theme:
+  text: "#000000"
+  background: "#EAF3E7"
+
+meta:
+  title: Golf House
+  subtitle: E-Commerce Website
+
+  image:
+    path: images/cases/golfhouse-hero
+
+  alternates:
+    en: cases/golfhouse
+
+details:
+  - label: Kunde
+    value:
+      - Golf House
+
+  - label: Projekt
+    value:
+      - E-Commerce Website
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - Responsive Web Design
+      - Icon Design
+      - Frontend Development
+      - Beratung
+
+body:
+  - type: markdown
+    body: |
+      Seit seiner Gründung 1976 in Hamburg hat sich Golf House zum größten Golf-Einzelhändler in Deutschland, Österreich und Tschechien entwickelt. 
+
+      Neben 29 Filialen betreibt das Unternehmen einen eigenen Online-Shop. Bei dessen jüngstem Relaunch waren wir für Creative Direction und Design verantwortlich.
+
+  - type: image
+    alias: screen
+    alt: Der Website-Einstieg in den Golfhouse Online-Shop
+    path: images/cases/golfhouse-desktop
+
+  - type: markdown
+    title: Optimiert für Mobile Shopping
+    body: |
+      Da der überwiegende Teil der Website-Aufrufe inzwischen über Smartphones erfolgt, haben wir das Shopdesign nach dem Mobile-First-Prinzip entwickelt: Dynamische Designelemente und ein modularer Seitenaufbau sorgen dabei für eine optimale Darstellung auf allen Endgeräten und einen effizienten Workflow bei der Erstellung und Pflege von Inhalten.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Die Smartphone-Ansicht des Golfhouse Online-Shops
+        path: images/cases/golfhouse-mobile-products
+      - type: image
+        alias: phone
+        alt: Das Mobile-Menu des Golfhouse Online-Shops
+        path: images/cases/golfhouse-mobile-menu
+      - type: image
+        alias: phone
+        alt: Golfnews auf der Startseite
+        path: images/cases/golfhouse-mobile-news
+      - type: image
+        alias: phone
+        alt: Der Bestellvorgang im Golfhouse Online-Shop
+        path: images/cases/golfhouse-mobile-checkout
+
+  - type: image
+    title: Beispiele für Angebots-Teaser
+    alt: Biespiele für Produktteaser
+    path: images/cases/golfhouse-teaser
+
+  - type: markdown
+    title: Schlüsselfaktoren für eine gelungene User Experience
+    body: |
+      Für eine gelungene User Experience im E-Commerce sind Konsistenz im Design, eine gelungene Usability und die Berücksichtigung von Nutzergewohnheiten entscheidend. Unerlässlich ist es darum, das User Interface systematisch zu entwickeln und Designkomponenten nachvollziehbar in Bibliotheken zu organisieren. Living-Stylesguides und Pattern Libraries helfen bei der konsistenten Weiterentwicklung des Designs und unterstützen so den nachhaltigen Betrieb des Shops.
+
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Eine Produktseite im Golfhouse Online-Shops
+        path: images/cases/golfhouse-produktseite
+      - type: image
+        alias: screen
+        alt: Eine Kategorie-Übersichtsseite im Golfhouse Online-Shops
+        path: images/cases/golfhouse-shop-uebersicht
+
+  - type: svg
+    title: Auszüge aus der Golf House Pattern Library
+    path: assets/golfhouse-pattern-library.svg
+
+  - type: quote
+    body: Im E-Commerce zählen Performance und Usability mehr als irgendwo sonst. Die Herausforderung besteht darin, dennoch ein gelungenes, markenkonformes Nutzererlebnis zu entwickeln.
+    author:
+      name: Melanie
+      title: Senior Designerin
