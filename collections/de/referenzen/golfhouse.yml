@@ -85,8 +85,12 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Eine Produktseite des Golfhouse Online-Shops
-        path: images/cases/golfhouse-shop
+        alt: Eine Produktseite im Golfhouse Online-Shops
+        path: images/cases/golfhouse-produktseite
+      - type: image
+        alias: screen
+        alt: Eine Kategorie-Übersichtsseite im Golfhouse Online-Shops
+        path: images/cases/golfhouse-shop-uebersicht
 
   - type: svg
     title: Auszüge aus der Golf House Pattern Library
