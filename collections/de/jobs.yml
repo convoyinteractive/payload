@@ -52,5 +52,6 @@ body:
     title: Aktuell suchen wir
     items:
       - type: collection
+        alias: job
         term: Praktikant User Interface Design (m/w/d)
         resource: jobs/user-interface-design-praktikant
