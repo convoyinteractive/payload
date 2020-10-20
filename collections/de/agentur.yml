@@ -47,13 +47,13 @@ body:
   - type: gallery
     items:
       - type: image
-        alt: Unsere Senior Designerin Melanie 
+        alt: Unsere Senior Designerin Melanie
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Entwickler bei Convoy  
+        alt: Entwickler bei Convoy
         path: images/convoy-agentur-macbook
-        
+
       - type: image
         path: videos/convoy-agentur-slider-illustrator
 
