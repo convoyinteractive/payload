@@ -1,3 +1,5 @@
+![convoyinteractive/payload](https://repository-images.githubusercontent.com/241976011/bb989e80-12c9-11eb-8305-a4da5d43bf7b)
+
 This repository acts as the "database" for our [website](https://convoyinteractive.com). As compared to a classic relational database, we store our data "flat file".  So we benefit from a highly flexible data structure and have the whole power of modern development environments on our fingertips,  including: version control, code and content discussions, revisions, release cycles, issue tracking, etc.
 
 ## Documentation
