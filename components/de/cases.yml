@@ -19,3 +19,6 @@ body:
 
   - type: collection
     resource: referenzen/poggenpohl
+
+  - type: collection
+    resource: referenzen/golfhouse
