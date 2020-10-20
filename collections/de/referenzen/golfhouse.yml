@@ -38,11 +38,11 @@ body:
     body: |
       Seit seiner Gründung 1976 in Hamburg hat sich Golf House zum größten Golf-Einzelhändler in Deutschland, Österreich und Tschechien entwickelt. 
 
-      Neben 29 Filialen betreibt das Unternehmen einen eigenen Online-Shop. Bei dessen jüngstem Relaunch waren wir für Creative Direction und Design verantwortlich. 
+      Neben 29 Filialen betreibt das Unternehmen einen eigenen Online-Shop. Bei dessen jüngstem Relaunch waren wir für Creative Direction und Design verantwortlich.
 
   - type: image
     alias: screen
-    alt: Der Website-Einstieg in den Golfhouse Online-Shop 
+    alt: Der Website-Einstieg in den Golfhouse Online-Shop
     path: images/cases/golfhouse-desktop
 
   - type: markdown
@@ -63,7 +63,7 @@ body:
         path: images/cases/golfhouse-mobile-menu
       - type: image
         alias: screen
-        alt: Golfnews auf der Startseite 
+        alt: Golfnews auf der Startseite
         path: images/cases/golfhouse-mobile-news
       - type: image
         alias: screen
@@ -72,7 +72,7 @@ body:
 
   - type: image
     title: Beispiele für Angebots-Teaser
-    alt: Biespiele für Produktteaser 
+    alt: Biespiele für Produktteaser
     path: images/cases/golfhouse-teaser
 
   - type: markdown
@@ -91,7 +91,7 @@ body:
   - type: svg
     title: Auszüge aus der Golf House Pattern Library
     path: assets/golfhouse-pattern-library.svg
-    
+
   - type: quote
     body: Im E-Commerce zählen Performance und Usability mehr als irgendwo sonst. Die Herausforderung besteht darin, dennoch ein gelungenes, markenkonformes Nutzererlebnis zu entwickeln.
     author:
