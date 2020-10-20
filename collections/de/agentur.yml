@@ -62,6 +62,9 @@ body:
         path: images/convoy-agentur-humor
 
       - type: image
+        path: videos/convoy-agentur-slider-code
+
+      - type: image
         alt: Unser Senior Entwickler Tobias
         path: images/convoy-agentur-tobias
 
@@ -76,6 +79,9 @@ body:
       - type: image
         alt: Eingang zu unserem Büro
         path: images/convoy-agentur-eingang
+        
+      - type: image
+        path: videos/convoy-agentur-slider-decor
 
   - type: list
     title: Wir können Ihnen helfen, wenn…
