@@ -47,31 +47,34 @@ body:
   - type: gallery
     items:
       - type: image
-        alt: Convoy Agentur Melanie
+        alt: Unsere Senior Designerin Melanie 
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Convoy Agentur Macbook
+        alt: Entwickler bei Convoy  
         path: images/convoy-agentur-macbook
+        
+      - type: image
+        path: videos/convoy-agentur-slider-illustrator
 
       - type: image
-        alt: Convoy Agentur Humor
+        alt: Humor bei der Arbeit
         path: images/convoy-agentur-humor
 
       - type: image
-        alt: Convoy Agentur Tobias
+        alt: Unser Senior Entwickler Tobias
         path: images/convoy-agentur-tobias
 
       - type: image
-        alt: Convoy Agentur Marc und Felix
+        alt: Die Geschäftsführer Marc und Felix
         path: images/convoy-agentur-marc-felix
 
       - type: image
-        alt: Convoy Agentur Figurensammlung
+        alt: Convoys Figurensammlung
         path: images/convoy-agentur-figuren
 
       - type: image
-        alt: Convoy Agentur Eingang
+        alt: Eingang zu unserem Büro
         path: images/convoy-agentur-eingang
 
   - type: list
