@@ -86,16 +86,14 @@ body:
     body: |
       Produktdarstellungen auf Websites haben einen entscheidenden Nachteil: die fehlende Haptik. Da wir die Wertigkeit des Architects’ Finest Packagings auch über die Microsite vermitteln möchten, haben wir mehrere 3D-Animationen erstellt, von denen sich jede einem besonderen Detail der Farbdose widmet.
 
-  - type: image
-    caption: Eigens kreierte 3D-Animationen highlighten die besonderen Eigenschaften des Architects’ Finest Produkt-Packagings.
-    alt: Architects’ Finest Packaging 3D-Animation
-    path: images/cases/architects-finest-video-placeholder
-
+  - type: video
+    path: videos/cases/architects-finest-packshot    
+    
   - type: quote
     body: Für eine optimale User Experience verknüpfen wir kreativen Hotspot, Story und Farbton zu einem echten Scrollytelling-Erlebnis.
     author:
       name: Mary
-      title: Senior Designer
+      title: Senior Designerin
 
   - type: markdown
     title: Social Media gleich mitgedacht
@@ -103,7 +101,7 @@ body:
       Im Anschluss an den Launch der Microsite adaptierten wir unser Konzept auf den Social Media-Bereich. Grundlage dafür bildete eine detaillierte strategische Analyse relevanter Zielgruppen sowie geeigneter Plattformen und Formate. Dort erzählen wir die Story unter Berücksichtigung der spezifischen Eigenschaften der jeweiligen Kanäle konsistent weiter. Innerhalb kurzer Zeit konnten wir so eine solide Fanbase aufbauen und Reichweiten kontinuierlich steigern.
 
   - type: image
-    alt: Social Media
+    alt: Content für verschiedene Social-Media-Kanäle
     path: images/cases/architects-finest-social-media-logos
 
   - type: image
