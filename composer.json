@@ -3,6 +3,6 @@
     "description": "Here we handle our content.",
     "type": "project",
     "require": {
-        "vlucas/phpdotenv": "^4.1"
+        "vlucas/phpdotenv": "^5.2"
     }
 }
