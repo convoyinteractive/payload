@@ -1,7 +1,61 @@
-type: default
+type: jobs
 
 meta:
   title: Jobs
+  subtitle: Stellenangebote
+
+  hero:
+    type: image
+    alt: Jobs bei Convoy
+    path: images/convoy-hinterhof
 
   alternates:
     en: jobs
+
+body:
+  - type: markdown
+    body: |
+      ## Convoy ist eine Hamburger Digitalagentur. Mit viel Leidenschaft gestalten und entwickeln wir in einem interdisziplinären Team Nutzererlebnisse von morgen. Bock, mitzumischen?
+
+  - type: markdown
+    title: Wen wir suchen
+    body: |
+      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege.
+
+      Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designern und Entwicklern, die gemeinsam an Projekten arbeiten. Alle sind Experten, jeder in einer anderen Disziplin. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und ein generelles Interesse an digitalen Trends und neuen Technologien.
+
+      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio und ein paar Sätze zu deiner Person. Alles andere klären wir später.
+
+  - type: image
+    alt: Einblick in unsere Agentur
+    path: images/jobs-video
+
+  - type: list
+    title: Was wir bieten
+    items:
+      - type: text
+        body: Einen Job, der Spaß macht. Inklusive aller Möglichkeiten, dich kreativ zu entfalten und deine Skills weiterzuentwickeln.
+      - type: text
+        body: Spannende digitale Projekte für kleine und große Marken aus den unterschiedlichsten Branchen.
+      - type: text
+        body: Selbstbestimmtes Arbeiten in flachen Hierarchien und agilen Prozessen.
+      - type: text
+        body: Flexible und geregelte Arbeitszeiten, faire Bezahlung sowie einen unbefristeten Arbeitsvertrag.
+      - type: text
+        body: Einen Platz in einem Team aus netten und kompetenten Kolleginnen und Kollegen.
+      - type: text
+        body: Ein inspirierendes Arbeitsumfeld in einem schicken Büro mit Blick über Sankt Pauli.
+      - type: text
+        body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
+
+  - type: definition
+    title: Aktuell suchen wir
+    items:
+      - type: collection
+        alias: job
+        term: Praktikant User Interface Design (m/w/d)
+        resource: jobs/user-interface-design-praktikant
+      - type: collection
+        alias: job
+        term: Junior Frontend Developer (m/w/d)
+        resource: jobs/frontend-developer-junior
