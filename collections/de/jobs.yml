@@ -55,3 +55,8 @@ body:
         alias: job
         term: Praktikant User Interface Design (m/w/d)
         resource: jobs/user-interface-design-praktikant
+      - type: collection
+        alias: job
+        term: Junior Frontend Developer (m/w/d)
+        resource: jobs/frontend-developer-junior  
+        
