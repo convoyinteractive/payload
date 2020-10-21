@@ -58,5 +58,4 @@ body:
       - type: collection
         alias: job
         term: Junior Frontend Developer (m/w/d)
-        resource: jobs/frontend-developer-junior  
-        
+        resource: jobs/frontend-developer-junior
