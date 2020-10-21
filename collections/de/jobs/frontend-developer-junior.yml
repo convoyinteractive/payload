@@ -10,7 +10,7 @@ meta:
     path: images/convoy-hinterhof
 
   alternates:
-    en: jobs/user-interface-design-praktikant
+    en: jobs/frontend-developer-junior
 
 body:
   - type: markdown
