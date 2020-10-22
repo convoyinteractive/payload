@@ -57,4 +57,4 @@ Remember, all bug fixes like typos, broken links etc. should be sent to the `pro
 New content or updates should be sent to the `master` branch which contains the upcoming release.
 
 ### External Contributors
-The project is maintained by the convoyinteractive organization and is closed to contributions from the organization members only. Nevertheless, if you think you can improve our content or if you have found a typo somewhere, feel free to send in a PR.
+The project is maintained by the convoyinteractive organization. In general, we do accept contributions from members only. Nevertheless, if you think you can improve our content or if you have found a typo somewhere, feel free to send in a PR.
