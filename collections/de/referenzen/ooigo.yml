@@ -23,7 +23,10 @@ details:
 
   - label: Projekt
     value:
-      - App, Branding + Online Marketing
+      - App
+      - Digital Branding
+      - Microsite
+      - Online Marketing
 
   - label: Leistungen
     value:
@@ -40,7 +43,7 @@ details:
 body:
   - type: markdown
     body: |
-      Ooigo ist die erste Hörspiel-App für Kinder und Jugendliche, entwickelt vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Design-Themen rund um App, Website, Social Media, Online- und klassisches Marketing und begleiten Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
+      Ooigo ist die erste Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet. Entwickelt wurde sie vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Designthemen rund um App, Website, Social Media, Online und klassisches Marketing. Außerdem begleiten wir Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
 
   - type: image
     path: images/cases/ooigo-app
@@ -48,15 +51,16 @@ body:
   - type: markdown
     title: O wie Original
     body: |
-      Bei der ersten Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet, indem sie Streaming-Inhalte nach Alter und Interessen filtert, liegt der Fokus vor allem auf einer möglichst einfachen und intuitiven Bedienbarkeit.
+      Die Hörspiel-App Ooigo filtert Streaming-Inhalte nach Alter und Interessen. Da sie von Kindern benutzt wird, liegt der Fokus auf einer möglichst einfachen und intuitiven Bedienbarkeit. Das UI-Design der App setzt daher auf klare Farben, einen kindgerechten Look und so wenig Bedienelemente wie nötig. Illustrationen und gestalterische Details sind liebevoll ausgearbeitet, damit die App Spaß macht und möglichst regelmäßig von der jungen Zielgruppe genutzt wird.
 
-      Das UI-Design der App setzt daher auf klare Farben, einen kindgerechten Look und so wenige Bedienelemente wie nötig. Illustrationen und gestalterische Details sind liebevoll ausgearbeitet, damit die App Spaß macht und möglichst regelmäßig von der jungen Zielgruppe genutzt wird.
+  - type: video
+    caption: Die Homepage der Ooigo-Website liefert einen Überblick über die wichtigsten Features der App.
+    poster: images/cases/ooigo-website-scroll-video-poster
+    path: videos/cases/ooigo-website-scroll
 
-  - type: image
-    alt: Ooigo Website
-    caption: Die Homepage der Ooigo-Website liefert einen kompakten Überblick über die wichtigsten Features der App.
-    alias: screen
-    path: images/cases/ooigo-landingpage-desktop
+  - type: markdown
+    body: |
+      Für ein konsistentes Erscheinungsbild in sämtlichen Anwendungen haben wir auch bei diesem Projekt alle Designelemente in einer Pattern-Library dokumentiert. Ausgehend von dieser „Foundation“ haben wir das Basis-Design anschließend für App, Website, Videos, Social Media, Printmedien und Merchandise adaptiert.
 
   - type: image
     alt: Individuell gestaltete Interessen-Icons
@@ -70,6 +74,7 @@ body:
       title: Marketing Manager Sony Music Entertainment
 
   - type: gallery
+    caption: Anzeige-Motive für die Print-Magazine „Biene Maja“ und „Super Wings“.
     alias: group
     items:
       - type: image
@@ -84,7 +89,7 @@ body:
   - type: markdown
     title: Effizienter Workflow
     body: |
-      Gerade bei langfristig angelegten Projekten profitieren Kunden von systematisierten Workflows: In diesem Fall haben wir für jede Animation Masterdateien in After Effects und LottieFiles angelegt. Einmal erstellt, lassen sich diese universell in App, Website und Social Media Formaten nutzen.
+      Für jede Animation haben wir Masterdatien in Adobe After Effects und LottieFiles erstellt, wodurch sich diese universell in App, Website und Social Media-Formaten nutzen lassen.
 
   - type: gallery
     alias: group
@@ -93,22 +98,22 @@ body:
         alias: phone
         color: "#FFFFFF"
         alt: Ooigo Hörspiel App Loading Screen Animation Auge
-        path: images/cases/ooigo-screen-1
+        path: videos/cases/ooigo-screen-1
       - type: image
         alias: phone
         color: "#FFFFFF"
         alt: Ooigo Hörspiel Loading Screen Animation Luftballon
-        path: images/cases/ooigo-screen-2
+        path: videos/cases/ooigo-screen-2
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Seilspringen
         alias: phone
         color: "#FFFFFF"
-        path: images/cases/ooigo-screen-3
+        path: videos/cases/ooigo-screen-3
       - type: image
         alt: Ooigo Hörspiel Loading Screen Animation Pipimachen
         alias: phone
         color: "#FFFFFF"
-        path: images/cases/ooigo-screen-4
+        path: videos/cases/ooigo-screen-4
 
   - type: image
     alt: Ooigo Character Illustration
@@ -116,14 +121,15 @@ body:
 
   - type: image
     alt: Ooigo Pattern Library
-    caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz in der Design-Implementierung.
+    caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz bei der Design-Implementierung.
     path: images/cases/ooigo-pattern-libary
 
   - type: lottie
     mode: onscroll
-    path: assets/corona-ooigo.json
+    path: assets/ooigo-corona.json
 
   - type: gallery
+    title: Ooigo Merchandise
     alias: group
     items:
       - type: image
