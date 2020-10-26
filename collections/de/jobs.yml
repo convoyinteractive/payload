@@ -28,7 +28,7 @@ body:
 
   - type: image
     alt: Einblick in unsere Agentur
-    path: images/jobs-video
+    path: videos/convoy-jobs
 
   - type: list
     title: Was wir bieten
