@@ -2,7 +2,7 @@ body:
   - type: markdown
     body: |
       ## Unser Workflow
-      Ein agiler Workflow ist unserer Erfahrung nach der effizienteste Weg zum Projekterfolg. Hierzu gliedern wir die Gesamtaufgabe in kleine Einzelpakete mit klaren Verantwortlich-keiten und können auf Änderungen im Projektverlauf schnell und flexibel reagieren.
+      Ein agiler Workflow ist, unserer Erfahrung nach, der aussichtsreichste Weg zum Projekterfolg. Hierzu gliedern wir die Gesamtaufgaben in kleine Einzelpakete mit klaren Verantwortlichkeiten und können so auf Änderungen im Projektverlauf schnell und flexibel reagieren.
 
   - type: lottie
     mode: loop
