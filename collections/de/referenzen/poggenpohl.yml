@@ -72,6 +72,7 @@ body:
 
   - type: video
     caption: Im Hintergrund laufen Archivaufnahmen in Schleife, während man von oben nach unten durch die Geschichte scrollt.
+    poster: images/cases/poggenpohl-website-scroll-video-poster
     path: videos/cases/poggenpohl-website-scroll
 
   - type: markdown
@@ -113,4 +114,5 @@ body:
       Anlässlich des 125-jährigen Jubiläums inszenierten wir parallel zur Microsite einen bildgewaltigen Film-Loop für die Poggenpohl Hausmesse. Dazu haben wir die Mechanik der beiden Erzählebenen erneut aufgegriffen und auf eine Video-Wall aus neun großformatigen Flatscreens übertragen.
 
   - type: video
+    poster: images/cases/poggenpohl-film-wall-video-poster
     path: videos/cases/poggenpohl-animation-wall
