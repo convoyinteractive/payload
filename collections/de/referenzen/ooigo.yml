@@ -23,7 +23,10 @@ details:
 
   - label: Projekt
     value:
-      - App, Branding + Online Marketing
+      - App
+      - Digital Branding
+      - Microsite
+      - Online Marketing
 
   - label: Leistungen
     value:
@@ -127,8 +130,8 @@ body:
     path: assets/ooigo-corona.json
 
   - type: gallery
-    alias: group
     title: Ooigo Merchandise
+    alias: group
     items:
       - type: image
         alt: Ooigo Tragetasche vorne
