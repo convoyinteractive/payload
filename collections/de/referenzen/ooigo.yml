@@ -55,7 +55,6 @@ body:
 
   - type: video
     caption: Die Homepage der Ooigo-Website liefert einen Überblick über die wichtigsten Features der App.
-    alias: screen
     poster: images/cases/ooigo-website-scroll-video-poster
     path: videos/cases/ooigo-website-scroll
 
