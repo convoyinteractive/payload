@@ -46,6 +46,7 @@ body:
       Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet.
 
   - type: lottie
+    mode: loop
     path: assets/tr-logo-animation.json
 
   - type: markdown
