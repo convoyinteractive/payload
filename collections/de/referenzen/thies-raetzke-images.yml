@@ -1,0 +1,121 @@
+type: case
+
+name: Thies Rätzke Images
+
+theme:
+  text: "#000000"
+  background: "#E6E6DD"
+
+meta:
+  title: Thies Rätzke Images
+  subtitle: Branding + Website
+
+  image:
+    path: images/cases/thies-raetzke-hero
+
+  alternates:
+    en: cases/thies-raetzke-images
+
+details:
+  - label: Kunde
+    value:
+      - Thies Rätzke Images
+
+  - label: Projekt
+    value:
+      - Branding
+      - Portfolio Website
+
+  - label: Leistungen
+    value:
+      - Konzeption
+      - User Experience Design
+      - Responsive Web Design
+      - Icon Design
+      - Graphic Design
+      - Frontend Development
+      - Backend Development
+      - Beratung
+      - Desktop Publishing
+
+body:
+  - type: markdown
+    body: |
+      Anfangs ein kleines Studio im Hamburger Schanzenviertel, hat sich Thies Rätzke Images im Laufe der Jahre zum Full-Service-Dienstleister im Bereich Corporate Photography + Film entwickelt.
+
+      Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet. 
+
+  - type: lottie
+    path: assets/tr-logo-animation.json
+
+  - type: markdown
+    caption: Selbstbewusster Auftritt
+    body: |
+      Das bestehende Branding samt Wortmarke wurde ebenfalls von uns entwickelt und 2013 sogar mit dem renommierten Red Dot Design Award ausgezeichnet. 
+
+      Neue Anforderungen an das Design, die sich durch die Neuausrichtung ergaben, machten eine Überarbeitung notwendig. Nach ausführlicher Prüfung des aktuellen Auftritts haben wir gemeinsam mit dem Kunden entschieden, die bestehende Farbpalette nur geringfügig anzupassen und auch weiterhin auf eine Wortmarke zu setzen: Das modifizierte „Ä“, dessen reduzierte Form an ein Stativ mit Kamera erinnert, bleibt bestehen.
+
+      Ergänzt um ein diagonales Linienraster und ein individuell entwickeltes Iconset, ist ein selbstbewusster, industriell anmutender Look entstanden, der sich auch in der Gestaltung der Studioräume wiederfindet.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Das Portfolio von Thies Rätzke Images in der mobilen Ansicht
+        path: images/cases/thies-raetzke-mobile-portfolio-overview
+      - type: image
+        alias: phone
+        alt: News Artikel von Thies Rätzke Images in der mobilen Ansicht
+        path: images/cases/thies-raetzke-mobile-news
+      - type: image
+        alias: phone
+        alt: Die Bildergalerie Deutsche Politiker von Thies Rätzke Images
+        path: images/cases/thies-raetzke-mobile-portfolio
+      - type: image
+        alias: phone
+        alt: Die Bildergalerie Friedrich Vorwerk KG von Thies Rätzke Images
+        path: images/cases/thies-raetzke-mobile-case
+
+  - type: markdown
+    caption: Content is King
+    body: |
+      Die neue Website besticht durch ihr klar gegliedertes Layout und der Mischung aus großformatigen Fotos und schlichter Typografie. Dabei hält sich das Design bewusst zurück und lässt dem Content den Vortritt. Über das Website-Backend werden Projekte kategorisiert und mit einem individuellen Farbschema versehen, wodurch der individuelle Charakter jeder Fotoserie noch unterstrichen wird.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht 
+        path: images/cases/thies-raetzke-website-portfolio
+
+  - type: markdown
+    caption: Kontrast aus Grau und Gelb
+    body: |
+      Wie schon vor dem Relaunch wird das Farbschema auch weiterhin von Grautönen dominiert. Ein grelles Gelb als kontraststarke Akzentfarbe dominiert die Gestaltung der Geschäftsausstattung und wird in digitalen Anwendungen für Hervorhebungen und Call to Actions genutzt. 
+
+  - type: svg
+    sizes:
+      small: assets/thies-raetzke-colours-mobile.svg
+      large: assets/thies-raetzke-colours.svg
+
+  - type: image
+    title: Geschäftsausstattung
+    alt: Teil des Corporate Design ist die Geschäftsausstattung 
+    path: images/cases/thies-raetzke-corporate-design-print
+
+  - type: image
+    alt: Die Visitenkarte von Thies Rätzke Images 
+    path: images/cases/thies-raetzke-corporate-design-cards
+
+  - type: markdown
+    caption: Fazit
+    body: |
+      Mit der konsequenten Weiterentwicklung des bestehenden Designansatzes ist es uns gelungen, dem Auftritt von Thies Rätzke Images einen adäquaten, zeitgemäßen Look zu verleihen. Positives Nutzerfeedback und steigende Conversions im Anschluss an den Relaunch sind dafür eine schöne und wichtige Bestätigung.
+
+  - type: quote
+    body: Mit Convoy verbindet mich eine jahrelange Partnerschaft. Die Zusammenarbeit mit dem gesamten Team ist superangenehm und die Ergebnisse sind immer überzeugend.
+    author:
+      name: Thies Rätzke
+      title: Inhaber und Geschäftsführer Thies Rätzke Images
