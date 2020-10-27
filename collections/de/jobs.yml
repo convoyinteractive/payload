@@ -26,8 +26,28 @@ body:
 
       Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio und ein paar Sätze zu deiner Person. Alles andere klären wir später.
 
-  - type: image
-    path: videos/convoy-jobs
+  - type: gallery
+    items:
+      - type: image
+        path: videos/convoy-jobs
+      - type: image
+        alt: Bei uns gibt es keinen Dresscode.
+        path: images/convoy-jobs-entwicklung
+      - type: image
+        alt: Ideenausstausch mit Mary und Tobias.
+        path: images/convoy-jobs-besprechung
+      - type: image
+        alt: Wir lieben Designbücher - Hier kannst du dich gerne inspirieren lassen.
+        path: images/convoy-jobs-inspiration
+      - type: image
+        alt: Meeting in der Sonne.
+        path: images/convoy-jobs-team
+      - type: image
+        alt: Wir verwenden verschiedene kreative Techniken zur Ideenfindung wie zum Beispiel ein Moodboard.
+        path: images/convoy-jobs-praesentation
+      - type: image
+        alt: St. Pauli - Hier sind wir zuhause.
+        path: images/convoy-jobs-stpauli
 
   - type: list
     title: Was wir bieten
@@ -46,27 +66,6 @@ body:
         body: Ein inspirierendes Arbeitsumfeld in einem schicken Büro mit Blick über Sankt Pauli.
       - type: text
         body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
-
-  - type: gallery
-    items:
-      - type: image
-        alt: Ideenausstausch mit Mary und Tobias.
-        path: images/convoy-jobs-besprechung
-      - type: image
-        alt: Bei uns gibt es keinen Dresscode.
-        path: images/convoy-jobs-entwicklung
-      - type: image
-        alt: Wir lieben Designbücher - Hier kannst du dich gerne inspirieren lassen.
-        path: images/convoy-jobs-inspiration
-      - type: image
-        alt: Meeting in der Sonne.
-        path: images/convoy-jobs-team
-      - type: image
-        alt: Wir verwenden verschiedene kreative Techniken zur Ideenfindung wie zum Beispiel ein Moodboard.
-        path: images/convoy-jobs-praesentation
-      - type: image
-        alt: St. Pauli - Hier sind wir zuhause.
-        path: images/convoy-jobs-stpauli
 
   - type: definition
     title: Aktuell suchen wir
