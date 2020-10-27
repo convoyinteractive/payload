@@ -25,7 +25,7 @@ body:
   - type: markdown
     title: Erfolgsfaktoren
     body: |
-      Unsere Erfolgsfaktoren sind neben fachlichem Know-how vor allem Respekt, Teamwork und Transparenz. Deshalb ist es uns auch so wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten. 
+      Unsere Erfolgsfaktoren sind neben fachlichem Know-how vor allem Respekt, Teamwork und Transparenz. Deshalb ist es uns auch so wichtig, unsere Kunden bei jedem Projekt eng in den Entwicklungsprozess einzubinden und partnerschaftlich zu begleiten.
 
       So haben wir seit Gründung unserer Agentur vor 10 Jahren in Hamburg bereits mehr als 100 Digitalprojekte für die unterschiedlichsten Industrien auf den Weg gebracht.
 
@@ -36,7 +36,7 @@ body:
   - type: markdown
     title: Experten mit Weitsicht
     body: |
-      Wir alle sind Experten in unterschiedlichen Disziplinen. Uns verbindet die Leidenschaft für funktionales und ästhetisches Design sowie ein grundlegendes Interesse an neuen Technologien. 
+      Wir alle sind Experten in unterschiedlichen Disziplinen. Uns verbindet die Leidenschaft für funktionales und ästhetisches Design sowie ein grundlegendes Interesse an neuen Technologien.
 
       Nicht zuletzt deshalb besteht unser Team zu fast gleichen Teilen aus Designern und Entwicklern. Weil wir zudem an schlanke und agile Prozesse glauben, gibt es bei uns keine Berater oder Projekt-Manager. Diese Aufgabe übernehmen unsere beiden Geschäftsführer, weshalb mindestens einer von ihnen direkt in jedes Projekt involviert und meistens auch Ihr erster Ansprechpartner ist.
 
@@ -51,7 +51,7 @@ body:
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Entwickler bei Convoy
+        alt: Webentwicklung bei Convoy
         path: images/convoy-agentur-macbook
 
       - type: image
@@ -65,11 +65,11 @@ body:
         path: videos/convoy-agentur-slider-code
 
       - type: image
-        alt: Unser Senior Entwickler Tobias
+        alt: Senior Software Developer - Tobias
         path: images/convoy-agentur-tobias
 
       - type: image
-        alt: Die Geschäftsführer Marc und Felix
+        alt: Geschäftsführer - Marc und Felix
         path: images/convoy-agentur-marc-felix
 
       - type: image

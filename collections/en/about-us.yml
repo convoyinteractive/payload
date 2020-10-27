@@ -24,7 +24,7 @@ body:
   - type: markdown
     title: Success factors
     body: |
-      In addition to professional know-how, our success factors are primarily respect, teamwork and transparency. That is why it’s so important for us to closely involve our customers in the development process in each project and to accompany them in a spirit of partnership. 
+      In addition to professional know-how, our success factors are primarily respect, teamwork and transparency. That is why it’s so important for us to closely involve our customers in the development process in each project and to accompany them in a spirit of partnership.
 
       In this vein, we have already got more than 100 digital projects off the ground for a variety of industries since the foundation of our agency in Hamburg ten years ago.
 
@@ -35,11 +35,11 @@ body:
   - type: markdown
     title: Experts with foresight
     body: |
-      We are all experts in different disciplines. What we have in common is the passion for functional and aesthetic design along with a deep-rooted interest in new technologies. 
+      We are all experts in different disciplines. What we have in common is the passion for functional and aesthetic design along with a deep-rooted interest in new technologies.
 
-      This is indeed one of the reasons why our team consists in almost equal parts of designers and developers. As we also believe in lean and agile processes, you won’t find any consultants or project managers at Convoy. Our two managing directors take on these roles, which is why at least one of the directors is directly involved in each project and is usually the first point of contact for our customers. 
+      This is indeed one of the reasons why our team consists in almost equal parts of designers and developers. As we also believe in lean and agile processes, you won’t find any consultants or project managers at Convoy. Our two managing directors take on these roles, which is why at least one of the directors is directly involved in each project and is usually the first point of contact for our customers.
 
-      This structure ensures flat hierarchies and short communication channels – and for a relaxed and trusting working environment. Our customers feel this, too: we have already been working successfully with many of them for several years. 
+      This structure ensures flat hierarchies and short communication channels – and for a relaxed and trusting working environment. Our customers feel this, too: we have already been working successfully with many of them for several years.
 
       [How we work](/en/process) {.cta}
 
@@ -50,7 +50,7 @@ body:
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Developer at Convoy
+        alt: Webdevelopment at Convoy
         path: images/convoy-agentur-macbook
 
       - type: image
@@ -64,7 +64,7 @@ body:
         path: videos/convoy-agentur-slider-code
 
       - type: image
-        alt: Our senior developer Tobias
+        alt: Senior software developer, Tobias
         path: images/convoy-agentur-tobias
 
       - type: image
