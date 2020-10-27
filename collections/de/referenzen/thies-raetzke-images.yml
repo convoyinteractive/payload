@@ -52,7 +52,7 @@ body:
   - type: markdown
     title: Selbstbewusster Auftritt
     body: |
-      Das bestehende Branding samt Wortmarke wurde ebenfalls von uns entwickelt und 2013 sogar mit dem renommierten Red Dot Design Award ausgezeichnet. 
+      Das bestehende Branding samt Wortmarke wurde ebenfalls von uns entwickelt und 2013 sogar mit dem renommierten Red Dot Design Award ausgezeichnet.
 
       Neue Anforderungen an das Design, die sich durch die Neuausrichtung ergaben, machten eine Überarbeitung notwendig. Nach ausführlicher Prüfung des aktuellen Auftritts haben wir gemeinsam mit dem Kunden entschieden, die bestehende Farbpalette nur geringfügig anzupassen und auch weiterhin auf eine Wortmarke zu setzen: Das modifizierte „Ä“, dessen reduzierte Form an ein Stativ mit Kamera erinnert, bleibt bestehen.
 
@@ -83,13 +83,10 @@ body:
     body: |
       Die neue Website besticht durch ihr klar gegliedertes Layout und der Mischung aus großformatigen Fotos und schlichter Typografie. Dabei hält sich das Design bewusst zurück und lässt dem Content den Vortritt. Über das Website-Backend werden Projekte kategorisiert und mit einem individuellen Farbschema versehen, wodurch der individuelle Charakter jeder Fotoserie noch unterstrichen wird.
 
-  - type: gallery
-    alias: impressions
-    items:
-      - type: image
-        alias: screen
-        alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht
-        path: images/cases/thies-raetzke-website-portfolio
+  - type: image
+    alias: screen
+    alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht
+    path: images/cases/thies-raetzke-website-portfolio
 
   - type: markdown
     title: Kontrast aus Grau und Gelb
