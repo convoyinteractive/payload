@@ -96,9 +96,7 @@ body:
       Wie schon vor dem Relaunch wird das Farbschema auch weiterhin von Grautönen dominiert. Ein grelles Gelb als kontraststarke Akzentfarbe dominiert die Gestaltung der Geschäftsausstattung und wird in digitalen Anwendungen für Hervorhebungen und Call to Actions genutzt.
 
   - type: svg
-    sizes:
-      small: assets/thies-raetzke-colours-mobile.svg
-      large: assets/thies-raetzke-colours.svg
+    path: assets/thies-raetzke-colours.svg
 
   - type: image
     title: Geschäftsausstattung
