@@ -22,3 +22,6 @@ body:
 
   - type: collection
     resource: referenzen/golfhouse
+
+  - type: collection
+    resource: referenzen/thies-raetzke-images
