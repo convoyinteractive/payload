@@ -43,7 +43,7 @@ body:
     body: |
       Anfangs ein kleines Studio im Hamburger Schanzenviertel, hat sich Thies Rätzke Images im Laufe der Jahre zum Full-Service-Dienstleister im Bereich Corporate Photography + Film entwickelt.
 
-      Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet. 
+      Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet.
 
   - type: lottie
     path: assets/tr-logo-animation.json
@@ -87,13 +87,13 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht 
+        alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht
         path: images/cases/thies-raetzke-website-portfolio
 
   - type: markdown
     caption: Kontrast aus Grau und Gelb
     body: |
-      Wie schon vor dem Relaunch wird das Farbschema auch weiterhin von Grautönen dominiert. Ein grelles Gelb als kontraststarke Akzentfarbe dominiert die Gestaltung der Geschäftsausstattung und wird in digitalen Anwendungen für Hervorhebungen und Call to Actions genutzt. 
+      Wie schon vor dem Relaunch wird das Farbschema auch weiterhin von Grautönen dominiert. Ein grelles Gelb als kontraststarke Akzentfarbe dominiert die Gestaltung der Geschäftsausstattung und wird in digitalen Anwendungen für Hervorhebungen und Call to Actions genutzt.
 
   - type: svg
     sizes:
@@ -102,11 +102,11 @@ body:
 
   - type: image
     title: Geschäftsausstattung
-    alt: Teil des Corporate Design ist die Geschäftsausstattung 
+    alt: Teil des Corporate Design ist die Geschäftsausstattung
     path: images/cases/thies-raetzke-corporate-design-print
 
   - type: image
-    alt: Die Visitenkarte von Thies Rätzke Images 
+    alt: Die Visitenkarte von Thies Rätzke Images
     path: images/cases/thies-raetzke-corporate-design-cards
 
   - type: markdown
