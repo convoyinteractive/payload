@@ -27,8 +27,7 @@ body:
       Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio und ein paar Sätze zu deiner Person. Alles andere klären wir später.
 
   - type: image
-    alt: Einblick in unsere Agentur
-    path: images/jobs-video
+    path: videos/convoy-jobs
 
   - type: list
     title: Was wir bieten
