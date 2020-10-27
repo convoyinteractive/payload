@@ -49,7 +49,7 @@ body:
     path: assets/tr-logo-animation.json
 
   - type: markdown
-    caption: Selbstbewusster Auftritt
+    title: Selbstbewusster Auftritt
     body: |
       Das bestehende Branding samt Wortmarke wurde ebenfalls von uns entwickelt und 2013 sogar mit dem renommierten Red Dot Design Award ausgezeichnet. 
 
@@ -78,12 +78,12 @@ body:
         path: images/cases/thies-raetzke-mobile-case
 
   - type: markdown
-    caption: Content is King
+    title: Content is King
     body: |
       Die neue Website besticht durch ihr klar gegliedertes Layout und der Mischung aus großformatigen Fotos und schlichter Typografie. Dabei hält sich das Design bewusst zurück und lässt dem Content den Vortritt. Über das Website-Backend werden Projekte kategorisiert und mit einem individuellen Farbschema versehen, wodurch der individuelle Charakter jeder Fotoserie noch unterstrichen wird.
 
   - type: gallery
-    alias: group
+    alias: impressions
     items:
       - type: image
         alias: screen
@@ -91,7 +91,7 @@ body:
         path: images/cases/thies-raetzke-website-portfolio
 
   - type: markdown
-    caption: Kontrast aus Grau und Gelb
+    title: Kontrast aus Grau und Gelb
     body: |
       Wie schon vor dem Relaunch wird das Farbschema auch weiterhin von Grautönen dominiert. Ein grelles Gelb als kontraststarke Akzentfarbe dominiert die Gestaltung der Geschäftsausstattung und wird in digitalen Anwendungen für Hervorhebungen und Call to Actions genutzt.
 
