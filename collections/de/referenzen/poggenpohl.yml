@@ -87,19 +87,15 @@ body:
     items:
       - type: image
         alias: phone
-        color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-1
       - type: image
         alias: phone
-        color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-2
       - type: image
         alias: phone
-        color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-3
       - type: image
         alias: phone
-        color: "#FFFFFF"
         path: images/cases/poggenpohl-mobile-screen-4
 
   - type: quote
