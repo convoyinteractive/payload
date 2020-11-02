@@ -1,0 +1,10 @@
+type: blog
+
+meta:
+  title: News
+  subtitle: Latest updates
+
+  alternates:
+    de: news
+
+# NOTE: Articles will be auto injected #
