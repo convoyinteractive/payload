@@ -5,3 +5,36 @@ meta:
 
   alternates:
     de: null
+
+body:
+  - type: markdown
+    body: |
+      ## Convoy is an award-winning digital agency based in Hamburg. We plan, create and build unique digital experiences for people and brands.
+
+  - type: quote
+    body: Purpose of a convoy is to keep movin’.
+    author:
+      name: Rubber Duck
+
+  - type: markdown
+    body: |
+      We work at the intersection between design, technology and human interaction. Our goal is to simplify communication between companies and their customers.
+
+      Together with our clients, we develop individual solutions that help them to unlock digital potential and drive growth.
+
+      [More about us](/en/about-us) {.cta}
+
+  - type: markdown
+    body: |
+      No matter if website, digital campaign, online shop, software or app: We have all the skills to make digital products become successful digital products. As a partner, we support start-ups, medium-sized companies and global corporations in designing digital services in a way that they are used gladly and frequently.
+
+      The result is solutions and products that make a substantial and sustainable contribution to  business success.
+
+      [Our services](/en/services) {.cta}
+
+  - type: component
+    resource: services
+
+  - type: component
+    title: Selected clients
+    resource: clients
