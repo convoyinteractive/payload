@@ -1,7 +1,78 @@
-type: default
+type: jobs
 
 meta:
   title: Jobs
+  subtitle: Vacancies
+
+  hero:
+    type: image
+    alt: Jobs bei Convoy
+    path: images/convoy-hinterhof
 
   alternates:
     de: jobs
+
+body:
+  - type: markdown
+    body: |
+      ## Convoy is a digital agency based in Hamburg. With a lot of passion we design and develop tomorrow’s user experiences in an interdisciplinary team. Want to join us?
+
+  - type: markdown
+    title: Who we’re looking for
+    body: |
+      We believe that truly creative solutions only surface in a relaxed and trusting working environment. This requires a good portion of team play, respectful cooperation, flat hierarchies and short communication channels.
+
+      This is one of the reasons why our team consists in almost equal parts of designers and developers who work together on projects. Everyone is an expert, each person in a different field. What unites us is the passion for functional and aesthetic design as well as a general interest in digital trends and new technologies.
+
+      If you feel the same way, apply for a job with us and let’s find out whether we’re a good match. All we need is a link to your portfolio and a few sentences about yourself. Everything else we will clarify later.
+
+  - type: list
+    title: What we offer
+    items:
+      - type: text
+        body: A job that’s fun. Including all the possibilities to unleash your creative potential and enhance your skills.
+      - type: text
+        body: Exciting digital projects for small and large brands from various industries.
+      - type: text
+        body: Autonomous work in flat hierarchies and with agile processes.
+      - type: text
+        body: Flexible and regulated working hours, fair payment and a permanent employment contract.
+      - type: text
+        body: A spot within a team of friendly and competent colleagues.
+      - type: text
+        body: An inspiring work environment in a cool office overlooking St. Pauli.
+      - type: text
+        body: Goodies like a subsidy for your HVV monthly ticket, organic fruit, participation in conferences and other further education.
+
+  - type: gallery
+    items:
+      - type: image
+        path: videos/convoy-jobs
+      - type: image
+        alt: Casual Dresscode.
+        path: images/convoy-jobs-entwicklung
+      - type: image
+        alt: Teamwork
+        path: images/convoy-jobs-besprechung
+      - type: image
+        alt: A great collection of design books.
+        path: images/convoy-jobs-inspiration
+      - type: image
+        alt: Out of space
+        path: images/convoy-jobs-team
+      - type: image
+        alt: Moodboard
+        path: images/convoy-jobs-praesentation
+      - type: image
+        alt: St. Pauli - This is where we work.
+        path: images/convoy-jobs-stpauli
+
+  - type: definition
+    title: We are currently looking for a
+    items:
+      - type: collection
+        alias: job
+        term: Trainee in user interface design (m/f/d)
+      - type: collection
+        alias: job
+        term: Junior frontend developer (m/f/d)
