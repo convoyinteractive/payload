@@ -1,0 +1,9 @@
+type: blog
+
+meta:
+  title: Neuigkeiten
+  subtitle:
+
+  alternates:
+    en: news
+# NOTE: Articles will be auto injected #
