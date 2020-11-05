@@ -1,0 +1,35 @@
+type: article
+
+name: james-arthur-website-relaunch
+
+theme:
+  text: "#000000"
+  background: "#FCEEDB"
+
+meta:
+  title: Website relaunch for the British singer and X-Factor winner James Arthur
+  subtitle: Website
+
+  hero:
+    type: image
+    path: images/articles/jamesarthur-hero
+
+  alternates:
+    en: news/2020-01-15/james-arthur-website-relaunch
+
+body:
+  - type: markdown
+    body: |
+      In spring 2020 we relaunched the website of British artist James Arthur for our client Sony Music Entertainment Germany.
+
+      James and his management wanted a simple site as a central spot for his releases, videos or live shows. The minimalist design is based on the album artwork of "You", the current release by James.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        path: images/articles/jamesarthur-mobile-screen-1
+      - type: image
+        alias: phone
+        path: images/articles/jamesarthur-mobile-screen-2
