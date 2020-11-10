@@ -91,11 +91,11 @@ body:
   - type: image
     title: Animierte Thementeaser
     alt: Die drei Fragezeichen Newsletter Teaser
-    path: images/cases/dreifragezeichen-teaser-newsletter
+    path: videos/cases/dreifragezeichen-teaser-newsletter
 
   - type: image
     alt: Die drei Fragezeichen Geschichte Teaser
-    path: videos/cases/dreifragenzeichen-teaser-geschichte
+    path: images/cases/dreifragezeichen-teaser-geschichte
 
   - type: image
     caption: Eine Auswahl animierter Thementeaser, die wir an das Scrollverhalten koppeln und dadurch kleine Überraschungseffekte erzeugen.
