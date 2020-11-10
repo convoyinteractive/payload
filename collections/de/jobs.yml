@@ -47,13 +47,15 @@ body:
   - type: gallery
     items:
       - type: image
-        path: videos/convoy-jobs
+        path: videos/convoy-jobs-video-1
       - type: image
         alt: Bei uns gibt es keinen Dresscode.
         path: images/convoy-jobs-entwicklung
       - type: image
         alt: Ideenausstausch mit Mary und Tobias.
         path: images/convoy-jobs-besprechung
+      - type: image
+        path: videos/convoy-jobs-video-2
       - type: image
         alt: Wir lieben Designbücher - Hier kannst du dich gerne inspirieren lassen.
         path: images/convoy-jobs-inspiration
@@ -64,8 +66,12 @@ body:
         alt: Wir verwenden verschiedene kreative Techniken zur Ideenfindung wie zum Beispiel ein Moodboard.
         path: images/convoy-jobs-praesentation
       - type: image
+        path: videos/convoy-jobs-video-3
+      - type: image
         alt: St. Pauli - Hier sind wir zuhause.
         path: images/convoy-jobs-stpauli
+      - type: image
+        path: videos/convoy-jobs-video-4
 
   - type: definition
     title: Aktuell suchen wir
