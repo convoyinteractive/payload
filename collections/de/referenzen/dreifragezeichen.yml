@@ -95,7 +95,7 @@ body:
 
   - type: image
     alt: Die drei Fragezeichen Geschichte Teaser
-    path: images/cases/dreifragezeichen-teaser-geschichte
+    path: videos/cases/dreifragenzeichen-teaser-geschichte
 
   - type: image
     caption: Eine Auswahl animierter Thementeaser, die wir an das Scrollverhalten koppeln und dadurch kleine Überraschungseffekte erzeugen.
