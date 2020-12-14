@@ -8,13 +8,16 @@ theme:
 
 meta:
   title: Die drei Fragezeichen
-  subtitle: Microsite
-
-  image:
-    path: images/cases/dreifragezeichen-hero
-
+  image: images/cases/dreifragezeichen-hero
   alternates:
     en: cases/diedreifragezeichen
+
+hero:
+  type: image
+  title: Die drei Fragezeichen
+  subtitle: Microsite
+  path: images/cases/dreifragezeichen-hero
+
 
 details:
   - label: Kunde
