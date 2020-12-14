@@ -2,15 +2,16 @@ type: jobs
 
 meta:
   title: Jobs
-  subtitle: Stellenangebote
-
-  hero:
-    type: image
-    alt: Jobs bei Convoy
-    path: images/convoy-hinterhof
-
+  image: images/convoy-hinterhof
   alternates:
     en: jobs
+
+hero:
+  type: image
+  title: Jobs
+  subtitle: Stellenangebote
+  alt: Jobs bei Convoy
+  path: images/convoy-hinterhof
 
 body:
   - type: markdown

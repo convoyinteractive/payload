@@ -2,14 +2,14 @@ type: services
 
 meta:
   title: Kompetenzen
-  subtitle: Leistungsübersicht
-
-  hero:
-    type: lottie
-    path: assets/services.json
-
   alternates:
     en: services
+
+hero:
+  type: lottie
+  title: Kompetenzen
+  subtitle: Leistungsübersicht
+  path: assets/services.json
 
 body:
   - type: markdown

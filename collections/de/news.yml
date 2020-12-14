@@ -2,8 +2,12 @@ type: blog
 
 meta:
   title: Neuigkeiten
-  subtitle:
-
+  image:
   alternates:
     en: news
+
+hero:
+    type: component
+    title: Neuigkeiten
+
 # NOTE: Articles will be auto injected #

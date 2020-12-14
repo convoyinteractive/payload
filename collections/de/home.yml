@@ -2,9 +2,13 @@ type: home
 
 meta:
   title: More action, less noise.
-
+  image:
   alternates:
     en: null
+
+hero:
+  type: component
+  title: More action, less noise.
 
 body:
   - type: markdown
@@ -21,7 +25,7 @@ body:
 
   - type: markdown
     body: |
-      Wir arbeiten an der Schnittstelle von Design, Technologie und menschlicher Interaktion. Unser Ziel: Die Kommunikation zwischen Unternehmen und Kunden zu vereinfachen. 
+      Wir arbeiten an der Schnittstelle von Design, Technologie und menschlicher Interaktion. Unser Ziel: Die Kommunikation zwischen Unternehmen und Kunden zu vereinfachen.
 
       Gemeinsam mit unseren Auftraggebern entwickeln wir individuelle Lösungen, die ihnen helfen, digitale Potenziale auszuschöpfen und ihr Wachstum voranzutreiben.
 

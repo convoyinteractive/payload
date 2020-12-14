@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: User Experience Design
-  subtitle: Kompetenzen
-
-  hero:
-    type: lottie
-    path: assets/user-experience-design.json
-
+  image:
   alternates:
     de: services/user-experience-design
+
+hero:
+  type: lottie
+  title: User Experience Design
+  subtitle: Kompetenzen
+  path: assets/user-experience-design.json
 
 body:
   - type: markdown
