@@ -20,22 +20,32 @@ hero:
     small: images/cases/golfhouse-hero-mobile
     large: images/cases/golfhouse-hero
 
-details:
-  - label: Kunde
-    value:
-      - Golf House
-
-  - label: Projekt
-    value:
-      - E-Commerce Website
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - Responsive Web Design
-      - Icon Design
-      - Frontend Development
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Golf House
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: E-Commerce Website
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown
