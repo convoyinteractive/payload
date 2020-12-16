@@ -14,7 +14,7 @@ meta:
 
 hero:
   type: image
-  title: Teamcast  
+  title: Teamcast
   subtitle: WebApp
   sizes:
     small: images/cases/teamcast-hero-mobile
