@@ -8,13 +8,17 @@ theme:
 
 meta:
   title: EHA
-  subtitle: Branding, Website, Software + Online-Marketing
-
-  image:
-    path: images/cases/eha-hero
-
+  image: images/cases/eha-hero
   alternates:
     en: cases/eha
+
+hero:
+  type: image
+  title: EHA
+  subtitle: Branding, Website, Software + Online-Marketing
+  sizes:
+    large: images/cases/eha-hero
+    small: images/cases/eha-hero-mobile
 
 details:
   - label: Kunde
