@@ -18,7 +18,7 @@ hero:
   subtitle: Website + Online-Marketing
   sizes:
     small: images/cases/schoener-wohnen-farbe-hero-mobile
-    large: images/cases/schoener-wohnen-farbe-hero  
+    large: images/cases/schoener-wohnen-farbe-hero
 
 aside:
   - type: definition
