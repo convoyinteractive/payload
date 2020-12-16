@@ -1,3 +1,128 @@
 type: case
 
 name: architects-finest
+
+theme:
+  text: "#000000"
+  background: "#E7D6D2"
+
+meta:
+  title: Architects’ Finest
+  image: images/cases/architects-finest-hero
+  alternates:
+    de: cases/architects-finest
+
+hero:
+  type: image
+  title: Architects’ Finest
+  subtitle: Microsite
+  sizes:
+    small: images/cases/architects-finest-hero-mobile
+    large: images/cases/architects-finest-hero
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Schöner Wohnen Farbe
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: UX/UI Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Motion graphic design
+          - type: text
+            body: 3D
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Social media strategy
+          - type: text
+            body: Content creation
+          - type: text
+            body: Online marketing
+          - type: text
+            body: Consulting
+
+body:
+  - type: markdown
+    body: |
+      As part of the market launch of Architects' Finest, the collection that meets the demands of high-quality housing by Schöner Wohnen Farbe Schöner Wohnen Farbe, we were commissioned with the concept and implementation of a microsite. In addition, we are responsible for the strategy and implementation of the supporting[ social media campaign as well as for the production of various online advertising media.
+
+  - type: image
+    alias: screen
+    alt: Architects Finest Microsite Desktop
+    path: videos/cases/architects-finest-desktop-screen-1
+
+  - type: markdown
+    title: A story to every colour
+    body: |
+      The microsite presents all of Architects’ Finest’s sixteen colours, each on their own individual landing page. Every one shows high-quality interior photographs, lists general product information and tells the story of how the respective colour originated.
+      
+  - type: image
+    alias: screen
+    alt: Architects Finest Microsite Desktop
+    path: images/cases/architects-finest-screen-desktop-2
+
+  - type: markdown
+    title: Interactive storytelling
+    body: |
+      We tell the story behind Architects’ Finest in a special way: when visitors first open the page, they’re taken through the story in seven short episodes and can access it independently with just a few clicks or swipes. The key visual at the end of the page leads deeper into the page, directly to the collection’s individual colours.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        path: videos/cases/architects-finest-mobile-screen-1
+      - type: image
+        alias: phone
+        path: videos/cases/architects-finest-mobile-screen-2
+      - type: image
+        alias: phone
+        path: videos/cases/architects-finest-mobile-screen-3
+      - type: image
+        alias: phone
+        path: videos/cases/architects-finest-mobile-screen-4
+
+  - type: markdown
+    title: 3D animations for an emotional product experience
+    body: |
+      Product presentations on websites have one crucial disadvantage: the lack of haptics. As we we like to convey the value of the Architects’ Finest packaging via the microsite as well, we compiled several 3D animations, each dedicated to one particular detail of the paint can.
+
+  - type: video
+    path: videos/cases/architects-finest-packshot
+    poster: images/cases/architects-finest-3d-animation-video-poster
+    caption: Specially created 3D animations highlight the special features of Architects' Finest product packaging.
+
+  - type: quote
+    body: For a perfect user experience, we link each creative hotspot, story and colour to create a true scrollytelling experience
+    author:
+      name: Mary
+      title: senior designer
+
+  - type: markdown
+    title: Social media included
+    body: |
+      Following the launch of the microsite, we adapted our concept to social media. This was based on a detailed strategic analysis of relevant target groups as well as suitable platforms and formats. There we consistently told the story while taking into account the specific characteristics of the respective channels. Within a short period of time, we were able to build up a solid fan base and continuously increased coverage on an ongoing basis.
+
+  - type: image
+    alt: Content für verschiedene Social-Media-Kanäle
+    path: images/cases/architects-finest-social-media-logos
+
+  - type: image
+    alt: Architects’ Finest Instagram Feed
+    path: images/cases/architects-finest-instagram
