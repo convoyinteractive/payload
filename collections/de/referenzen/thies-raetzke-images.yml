@@ -8,35 +8,54 @@ theme:
 
 meta:
   title: Thies Rätzke Images
-  subtitle: Branding + Website
-
-  image:
-    path: images/cases/thies-raetzke-hero
-
+  image: images/cases/thies-raetzke-images
   alternates:
     en: cases/thies-raetzke-images
 
-details:
-  - label: Kunde
-    value:
-      - Thies Rätzke Images
+hero:
+  type: image
+  title: Thies Rätzke Images
+  subtitle: Branding + Website
+  sizes:
+    small: images/cases/thies-raetzke-hero-mobile
+    large: images/cases/thies-raetzke-hero
 
-  - label: Projekt
-    value:
-      - Branding
-      - Portfolio Website
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - User Experience Design
-      - Responsive Web Design
-      - Icon Design
-      - Graphic Design
-      - Frontend Development
-      - Backend Development
-      - Beratung
-      - Desktop Publishing
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Thies Rätzke Images
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Branding
+          - type: text
+            body: Portfolio Website
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Graphic Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Backend Development
+          - type: text
+            body: Beratung
+          - type: text
+            body: Desktop Publishing
 
 body:
   - type: markdown
