@@ -71,7 +71,7 @@ body:
     title: A story to every colour
     body: |
       The microsite presents all of Architects’ Finest’s sixteen colours, each on their own individual landing page. Every one shows high-quality interior photographs, lists general product information and tells the story of how the respective colour originated.
-      
+
   - type: image
     alias: screen
     alt: Architects Finest Microsite Desktop
