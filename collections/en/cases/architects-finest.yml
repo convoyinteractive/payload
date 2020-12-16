@@ -24,7 +24,7 @@ aside:
   - type: definition
     items:
       - type: list
-        term: Kunde
+        term: Client
         items:
           - type: text
             body: Schöner Wohnen Farbe
@@ -34,7 +34,7 @@ aside:
           - type: text
             body: Microsite
       - type: list
-        term: Leistungen
+        term: Services
         items:
           - type: text
             body: Concept
