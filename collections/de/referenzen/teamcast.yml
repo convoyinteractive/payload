@@ -8,33 +8,50 @@ theme:
 
 meta:
   title: Teamcast
-  subtitle: WebApp
-
-  image:
-    path: images/cases/teamcast-hero
-
+  image: images/cases/teamcast-hero
   alternates:
     en: cases/teamcast
 
-details:
-  - label: Kunde
-    value:
-      - Volker Thullesen
+hero:
+  type: image
+  title: Teamcast  
+  subtitle: WebApp
+  sizes:
+    small: images/cases/teamcast-hero-mobile
+    large: images/cases/teamcast-hero
 
-  - label: Projekt
-    value:
-      - WebApp
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - User Experience Design
-      - User Interface Design
-      - Icon Design
-      - Frontend Development
-      - Backend Development
-      - Information Architecture
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Volker Thullesen
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: WebApp
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: User Interface Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Backend Development
+          - type: text
+            body: Information Architecture
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown
