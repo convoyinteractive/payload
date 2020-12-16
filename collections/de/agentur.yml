@@ -47,41 +47,36 @@ body:
   - type: gallery
     items:
       - type: image
-        alt: Unsere Senior Designerin Melanie
+        alt: Eingang zu unserem Büro
+        path: images/convoy-agentur-eingang
+
+      - type: image
+        alt: Senior Designerin - Melanie
         path: images/convoy-agentur-melanie
-
-      - type: image
-        alt: Webentwicklung bei Convoy
-        path: images/convoy-agentur-macbook
-
-      - type: image
-        path: videos/convoy-agentur-slider-illustrator
-
-      - type: image
-        alt: Humor bei der Arbeit
-        path: images/convoy-agentur-humor
-
-      - type: image
-        path: videos/convoy-agentur-slider-code
-
-      - type: image
-        alt: Senior Software Developer - Tobias
-        path: images/convoy-agentur-tobias
 
       - type: image
         alt: Geschäftsführer - Marc und Felix
         path: images/convoy-agentur-marc-felix
 
       - type: image
+        alt: Senior Software Developer - Tobias
+        path: images/convoy-agentur-tobias
+
+      - type: image
+        alt: Senior Designer - Mary 
+        path: images/convoy-agentur-mary
+
+      - type: image
+        alt: Senior Designer - Malwin
+        path: images/convoy-agentur-malwin
+
+      - type: image
+        alt: Humor bei der Arbeit
+        path: images/convoy-agentur-humor
+
+      - type: image
         alt: Convoys Figurensammlung
         path: images/convoy-agentur-figuren
-
-      - type: image
-        alt: Eingang zu unserem Büro
-        path: images/convoy-agentur-eingang
-
-      - type: image
-        path: videos/convoy-agentur-slider-decor
 
   - type: list
     title: Wir können Ihnen helfen, wenn…
