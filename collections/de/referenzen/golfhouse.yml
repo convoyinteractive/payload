@@ -8,13 +8,17 @@ theme:
 
 meta:
   title: Golf House
-  subtitle: E-Commerce Website
-
-  image:
-    path: images/cases/golfhouse-hero
-
+  image: images/cases/golfhouse-hero
   alternates:
     en: cases/golfhouse
+
+hero:
+  type: image
+  title: Golf House
+  subtitle: E-Commerce Website
+  sizes:
+    small: images/cases/golfhouse-hero-mobile
+    large: images/cases/golfhouse-hero
 
 details:
   - label: Kunde
