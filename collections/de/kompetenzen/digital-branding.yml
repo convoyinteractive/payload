@@ -2,7 +2,10 @@ type: services
 
 meta:
   title: Digital Branding
-  subtitle: Kompetenzen
-
+  image:
   alternates:
     de: services/digital-branding
+
+hero:
+  title: Digital Branding
+  subtitle: Kompetenzen

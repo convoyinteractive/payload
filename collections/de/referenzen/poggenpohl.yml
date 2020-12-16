@@ -8,33 +8,46 @@ theme:
 
 meta:
   title: Poggenpohl
-  subtitle: Microsite
-
-  image:
-    sizes:
-      small: images/cases/poggenpohl-hero-mobile
-      large: images/cases/poggenpohl-hero
-
+  image: images/cases/poggenpohl-hero
   alternates:
     en: cases/poggenpohl
 
-details:
-  - label: Kunde
-    value:
-      - Poggenpohl Möbelwerke
+hero:
+  type: image
+  title: Poggenpohl
+  subtitle: Microsite
+  sizes:
+    small: images/cases/poggenpohl-hero-mobile
+    large: images/cases/poggenpohl-hero
 
-  - label: Projekt
-    value:
-      - Microsite
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - User Experience Design
-      - Responsive Web Design
-      - Motion Design
-      - Frontend Development
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Poggenpohl Möbelwerke
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Motion Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown

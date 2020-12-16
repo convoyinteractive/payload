@@ -8,37 +8,54 @@ theme:
 
 meta:
   title: Architects’ Finest
-  subtitle: Microsite
-
-  image:
-    sizes:
-      small: images/cases/architects-finest-hero-mobile
-      large: images/cases/architects-finest-hero
-
+  image: images/cases/architects-finest-hero
   alternates:
     en: cases/architects-finest
 
-details:
-  - label: Kunde
-    value:
-      - Schöner Wohnen Farbe
+hero:
+  type: image
+  title: Architects’ Finest
+  subtitle: Microsite
+  sizes:
+    small: images/cases/architects-finest-hero-mobile
+    large: images/cases/architects-finest-hero
 
-  - label: Projekt
-    value:
-      - Microsite
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - UX/UI Design
-      - Responsive Web Design
-      - Motion Design
-      - 3D
-      - Frontend Development
-      - Social Media Strategie
-      - Content Creation
-      - Online Marketing
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Schöner Wohnen Farbe
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: UX/UI Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Motion Design
+          - type: text
+            body: 3D
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Social Media Strategie
+          - type: text
+            body: Content Creation
+          - type: text
+            body: Online Marketing
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown

@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Web + App Development
-  subtitle: Kompetenzen
-
-  hero:
-    type: lottie
-    path: assets/web-app-development.json
-
+  image:
   alternates:
     de: services/web-app-development
+
+hero:
+  type: lottie
+  title: Web + App Development
+  subtitle: Kompetenzen
+  path: assets/web-app-development.json
 
 body:
   - type: markdown

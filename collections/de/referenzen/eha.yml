@@ -8,35 +8,54 @@ theme:
 
 meta:
   title: EHA
-  subtitle: Branding, Website, Software + Online-Marketing
-
-  image:
-    path: images/cases/eha-hero
-
+  image: images/cases/eha-hero
   alternates:
     en: cases/eha
 
-details:
-  - label: Kunde
-    value:
-      - EHA Energie-Handelsgesellschaft
+hero:
+  type: image
+  title: EHA
+  subtitle: Branding, Website, Software + Online-Marketing
+  sizes:
+    large: images/cases/eha-hero
+    small: images/cases/eha-hero-mobile
 
-  - label: Projekt
-    value:
-      - Digital Branding
-      - Corporate Website
-      - Software
-      - Online Marketing
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - User Experience Design
-      - User Interface Design
-      - Responsive Web Design
-      - Icon Design
-      - Illustration
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: EHA Energie-Handelsgesellschaft
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Digital Branding
+          - type: text
+            body: Corporate Website
+          - type: text
+            body: Software
+          - type: text
+            body: Online Marketing
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: User Interface Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Illustration
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown

@@ -8,31 +8,46 @@ theme:
 
 meta:
   title: Die drei Fragezeichen
-  subtitle: Microsite
-
-  image:
-    path: images/cases/dreifragezeichen-hero
-
+  image: images/cases/dreifragezeichen-hero
   alternates:
     en: cases/diedreifragezeichen
 
-details:
-  - label: Kunde
-    value:
-      - Sony Music Entertainment
+hero:
+  type: image
+  title: Die drei Fragezeichen
+  subtitle: Microsite
+  sizes:
+    small: images/cases/dreifragezeichen-hero-mobile
+    large: images/cases/dreifragezeichen-hero
 
-  - label: Projekt
-    value:
-      - Microsite
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - Responsive Web Design
-      - Icon Design
-      - Motion Design
-      - Frontend Development
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Sony Music Entertainment
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Motion Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown

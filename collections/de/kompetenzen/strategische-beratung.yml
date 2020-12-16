@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Strategische Beratung
-  subtitle: Kompetenzen
-
-  hero:
-    type: lottie
-    path: assets/strategic-consulting.json
-
+  image:
   alternates:
     en: services/strategic-consulting
+
+hero:
+  type: lottie
+  title: Strategische Beratung
+  subtitle: Kompetenzen
+  path: assets/strategic-consulting.json
 
 body:
   - type: markdown

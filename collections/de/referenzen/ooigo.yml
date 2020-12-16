@@ -8,37 +8,58 @@ theme:
 
 meta:
   title: Ooigo
-  subtitle: App, Branding + Online Marketing
-
-  image:
-    path: images/cases/ooigo-hero
-
+  image: images/cases/ooigo-hero
   alternates:
     en: cases/ooigo
 
-details:
-  - label: Kunde
-    value:
-      - Ooigo
+hero:
+  type: image
+  title: Ooigo
+  subtitle: App, Branding + Online Marketing
+  sizes:
+    small: images/cases/ooigo-hero-mobile
+    large: images/cases/ooigo-hero
 
-  - label: Projekt
-    value:
-      - App
-      - Digital Branding
-      - Microsite
-      - Online Marketing
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - User Experience Design
-      - User Interface Design
-      - Responsive Web Design
-      - Icon Design
-      - Illustration
-      - Motion Design
-      - Frontend Development
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Ooigo
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: App
+          - type: text
+            body: Digital Branding
+          - type: text
+            body: Microsite
+          - type: text
+            body: Online Marketing
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: User Interface Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Illustration
+          - type: text
+            body: Motion Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown

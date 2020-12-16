@@ -2,15 +2,16 @@ type: default
 
 meta:
   title: Agentur
-  subtitle: Über uns
-
-  hero:
-    type: image
-    alt: Convoy Agentur
-    path: images/convoy-agentur-hero
-
+  image: images/convoy-agentur-hero
   alternates:
     en: about-us
+
+hero:
+  type: image
+  title: Agentur
+  subtitle: Über uns
+  alt: Über uns
+  path: images/convoy-agentur-hero
 
 body:
   - type: markdown
