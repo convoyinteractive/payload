@@ -8,37 +8,58 @@ theme:
 
 meta:
   title: Schöner Wohnen Farbe
-  subtitle: Website + Online-Marketing
-
-  image:
-    path: images/cases/schoener-wohnen-farbe-hero
-
+  image: images/cases/schoener-wohnen-farbe-hero
   alternates:
     en: cases/schoener-wohnen-farbe
 
-details:
-  - label: Kunde
-    value:
-      - Schöner Wohnen Farbe
+hero:
+  type: image
+  title: Schöner Wohnen Farbe
+  subtitle: Website + Online-Marketing
+  sizes:
+    small: images/cases/schoener-wohnen-farbe-hero-mobile
+    large: images/cases/schoener-wohnen-farbe-hero  
 
-  - label: Projekt
-    value:
-      - Product Website
-      - Online Marketing
-
-  - label: Leistungen
-    value:
-      - Konzeption
-      - Digital Strategie
-      - UX/UI Design
-      - Responsive Web Design
-      - Icon Design
-      - Frontend Development
-      - Backend Development
-      - Content Creation
-      - Redaktion
-      - Online Marketing
-      - Beratung
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Schöner Wohnen Farbe
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Product Website
+          - type: text
+            body: Online Marketing
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: Digital Strategie
+          - type: text
+            body: UX/UI Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Backend Development
+          - type: text
+            body: Content Creation
+          - type: text
+            body: Redaktion
+          - type: text
+            body: Online Marketing
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown
