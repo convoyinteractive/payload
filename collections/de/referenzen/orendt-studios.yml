@@ -8,35 +8,58 @@ theme:
 
 meta:
   title: Orendt Studios
-  subtitle: Corporate Website
-
-  image:
-    path: images/cases/orendtstudios-hero
-
+  image: images/cases/orendtstudios-hero
   alternates:
     en: cases/orendt-studios
 
-details:
-  - label: Kunde
-    value:
-      - Orendt Studios
+hero:
+  type: image
+  title: Orendt Studios
+  subtitle: Corporate Website
+  sizes:
+    small: images/cases/orendtstudios-hero-mobile
+    large: images/cases/orendtstudios-hero
+  image:
+    path: images/cases/orendtstudios-hero
 
-  - label: Projekt
-    value:
-      - Corporate Website
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Kunde
+        items:
+          - type: text
+            body: Orendt Studios
 
-  - label: Leistungen
-    value:
-      - Konzeption
-      - Content Strategy
-      - User Experience Design
-      - Responsive Web Design
-      - Icon Design
-      - Motion Design
-      - 3D
-      - Frontend Development
-      - Backend Development
-      - Beratung
+      - type: list
+        term: Projekt
+        items:
+          - type: text
+            body: Corporate Website
+
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Konzeption
+          - type: text
+            body: Content Strategy
+          - type: text
+            body: User Experience Design
+          - type: text
+            body: Responsive Web Design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Motion Design
+          - type: text
+            body: 3D
+          - type: text
+            body: Frontend Development
+          - type: text
+            body: Backend Development
+          - type: text
+            body: Beratung
 
 body:
   - type: markdown
