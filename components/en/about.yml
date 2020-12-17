@@ -1,4 +1,4 @@
-body:
+items:
   - type: link
     label: About us
     path: /en/about-us
