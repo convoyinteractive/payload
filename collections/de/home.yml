@@ -7,7 +7,7 @@ meta:
     en: null
 
 hero:
-  type: component
+  type: text
   title: More action, less noise.
 
 body:

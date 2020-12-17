@@ -7,6 +7,6 @@ meta:
     en: news
 
 hero:
-  type: component
+  type: text
   title: Neuigkeiten
 # NOTE: Articles will be auto injected #
