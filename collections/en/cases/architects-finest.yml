@@ -20,6 +20,11 @@ hero:
     small: images/cases/architects-finest-hero-mobile
     large: images/cases/architects-finest-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      As part of the market launch of Architects' Finest, the collection that meets the demands of high-quality housing by Schöner Wohnen Farbe Schöner Wohnen Farbe, we were commissioned with the concept and implementation of a microsite. In addition, we are responsible for the strategy and implementation of the supporting[ social media campaign as well as for the production of various online advertising media.
+
 aside:
   - type: definition
     items:
@@ -58,10 +63,6 @@ aside:
             body: Consulting
 
 body:
-  - type: markdown
-    body: |
-      As part of the market launch of Architects' Finest, the collection that meets the demands of high-quality housing by Schöner Wohnen Farbe Schöner Wohnen Farbe, we were commissioned with the concept and implementation of a microsite. In addition, we are responsible for the strategy and implementation of the supporting[ social media campaign as well as for the production of various online advertising media.
-
   - type: image
     alias: screen
     alt: Architects Finest Microsite Desktop
