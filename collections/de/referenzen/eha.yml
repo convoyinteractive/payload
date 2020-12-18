@@ -20,6 +20,13 @@ hero:
     large: images/cases/eha-hero
     small: images/cases/eha-hero-mobile
 
+excerpt:
+  - type: markdown
+    body: |
+      Seit mehr als fünf Jahren betreuen wir als fester Designpartner den Hamburger Energie-Dienstleister EHA.
+
+      Im Rahmen eines umfangreichen Designrefreshs Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet und die neu erstellten Guidelines anschließend auf Website, Software und diverse Marketingmaterialien adaptiert. Seitdem entwickeln wir diese kontinuierlich weiter.
+
 aside:
   - type: definition
     items:
@@ -58,12 +65,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Seit mehr als fünf Jahren betreuen wir als fester Designpartner den Hamburger Energie-Dienstleister EHA.
-
-      Im Rahmen eines umfangreichen Designrefreshs Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet und die neu erstellten Guidelines anschließend auf Website, Software und diverse Marketingmaterialien adaptiert. Seitdem entwickeln wir diese kontinuierlich weiter.
-
   - type: image
     alias: screen
     alt: EHA Website Einstieg

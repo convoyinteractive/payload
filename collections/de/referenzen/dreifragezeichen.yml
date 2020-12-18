@@ -20,6 +20,13 @@ hero:
     small: images/cases/dreifragezeichen-hero-mobile
     large: images/cases/dreifragezeichen-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Dass wir uns im Pitch um den Website-Relaunch der populären deutschen Hörspielreihe durchsetzen konnten, hat uns als Fans der ersten Stunde natürlich besonders gefreut.
+
+      Neben der Einführung eines responsiven Designs lag der Fokus bei diesem Projekt neben der Verbesse-rung der Usability auf einem weniger kindlichen Look, um der inzwischen sehr breiten Zielgruppe auch zukünftig gerecht werden zu können.
+
 aside:
   - type: definition
     items:
@@ -50,12 +57,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Dass wir uns im Pitch um den Website-Relaunch der populären deutschen Hörspielreihe durchsetzen konnten, hat uns als Fans der ersten Stunde natürlich besonders gefreut.
-
-      Neben der Einführung eines responsiven Designs lag der Fokus bei diesem Projekt neben der Verbesse-rung der Usability auf einem weniger kindlichen Look, um der inzwischen sehr breiten Zielgruppe auch zukünftig gerecht werden zu können.
-
   - type: image
     alt: Die drei Fragezeichen Website
     alias: screen

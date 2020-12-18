@@ -20,6 +20,13 @@ hero:
     small: images/cases/thies-raetzke-hero-mobile
     large: images/cases/thies-raetzke-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Anfangs ein kleines Studio im Hamburger Schanzenviertel, hat sich Thies Rätzke Images im Laufe der Jahre zum Full-Service-Dienstleister im Bereich Corporate Photography + Film entwickelt.
+
+      Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet.
+
 aside:
   - type: definition
     items:
@@ -58,12 +65,6 @@ aside:
             body: Desktop Publishing
 
 body:
-  - type: markdown
-    body: |
-      Anfangs ein kleines Studio im Hamburger Schanzenviertel, hat sich Thies Rätzke Images im Laufe der Jahre zum Full-Service-Dienstleister im Bereich Corporate Photography + Film entwickelt.
-
-      Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet.
-
   - type: lottie
     mode: loop
     path: assets/tr-logo-animation.json

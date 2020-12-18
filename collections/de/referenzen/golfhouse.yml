@@ -20,6 +20,13 @@ hero:
     small: images/cases/golfhouse-hero-mobile
     large: images/cases/golfhouse-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Seit seiner Gründung 1976 in Hamburg hat sich Golf House zum größten Golf-Einzelhändler in Deutschland, Österreich und Tschechien entwickelt.
+
+      Neben 29 Filialen betreibt das Unternehmen einen eigenen Online-Shop. Bei dessen jüngstem Relaunch waren wir für Creative Direction und Design verantwortlich.
+
 aside:
   - type: definition
     items:
@@ -48,12 +55,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Seit seiner Gründung 1976 in Hamburg hat sich Golf House zum größten Golf-Einzelhändler in Deutschland, Österreich und Tschechien entwickelt. 
-
-      Neben 29 Filialen betreibt das Unternehmen einen eigenen Online-Shop. Bei dessen jüngstem Relaunch waren wir für Creative Direction und Design verantwortlich.
-
   - type: image
     alias: screen
     alt: Der Website-Einstieg in den Golfhouse Online-Shop
