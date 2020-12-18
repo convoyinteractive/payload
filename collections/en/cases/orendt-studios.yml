@@ -10,7 +10,7 @@ meta:
   title: Orendt Studios
   image: images/cases/orendtstudios-hero
   alternates:
-    en: cases/orendt-studios
+    de: referenzen/orendt-studios
 
 hero:
   type: image
@@ -19,8 +19,11 @@ hero:
   sizes:
     small: images/cases/orendtstudios-hero-mobile
     large: images/cases/orendtstudios-hero
-  image:
-    path: images/cases/orendtstudios-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      The Orendt Studios Holding unites Europe’s largest media production for digital content and e-commerce image production under one roof. As part of a strategic reorientation, Convoy was commissioned to relaunch the online presence.
 
 aside:
   - type: definition
@@ -62,10 +65,6 @@ aside:
             body: Consulting
 
 body:
-  - type: markdown
-    body: |
-      The Orendt Studios Holding unites Europe’s largest media production for digital content and e-commerce image production under one roof. As part of a strategic reorientation, Convoy was commissioned to relaunch the online presence.
-
   - type: gallery
     alias: impressions
     items:
