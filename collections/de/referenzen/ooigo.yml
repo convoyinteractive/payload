@@ -20,6 +20,11 @@ hero:
     small: images/cases/ooigo-hero-mobile
     large: images/cases/ooigo-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Ooigo ist die erste Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet. Entwickelt wurde sie vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Designthemen rund um App, Website, Social Media, Online und klassisches Marketing. Außerdem begleiten wir Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
+
 aside:
   - type: definition
     items:
@@ -62,10 +67,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Ooigo ist die erste Hörspiel-App, die sich speziell an Kinder und Jugendliche richtet. Entwickelt wurde sie vom renommierten Hörspiellabel EUROPA. Als fester Partner sind wir zuständig für alle Designthemen rund um App, Website, Social Media, Online und klassisches Marketing. Außerdem begleiten wir Sony Music seit 2018 kontinuierlich bei der Weiterentwicklung des Produkts.
-
   - type: image
     path: images/cases/ooigo-app
 

@@ -20,6 +20,13 @@ hero:
     small: images/cases/schoener-wohnen-farbe-hero-mobile
     large: images/cases/schoener-wohnen-farbe-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet.
+
+      Für den Relaunch der Website setzen wir auf einen modularen Seitenaufbau in Kombination mit einem flexiblen Design-System sowie auf hilfreiche Tools und Features, die das Produktangebot optimal ergänzen.
+
 aside:
   - type: definition
     items:
@@ -62,12 +69,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Schöner Wohnen Farbe ist die Premium-Marke für Farben und Lacke, die ihre Farbkompetenz mit der langjährigen Wohn- und Einrichtungskompetenz von Europas größtem Wohnmagazin verbindet.
-
-      Für den Relaunch der Website setzen wir auf einen modularen Seitenaufbau in Kombination mit einem flexiblen Design-System sowie auf hilfreiche Tools und Features, die das Produktangebot optimal ergänzen.
-
   - type: gallery
     alias: impressions
     items:

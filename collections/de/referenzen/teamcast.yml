@@ -20,6 +20,11 @@ hero:
     small: images/cases/teamcast-hero-mobile
     large: images/cases/teamcast-hero
 
+excerpt:
+  - type: markdown
+    body: |
+      Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben.
+
 aside:
   - type: definition
     items:
@@ -54,10 +59,6 @@ aside:
             body: Beratung
 
 body:
-  - type: markdown
-    body: |
-      Bei Teamcast handelt es sich um eine webbasierte Anwendung, die wir als digitales Tool zur Mitarbeiterkoordination speziell für den Einsatz in kleinen und mittleren Handwerksbetrieben konzipiert und umgesetzt haben.
-
   - type: image
     alias: screen
     alt: Teamcast Personen Liste
