@@ -19,8 +19,6 @@ hero:
   sizes:
     small: images/cases/orendtstudios-hero-mobile
     large: images/cases/orendtstudios-hero
-  image:
-    path: images/cases/orendtstudios-hero
 
 excerpt:
   - type: markdown
