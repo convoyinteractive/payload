@@ -31,7 +31,8 @@ body:
 
       [Mehr über uns](/de/agentur) {.cta}
 
-  - type: feed
+  - type: list
+    alias: feed
     items:
       - type: collection
         alias: case
