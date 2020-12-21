@@ -127,7 +127,7 @@ body:
   - type: image
     alt: Architects’ Finest Instagram Feed
     path: images/cases/architects-finest-instagram
-    
+
   - type: list
     alias: feed
     items:
@@ -137,4 +137,3 @@ body:
       - type: collection
         alias: case
         resource: referenzen/poggenpohl
-
