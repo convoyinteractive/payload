@@ -1,3 +1,157 @@
 type: case
 
 name: schoener-wohnen-farbe
+
+theme:
+  text: "#000000"
+  background: "#ECE8E2"
+
+meta:
+  title: Schöner Wohnen Farbe
+  image: images/cases/schoener-wohnen-farbe-hero
+  alternates:
+    de: referenzen/schoener-wohnen-farbe
+
+hero:
+  type: image
+  title: Schöner Wohnen Farbe
+  subtitle: Website + online marketing
+  sizes:
+    small: images/cases/schoener-wohnen-farbe-hero-mobile
+    large: images/cases/schoener-wohnen-farbe-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      Schöner Wohnen Farbe is a premium brand for paints and varnishes. It combines color expertise with the many years of living and furnishing expertise of Europe's largest home furnishings magazine.
+
+      For the relaunch of the website, we relied on a modular page structure in combination with a flexible design system as well as helpful tools and features that optimally complement the product range.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Schöner Wohnen Farbe
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Product website
+          - type: text
+            body: Online marketing
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: Digital strategy
+          - type: text
+            body: UX/UI design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Backend development
+          - type: text
+            body: Content creation
+          - type: text
+            body: Editorial office
+          - type: text
+            body: Online marketing
+          - type: text
+            body: Consulting
+
+body:
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe website
+        path: images/cases/schoener-wohnen-farbe-website-slide-1
+
+  - type: markdown
+    title: State of the art product presentation
+    body: |
+      Apart from a responsive design Schöner Wohnen Farbe wanted an optimized information architecture, a clear and modular side structure as well as a modern presentation of its extensive product range.
+
+  - type: image
+    alias: screen
+    alt: Schöner Wohnen Farbe website
+    caption: Like the entire website, the homepage is very modular in design. Predefined content elements can be arranged in almost any order.
+    path: images/cases/schoener-wohnen-farbe-website-komplett
+
+  - type: markdown
+    title: Flexible design system
+    body: |
+      The design system created for the new website offers the greatest possible flexibility in design. For example, we were able to design landing pages for specific product ranges individually, taking into account the respective product presentation, while still integrating them harmoniously into the overall context.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe "Designfarben" landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-1
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe "Architects Finest" landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-2
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe "Naturell" landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-3
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe "My Colour" landingpage
+        path: images/cases/schoener-wohnen-farbe-landingpage-4
+
+  - type: markdown
+    title: Additonal value
+    body: |
+      Helpful features such as the filterable colours overview, the retailer search, the digital product advisor or the online magazine "Colour Stories" complement the range of products, create real value and ensure that visitors return on regular basis.
+
+  - type: image
+    alias: screen
+    alt: Schöner Wohnen Farbe color overview
+    path: images/cases/schoener-wohnen-farbe-farbtonuebersicht
+
+  - type: gallery
+    title: Examples from the online magazine "Colour Stories"
+    caption: Our responsibilities also include the editorial supervision of the "Colour Stories". Since the introduction of the magazine we have realized more than 50 stories.
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe colour story "Natural Touch"
+        path: images/cases/schoener-wohnen-farbe-colour-storys-1
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe colour story "Frühling"
+        path: images/cases/schoener-wohnen-farbe-colour-storys-2
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe colour story "Kleine Räume"
+        path: images/cases/schoener-wohnen-farbe-colour-storys-3
+
+  - type: markdown
+    title: Interaction of PIM and CMS
+    body: |
+      Each product has its own detail page, which links to the retailer search or directly to affiliate partners – below the fold supplemented by image galleries, related products and data sheets for download.
+
+      All product-related data is fed directly from the in-house product information system, while editorial content is maintained separately via a content management system.
+
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Schöner Wohnen Farbe product page "Trendfarbe"
+        path: images/cases/schoener-wohnen-farbe-detailseite-1
