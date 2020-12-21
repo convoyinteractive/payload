@@ -57,7 +57,7 @@ aside:
 body:
   - type: image
     alias: screen
-    alt: Der Website-Einstieg in den Golfhouse Online-Shop
+    alt: Der Website-Einstieg in den Golf House Online-Shop
     path: images/cases/golfhouse-desktop
 
   - type: markdown
@@ -70,11 +70,11 @@ body:
     items:
       - type: image
         alias: phone
-        alt: Die Smartphone-Ansicht des Golfhouse Online-Shops
+        alt: Die Smartphone-Ansicht des Golf House Online-Shops
         path: images/cases/golfhouse-mobile-products
       - type: image
         alias: phone
-        alt: Das Mobile-Menu des Golfhouse Online-Shops
+        alt: Das Mobile-Menu des Golf House Online-Shops
         path: images/cases/golfhouse-mobile-menu
       - type: image
         alias: phone
@@ -82,7 +82,7 @@ body:
         path: images/cases/golfhouse-mobile-news
       - type: image
         alias: phone
-        alt: Der Bestellvorgang im Golfhouse Online-Shop
+        alt: Der Bestellvorgang im Golf House Online-Shop
         path: images/cases/golfhouse-mobile-checkout
 
   - type: image
@@ -100,11 +100,11 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Eine Produktseite im Golfhouse Online-Shops
+        alt: Eine Produktseite im Golf House Online-Shops
         path: images/cases/golfhouse-produktseite
       - type: image
         alias: screen
-        alt: Eine Kategorie-Übersichtsseite im Golfhouse Online-Shops
+        alt: Eine Kategorie-Übersichtsseite im Golf House Online-Shops
         path: images/cases/golfhouse-shop-uebersicht
 
   - type: svg
