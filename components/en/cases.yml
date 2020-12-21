@@ -1,1 +1,27 @@
 items:
+  - type: collection
+    resource: cases/orendt-studios
+
+  - type: collection
+    resource: cases/ooigo
+
+  - type: collection
+    resource: cases/teamcast
+
+  - type: collection
+    resource: cases/eha
+
+  - type: collection
+    resource: cases/architects-finest
+
+  - type: collection
+    resource: cases/dreifragezeichen
+
+  - type: collection
+    resource: cases/poggenpohl
+
+  - type: collection
+    resource: cases/golfhouse
+
+  - type: collection
+    resource: cases/thies-raetzke-images
