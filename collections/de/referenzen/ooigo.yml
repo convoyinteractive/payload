@@ -32,7 +32,7 @@ aside:
         term: Kunde
         items:
           - type: text
-            body: Sony Music Entertainment 
+            body: Sony Music Entertainment
       - type: list
         term: Projekt
         items:
@@ -94,7 +94,6 @@ body:
     author:
       name: Kathrin Kellerer
       title: Digital Marketing Manager, Sony Music Entertainment
-
 
   - type: gallery
     caption: Anzeige-Motive für die Print-Magazine „Biene Maja“ und „Super Wings“.
