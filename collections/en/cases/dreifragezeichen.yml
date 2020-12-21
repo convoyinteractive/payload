@@ -1,3 +1,143 @@
 type: case
 
 name: dreifragezeichen
+
+theme:
+  text: "#000000"
+  background: "#E4F0D8"
+
+meta:
+  title: Die drei ??? (The Three Investigators)
+  image: images/cases/dreifragezeichen-hero
+  alternates:
+    de: cases/diedreifragezeichen
+
+hero:
+  type: image
+  title: Die drei ??? (The Three Investigators)
+  subtitle: Microsite
+  sizes:
+    small: images/cases/dreifragezeichen-hero-mobile
+    large: images/cases/dreifragezeichen-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      As fans right from the get-go, we were delighted to have won the pitch for relaunching the website of the popular German audio book series.
+
+      In addition to the introduction of a responsive design, our focus was on improving the usability and providing a less child-like look to be able to meet the requirements of the meanwhile very broad target group.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Sony Music Entertainment
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Leistungen
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Motion graphic design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Consulting
+
+body:
+  - type: image
+    alt: Die drei Fragezeichen Website
+    alias: screen
+    path: images/cases/dreifragezeichen-homepage
+
+  - type: markdown
+    title: New headquarters for the three investigators
+    body: |
+      With more than 200 episodes, Justus Jonas, Peter Shaw and Bob Andrews have been regular guests not just in German children’s rooms ever since the end of 1970s. Initially as printed books, later primarily as audio books, the series has long since achieved cult status.
+
+      Now expanded to include “Die drei ??? Kids”, which is geared towards children between the ages of six and ten, the websites of both series needed to be brought closer together visually and harmonised structurally. For this purpose we developed a basic design, which we only modified on CSS level in the website frontend.
+
+  - type: image
+    alt: The three investigators cover illustration
+    path: images/cases/dreifragezeichen-illustrations
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: The three investigators hompage on mobile screen
+        path: images/cases/dreifragezeichen-mobile-startseite
+      - type: image
+        alias: phone
+        alt: The three investigators hompage details on mobile screen
+        path: images/cases/dreifragezeichen-mobile-details
+      - type: image
+        alt: The three investigators audio books on mobile screen
+        alias: phone
+        path: images/cases/dreifragezeichen-mobile-hoerspiele
+      - type: image
+        alt: The three investigators audio player on mobile screen
+        alias: phone
+        path: images/cases/dreifragezeichen-mobile-audioplayer
+
+  - type: markdown
+    title: The three investigators and the www
+    body: |
+      With this project, too, it was important to systematise the design we had developed and to then document it in a pattern library. In doing so, we were not only able to guarantee smooth coordination between the client, designers and developers, but also to adapt the compiled guidelines without much additional effort to the “Die drei ??? Kids” world.
+
+  - type: quote
+    body: It’s unbelievable what Convoy has accomplished within a few weeks. We are absolutely thrilled.
+    author:
+      name: Kathrin Kellerer
+      title: Digital Marketing Manager, Sony Music Entertainment
+
+
+  - type: image
+    title: Theme teasers
+    alt: The three investigators newsletter teaser
+    path: images/cases/dreifragezeichen-teaser-newsletter
+
+  - type: image
+    alt: The three investigators history teaser
+    path: images/cases/dreifragezeichen-teaser-geschichte
+
+  - type: image
+    caption: A selection of animated theme teasers are linked to the scrolling behavior and thus create small surprise effects.
+    alt: The three investigators case of the week teaser
+    path: images/cases/dreifragezeichen-teaser-fall-der-woche
+
+  - type: image
+    title: Teaser kids world
+    alt: The three investigators kids newsletter teaser
+    path: images/cases/dreifragezeichen-kids-teaser-newsletter
+
+  - type: image
+    alt: The three investigators kids case of the week teaser
+    path: images/cases/dreifragezeichen-kids-teaser-fall-der-woche
+
+  - type: image
+    caption: The design of the “Die drei ??? Kids” website differs just slightly, but still noticeably from that of the main page. 
+    alt: The three investigators kids fun facts teaser
+    path: images/cases/dreifragezeichen-kids-teaser-fun-facts
+
+  - type: markdown
+    title: Three colours for three detectives
+    body: |
+      The colour set of The Three Investigators is kept very simple. We took this into account when designing the website and minimised its look to be in blue, red and black combined with white. Each colour has a clear function, which comes into effect consistently in all content elements and modules. For a conclusive user navigation no more is necessary.
+
+  - type: svg
+    title: Excerpts from the pattern library
+    path: assets/dreifragezeichen-pattern-library.svg
