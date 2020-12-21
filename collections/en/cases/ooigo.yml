@@ -1,3 +1,171 @@
 type: case
 
 name: ooigo
+
+theme:
+  text: "#000000"
+  background: "#E1FBFF"
+
+meta:
+  title: Ooigo
+  image: images/cases/ooigo-hero
+  alternates:
+    de: cases/ooigo
+
+hero:
+  type: image
+  title: Ooigo
+  subtitle: App, branding + online marketing
+  sizes:
+    small: images/cases/ooigo-hero-mobile
+    large: images/cases/ooigo-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      Ooigo is the first audio app specifically designed for children and teenagers. It was developed by the renowned audio book label EUROPA. As a regular partner we are responsible for all design topics related to the app, website, social media, online and classic marketing. In addition, we have been consistently supporting Sony Music in the ongoing development of the product since 2018.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Sony Music Entertainment
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: App
+          - type: text
+            body: Digital branding
+          - type: text
+            body: Microsite
+          - type: text
+            body: Online marketing
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: User experience design
+          - type: text
+            body: User interface design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Illustration
+          - type: text
+            body: Motion graphic design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Consulting
+
+body:
+  - type: image
+    path: images/cases/ooigo-app
+
+  - type: markdown
+    title: O for original
+    body: |
+      The audio book app Ooigo filters streaming content by age and interests. As it is used by children, the focus has been on making it as easy and intuitive to use as possible. The app’s UI design therefore relies on clear colours, a look appropriate for children and as few operating elements as necessary. Illustration and design details have been worked out tastefully, so that the app is fun to use and the young target group will want to listen to it regularly.
+
+      The Ooigo app filters streaming content by age and interests. Since it is used by children, the focus is on making it as easy and intuitive as possible. The app's UI design therefore focuses on clear colors, a look appropriate for children and as few controls as necessary. Illustrations and design details have been worked out tastefully, so that the app is fun to use and the kids will want to listen to it regularly.
+
+  - type: video
+    caption: The homepage of the Ooigo website provides an overview of the app's most important features.
+    poster: images/cases/ooigo-website-scroll-video-poster
+    path: videos/cases/ooigo-website-scroll
+
+  - type: markdown
+    body: |
+      For a consistent appearance in all applications, we documented all design elements in a pattern library. Based on this foundation, we adapted the basic design for the app, website, videos, social media, print media and merchandise.
+
+  - type: image
+    alt: Individually designed icons
+    title: Individually designed icons
+    path: images/cases/ooigo-icons-interests
+
+  - type: quote
+    body: Working with Convoy on every single project is highly professional, rewarding and the results more than convincing. We could not wish for a better partner to work with.
+    author:
+      name: Kathrin Kellerer
+      title: Digital Marketing Manager, Sony Music Entertainment
+
+
+  - type: gallery
+    caption: Advertisement designs for the print magazines "Maya the Bee" and "Super Wings". 
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: Advertisement design for the print magazine "Maya the Bee"
+        path: images/cases/ooigo-print-1
+      - type: image
+        alias: screen
+        alt: Advertisement design for the print magazine "Super Wings"
+        path: images/cases/ooigo-print-2
+
+  - type: markdown
+    title: Efficient workflow
+    body: |
+      For each animation we have created master files in Adobe After Effects and LottieFiles,  making them universally usable in app, website and social media formats.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        color: "#FFFFFF"
+        alt: Ooigo App - loading screen animation "Eye" 
+        path: videos/cases/ooigo-screen-1
+      - type: image
+        alias: phone
+        color: "#FFFFFF"
+        alt: Ooigo App - loading screen animation "balloon" 
+        path: videos/cases/ooigo-screen-2
+      - type: image
+        alt: Ooigo App - loading screen animation "jumping rope"
+        alias: phone
+        color: "#FFFFFF"
+        path: videos/cases/ooigo-screen-3
+      - type: image
+        alt: Ooigo App - loading screen animation "peeing"
+        alias: phone
+        color: "#FFFFFF"
+        path: videos/cases/ooigo-screen-4
+
+  - type: image
+    alt: Ooigo characters illustration
+    path: images/cases/ooigo-character
+
+  - type: image
+    alt: Ooigo pattern library
+    caption: In this project, too, the documentation of all assets in a pattern library provided for the greatest possible consistency during design implementation.
+    path: images/cases/ooigo-pattern-libary
+
+  - type: lottie
+    mode: onscroll
+    path: assets/ooigo-corona.json
+
+  - type: gallery
+    title: Ooigo merchandise
+    alias: group
+    items:
+      - type: image
+        alt: Ooigo carrying bag front 
+        path: images/cases/ooigo-merchandise-1
+      - type: image
+        alt: Ooigo carrying bag back
+        path: images/cases/ooigo-merchandise-2
+      - type: image
+        alt: Ooigo sticker
+        path: images/cases/ooigo-merchandise-3
+      - type: image
+        alt: Ooigo buttons
+        path: images/cases/ooigo-merchandise-4
