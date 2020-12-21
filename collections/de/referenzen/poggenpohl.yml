@@ -60,23 +60,23 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Poggenpohl Website Portfolio
+        alt: Poggenpohl Website Detail "Making space for your own perceptions …"
         path: images/cases/poggenpohl-website-desktop-01
       - type: image
         alias: screen
-        alt: Poggenpohl Website Portfolio
+        alt: Poggenpohl Website Detail "Focussing on the essence …"
         path: images/cases/poggenpohl-website-desktop-02
       - type: image
         alias: screen
-        alt: Poggenpohl Website Portfolio
+        alt: Poggenpohl Website Detail "There are anthing but minor points …"
         path: images/cases/poggenpohl-website-desktop-03
       - type: image
         alias: screen
-        alt: Poggenpohl Website Portfolio
+        alt: Video auf der Poggenpohl Website
         path: images/cases/poggenpohl-website-desktop-04
       - type: image
         alias: screen
-        alt: Poggenpohl Website Portfolio
+        alt: Poggenpohl Website Detail "A Place where life can be lived …"
         path: images/cases/poggenpohl-website-desktop-05
 
   - type: markdown
@@ -101,22 +101,26 @@ body:
     items:
       - type: image
         alias: phone
+        alt: Mobile Ansicht der Poggenpohl Website "Making space for your own perceptions …"
         path: images/cases/poggenpohl-mobile-screen-1
       - type: image
         alias: phone
+        alt: Mobile Ansicht der Poggenpohl Website "The invitation to develop the way you want …"
         path: images/cases/poggenpohl-mobile-screen-2
       - type: image
         alias: phone
+        alt: Video auf der Poggenpohl Website
         path: images/cases/poggenpohl-mobile-screen-3
       - type: image
         alias: phone
+        alt: Mobile Ansicht der Poggenpohl Website "Focussing on the essence …"
         path: images/cases/poggenpohl-mobile-screen-4
 
   - type: quote
     body: Mit dieser Microsite ist es uns gelungen, eine Einheit aus Produktkommunikation und Storytelling zu bilden und beides auf eine ungewöhnliche Weise miteinander zu verflechten.
     author:
       name: Felix
-      title: Geschätfsführer
+      title: Managing Partner
 
   - type: markdown
     title: Off the wall
