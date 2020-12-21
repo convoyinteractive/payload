@@ -78,7 +78,7 @@ body:
     items:
       - type: image
         alias: screen
-        alt: services page on EHA website  
+        alt: services page on EHA website
         path: images/cases/eha-website-leistungen
       - type: image
         alias: screen
@@ -86,7 +86,7 @@ body:
         path: images/cases/eha-website-blog
       - type: image
         alias: screen
-        alt: career page on EHA website 
+        alt: career page on EHA website
         path: images/cases/eha-website-karriere
       - type: image
         alias: screen
@@ -117,7 +117,6 @@ body:
     author:
       name: Hanna Behrendt
       title: Head of Marketing, EHA
-
 
   - type: markdown
     title: Integrated interfaces
