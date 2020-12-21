@@ -65,7 +65,7 @@ aside:
 body:
   - type: image
     alias: screen
-    alt: EHA Website Einstieg
+    alt: Page entry of the EHA website
     path: images/cases/eha-website-einstieg
 
   - type: markdown
