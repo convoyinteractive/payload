@@ -72,7 +72,7 @@ body:
         path: images/cases/poggenpohl-website-desktop-03
       - type: image
         alias: screen
-        alt: Video on Poggenpohl website 
+        alt: Video on Poggenpohl website
         path: images/cases/poggenpohl-website-desktop-04
       - type: image
         alias: screen
@@ -93,9 +93,9 @@ body:
     title: Emotional product experience
     body: |
       We tell the story on two layers: products are presented in color and large format, supplemented by black and white snapshots that emotionally charge the product communication. This impression is reinforced by the fonts used: on the one hand a factual, informative grotesque, on the other a light-looking italic.
- 
+
       By combining these elements, a visually exciting page layout emerges that guides visitors through the story. The adaptable layout grid is reinterpreted on every subpage, thus ensuring variety.
- 
+
       The combination of these elements creates a visually exciting page layout that guides visitors through the story. The variable layout grid is reinterpreted on each subpage to ensure variety.
 
   - type: gallery
@@ -111,7 +111,7 @@ body:
         path: images/cases/poggenpohl-mobile-screen-2
       - type: image
         alias: phone
-        alt: Video on Poggenpohl website 
+        alt: Video on Poggenpohl website
         path: images/cases/poggenpohl-mobile-screen-3
       - type: image
         alias: phone
