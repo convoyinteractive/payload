@@ -1,3 +1,137 @@
 type: case
 
 name: thiesraetzkeimages
+
+theme:
+  text: "#000000"
+  background: "#E6E6DD"
+
+meta:
+  title: Thies Rätzke Images
+  image: images/cases/thies-raetzke-images
+  alternates:
+    de: referenzen/thies-raetzke-images
+
+hero:
+  type: image
+  title: Thies Rätzke Images
+  subtitle: Branding + website
+  sizes:
+    small: images/cases/thies-raetzke-hero-mobile
+    large: images/cases/thies-raetzke-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      Initially a small studio in Hamburg's Schanzenviertel, Thies Rätzke Images has grown over the years into a full-service provider in and around corporate photography and film.
+
+      In order to communicate this change to the public, we completely redesigned the existing branding including the website. 
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Thies Rätzke Images
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Branding
+          - type: text
+            body: Portfolio Website
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: User experience design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Graphic design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Backend development
+          - type: text
+            body: Consulting
+          - type: text
+            body: Desktop publishing
+
+body:
+  - type: lottie
+    mode: loop
+    path: assets/tr-logo-animation.json
+
+  - type: markdown
+    title: Self-confident appearance
+    body: |
+      The existing branding including the word mark was also developed by us and even won the renowned Red Dot Design Award in 2013.
+
+      New design requirements resulting from the reorientation made a revision necessary. After a detailed examination of the current appearance, we decided to only slightly adjust the existing color palette and to continue to rely on a word mark: The modified "Ä", whose reduced form is reminiscent of a tripod with a camera, remains.
+
+      Supplemented by a diagonal line grid and an individually developed icon set, a self-confident, industrial-looking look was created, which is also reflected in the design of the studio rooms.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: The portfolio of Thies Rätzke Images in mobile view
+        path: images/cases/thies-raetzke-mobile-portfolio-overview
+      - type: image
+        alias: phone
+        alt: News articles of Thies Rätzke Images in mobile view
+        path: images/cases/thies-raetzke-mobile-news
+      - type: image
+        alias: phone
+        alt: The image gallery "German Politicians" by Thies Rätzke Images
+        path: images/cases/thies-raetzke-mobile-portfolio
+      - type: image
+        alias: phone
+        alt: The image gallery "Friedrich Vorwerk KG" by Thies Rätzke Images
+        path: images/cases/thies-raetzke-mobile-case
+
+  - type: markdown
+    title: Content is king
+    body: |
+      The new website impresses with its clearly structured layout and the mixture of large-format photos and simple typography. The design is deliberately restrained and allows the content to take precedence. Projects are categorized and given an individual color scheme via the website backend, which underlines the individual character of each photo series.
+
+  - type: image
+    alias: screen
+    alt: The portfolio of Thies Rätzke Images in desktop view
+    path: images/cases/thies-raetzke-website-portfolio
+
+  - type: markdown
+    title: Contrast of grey and yellow
+    body: |
+      As before the relaunch, the color scheme is still dominated by gray tones. A bright yellow as a high-contrast accent color dominates the design of the business stationery and is used in digital applications for highlights and call-to-actions.
+
+  - type: svg
+    path: assets/thies-raetzke-colours.svg
+
+  - type: image
+    title: Stationery
+    alt: Part of the corporate design is the stationery
+    path: images/cases/thies-raetzke-corporate-design-print
+
+  - type: image
+    alt: Thies Rätzke Images business card
+    path: images/cases/thies-raetzke-corporate-design-cards
+
+  - type: markdown
+    title: Conclusion
+    body: |
+      With the consistent further development of the existing design, we have succeeded in giving the appearance of Thies Rätzke Images an adequate, contemporary look. Positive user feedback and increasing conversions following the relaunch are a nice and an important confirmation of this.
+      
+  - type: quote
+    body: I have a long-standing partnership with Convoy. The cooperation with the entire team is super nice and the results are consistently extremely high level.
+    author:
+      name: Thies Rätzke
+      title: Owner, Thies Rätzke Images
