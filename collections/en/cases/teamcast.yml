@@ -1,3 +1,113 @@
 type: case
 
 name: teamcast
+
+theme:
+  text: "#000000"
+  background: "#DCEBF1"
+
+meta:
+  title: Teamcast
+  image: images/cases/teamcast-hero
+  alternates:
+    de: referenzen/teamcast
+
+hero:
+  type: image
+  title: Teamcast
+  subtitle: Web application
+  sizes:
+    small: images/cases/teamcast-hero-mobile
+    large: images/cases/teamcast-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      Teamcast is a web-based application that we have designed and implemented as a digital tool to coordinate employees. It’s designed to be used especiallyin small and medium-sized handicraft businesses.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Volker Thullesen
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Web application
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: User experience design
+          - type: text
+            body: User interface design
+          - type: text
+            body: Icon Design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Backend development
+          - type: text
+            body: Information architecture
+          - type: text
+            body: Consulting
+
+body:
+  - type: image
+    alias: screen
+    alt: Teamcast person list
+    path: images/cases/teamcast-app-personen
+
+  - type: image
+    alias: screen
+    alt: Teamcast planning tool
+    path: images/cases/teamcast-app-planung
+
+  - type: markdown
+    title: From concept to MVP in just 8 weeks
+    body: |
+      Working within an agile process, we developed the app concept, UX and UI designs within weeks and built an MVP. Since then the product is being used on a daily basis at several companies. User feedback, which we constantly collect, is used to consistently optimise the web app.
+
+  - type: gallery
+    alias: group
+    caption: We defined the structure and functions of the WebApp using wireframes, which served as the basis for design and implementation.
+    items:
+      - type: image
+        alias: screen
+        alt: Teamcast wireframe person list
+        path: images/cases/teamcast-wireframe-personen
+      - type: image
+        alias: screen
+        alt: Teamcast wireframe archive
+        path: images/cases/teamcast-wireframe-archiv
+      - type: image
+        alias: screen
+        alt: Teamcast wireframe projekt
+        path: images/cases/teamcast-wireframe-projekt
+      - type: image
+        alias: screen
+        alt: Teamcast wireframe settings
+        path: images/cases/teamcast-wireframe-einstellungen
+
+  - type: markdown
+    title: Staff planning in real time
+    body: |
+      With the help of Teamcast, employees and construction sites can be created and assigned to each other with just a few clicks. This reduces the effort for weekly planning many times over. At the same time, team management and employees have access to real-time data at any time and can react quickly and flexibly in case of breakdowns or changes in plans.
+
+  - type: image
+    alias: screen
+    caption: The Teamcast product video gives an overview of the main functions of the app.
+    alt: Teamcast Video
+    path: images/cases/teamcast-video
+
+  - type: quote
+    body: I have long wished for a clear and convenient tool to coordinate our employees. Convoy not only managed to meet all our requirements but also implemented the software within a few weeks.
+    author:
+      name: Lars Thullesen
+      title: Owner and Managing Director, Volker Thullesen GmbH
