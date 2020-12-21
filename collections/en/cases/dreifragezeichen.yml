@@ -104,7 +104,6 @@ body:
       name: Kathrin Kellerer
       title: Digital Marketing Manager, Sony Music Entertainment
 
-
   - type: image
     title: Theme teasers
     alt: The three investigators newsletter teaser
@@ -129,7 +128,7 @@ body:
     path: images/cases/dreifragezeichen-kids-teaser-fall-der-woche
 
   - type: image
-    caption: The design of the “Die drei ??? Kids” website differs just slightly, but still noticeably from that of the main page. 
+    caption: The design of the “Die drei ??? Kids” website differs just slightly, but still noticeably from that of the main page.
     alt: The three investigators kids fun facts teaser
     path: images/cases/dreifragezeichen-kids-teaser-fun-facts
 
