@@ -97,9 +97,8 @@ body:
       name: Kathrin Kellerer
       title: Digital Marketing Manager, Sony Music Entertainment
 
-
   - type: gallery
-    caption: Advertisement designs for the print magazines "Maya the Bee" and "Super Wings". 
+    caption: Advertisement designs for the print magazines "Maya the Bee" and "Super Wings".
     alias: group
     items:
       - type: image
@@ -122,12 +121,12 @@ body:
       - type: image
         alias: phone
         color: "#FFFFFF"
-        alt: Ooigo App - loading screen animation "Eye" 
+        alt: Ooigo App - loading screen animation "Eye"
         path: videos/cases/ooigo-screen-1
       - type: image
         alias: phone
         color: "#FFFFFF"
-        alt: Ooigo App - loading screen animation "balloon" 
+        alt: Ooigo App - loading screen animation "balloon"
         path: videos/cases/ooigo-screen-2
       - type: image
         alt: Ooigo App - loading screen animation "jumping rope"
@@ -158,7 +157,7 @@ body:
     alias: group
     items:
       - type: image
-        alt: Ooigo carrying bag front 
+        alt: Ooigo carrying bag front
         path: images/cases/ooigo-merchandise-1
       - type: image
         alt: Ooigo carrying bag back
