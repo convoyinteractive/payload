@@ -127,3 +127,14 @@ body:
   - type: image
     alt: Architects’ Finest Instagram Feed
     path: images/cases/architects-finest-instagram
+    
+  - type: list
+    alias: feed
+    items:
+      - type: collection
+        alias: case
+        resource: referenzen/orendt-studios
+      - type: collection
+        alias: case
+        resource: referenzen/poggenpohl
+
