@@ -144,7 +144,7 @@ body:
 
   - type: image
     alias: screen
-    alt: Orendt Studios side entry s.Oliver case
+    alt: Orendt Studios page entry s.Oliver case
     path: videos/cases/orendt-3d-animation-s-oliver
 
   - type: image
