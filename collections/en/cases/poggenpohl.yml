@@ -8,21 +8,127 @@ theme:
 
 meta:
   title: Poggenpohl
-  subtitle: Microsite
-
-  image:
-    sizes:
-      small: images/cases/poggenpohl-hero-mobile
-      large: images/cases/poggenpohl-hero
-
+  image: images/cases/poggenpohl-hero
   alternates:
     de: referenzen/poggenpohl
 
-details:
-  - label: Kunde
-    value:
-      - Poggenpohl
+hero:
+  type: image
+  title: Poggenpohl
+  subtitle: Microsite
+  sizes:
+    small: images/cases/poggenpohl-hero-mobile
+    large: images/cases/poggenpohl-hero
 
-  - label: Projekt
-    value:
-      - Microsite
+excerpt:
+  - type: markdown
+    body: |
+      On occasion of the 125th anniversary of one of the world’s most traditional kitchen brands, we developed a microsite that brings back the past while providing a glimpse into the future.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Poggenpohl Möbelwerke
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Microsite
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: User experience design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Motion graphic design
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Consulting
+
+body:
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Poggenpohl website detail "Making space for your own perceptions …"
+        path: images/cases/poggenpohl-website-desktop-01
+      - type: image
+        alias: screen
+        alt: Poggenpohl website detail "Focussing on the essence …"
+        path: images/cases/poggenpohl-website-desktop-02
+      - type: image
+        alias: screen
+        alt: Poggenpohl website detail "There are anthing but minor points …"
+        path: images/cases/poggenpohl-website-desktop-03
+      - type: image
+        alias: screen
+        alt: Video on Poggenpohl website 
+        path: images/cases/poggenpohl-website-desktop-04
+      - type: image
+        alias: screen
+        alt: Poggenpohl website detail "A Place where life can be lived …"
+        path: images/cases/poggenpohl-website-desktop-05
+
+  - type: markdown
+    title: From review to outlook
+    body: |
+      The most important milestones of the Poggenpohl company history are what open the doors to the microsite. On the homepage you scroll through these in chronological order until reaching the present day (bottom of the page). There, you’re presented with two new kitchen series. A click on one of the two teasers takes you deeper into the page and directly to the selected product.
+
+  - type: video
+    caption: In the background, archive shots run in a loop while scrolling through the story from top to bottom.
+    poster: images/cases/poggenpohl-website-scroll-video-poster
+    path: videos/cases/poggenpohl-website-scroll
+
+  - type: markdown
+    title: Emotional product experience
+    body: |
+      We tell the story on two layers: products are presented in color and large format, supplemented by black and white snapshots that emotionally charge the product communication. This impression is reinforced by the fonts used: on the one hand a factual, informative grotesque, on the other a light-looking italic.
+ 
+      By combining these elements, a visually exciting page layout emerges that guides visitors through the story. The adaptable layout grid is reinterpreted on every subpage, thus ensuring variety.
+ 
+      The combination of these elements creates a visually exciting page layout that guides visitors through the story. The variable layout grid is reinterpreted on each subpage to ensure variety.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Poggenpohl website detail on mobile screen "Making space for your own perceptions …"
+        path: images/cases/poggenpohl-mobile-screen-1
+      - type: image
+        alias: phone
+        alt: Poggenpohl website detail on mobile screen "The invitation to develop the way you want …"
+        path: images/cases/poggenpohl-mobile-screen-2
+      - type: image
+        alias: phone
+        alt: Video on Poggenpohl website 
+        path: images/cases/poggenpohl-mobile-screen-3
+      - type: image
+        alias: phone
+        alt: Poggenpohl website detail on mobile screen "Focussing on the essence …"
+        path: images/cases/poggenpohl-mobile-screen-4
+
+  - type: quote
+    body: With this microsite, we’ve managed to create a unity of product communication and storytelling and to interweave the two in an unusual way.
+    author:
+      name: Felix
+      title: Managing Partner
+
+  - type: markdown
+    title: Off the wall
+    body: |
+      On the occasion of the 125th anniversary, we staged a visually stunning film loop for the Poggenpohl in-house exhibition parallel to the microsite. To this end, we took up the mechanics of the two narrative levels again and transferred them to a video wall consisting of nine large-format screens.
+
+  - type: video
+    poster: images/cases/poggenpohl-film-wall-video-poster
+    path: videos/cases/poggenpohl-animation-wall
