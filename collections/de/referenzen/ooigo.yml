@@ -32,7 +32,7 @@ aside:
         term: Kunde
         items:
           - type: text
-            body: Ooigo
+            body: Sony Music Entertainment
       - type: list
         term: Projekt
         items:
@@ -93,7 +93,7 @@ body:
     body: Die Zusammenarbeit mit Convoy ist bei jedem einzelnen Projekt extrem professionell, angenehm und die Ergebnisse mehr als überzeugend. Wir könnten uns keinen besseren Partner an unserer Seite wünschen.
     author:
       name: Kathrin Kellerer
-      title: Marketing Manager Sony Music Entertainment
+      title: Digital Marketing Manager, Sony Music Entertainment
 
   - type: gallery
     caption: Anzeige-Motive für die Print-Magazine „Biene Maja“ und „Super Wings“.
@@ -161,8 +161,8 @@ body:
         alt: Ooigo Tragetasche hinten
         path: images/cases/ooigo-merchandise-2
       - type: image
-        alt: Ooigo Tragetasche Aufkleber
+        alt: Ooigo Aufkleber
         path: images/cases/ooigo-merchandise-3
       - type: image
-        alt: Ooigo Tragetasche Buttons
+        alt: Ooigo Buttons
         path: images/cases/ooigo-merchandise-4
