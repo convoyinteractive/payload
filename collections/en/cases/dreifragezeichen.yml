@@ -41,7 +41,7 @@ aside:
           - type: text
             body: Microsite
       - type: list
-        term: Leistungen
+        term: Services
         items:
           - type: text
             body: Concept
