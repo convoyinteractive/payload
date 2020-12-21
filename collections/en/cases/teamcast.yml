@@ -15,7 +15,7 @@ meta:
 hero:
   type: image
   title: Teamcast
-  subtitle: Web app
+  subtitle: Web application
   sizes:
     small: images/cases/teamcast-hero-mobile
     large: images/cases/teamcast-hero
@@ -37,7 +37,7 @@ aside:
         term: Project
         items:
           - type: text
-            body: WebApp
+            body: Web application
       - type: list
         term: Services
         items:
