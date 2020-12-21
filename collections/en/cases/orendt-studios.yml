@@ -2,22 +2,162 @@ type: case
 
 name: orendt-studios
 
+theme:
+  text: "#000000"
+  background: "#F2F4F0"
+
 meta:
   title: Orendt Studios
-  subtitle: Corporate Website
-
+  image: images/cases/orendtstudios-hero
   alternates:
     de: referenzen/orendt-studios
 
-  client: Orendt Studios
-  project: Corporate Website
-  services:
-    - Planning
-    - UX/UI Design
-    - Icon Design
-    - Motion Design
-    - Augmented Reality
-    - Web Development
-    - Consultancy
+hero:
+  type: image
+  title: Orendt Studios
+  subtitle: Corporate Website
+  sizes:
+    small: images/cases/orendtstudios-hero-mobile
+    large: images/cases/orendtstudios-hero
+
+excerpt:
+  - type: markdown
+    body: |
+      The Orendt Studios Holding unites Europe’s largest media production for digital content and e-commerce image production under one roof. As part of a strategic reorientation, Convoy was commissioned to relaunch the online presence.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: Orendt Studios
+
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Corporate website
+
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: Content strategy
+          - type: text
+            body: User experience design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Motion draphic design
+          - type: text
+            body: 3D
+          - type: text
+            body: Frontend development
+          - type: text
+            body: Backend development
+          - type: text
+            body: Consulting
 
 body:
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Orendt Studios Website Portfolio
+        path: images/cases/orendtstudios-website-desktop
+      - type: image
+        alias: screen
+        alt: Orendt Studios Case
+        path: images/cases/orendtstudios-website-desktop-case
+      - type: image
+        alias: screen
+        alt: Orendt Studios Services Icons
+        path: images/cases/orendtstudios-website-desktop-services
+      - type: image
+        alias: screen
+        alt: Orendt Studios by Numbers
+        path: images/cases/orendtstudios-website-desktop-numbers
+
+  - type: markdown
+    title: Picture Perfect
+    body: |
+      Since the majority of the clients of Orendt Studios come from the fashion industry, we focused on a puristic layout and strong black and white contrasts for the relaunch of the website. This created an ideal stage for the colorful, visually appealing content, which we presented in large format.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Mobile Layout Bogner Case
+        path: images/cases/orendtstudios-mobile-screen-1
+      - type: image
+        alias: phone
+        alt: Mobile Layout E-Commerce Case
+        path: images/cases/orendtstudios-mobile-screen-2
+      - type: image
+        alias: phone
+        alt: Mobile Layout Liebeskind Case
+        path: images/cases/orendtstudios-mobile-screen-3
+      - type: image
+        alias: phone
+        alt: Mobile Layout Portfolio
+        path: images/cases/orendtstudios-mobile-screen-4
+
+  - type: quote
+    body: In Convoy, we’ve not only found an agency partner who speaks our own language, but one who knows how to digitally stage a brand in contemporary fashion.
+    author:
+      name: Torsten Orendt
+      title: Owner and CEO Orendt Studios Holding
+
+  - type: gallery
+    caption: User flow maps and wireframes are helpful tools to visualize user journey, page layout and content structure and to check for weak points.
+    alias: group
+    items:
+      - type: lottie
+        mode: inview
+        path: assets/orendt-wireframe.json
+      - type: lottie
+        mode: inview
+        path: assets/orendt-userflow.json
+
+  - type: markdown
+    title: Content in context
+    body: |
+      The core of the new website are the elaborately arranged case studies. A virtual room was designed for each project and adapted to the branding of the respective client. So, the content produced by Orendt Studios appears directly in the right context. In addition, the modular structure facilitates content maintenance and the creation of further cases.
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios page entry Juvia case
+    path: videos/cases/orendt-3d-animation-juvia
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios page entry Boger case
+    path: videos/cases/orendt-3d-animation-bogner
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios page entry s.Oliver case
+    path: videos/cases/orendt-3d-animation-s-oliver
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios side entry Liebeskind Berlin case
+    path: videos/cases/orendt-3d-animation-liebeskind-berlin
+
+  - type: markdown
+    title: A landing page for each unit
+    body: |
+      We compiled separate, partly very comprehensive landing pages for the three units “Photo”, “Film” and “CGI Visualisation”. Thanks to an overview at the bottom of each page, users can see the respective service offering within seconds.
+
+  - type: image
+    alias: screen
+    alt: Orendt Studios Webdesign
+    path: images/cases/orendtstudios-website-desktop-komplete
