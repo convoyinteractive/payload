@@ -1,3 +1,130 @@
 type: case
 
 name: eha
+
+theme:
+  text: "#000000"
+  background: "#E9F0F7"
+
+meta:
+  title: EHA
+  image: images/cases/eha-hero
+  alternates:
+    de: cases/eha
+
+hero:
+  type: image
+  title: EHA
+  subtitle: Digital Branding + Website
+  sizes:
+    large: images/cases/eha-hero
+    small: images/cases/eha-hero-mobile
+
+excerpt:
+  - type: markdown
+    body: |
+      For more than five years we have been supporting the Hamburg-based energy service provider EHA as its regular design partner. Within the scope of a design refresh in mid-2019, we comprehensively revised the EHA branding. We then adapted the newly created guidelines to the website, software and a variety of marketing materials and have been consistently developing these further ever since.
+
+aside:
+  - type: definition
+    items:
+      - type: list
+        term: Client
+        items:
+          - type: text
+            body: EHA Energie-Handelsgesellschaft
+      - type: list
+        term: Project
+        items:
+          - type: text
+            body: Digital branding
+          - type: text
+            body: Corporate website
+          - type: text
+            body: Software
+          - type: text
+            body: Online marketing
+      - type: list
+        term: Services
+        items:
+          - type: text
+            body: Concept
+          - type: text
+            body: User experience design
+          - type: text
+            body: User interface design
+          - type: text
+            body: Responsive web design
+          - type: text
+            body: Icon design
+          - type: text
+            body: Illustration
+          - type: text
+            body: Consulting
+
+body:
+  - type: image
+    alias: screen
+    alt: EHA Website Einstieg
+    path: images/cases/eha-website-einstieg
+
+  - type: markdown
+    title: Digital first
+    body: |
+      When we revised the branding, we focused particularly on the digital touchpoints through which customers interact with EHA. For the first time, the main focus of the redesign was not on business stationery and printed communication, but instead on website, software and online marketing.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: screen
+        alt: services page on EHA website  
+        path: images/cases/eha-website-leistungen
+      - type: image
+        alias: screen
+        alt: EHA blog
+        path: images/cases/eha-website-blog
+      - type: image
+        alias: screen
+        alt: career page on EHA website 
+        path: images/cases/eha-website-karriere
+      - type: image
+        alias: screen
+        alt: about page on EHA website
+        path: images/cases/eha-website-unternehmen
+
+  - type: markdown
+    title: B2B communication with an underlying system
+    body: |
+      For internal EHA use, we created a pattern library that allows employees to access guidelines and assets at any time. Since all elements of the website’s frontend feed directly from the library, any changes made there automatically appear on the website.
+
+  - type: svg
+    caption: The Merriweather serif font conveys straight-forwardness and professionalism, while the Geogrotesque is more technical and constructed. The combination of those two fonts creates a distinct blend, showcasing EHA as a modern B2B brand.
+    path: assets/eha-corporate-design.svg
+
+  - type: image
+    caption: Meanwhile we have developed more than 100 icons that help to illustrate contents and functions in website or software.
+    alt: EHA icon set
+    path: images/cases/eha-icons
+
+  - type: image
+    caption: Our tasks also included the revision of the EHA visual language. Production © Thies Rätzke Images
+    alt: EHA visual language
+    path: images/cases/eha-photo-look
+
+  - type: quote
+    body: Convoy has been supporting us for several years now in all aspects of design and marketing. We very much appreciate the open dialogue and Convoy's input and ideas.
+    author:
+      name: Hanna Behrendt
+      title: Head of Marketing, EHA
+
+
+  - type: markdown
+    title: Integrated interfaces
+    body: |
+      As part of the redesign of various EHA software components to visualise planning and consumption data, we developed specific sets of icon sets and extended the existing colour scheme. In doing so, we were able to cater to the respective software requirements and at the same time make sure that its user interfaces integrated optimally into the new branding.
+
+  - type: image
+    caption: Mobile dashboard view of the EHA ONE software
+    alt: EHA ONE software
+    path: images/cases/eha-one-dashboard
