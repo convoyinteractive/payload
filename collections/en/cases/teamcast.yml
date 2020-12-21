@@ -73,7 +73,7 @@ body:
     title: From concept to MVP in just 8 weeks
     body: |
       Working within an agile process, we developed the app concept, UX and UI designs within weeks and built an MVP. Since then the product is being used on a daily basis at several companies. User feedback, which we constantly collect, is used to consistently optimise the web app.
-      
+
   - type: gallery
     alias: group
     caption: We defined the structure and functions of the WebApp using wireframes, which served as the basis for design and implementation.
