@@ -129,7 +129,7 @@ body:
     path: images/cases/architects-finest-instagram
 
   - type: list
-    alias: feed
+    title: Ähnliche Projekte
     items:
       - type: collection
         alias: case
