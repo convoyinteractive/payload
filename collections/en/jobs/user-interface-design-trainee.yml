@@ -1,0 +1,20 @@
+type: default
+
+meta:
+  title: Trainee  in user interface design (m/f/d)
+  subtitle: Job offer
+
+  hero:
+    type: image
+    alt: Jobs at Convoy
+    path: images/convoy-hinterhof
+
+  alternates:
+    de: jobs/user-interface-design-praktikant
+
+body:
+  - type: markdown
+    body: |
+      You study communication design, media or interaction design with a focus on digital media. During your mandatory internship, you assist us in the conception and design of digital projects. You also support our senior designers in developing consistent, functional and visually appealing user interfaces. 
+
+      Entry from January 2021
