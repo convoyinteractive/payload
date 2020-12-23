@@ -73,6 +73,8 @@ body:
       - type: collection
         alias: job
         term: Trainee in user interface design (m/f/d)
+        resource: jobs/user-interface-design-trainee
       - type: collection
         alias: job
         term: Junior frontend developer (m/f/d)
+        resource: jobs/user-interface-designer
