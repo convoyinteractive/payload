@@ -70,6 +70,7 @@ body:
       Mittlerweile um „Die Drei ??? Kids“ Welt erweitert, die sich an den Nachwuchs im Alter zwischen 6 und 10 Jahren richtet, sollten die Websites beider Serien optisch näher zusammengeführt und strukturell vereinheitlicht werden. Dafür entwickelten wir ein Basis-Design, das wir lediglich auf CSS-Ebene im Website-Frontend modifizierten.
 
   - type: image
+    alpha: true
     alt: Die drei Fragezeichen Cover Illustrationen
     path: images/cases/dreifragezeichen-illustrations
 
@@ -105,29 +106,35 @@ body:
       title: Marketing Manager Sony Music Entertainment
 
   - type: image
+    alpha: true
     title: Thementeaser
     alt: Die drei Fragezeichen Newsletter Teaser
     path: images/cases/dreifragezeichen-teaser-newsletter
 
   - type: image
+    alpha: true
     alt: Die drei Fragezeichen Geschichte Teaser
     path: images/cases/dreifragezeichen-teaser-geschichte
 
   - type: image
+    alpha: true
     caption: Eine Auswahl animierter Thementeaser, die wir an das Scrollverhalten koppeln und dadurch kleine Überraschungseffekte erzeugen.
     alt: Die drei Fragezeichen Fall der Woche Teaser
     path: images/cases/dreifragezeichen-teaser-fall-der-woche
 
   - type: image
+    alpha: true
     title: Teaser Kids-Welt
     alt: Die drei Fragezeichen Kids Newsletter Teaser
     path: images/cases/dreifragezeichen-kids-teaser-newsletter
 
   - type: image
+    alpha: true
     alt: Die drei Fragezeichen Kids Fall der Woche Teaser
     path: images/cases/dreifragezeichen-kids-teaser-fall-der-woche
 
   - type: image
+    alpha: true
     caption: Das Design der „Die Drei ??? Kids“ Website unterscheidet sich nur geringfügig, aber durchaus wahrnehmbar vom Design der Hauptseite.
     alt: Die drei Fragezeichen Kids Fun Facts Teaser
     path: images/cases/dreifragezeichen-kids-teaser-fun-facts

@@ -1,33 +1,39 @@
 items:
   - type: image
+    alpha: true
     alt: Awwwards - Honorable Mention
     path: images/logos/awwwards
     count: 2
     caption: Honorable Mention
 
   - type: image
+    alpha: true
     alt: Red Dot Design Award
     path: images/logos/red-dot
     count: 2
     caption: Communications Design
 
   - type: image
+    alpha: true
     alt: CSS Design Awards
     path: images/logos/css-awards
     count: 2
     caption: Site Of The Day
 
   - type: image
+    alpha: true
     alt: International Forum Design Award
     path: images/logos/if
     caption: Communications Design
 
   - type: image
+    alpha: true
     alt: German Design Award
     path: images/logos/german-design-award
     caption: Special Mention Web
 
   - type: image
+    alpha: true
     alt: Deutscher Design Club e.v.
     path: images/logos/ddc
     caption: Gold Award

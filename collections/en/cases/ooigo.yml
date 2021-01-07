@@ -87,6 +87,7 @@ body:
       For a consistent appearance in all applications, we documented all design elements in a pattern library. Based on this foundation, we adapted the basic design for the app, website, videos, social media, print media and merchandise.
 
   - type: image
+    alpha: true
     alt: Individually designed icons
     title: Individually designed icons
     path: images/cases/ooigo-icons-interests
@@ -140,6 +141,7 @@ body:
         path: videos/cases/ooigo-screen-4
 
   - type: image
+    alpha: true
     alt: Ooigo characters illustration
     path: images/cases/ooigo-character
 

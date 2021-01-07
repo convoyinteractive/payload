@@ -121,6 +121,7 @@ body:
       Im Anschluss an den Launch der Microsite adaptierten wir unser Konzept auf den Social Media-Bereich. Grundlage dafür bildete eine detaillierte strategische Analyse relevanter Zielgruppen sowie geeigneter Plattformen und Formate. Dort erzählen wir die Story unter Berücksichtigung der spezifischen Eigenschaften der jeweiligen Kanäle konsistent weiter. Innerhalb kurzer Zeit konnten wir so eine solide Fanbase aufbauen und Reichweiten kontinuierlich steigern.
 
   - type: image
+    alpha: true
     alt: Content für verschiedene Social-Media-Kanäle
     path: images/cases/architects-finest-social-media-logos
 
