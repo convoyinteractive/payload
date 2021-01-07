@@ -1,32 +1,40 @@
 items:
   - type: image
+    alpha: true
     alt: Orendt Studios
     path: images/logos/orendt-studios
 
   - type: image
+    alpha: true
     alt: Mercedes Benz
     path: images/logos/mercedes-benz
 
   - type: image
+    alpha: true
     alt: Poggenpohl
     path: images/logos/poggenpohl
 
   - type: image
+    alpha: true
     alt: Sony Music
     path: images/logos/sony-music
 
   - type: image
+    alpha: true
     alt: Winkhaus
     path: images/logos/winkhaus
 
   - type: image
+    alpha: true
     alt: EHA
     path: images/logos/eha
 
   - type: image
+    alpha: true
     alt: Schöner Wohnen Farbe
     path: images/logos/schoener-wohnen-farbe
 
   - type: image
+    alpha: true
     alt: Von Poll
     path: images/logos/von-poll
