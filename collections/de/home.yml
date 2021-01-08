@@ -17,8 +17,8 @@ body:
 
   - type: video
     alias: showreel
-    preview:
-    path:
+    preview: videos/convoy-showreel_preview
+    path: videos/convoy-showreel_720
 
   - type: quote
     body: Purpose of a convoy is to keep movin’.
