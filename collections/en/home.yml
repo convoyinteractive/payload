@@ -11,6 +11,11 @@ body:
     body: |
       ## Convoy is an award-winning digital agency based in Hamburg. We plan, create and build unique digital experiences for people and brands.
 
+  - type: video
+    alias: showreel
+    preview: videos/convoy-showreel_preview
+    path: videos/convoy-showreel_720
+
   - type: quote
     body: Purpose of a convoy is to keep movin’.
     author:
