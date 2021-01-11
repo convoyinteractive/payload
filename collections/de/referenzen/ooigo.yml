@@ -50,9 +50,7 @@ aside:
           - type: text
             body: Konzeption
           - type: text
-            body: UX Design
-          - type: text
-            body: UI Design
+            body: UI/UX Design
           - type: text
             body: Responsive Web Design
           - type: text
