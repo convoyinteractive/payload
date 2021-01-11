@@ -4,7 +4,7 @@ meta:
   title: Impressum
   image: images/convoy-hinterhof
   alternates:
-    en: legal
+    en: legal-notice
 
 hero:
   type: image
@@ -61,6 +61,6 @@ body:
   - type: markdown
     title: Credits
     body: |
-      Text: [Martin Niemeyer](https://www.alsploetzlich.de/){:target="_blank"}
+      Text: [Martin Niemeyer](//www.alsploetzlich.de/){:target="_blank"}
 
-      Photografie: [Thies Rätzke](https://raetzke.com/){:target="_blank"}
+      Photografie: [Thies Rätzke](//raetzke.com/){:target="_blank"}
