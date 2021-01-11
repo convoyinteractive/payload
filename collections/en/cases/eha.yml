@@ -50,9 +50,7 @@ aside:
           - type: text
             body: Concept
           - type: text
-            body: UX design
-          - type: text
-            body: UI design
+            body: UI/UX design
           - type: text
             body: Responsive web design
           - type: text
