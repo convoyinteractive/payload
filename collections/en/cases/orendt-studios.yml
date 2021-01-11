@@ -122,10 +122,10 @@ body:
     items:
       - type: lottie
         mode: inview
-        path: assets/orendt-wireframe.json
+        path: assets/orendt-userflow.json
       - type: lottie
         mode: inview
-        path: assets/orendt-userflow.json
+        path: assets/orendt-wireframe.json
 
   - type: markdown
     title: Content in context
