@@ -1,27 +1,36 @@
 items:
   - type: collection
+    alias: case
     resource: cases/orendt-studios
 
   - type: collection
+    alias: case
     resource: cases/ooigo
 
   - type: collection
+    alias: case
     resource: cases/teamcast
 
   - type: collection
+    alias: case
     resource: cases/eha
 
   - type: collection
+    alias: case
     resource: cases/architects-finest
 
   - type: collection
+    alias: case
     resource: cases/dreifragezeichen
 
   - type: collection
+    alias: case
     resource: cases/poggenpohl
 
   - type: collection
+    alias: case
     resource: cases/golfhouse
 
   - type: collection
+    alias: case
     resource: cases/thies-raetzke-images

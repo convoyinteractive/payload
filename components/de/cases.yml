@@ -1,27 +1,36 @@
 items:
   - type: collection
+    alias: case
     resource: referenzen/orendt-studios
 
   - type: collection
+    alias: case
     resource: referenzen/ooigo
 
   - type: collection
+    alias: case
     resource: referenzen/teamcast
 
   - type: collection
+    alias: case
     resource: referenzen/eha
 
   - type: collection
+    alias: case
     resource: referenzen/architects-finest
 
   - type: collection
+    alias: case
     resource: referenzen/dreifragezeichen
 
   - type: collection
+    alias: case
     resource: referenzen/poggenpohl
 
   - type: collection
+    alias: case
     resource: referenzen/golfhouse
 
   - type: collection
+    alias: case
     resource: referenzen/thies-raetzke-images
