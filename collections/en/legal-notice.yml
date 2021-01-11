@@ -1,14 +1,14 @@
 type: default
 
 meta:
-  title: Legal
+  title: Legal Notice
   image: images/convoy-hinterhof
   alternates:
     de: impressum
 
 hero:
   type: image
-  title: Legal
+  title: Legal Notice
   alt: Legal
   path: images/convoy-hinterhof
 
