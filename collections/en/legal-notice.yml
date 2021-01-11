@@ -61,6 +61,6 @@ body:
   - type: markdown
     title: Credits
     body: |
-      Copy: [Martin Niemeyer](https://www.alsploetzlich.de/){:target="_blank"}
+      Copy: [Martin Niemeyer](//www.alsploetzlich.de/){:target="_blank"}
 
-      Photography: [Thies Rätzke](https://raetzke.com/){:target="_blank"}
+      Photography: [Thies Rätzke](//raetzke.com/){:target="_blank"}
