@@ -31,7 +31,7 @@ body:
     body: |
       Telefon: 040 38 66 19 19 0
       Telefax: 040 38 66 19 19 9
-      E-Mail: info@convoyinteractive.com
+      E-Mail: [info@convoyinteractive.com](info@convoyinteractive.com)
 
   - type: markdown
     title: Umsatzsteuer-ID
@@ -41,7 +41,7 @@ body:
   - type: markdown
     title: Umsatzsteuer-ID
     body: |
-      Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr. Unsere E-Mail-Adresse finden Sie oben im Impressum. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+      Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Unsere E-Mail-Adresse finden Sie oben im Impressum. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
   - type: markdown
     title: Haftung für Inhalte
@@ -61,8 +61,6 @@ body:
   - type: markdown
     title: Credits
     body: |
-      Text: 
-      Martin Niemeyer
+      Text: [Martin Niemeyer](https://www.alsploetzlich.de/) 
 
-      Photografie: 
-      Thies Rätzke
+      Photografie: [Thies Rätzke](https://raetzke.com/)
