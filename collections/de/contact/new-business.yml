@@ -1,0 +1,14 @@
+type: default
+
+meta:
+
+hero:
+
+body:
+  - type: quote
+    title: Let's talk!
+    body: Sie planen ein Digitalprojekt oder möchten auch Ihr Business digital voranbringen? Dann sollten wir uns kennenlernen.
+    author:
+      name: Marc
+      title: Geschäftsführer
+      image: images/team/marc
