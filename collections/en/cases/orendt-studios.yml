@@ -165,7 +165,7 @@ body:
     alias: screen
     alt: Orendt Studios Webdesign
     path: images/cases/orendtstudios-website-desktop-komplete
-    
+
 relations:
   - type: collection
     alias: case
