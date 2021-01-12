@@ -68,6 +68,17 @@ aside:
           - type: text
             body: Beratung
 
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/poggenpohl
+  - type: collection
+    alias: case
+    resource: referenzen/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
+
 body:
   - type: gallery
     alias: impressions
