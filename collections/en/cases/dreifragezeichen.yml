@@ -150,3 +150,14 @@ body:
   - type: svg
     title: Excerpts from the pattern library
     path: assets/dreifragezeichen-pattern-library.svg
+    
+relations:
+  - type: collection
+    alias: case
+    resource: cases/orendt-studios
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
