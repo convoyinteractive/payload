@@ -132,3 +132,14 @@ body:
   - type: video
     poster: images/cases/poggenpohl-film-wall-video-poster
     path: videos/cases/poggenpohl-animation-wall
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/orendt-studios
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
