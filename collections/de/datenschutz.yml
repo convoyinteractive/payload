@@ -1,10 +1,10 @@
 type: default
 
 meta:
-  title: Datenschutz
+  title: Datenschutzerklärung
   image: images/convoy-hinterhof
   alternates:
-    en: disclaimer
+    en: privacy-policy
 
 hero:
   type: image
