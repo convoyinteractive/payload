@@ -120,3 +120,14 @@ body:
     author:
       name: Melanie
       title: Senior Designer
+
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/architects-finest
+  - type: collection
+    alias: case
+    resource: referenzen/poggenpohl
+  - type: collection
+    alias: contact
+    resource: contact/app-development
