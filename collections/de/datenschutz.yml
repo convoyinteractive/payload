@@ -25,7 +25,7 @@ body:
   - type: markdown
     title: Datenerfassung auf unserer Website
     body: |
-      ### Wer ist verantwortlich für die Datenerfassung auf dieser Website? 
+      #### Wer ist verantwortlich für die Datenerfassung auf dieser Website? 
 
       Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
 
