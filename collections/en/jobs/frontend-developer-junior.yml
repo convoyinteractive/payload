@@ -18,3 +18,8 @@ body:
       As a junior frontend developer you work side by side with our senior developers and are responsible for the implementation of web and software interfaces. You’ll work with state-of-the-art technologies such as HTML5 or SCSS and ideally already have experience with Vue, headless CMS or Jamstack. Furthermore, you’re used to working in agile processes, enjoy implementing design-oriented projects and like to be actively involved by contributing your own ideas.
 
       Entry immediately
+       
+relations:
+  - type: collection
+    alias: contact
+    resource: contact/human-resources
