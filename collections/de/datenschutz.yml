@@ -14,7 +14,8 @@ hero:
 
 body:
   - type: markdown
-    title: 1. Datenschutz auf einen Blick
+    body: |
+      ## 1. Datenschutz auf einen Blick
 
   - type: markdown
     title: Allgemeine Hinweise
@@ -51,7 +52,8 @@ body:
       Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung. Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.
 
   - type: markdown
-    title: 2. Allgemeine Hinweise und Pflichtinformationen
+    body: |
+      ## 2. Allgemeine Hinweise und Pflichtinformationen
 
   - type: markdown
     title: Datenschutz
@@ -131,7 +133,8 @@ body:
       Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
   - type: markdown
-    title: 3. Datenerfassung auf unserer Website
+    body: |
+      ## 3. Datenerfassung auf unserer Website
 
   - type: markdown
     title: Cookies
@@ -180,7 +183,8 @@ body:
       Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf unserer Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
 
   - type: markdown
-    title: 4. Analyse-Tools und Werbung
+    body: |
+      ## 4. Analyse-Tools und Werbung
 
   - type: markdown
     title: Google Analytics
@@ -250,7 +254,8 @@ body:
       Wir haben einen Vertrag über Auftragsverarbeitung mit Hotjar geschlossen, um die strengen europäischen Datenschutzvorschriften umzusetzen.
 
   - type: markdown
-    title: 5. Newsletter
+    body: |
+      ## 5. Newsletter
 
   - type: markdown
     title: Newsletterdaten
@@ -286,7 +291,8 @@ body:
       Wir haben ein sog. „Data-Processing-Agreement“ mit MailChimp abgeschlossen, in dem wir MailChimp verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: [https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/](https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/){:target="_blank"}.
 
   - type: markdown
-    title: 6. Plugins und Tools
+    body: |
+      ## 6. Plugins und Tools
 
   - type: markdown
     title: Vimeo
