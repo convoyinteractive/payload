@@ -151,3 +151,14 @@ body:
   - type: svg
     title: Auszüge aus der DDF Pattern Library
     path: assets/dreifragezeichen-pattern-library.svg
+    
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/orendt-studios
+  - type: collection
+    alias: case
+    resource: referenzen/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
