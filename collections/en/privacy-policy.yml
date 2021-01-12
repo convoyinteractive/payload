@@ -271,8 +271,6 @@ body:
 
       The data you archive with us for the purpose of the newsletter subscription shall be archived by us until you unsubscribe from the newsletter. Once you cancel your subscription to the newsletter, the data shall be deleted. This shall not affect data we have been archiving for other purposes.
 
-
-
   - type: markdown
     title: MailChimp
     body: |
