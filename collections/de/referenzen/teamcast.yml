@@ -111,3 +111,14 @@ body:
     author:
       name: Lars Thullesen
       title: Inhaber und Geschäftsführer, Volker Thullesen GmbH
+
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/ooigo
+  - type: collection
+    alias: case
+    resource: referenzen/golfhouse
+  - type: collection
+    alias: contact
+    resource: contact/app-development
