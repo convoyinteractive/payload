@@ -135,3 +135,14 @@ body:
     author:
       name: Thies Rätzke
       title: Inhaber und Geschäftsführer Thies Rätzke Images
+
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/eha
+  - type: collection
+    alias: case
+    resource: referenzen/orendt-studios
+  - type: collection
+    alias: contact
+    resource: contact/new-business
