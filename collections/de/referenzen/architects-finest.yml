@@ -132,7 +132,7 @@ body:
   - type: image
     alt: Architects’ Finest Instagram Feed
     path: images/cases/architects-finest-instagram
-    
+
 relations:
   - type: collection
     alias: case
