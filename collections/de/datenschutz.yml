@@ -26,7 +26,7 @@ body:
     title: Datenerfassung auf unserer Website
     body: |
       ### Wer ist verantwortlich für die Datenerfassung auf dieser Website? 
-      
+
       Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
 
   - type: markdown
@@ -52,7 +52,7 @@ body:
     title: Analyse-Tools und Tools von Drittanbietern
     body: |
       Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. 
-      
+
       Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung. Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.
 
   - type: markdown
@@ -162,7 +162,7 @@ body:
       -   Hostname des zugreifenden Rechners
       -   Uhrzeit der Serveranfrage
       -   IP-Adresse
-      
+
       Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 
       Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website – hierzu müssen die Server-Log-Files erfasst werden.
