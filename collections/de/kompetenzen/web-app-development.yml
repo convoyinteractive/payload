@@ -44,3 +44,17 @@ body:
   - type: component
     title: Weitere Kompetenzen
     resource: services
+
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/ooigo
+  - type: collection
+    alias: case
+    resource: referenzen/architects-finest
+  - type: collection
+    alias: case
+    resource: referenzen/teamcast
+  - type: collection
+    alias: contact
+    resource: contact/app-development
