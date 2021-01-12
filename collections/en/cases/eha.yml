@@ -131,3 +131,14 @@ body:
     caption: Mobile dashboard view of the EHA ONE software
     alt: EHA ONE software
     path: images/cases/eha-one-dashboard
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/orendt-studios
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
