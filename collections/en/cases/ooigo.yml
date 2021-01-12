@@ -174,3 +174,14 @@ body:
       - type: image
         alt: Ooigo buttons
         path: images/cases/ooigo-merchandise-4
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/diedreifragezeichen
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
