@@ -45,3 +45,14 @@ body:
   - type: component
     title: Further services
     resource: services
+    
+relations:
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: case
+    resource: cases/ooigo
+  - type: collection
+    alias: contact
+    resource: contact/new-business
