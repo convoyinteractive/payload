@@ -1,14 +1,14 @@
 type: services
 
 meta:
-  title: UI Design
+  title: User Interface Design
   image:
   alternates:
     de: services/user-interface-design
 
 hero:
   type: lottie
-  title: User Interface Design
+  title: UI Design
   subtitle: Kompetenzen
   path: assets/user-interface-design.json
 
