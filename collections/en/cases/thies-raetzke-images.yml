@@ -135,3 +135,14 @@ body:
     author:
       name: Thies Rätzke
       title: Owner, Thies Rätzke Images
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/eha
+  - type: collection
+    alias: case
+    resource: cases/orendt-studios
+  - type: collection
+    alias: contact
+    resource: contact/new-business
