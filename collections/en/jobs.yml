@@ -78,3 +78,8 @@ body:
         alias: job
         term: Junior frontend developer (m/f/d)
         resource: jobs/user-interface-designer
+
+relations:
+  - type: collection
+    alias: contact
+    resource: contact/human-resources
