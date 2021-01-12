@@ -37,7 +37,7 @@ body:
   - type: component
     title: Further Services
     resource: services
-    
+
 relations:
   - type: collection
     alias: case
