@@ -132,3 +132,14 @@ body:
   - type: image
     alt: Architects’ Finest Instagram Feed
     path: images/cases/architects-finest-instagram
+    
+relations:
+  - type: collection
+    alias: case
+    resource: referenzen/diedreifragezeichen
+  - type: collection
+    alias: case
+    resource: referenzen/orendt-studios
+  - type: collection
+    alias: contact
+    resource: contact/new-business
