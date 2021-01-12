@@ -18,3 +18,8 @@ body:
       You study communication design, media or interaction design with a focus on digital media. During your mandatory internship, you assist us in the conception and design of digital projects. You also support our senior designers in developing consistent, functional and visually appealing user interfaces. 
 
       Entry from January 2021
+
+relations:
+  - type: collection
+    alias: contact
+    resource: contact/human-resources
