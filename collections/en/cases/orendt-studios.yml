@@ -165,3 +165,14 @@ body:
     alias: screen
     alt: Orendt Studios Webdesign
     path: images/cases/orendtstudios-website-desktop-komplete
+    
+relations:
+  - type: collection
+    alias: case
+    resource: cases/poggenpohl
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: contact
+    resource: contact/new-business
