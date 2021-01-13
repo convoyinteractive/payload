@@ -1,4 +1,4 @@
-type: default
+type: legal
 
 meta:
   title: Privacy Policy
@@ -16,41 +16,28 @@ body:
   - type: markdown
     body: |
       ## 1. Privacy policy at a glance
-
-  - type: markdown
-    title: General information
-    body: |
+      ### General information
       The following information will provide you with an easy to navigate overview of what will happen with your personal data when you visit our website. The term “personal data” comprises all data that can be used to personally identify you. For detailed information about the subject matter of data protection, please consult our Data Protection Declaration, which we have included beneath this copy.
 
-  - type: markdown
-    title: Data recording on our website
-    body: |
+      ### Data recording on our website
       Who is the responsible party for the recording of data on this website (i.e. the “controller”)?
 
       The data on this website is processed by the operator of the website, whose contact information is available under section “Information Required by Law” on this website.
 
-  - type: markdown
-    title: How do we record your data?
-    body: |
+      ### How do we record your data?
       We collect your data as a result of your sharing of your data with us. This may, for instance be information you enter into our contact form.
 
       Our IT systems automatically record other data when you visit our website. This data comprises primarily technical information (e.g. web browser, operating system or time the site was accessed). This information is recorded automatically when you access our website.
 
-  - type: markdown
-    title: What are the purposes we use your data for?
-    body: |
+      ### What are the purposes we use your data for?
       A portion of the information is generated to guarantee the error free provision of the website. Other data may be used to analyse your user patterns.
 
-  - type: markdown
-    title: What rights do you have as far as your information is concerned?
-    body: |
+      ### What rights do you have as far as your information is concerned?
       You have the right to receive information about the source, recipients and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified, blocked or eradicated. Please do not hesitate to contact us at any time under the address disclosed in section “Information Required by Law” on this website if you have questions about this or any other data protection related issues. You also have the right to log a complaint with the competent supervising agency.
 
       Moreover, under certain circumstances, you have the right to demand the restriction of the processing of your personal data. For details, please consult the Data Protection Declaration under section “Right to Restriction of Data Processing.”
 
-  - type: markdown
-    title: Analysis tools and tools provided by third parties
-    body: |
+      ### Analysis tools and tools provided by third parties
       There is a possibility that your browsing patterns will be statistically analysed when your visit our website. Such analyses are performed primarily with cookies and with what we refer to as analysis programmes. As a rule, the analyses of your browsing patterns are conducted anonymously; i.e. the browsing patterns cannot be traced back to you. You have the option to object to such analyses or you can prevent their performance by not using certain tools. For detailed information about this, please consult our Data Protection Declaration below.
 
       You do have the option to object to such analyses. We will brief you on the objection options in this Data Protection Declaration.
@@ -58,19 +45,14 @@ body:
   - type: markdown
     body: |
       ## 2. General information and mandatory information
-
-  - type: markdown
-    title: Data protection
-    body: |
+      ### Data protection
       The operators of this website and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.
 
       Whenever you use this website, a variety of personal information will be collected. Personal data comprises data that can be used to personally identify you. This Data Protection Declaration explains which data we collect as well as the purposes we use this data for. It also explains how, and for which purpose the information is collected.
 
       We herewith advise you that the transmission of data via the Internet (i.e. through e-mail communications) may be prone to security gaps. It is not possible to completely protect data against third party access.
 
-  - type: markdown
-    title: Information about the responsible party (referred to as the “controller” in the GDPR)
-    body: |
+      ### Information about the responsible party (referred to as the “controller” in the GDPR)
       The data processing controller on this website is:
 
       Convoy Interactive GmbH
@@ -82,43 +64,29 @@ body:
 
       The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
-  - type: markdown
-    title: Revocation of your consent to the processing of data
-    body: |
+      ### Revocation of your consent to the processing of data
       A wide range of data processing transactions are possible only subject to your express consent. You can also revoke at any time any consent you have already given us. To do so, all you are required to do is sent us an informal notification via e-mail. This shall be without prejudice to the lawfulness of any data collection that occurred prior to your revocation.
 
-  - type: markdown
-    title: Right to object to the collection of data in special cases; right to object to direct advertising (Art. 21 GDPR)
-    body: |
+      ### Right to object to the collection of data in special cases; right to object to direct advertising (Art. 21 GDPR)
       In the event that data are processed on the basis of Art. 6 Sect. 1 lit. e or f GDPR, you have the right to at any time object to the processing of your personal data based on grounds arising from your unique situation. This also applies to any profiling based on these provisions. To determine the legal basis, on which any processing of data is based, please consult this Data Protection Declaration. If you log an objection, we will no longer process your affected personal data, unless we are in a position to present compelling protection worthy grounds for the processing of your data, that outweigh your interests, rights and freedoms or if the purpose of the processing is the claiming, exercising or defence of legal entitlements (objection pursuant to Art. 21 Sect. 1 GDPR).
 
       If your personal data is being processed in order to engage in direct advertising, you have the right to at any time object to the processing of your affected personal data for the purposes of such advertising. This also applies to profiling to the extent that it is affiliated with such direct advertising. If you object, your personal data will subsequently no longer be used for direct advertising purposes (objection pursuant to Art. 21 Sect. 2 GDPR).
 
-  - type: markdown
-    title: Right to log a complaint with the competent supervisory agency
-    body: |
+      ### Right to log a complaint with the competent supervisory agency
       In the event of violations of the GDPR, data subjects are entitled to log a complaint with a supervisory agency, in particular in the member state where they usually maintain their domicile, place of work or at the place where the alleged violation occurred. The right to log a complaint is in effect regardless of any other administrative or court proceedings available as legal recourses.
 
-  - type: markdown
-    title: Right to data portability
-    body: |
+      ### Right to data portability
       You have the right to demand that we hand over any data we automatically process on the basis of your consent or in order to fulfil a contract be handed over to you or a third party in a commonly used, machine readable format. If you should demand the direct transfer of the data to another controller, this will be done only if it is technically feasible.
 
-  - type: markdown
-    title: SSL and/or TLS encryption
-    body: |
+      ### SSL and/or TLS encryption
       For security reasons and to protect the transmission of confidential content, such as purchase orders or inquiries you submit to us as the website operator, this website uses either an SSL or a TLS encryption programme. You can recognise an encrypted connection by checking whether the address line of the browser switches from “http://” to “https://” and also by the appearance of the lock icon in the browser line.
 
       If the SSL or TLS encryption is activated, data you transmit to us cannot be read by third parties.
 
-  - type: markdown
-    title: Information about, blockage, rectification and eradication of data
-    body: |
+      ### Information about, blockage, rectification and eradication of data
       Within the scope of the applicable statutory provisions, you have the right to at any time demand information about your archived personal data, their source and recipients as well as the purpose of the processing of your data. You may also have a right to have your data rectified, blocked or eradicated. If you have questions about this subject matter or any other questions about personal data, please do not hesitate to contact us at any time at the address provided in section “Information Required by Law.”
 
-  - type: markdown
-    title: Right to demand processing restrictions
-    body: |
+      ### Right to demand processing restrictions
       You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time at the address provided in section “Information Required by Law.” The right to demand restriction of processing applies in the following cases:
 
       -   In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
@@ -131,18 +99,13 @@ body:
 
       -   If you have restricted the processing of your personal data, these data – with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU.
 
-  - type: markdown
-    title: Rejection of unsolicited e-mails
-    body: |
+      ### Rejection of unsolicited e-mails
       We herewith object to the use of contact information published in conjunction with the mandatory information to be provided in section “Information Required by Law” to send us promotional and information material that we have not expressly requested. The operators of this website and its pages reserve the express right to take legal action in the event of the unsolicited sending of promotional information, for instance via SPAM messages.
 
   - type: markdown
     body: |
       ## 3. Recording of data on our website
-
-  - type: markdown
-    title: Cookies
-    body: |
+      ### Cookies
       In some instances, our website and its pages use so-called cookies. Cookies do not cause any damage to your computer and do not contain viruses. The purpose of cookies is to make our website more user friendly, effective and more secure. Cookies are small text files that are placed on your computer and stored by your browser.
 
       Most of the cookies we use are so-called “session cookies.” They are automatically deleted after your leave our site. Other cookies will remain archived on your device until you delete them. These cookies enable us to recognise your browser the next time you visit our website.
@@ -151,9 +114,7 @@ body:
 
       Cookies that are required for the performance of the electronic communications transaction or to provide certain functions you want to use (e.g. the shopping cart function), are stored on the basis of Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in storing cookies to ensure the technically error free and optimised provision of the operator’s services. If other cookies (e.g. cookies for the analysis of your browsing patterns) should be stored, they are addressed separately in this Data Protection Declaration.
 
-  - type: markdown
-    title: Server log files
-    body: |
+      ### Server log files
       The provider of this website and its pages automatically collects and stores information in so-called server log files, which your browser communicates to us automatically. The information comprises:
 
       -   The type and version of browser used
@@ -167,18 +128,14 @@ body:
 
       This data is recorded on the basis of Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in the technically error free depiction and the optimization of the operator’s website. In order to achieve this, server log files must be recorded.
 
-  - type: markdown
-    title: Request by e-mail, telephone or fax
-    body: |
+      ### Request by e-mail, telephone or fax
       If you contact us by e-mail, telephone or fax, your request, including all resulting personal data (name, request) will be stored and processed by us for the purpose of processing your request. We do not pass these data on without your consent.
 
       The processing of these data is based on Art. 6 para. 1 lit. b GDPR, if your request is related to the execution of a contract or if it is necessary to carry out pre-contractual measures. In all other cases, the processing is based on your consent (Article 6 (1) a GDPR) and/or on our legitimate interests (Article 6 (1) (f) GDPR), since we have a legitimate interest in the effective processing of requests addressed to us.
 
       The data sent by you to us via contact requests remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage lapses (e.g. after completion of your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
 
-  - type: markdown
-    title: Registration on this website
-    body: |
+      ### Registration on this website
       You have the option to register on our website to be able to use additional website functions. We shall use the data you enter only for the purpose of using the respective offer or service you have registered for. The required information we request at the time of registration must be entered in full. Otherwise we shall reject the registration.
 
       To notify you of any important changes to the scope of our portfolio or in the event of technical modifications, we shall use the e-mail address provided during the registration process.
@@ -190,46 +147,31 @@ body:
   - type: markdown
     body: |
       ## 4. Analysis tools and advertising
-
-  - type: markdown
-    title: Google Analytics
-    body: |
+      ### Google Analytics
       This website uses functions of the web analysis service Google Analytics. The provider of this service is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
       Google Analytics uses so-called cookies. Cookies are text files, which are stored on your computer and that enable an analysis of the use of the website by users. The information generated by cookies on your use of this website is usually transferred to a Google server in the United States, where it is stored.
 
       The storage of Google Analytics cookies and the utilization of this analysis tool are based on Art. 6 Sect. 1 lit. f GDPR. The operator of this website has a legitimate interest in the analysis of user patterns to optimize both, the services offered online and the operator’s advertising activities.
 
-  - type: markdown
-    title: IP anonymization
-    body: |
+      #### IP anonymization
       On this website, we have activated the IP anonymization function. As a result, your IP address will be abbreviated by Google within the member states of the European Union or in other states that have ratified the Convention on the European Economic Area prior to its transmission to the United States. The full IP address will be transmitted to one of Google’s servers in the United States and abbreviated there only in exceptional cases. On behalf of the operator of this website, Google shall use this information to analyse your use of this website to generate reports on website activities and to render other services to the operator of this website that are related to the use of the website and the Internet. The IP address transmitted in conjunction with Google Analytics from your browser shall not be merged with other data in Google’s possession.
 
-  - type: markdown
-    title: Browser plug-in
-    body: |
+      #### Browser plug-in
       You do have the option to prevent the archiving of cookies by making pertinent changes to the settings of your browser software. However, we have to point out that in this case you may not be able to use all of the functions of this website to their fullest extent. Moreover, you have the option prevent the recording of the data generated by the cookie and affiliated with your use of the website (including your IP address) by Google as well as the processing of this data by Google by downloading and installing the browser plug-in available under the following link: (https://tools.google.com/dlpage/gaoptout?hl=en){.external}.
 
-  - type: markdown
-    title: Objection to the recording of data
-    body: |
+      #### Objection to the recording of data
       You have the option to prevent the recording of your data by Google Analytics by clicking on the following link. This will result in the placement of an opt out cookie, which prevents the recording of your data during future visits to this website: Google Analytics deactivation.
 
       For more information about the handling of user data by Google Analytics, please consult Google’s Data Privacy Declaration at: (https://support.google.com/analytics/answer/6004245?hl=en){.external}.
 
-  - type: markdown
-    title: Contract data processing
-    body: |
+      #### Contract data processing
       We have executed a contract data processing agreement with Google and are implementing the stringent provisions of the German data protection agencies to the fullest when using Google Analytics.
 
-  - type: markdown
-    title: Demographic parameters provided by Google Analytics
-    body: |
+      #### Demographic parameters provided by Google Analytics
       This website uses the function “demographic parameters” provided by Google Analytics. It makes it possible to generate reports providing information on the age, gender and interests of website visitors. The sources of this information are interest-related advertising by Google as well as visitor data obtained from third party providers. This data cannot be allocated to a specific individual. You have the option to deactivate this function at any time by making pertinent settings changes for advertising in your Google account or you can generally prohibit the recording of your data by Google Analytics as explained in section “Objection to the recording of data.”
 
-  - type: markdown
-    title: Hotjar
-    body: |
+      ### Hotjar
       This website utilizes Hotjar. The provider is Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (website: https://www.hotjar.com).
 
       Hotjar is a tool used to analyse your user patterns on our website. Hotjar allows us to for instance record your mouse and scroll movements as well as your click. During this process, Hotjar also has the capability to determine how long your cursor remained in a certain position. Based on this information, Hotjar compiles so-called Heatmaps, that make possible to determine which parts of the website the website visitor reviews with preference.
@@ -244,36 +186,27 @@ body:
 
       The use of Hotjar and the storage of the Hotjar cookies are based on Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the analysis of user patterns, in order to optimize the operator’s web offerings and advertising.
 
-  - type: markdown
-    title: Deactivation of Hotjar
-    body: |
+      #### Deactivation of Hotjar
       If you would like to deactivate the recording of data by Hotjar, please click on the link below and follow the instructions provided under the link: https://www.hotjar.com/opt-out.
 
       Please keep in mind that you will have to separately deactivate Hotjar for every browser and every device.
 
       For more detailed information about Hotjar and the data to be recorded, please consult the Data Privacy Declaration of Hotjar under the following link: (https://www.hotjar.com/privacy){.external}.
 
-  - type: markdown
-    title: Contract data processing
-    body: |
+      #### Contract data processing
       We have entered into a contract data processing agreement with Hotjar to implement the stringent European Data Protection Regulations.
 
   - type: markdown
     body: |
       ## 5. Newsletter
-
-  - type: markdown
-    title: Newsletter data
-    body: |
+      ### Newsletter data
       If you would like to subscribe to the newsletter offered on this website, we will need from you an e-mail address as well as information that allow us to verify that you are the owner of the e-mail address provided and consent to the receipt of the newsletter. No further data shall be collected or shall be collected only on a voluntary basis. We shall use such data only for the sending of the requested information and shall not share such data with any third parties.
 
       The processing of the information entered into the newsletter subscription form shall occur exclusively on the basis of your consent (Art. 6 Sect. 1 lit. a GDPR). You may revoke the consent you have given to the archiving of data, the e-mail address and the use of this information for the sending of the newsletter at any time, for instance by clicking on the "Unsubscribe" link in the newsletter. This shall be without prejudice to the lawfulness of any data processing transactions that have taken place to date.
 
       The data you archive with us for the purpose of the newsletter subscription shall be archived by us until you unsubscribe from the newsletter. Once you cancel your subscription to the newsletter, the data shall be deleted. This shall not affect data we have been archiving for other purposes.
 
-  - type: markdown
-    title: MailChimp
-    body: |
+      ### MailChimp
       This website uses the services of MailChimp to send out its newsletters. The provider is the Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA.
 
       Among other things, MailChimp is a service that can be deployed to organise and analyse the sending of newsletters. Whenever you enter data for the purpose of subscribing to a newsletter (e.g. your e-mail address), the information is stored on MailChimp servers in the United States.
@@ -290,18 +223,13 @@ body:
 
       For more details, please consult the Data Privacy Policies of MailChimp at: (https://mailchimp.com/legal/terms/){.external}.
 
-  - type: markdown
-    title: Execution of a contract data processing agreement
-    body: |
+      #### Execution of a contract data processing agreement
       We have executed a so-called “Data Processing Agreement” with MailChimp, in which we mandate that MailChimp undertakes to protect the data of our customers and to refrain from sharing it with third parties. You may review this Agreement under the following link: (https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/){.external}.
 
   - type: markdown
     body: |
       ## 6. Plugins and tools
-
-  - type: markdown
-    title: Vimeo
-    body: |
+      ### Vimeo
       Our website uses plug-ins of the video portal Vimeo. The provider is Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
 
       If you visit one of the pages on our website into which a Vimeo plug-in has been integrated, a connection to Vimeo’s servers will be established. As a consequence, the Vimeo server will receive information as to which of our pages you have visited. Moreover, Vimeo will receive your IP address. This will also happen if you are not logged into Vimeo or do not have an account with Vimeo. The information recorded by Vimeo will be transmitted to Vimeo’s server in the United States.
@@ -312,9 +240,7 @@ body:
 
       For more information on how Vimeo handles user data, please consult the Vimeo Data Privacy Policy under: (https://vimeo.com/privacy){.external}.
 
-  - type: markdown
-    title: Google Maps
-    body: |
+      ### Google Maps
       Via an API, this website uses the mapping service Google Maps. The provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
       To enable the use of the Google Maps features, your IP address must be stored. As a rule, this information is transferred to one of Google’s servers in the United States, where it is archived. The operator of this website has no control over the data transfer.
