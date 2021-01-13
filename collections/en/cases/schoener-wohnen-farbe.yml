@@ -155,3 +155,14 @@ body:
         alias: screen
         alt: Schöner Wohnen Farbe product page "Trendfarbe"
         path: images/cases/schoener-wohnen-farbe-detailseite-1
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/architects-finest
+  - type: collection
+    alias: case
+    resource: cases/orendt-studios
+  - type: component
+    alias: contact
+    resource: contact/new-business

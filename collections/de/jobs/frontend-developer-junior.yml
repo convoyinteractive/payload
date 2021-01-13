@@ -19,3 +19,8 @@ body:
       Als Junior Frontend Developer arbeitest du Seite an Seite mit unseren Senior Entwicklern und bist verantwortlich für die Umsetzung von Web- und Software Interfaces. Dabei arbeitest du mit aktuellen Technologien wie HTML5 oder SCSS und hast idealerweise schon Erfahrungen mit Vue, dem ein oder anderen Headless CMS oder Jamstack gesammelt. Darüber hinaus bist du es gewohnt in agilen Prozessen zu arbeiten, hast Spaß an der Umsetzung designorientierter Projekte und bringst dich gern mit eigenen Ideen ein.
 
       Einstieg ab Januar 2021
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/human-resources

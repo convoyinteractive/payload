@@ -26,3 +26,8 @@ body:
   - type: component
     title: Ausgewählte Kunden
     resource: clients
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/new-business

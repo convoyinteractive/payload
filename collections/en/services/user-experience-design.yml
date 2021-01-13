@@ -37,3 +37,14 @@ body:
   - type: component
     title: Further Services
     resource: services
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/teamcast
+  - type: collection
+    alias: case
+    resource: cases/golfhouse
+  - type: component
+    alias: contact
+    resource: contact/app-development

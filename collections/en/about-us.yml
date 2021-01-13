@@ -114,3 +114,8 @@ body:
   - type: component
     title: Auszeichnungen + Awards
     resource: awards
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/new-business

@@ -85,3 +85,8 @@ body:
         alias: job
         term: Junior Frontend Developer (m/w/d)
         resource: jobs/frontend-developer-junior
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/human-resources

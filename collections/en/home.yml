@@ -43,3 +43,8 @@ body:
   - type: component
     title: Selected clients
     resource: clients
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/new-business

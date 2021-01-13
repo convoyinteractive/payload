@@ -111,3 +111,14 @@ body:
     author:
       name: Lars Thullesen
       title: Owner and Managing Director, Volker Thullesen GmbH
+
+relations:
+  - type: collection
+    alias: case
+    resource: cases/ooigo
+  - type: collection
+    alias: case
+    resource: cases/golfhouse
+  - type: component
+    alias: contact
+    resource: contact/app-development

@@ -19,7 +19,7 @@ body:
 
   - type: markdown
     body: |
-      Digital innovation requires a clear focus. We help to identify those areas of potential that offer the greatest opportunities for success. We don’t just offer surprising user experiences and convincing interfaces in the process, but also implement these on the basis of state-of-the-art technologies. 
+      Digital innovation requires a clear focus. We help to identify those areas of potential that offer the greatest opportunities for success. We don’t just offer surprising user experiences and convincing interfaces in the process, but also implement these on the basis of state-of-the-art technologies.
 
       By getting to know our clients and understanding their challenges, we can plan purposefully and develop concepts that deliver retraceable results. As a partner at their side we support them in all phases of implementation – and of course beyond.
 
@@ -54,3 +54,8 @@ body:
         term: Ongoing
         body: |
           This model allows you to engage the services of individual specialists from our team to work on your projects on an ongoing basis. This is ideal if you wish for continuous support from a permanent partner. With this model, the expenses incurred are usually invoiced at the end of the month or on the basis of an allotted number of hours previously agreed upon.
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/new-business
