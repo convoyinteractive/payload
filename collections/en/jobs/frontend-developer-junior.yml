@@ -20,6 +20,6 @@ body:
       Entry immediately
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/human-resources

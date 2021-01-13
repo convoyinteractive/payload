@@ -20,6 +20,6 @@ body:
       Entry from January 2021
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/human-resources

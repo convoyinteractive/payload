@@ -87,6 +87,6 @@ body:
         resource: jobs/frontend-developer-junior
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/human-resources

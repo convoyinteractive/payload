@@ -45,6 +45,6 @@ body:
     resource: clients
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/new-business

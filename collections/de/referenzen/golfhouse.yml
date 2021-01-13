@@ -128,6 +128,6 @@ relations:
   - type: collection
     alias: case
     resource: referenzen/poggenpohl
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/app-development

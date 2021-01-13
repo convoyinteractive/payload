@@ -163,6 +163,6 @@ relations:
   - type: collection
     alias: case
     resource: cases/orendt-studios
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/new-business

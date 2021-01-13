@@ -80,6 +80,6 @@ body:
         resource: jobs/user-interface-designer
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/human-resources

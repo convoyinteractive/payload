@@ -53,6 +53,6 @@ relations:
   - type: collection
     alias: case
     resource: cases/ooigo
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/new-business

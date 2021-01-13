@@ -55,6 +55,6 @@ relations:
   - type: collection
     alias: case
     resource: referenzen/teamcast
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/app-development

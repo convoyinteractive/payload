@@ -45,6 +45,6 @@ relations:
   - type: collection
     alias: case
     resource: cases/golfhouse
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/app-development

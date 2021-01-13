@@ -54,6 +54,6 @@ body:
           Dieses Modell ermöglicht es Ihnen, einzelne Spezialisten aus unserem Team zu engagieren, die an Ihren Projekten arbeiten. Das ist optimal, wenn Sie eine kontinuierliche Betreuung durch einen festen Partner wünschen. Die Abrechnung der angefallenen Aufwände erfolgt bei diesem Modell in der Regel zum Monatsende oder auf Basis eines zuvor definierten Stundenkontingents.
 
 relations:
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/new-business

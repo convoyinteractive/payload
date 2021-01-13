@@ -140,6 +140,6 @@ relations:
   - type: collection
     alias: case
     resource: cases/architects-finest
-  - type: collection
+  - type: component
     alias: contact
     resource: contact/new-business
