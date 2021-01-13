@@ -4,19 +4,19 @@ meta:
   title: Kontakt
   image: images/convoy-hinterhof
   alternates:
-    en: contact/new-business
+    de: contact/human-resources
 
 hero:
   type: image
   title: Kontakt
-  subtitle: Anfrage
+  subtitle: Jobs
   alt: Kontakt
   path: images/convoy-hinterhof
 
 body:
   - type: quote
     title: Let's talk!
-    body: Sie planen ein Digitalprojekt oder möchten auch Ihr Business digital voranbringen? Dann sollten wir uns kennenlernen.
+    body: Du hast Fragen zu uns oder zum Bewerbungsprozess? Dann schreib mir einfach eine kurze Nachricht und ich melde mich bei dir.
     author:
       name: Marc
       title: Geschäftsführer

@@ -1,8 +1,17 @@
 type: default
 
 meta:
+  title: Kontakt
+  image: images/convoy-hinterhof
+  alternates:
+    en: contact/app-development
 
 hero:
+  type: image
+  title: Kontakt
+  subtitle: Development
+  alt: Kontakt
+  path: images/convoy-hinterhof
 
 body:
   - type: quote

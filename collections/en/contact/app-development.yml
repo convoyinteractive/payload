@@ -4,19 +4,19 @@ meta:
   title: Kontakt
   image: images/convoy-hinterhof
   alternates:
-    en: contact/new-business
+    de: contact/app-development
 
 hero:
   type: image
   title: Kontakt
-  subtitle: Anfrage
+  subtitle: Development
   alt: Kontakt
   path: images/convoy-hinterhof
 
 body:
   - type: quote
     title: Let's talk!
-    body: Sie planen ein Digitalprojekt oder möchten auch Ihr Business digital voranbringen? Dann sollten wir uns kennenlernen.
+    body: Sie benötigen eine App oder planen einen Relaunch Ihrer Software? Dann sollten wir uns kennenlernen.
     author:
       name: Marc
       title: Geschäftsführer

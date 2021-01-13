@@ -4,7 +4,7 @@ meta:
   title: Kontakt
   image: images/convoy-hinterhof
   alternates:
-    en: contact/new-business
+    de: contact/new-business
 
 hero:
   type: image

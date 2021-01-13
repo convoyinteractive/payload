@@ -1,8 +1,17 @@
 type: default
 
 meta:
+  title: Kontakt
+  image: images/convoy-hinterhof
+  alternates:
+    en: contact/human-resources
 
 hero:
+  type: image
+  title: Kontakt
+  subtitle: Jobs
+  alt: Kontakt
+  path: images/convoy-hinterhof
 
 body:
   - type: quote
