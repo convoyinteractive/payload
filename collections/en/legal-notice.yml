@@ -41,7 +41,7 @@ body:
   - type: markdown
     title: Dispute Resolution
     body: |
-      The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr){:target="_blank"}. Unsere E-Mail-Adresse finden Sie oben im Impressum. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+      The European Commission provides a platform for online dispute resolution (ODR): (https://ec.europa.eu/consumers/odr){.external}. Unsere E-Mail-Adresse finden Sie oben im Impressum. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
   - type: markdown
     title: Liability for Contents
@@ -61,6 +61,6 @@ body:
   - type: markdown
     title: Credits
     body: |
-      Copy: [Martin Niemeyer](//www.alsploetzlich.de/){:target="_blank"}
+      Copy: [Martin Niemeyer](https://www.alsploetzlich.de/){.external}
 
-      Photography: [Thies Rätzke](//raetzke.com/){:target="_blank"}
+      Photography: [Thies Rätzke](https://raetzke.com/){.external}
