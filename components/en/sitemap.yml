@@ -1,0 +1,30 @@
+about:
+  links:
+    - label: About us
+      path: /en/about-us
+    - label: Services
+      path: /en/services
+    - label: Process
+      path: /en/process
+    - label: Jobs
+      path: /en/jobs
+  image:
+    path: images/humorpille
+    alt: Mit Spaß bei der Arbeit
+
+legal:
+  links:
+    - label: Legal Notice
+      path: /en/legal-notice
+    - label: Privacy Policy
+      path: /en/privacy-policy
+
+contact:
+  links:
+    - label: How to get there
+      url: //www.google.com/maps/place/Convoy+Interactive/@53.5554332,9.9619613,17z/data=!3m1!4b1!4m5!3m4!1s0x47b18592850c3d7f:0xac060b7a13a7cff6!8m2!3d53.55543!4d9.96415
+  image:
+    path: images/aussenansicht
+    alt: Unser Büro in der Budapester Straße 47
+
+

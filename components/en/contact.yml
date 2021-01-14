@@ -1,15 +1,5 @@
-items:
-  - type: markdown
-    title: Get in touch
-    body: |
-      Convoy Interactive GmbH
-      Budapester Straße 47
-      20359 Hamburg
-
-      [+49 40 3866 1919 0](tel:+4940386619190)
-
-      [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
-
-  - type: image
-    path: images/aussenansicht
-    alt: Our Office at Budapester Straße 47 in Hamburg
+street: Budapester Straße 47
+postcode: 20359
+city: Hamburg
+phone: +49 40 3866 1919 0
+email: info@convoyinteractive.com
