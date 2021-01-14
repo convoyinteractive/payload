@@ -5,6 +5,7 @@ items:
     body: We find the best individual solution for each target group and each use case.
     addon:
       type: lottie
+      mode: hover
       path: assets/user-experience-design_small.json
 
   - type: markdown
@@ -13,6 +14,7 @@ items:
     body: We design attractive and intuitive user interfaces.
     addon:
       type: lottie
+      mode: hover
       path: assets/user-inerface-design_small.json
 
   - type: markdown
@@ -21,6 +23,7 @@ items:
     body: We develop future-proof solutions with the help of state-of-the-art technologies.
     addon:
       type: lottie
+      mode: hover
       path: assets/web-app-development_small.json
 
   - type: markdown
@@ -29,6 +32,7 @@ items:
     body: We conceptualise solutions for you to take advantage of your digital opportunities.
     addon:
       type: lottie
+      mode: hover
       path: assets/strategic-consulting_small.json
 
   - type: markdown
@@ -37,6 +41,7 @@ items:
     body: We make sure that your communication attracts attention and is remembered.
     addon:
       type: lottie
+      mode: hover
       path: assets/online-marketing_small.json
 
   - type: markdown
@@ -44,4 +49,5 @@ items:
     body: We implement applications that appeal to your target group for the long haul.
     addon:
       type: lottie
+      mode: hover
       path: assets/product-development_small.json
