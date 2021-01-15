@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Strategic Consulting
-  subtitle: Services
-
-  hero:
-    type: lottie
-    path: assets/strategic-consulting.json
-
+  image:
   alternates:
     de: kompetenzen/strategische-beratung
+
+hero:
+  type: lottie
+  title: Strategic Consulting
+  subtitle: Services
+  path: assets/strategic-consulting.json
 
 body:
   - type: markdown
@@ -34,9 +35,6 @@ body:
         term: Monitoring + evaluation
         body: |
           With the successful rollout of a product or service, the first milestone is usually already achieved. For the measure to be successful long-term, though, we also support you beyond the launch – for example with quality management, continuous maintenance, regular analyses, reports or technical support.
-  - type: component
-    title: Further Services
-    resource: services
 
 relations:
   - type: collection

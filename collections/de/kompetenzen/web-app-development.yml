@@ -41,10 +41,6 @@ body:
         body: |
           Damit Ihre Website, Microsite oder Landing-Page auch schnell gefunden wird, optimieren wir sie für eine bestmögliche Platzierung in Suchmaschinen. Mit umfangreichem Know-how unterstützen wir Sie bei der Planung Ihres Launchs oder Relaunchs und begleiten Sie selbstverständlich auch darüber hinaus. So sorgen wir dafür, dass bestehende Rankings erhalten bleiben und neuer Traffic und wertvolle Leads generiert werden.
 
-  - type: component
-    title: Weitere Kompetenzen
-    resource: services
-
 relations:
   - type: collection
     alias: case

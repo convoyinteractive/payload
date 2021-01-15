@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Web + App Development
-  subtitle: Services
-
-  hero:
-    type: lottie
-    path: assets/web-app-development.json
-
+  image:
   alternates:
     de: kompetenzen/web-app-development
+
+hero:
+  type: lottie
+  title: Web + App Development
+  subtitle: Kompetenzen
+  path: assets/web-app-development.json
 
 body:
   - type: markdown
@@ -38,9 +39,6 @@ body:
         term: Search engine optimisation (SEO)
         body: |
           To ensure that your website, microsite or landing page isn’t just technically perfect, but is also found quickly, we optimise it to rank highly in search engines. With our extensive know-how, we support you in planning your launch or relaunch and of course support you beyond that, too – for example by ensuring that existing rankings are maintained and new traffic and valuable leads are generated.
-  - type: component
-    title: Further Services
-    resource: services
 
 relations:
   - type: collection

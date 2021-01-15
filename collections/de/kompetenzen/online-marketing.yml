@@ -41,10 +41,6 @@ body:
         body: |
           Falls gewünscht, stehen wir als externe Redaktion für die Content-Produktion bereit. So übernehmen wir beispielsweise die Themenrecherche und die Erstellung professioneller Texte für Websites, Mailings, Kampagnen, Blogs oder Online-Magazine. Darüber hinaus kümmern wir uns auch um Themen wie Bildrecherche, Art-Buying, Layout oder Photo- und Videoproduktion – für ein starkes Content-Gesamtpaket.
 
-  - type: component
-    title: Weitere Kompetenzen
-    resource: services
-
 relations:
   - type: collection
     alias: case

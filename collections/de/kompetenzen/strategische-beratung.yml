@@ -37,10 +37,6 @@ body:
         body: |
           Mit dem erfolgreichen Rollout eines Produktes oder Services ist der erste Milestone in der Regel erreicht. Damit die Maßnahme jedoch langfristig erfolgreich ist, unterstützen wir Sie auch über den Launch hinaus – zum Beispiel mit Qualitätsmanagement, kontinuierlicher Pflege, regelmäßigen Analysen, Reportings oder technischem Support.
 
-  - type: component
-    title: Weitere Kompetenzen
-    resource: services
-
 relations:
   - type: collection
     alias: case

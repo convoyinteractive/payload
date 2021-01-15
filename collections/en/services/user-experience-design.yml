@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: UX Design
-  subtitle: Services
-
-  hero:
-    type: lottie
-    path: assets/user-experience-design.json
-
+  image:
   alternates:
     de: kompetenzen/user-experience-design
+
+hero:
+  type: lottie
+  title: UX Design
+  subtitle: Services
+  path: assets/user-experience-design.json
 
 body:
   - type: markdown
@@ -34,9 +35,6 @@ body:
         term: Conversion optimisation
         body: |
           Even the most user-friendly marketing measure is only successful if it contributes to meeting your business objectives and delivers measurable results. For us to optimally plan digital services or offers, we need to understand the target group and usage context. This allows us to design content that is not only optimised for search engines but also tailored to your needs. In addition, clear objectives help with tracking and evaluating leads and conversions.
-  - type: component
-    title: Further Services
-    resource: services
 
 relations:
   - type: collection

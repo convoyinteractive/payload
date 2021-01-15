@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Online Marketing
-  subtitle: Services
-
-  hero:
-    type: lottie
-    path: assets/online-marketing.json
-
+  image:
   alternates:
     de: kompetenzen/online-marketing
+
+hero:
+  type: lottie
+  title: Online Marketing
+  subtitle: Services
+  path: assets/online-marketing.json
 
 body:
   - type: markdown
@@ -42,9 +43,6 @@ body:
         term: Content creation
         body: |
           …
-  - type: component
-    title: Further services
-    resource: services
 
 relations:
   - type: collection

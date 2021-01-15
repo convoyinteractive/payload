@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: UI Design
-  subtitle: Services
-
-  hero:
-    type: lottie
-    path: assets/user-interface-design.json
-
+  image:
   alternates:
     de: kompetenzen/user-interface-design
+
+hero:
+  type: lottie
+  title: UI Design
+  subtitle: Kompetenzen
+  path: assets/user-interface-design.json
 
 body:
   - type: markdown
@@ -34,9 +35,6 @@ body:
         term: Design systems + pattern libraries
         body: |
           We devise designs systematically according to the atomic design principle. We break down our layouts in little building blocks and document these in design libraries or living styleguides. This way, we not only ensure the greatest possible consistency in terms of implementation, but also create a Single Source of Truth (SSOT) for long-term further development.
-  - type: component
-    title: Further Services
-    resource: services
 
 relations:
   - type: collection

@@ -8,7 +8,7 @@ meta:
 
 hero:
   type: lottie
-  title: User Interface Design
+  title: UI Design
   subtitle: Kompetenzen
   path: assets/user-interface-design.json
 
@@ -36,10 +36,6 @@ body:
         term: Design-Systems + Pattern Libraries
         body: |
           Designs erstellen wir systematisch nach dem Atomic-Design-Prinzip. Dabei zerlegen wir unsere Layouts in kleine Bausteine und dokumentieren diese in Design-Bibliotheken oder Living Styleguides. Dadurch sorgen wir nicht nur für größtmögliche Konsistenz in der Umsetzung, sondern schaffen eine Single Source of Truth (SSOT) für eine nachhaltige Weiterentwicklung.
-
-  - type: component
-    title: Weitere Kompetenzen
-    resource: services
 
 relations:
   - type: collection
