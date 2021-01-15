@@ -1,16 +1,17 @@
 type: default
 
 meta:
-  title: Working method
-  subtitle: Our process
-
-  hero:
-    type: image
-    alt: Process
-    path: images/arbeitsweise-hero
-
+  title: Our process
+  image: images/arbeitsweise-hero
   alternates:
     de: arbeitsweise
+
+hero:
+  type: image
+  title: Working method
+  subtitle: Our process
+  alt: Arbeitsweise
+  path: images/arbeitsweise-hero
 
 body:
   - type: markdown

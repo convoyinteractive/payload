@@ -2,15 +2,16 @@ type: jobs
 
 meta:
   title: Jobs
-  subtitle: Vacancies
-
-  hero:
-    type: image
-    alt: Jobs bei Convoy
-    path: images/convoy-hinterhof
-
+  image: images/convoy-hinterhof
   alternates:
     de: jobs
+
+hero:
+  type: image
+  title: Jobs
+  subtitle: Vacancies
+  alt: Jobs bei Convoy
+  path: images/convoy-hinterhof
 
 body:
   - type: markdown
@@ -76,7 +77,7 @@ body:
         resource: jobs/user-interface-design-trainee
       - type: collection
         alias: job
-        term: Junior frontend developer (m/f/d)
+        term: UX-Designer (m/f/d)
         resource: jobs/user-interface-designer
 
 relations:

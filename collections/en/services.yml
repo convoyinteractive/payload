@@ -2,14 +2,15 @@ type: services
 
 meta:
   title: Services
-  subtitle: Schedule of services
-
-  hero:
-    type: lottie
-    path: assets/services.json
-
+  image:
   alternates:
     de: kompetenzen
+
+hero:
+  type: lottie
+  title: Services
+  subtitle: Schedule of services
+  path: assets/services.json
 
 body:
   - type: markdown

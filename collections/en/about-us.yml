@@ -2,15 +2,17 @@ type: default
 
 meta:
   title: Agency
-  subtitle: About us
-
-  hero:
-    type: image
-    alt: Convoy Agentur
-    path: images/convoy-agentur-hero
-
+  image: images/convoy-agentur-hero
   alternates:
     de: agentur
+
+hero:
+  type: image
+  title: Agency
+  subtitle: About us
+  alt: About us
+  path: images/convoy-agentur-hero
+
 body:
   - type: markdown
     body: |
@@ -29,8 +31,8 @@ body:
       In this vein, we have already got more than 100 digital projects off the ground for a variety of industries since the foundation of our agency in Hamburg ten years ago.
 
   - type: image
-    alt: Convoy Interactive Agency
-    path: images/convoy-agentur-video
+    alt: About us
+    path: videos/convoy-agentur
 
   - type: markdown
     title: Experts with foresight
