@@ -79,10 +79,10 @@ body:
     body: |
       Die Hörspiel-App Ooigo filtert Streaming-Inhalte nach Alter und Interessen. Da sie von Kindern benutzt wird, liegt der Fokus auf einer möglichst einfachen und intuitiven Bedienbarkeit. Das UI-Design der App setzt daher auf klare Farben, einen kindgerechten Look und so wenig Bedienelemente wie nötig. Illustrationen und gestalterische Details sind liebevoll ausgearbeitet, damit die App Spaß macht und möglichst regelmäßig von der jungen Zielgruppe genutzt wird.
 
-  - type: video
+  - type: image
+    alias: screen
     caption: Die Homepage der Ooigo-Website liefert einen Überblick über die wichtigsten Features der App.
-    poster: images/cases/ooigo-website-scroll-video-poster
-    path: videos/cases/ooigo-website-scroll
+    path: images/cases/ooigo-desktop-screen
 
   - type: markdown
     body: |
