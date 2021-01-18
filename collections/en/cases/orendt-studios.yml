@@ -74,20 +74,28 @@ body:
     items:
       - type: image
         alias: screen
-        alt: Orendt Studios Website Portfolio
+        alt: Orendt Studios website portfolio
         path: images/cases/orendtstudios-website-desktop
       - type: image
         alias: screen
-        alt: Orendt Studios Case
+        alt: Orendt Studios case
         path: images/cases/orendtstudios-website-desktop-case
       - type: image
         alias: screen
-        alt: Orendt Studios Services Icons
+        alt: Orendt Studios references
+        path: images/cases/orendtstudios-website-desktop-references
+      - type: image
+        alias: screen
+        alt: Orendt Studios design detail
+        path: images/cases/orendtstudios-website-desktop-detail
+      - type: image
+        alias: screen
+        alt: Orendt Studios services icons
         path: images/cases/orendtstudios-website-desktop-services
       - type: image
         alias: screen
-        alt: Orendt Studios by Numbers
-        path: images/cases/orendtstudios-website-desktop-numbers
+        alt: Orendt Studios contakt
+        path: images/cases/orendtstudios-website-desktop-contact
 
   - type: markdown
     title: Picture Perfect
