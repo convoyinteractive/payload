@@ -81,10 +81,10 @@ body:
 
       The Ooigo app filters streaming content by age and interests. Since it is used by children, the focus is on making it as easy and intuitive as possible. The app's UI design therefore focuses on clear colors, a look appropriate for children and as few controls as necessary. Illustrations and design details have been worked out tastefully, so that the app is fun to use and the kids will want to listen to it regularly.
 
-  - type: video
+  - type: image
+    alias: screen
     caption: The homepage of the Ooigo website provides an overview of the app's most important features.
-    poster: images/cases/ooigo-website-scroll-video-poster
-    path: videos/cases/ooigo-website-scroll
+    path: images/cases/ooigo-desktop-screen
 
   - type: markdown
     body: |
