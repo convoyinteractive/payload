@@ -104,7 +104,7 @@ body:
       Die neue Website besticht durch ihr klar gegliedertes Layout und der Mischung aus großformatigen Fotos und schlichter Typografie. Dabei hält sich das Design bewusst zurück und lässt dem Content den Vortritt. Über das Website-Backend werden Projekte kategorisiert und mit einem individuellen Farbschema versehen, wodurch der individuelle Charakter jeder Fotoserie noch unterstrichen wird.
 
   - type: gallery
-    alias: group
+    alias: impressions
     items:
       - type: image
         alias: screen
