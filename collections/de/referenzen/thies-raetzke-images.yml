@@ -103,10 +103,33 @@ body:
     body: |
       Die neue Website besticht durch ihr klar gegliedertes Layout und der Mischung aus großformatigen Fotos und schlichter Typografie. Dabei hält sich das Design bewusst zurück und lässt dem Content den Vortritt. Über das Website-Backend werden Projekte kategorisiert und mit einem individuellen Farbschema versehen, wodurch der individuelle Charakter jeder Fotoserie noch unterstrichen wird.
 
-  - type: image
-    alias: screen
-    alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht
-    path: images/cases/thies-raetzke-website-portfolio
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Das Portfolio von von Thies Rätzke Images in der Desktop-Ansicht
+        path: images/cases/thies-raetzke-website-desktop-01
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - Aktuelles
+        path: images/cases/thies-raetzke-website-desktop-02
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - Portfolio 1
+        path: images/cases/thies-raetzke-website-desktop-03
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - Portfolio 2
+        path: images/cases/thies-raetzke-website-desktop-04
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - Menu
+        path: images/cases/thies-raetzke-website-desktop-05
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - Studio-Vermietung
+        path: images/cases/thies-raetzke-website-desktop-06
 
   - type: markdown
     title: Kontrast aus Grau und Gelb

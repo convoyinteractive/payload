@@ -103,10 +103,33 @@ body:
     body: |
       The new website impresses with its clearly structured layout and the mixture of large-format photos and simple typography. The design is deliberately restrained and allows the content to take precedence. Projects are categorized and given an individual color scheme via the website backend, which underlines the individual character of each photo series.
 
-  - type: image
-    alias: screen
-    alt: The portfolio of Thies Rätzke Images in desktop view
-    path: images/cases/thies-raetzke-website-portfolio
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: The portfolio of Thies Rätzke Images in desktop view
+        path: images/cases/thies-raetzke-website-desktop-01
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - news
+        path: images/cases/thies-raetzke-website-desktop-02
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - portfolio 1
+        path: images/cases/thies-raetzke-website-desktop-03
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - portfolio 2
+        path: images/cases/thies-raetzke-website-desktop-04
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - menu
+        path: images/cases/thies-raetzke-website-desktop-05
+      - type: image
+        alias: screen
+        alt: Thies Rätzke Images - studio rental
+        path: images/cases/thies-raetzke-website-desktop-06
 
   - type: markdown
     title: Contrast of grey and yellow
