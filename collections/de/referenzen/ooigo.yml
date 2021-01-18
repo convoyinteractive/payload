@@ -82,6 +82,7 @@ body:
   - type: image
     alias: screen
     caption: Die Homepage der Ooigo-Website liefert einen Überblick über die wichtigsten Features der App.
+    alt: Ooigo Homepage
     path: images/cases/ooigo-desktop-screen
 
   - type: markdown
