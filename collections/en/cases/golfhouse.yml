@@ -74,7 +74,7 @@ body:
       - type: image
         alias: phone
         alt: Mobile view of Golf House E-Commerce
-        path: images/cases/golfhouse-mobile-products
+        path: images/cases/golfhouse-mobile-home
       - type: image
         alias: phone
         alt: The mobile menu for the Golf House E-Commerce
