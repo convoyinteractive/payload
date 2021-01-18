@@ -136,7 +136,7 @@ body:
 relations:
   - type: collection
     alias: case
-    resource: cases/diedreifragezeichen
+    resource: cases/dreifragezeichen
   - type: collection
     alias: case
     resource: cases/orendt-studios
