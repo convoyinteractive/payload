@@ -75,7 +75,7 @@ body:
       - type: image
         alias: phone
         alt: Die Smartphone-Ansicht des Golf House Online-Shops
-        path: images/cases/golfhouse-mobile-products
+        path: images/cases/golfhouse-mobile-home
       - type: image
         alias: phone
         alt: Das Mobile-Menu des Golf House Online-Shops
