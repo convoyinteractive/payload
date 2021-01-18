@@ -17,8 +17,8 @@ hero:
   title: Orendt Studios
   subtitle: Corporate Website
   sizes:
-    small: images/cases/orendtstudios-hero-mobile
-    large: images/cases/orendtstudios-hero
+    small: videos/cases/orendt-hero-animation-mobile
+    large: videos/cases/orendt-hero-animation-desktop
 
 excerpt:
   - type: markdown
@@ -157,23 +157,8 @@ body:
 
   - type: image
     alias: screen
-    alt: Orendt Studios Seiteneinstieg Case Juvia
-    path: videos/cases/orendt-3d-animation-juvia
-
-  - type: image
-    alias: screen
-    alt: Orendt Studios Seiteneinstieg Case Boger
-    path: videos/cases/orendt-3d-animation-bogner
-
-  - type: image
-    alias: screen
-    alt: Orendt Studios Seiteneinstieg Case s.Oliver
-    path: videos/cases/orendt-3d-animation-s-oliver
-
-  - type: image
-    alias: screen
-    alt: Orendt Studios Seiteneinstieg Case Liebeskind Berlin
-    path: videos/cases/orendt-3d-animation-liebeskind-berlin
+    alt: Orendt Studios Seiteneinstieg Cases
+    path: videos/cases/orendt-3d-animation
 
   - type: markdown
     title: Eine Landing-Page für jede Unit
