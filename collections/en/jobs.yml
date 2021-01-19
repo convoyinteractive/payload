@@ -12,8 +12,8 @@ hero:
   subtitle: Vacancies
   alt: Jobs bei Convoy
   sizes:
-    small: images/images/convoy-hinterhof-mobile
-    large: images/images/convoy-hinterhof
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown
