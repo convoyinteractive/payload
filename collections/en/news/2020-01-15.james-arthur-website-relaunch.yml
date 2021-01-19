@@ -8,14 +8,17 @@ theme:
 
 meta:
   title: Website relaunch for the British singer and X-Factor winner James Arthur
-  subtitle: Website
-
-  hero:
-    type: image
-    path: images/articles/jamesarthur-hero
-
+  image: images/articles/jamesarthur-hero
   alternates:
-    en: news/2020-01-15/james-arthur-website-relaunch
+    de: news/2020-01-15/james-arthur-website-relaunch
+
+hero:
+  type: image
+  title: Website relaunch for the British singer and X-Factor winner James Arthur
+  subtitle: Website
+  sizes:
+    small: images/articles/jamesarthur-hero-mobile
+    large: images/articles/jamesarthur-hero
 
 body:
   - type: markdown
@@ -29,7 +32,9 @@ body:
     items:
       - type: image
         alias: phone
+        alt: James Arthur website 
         path: images/articles/jamesarthur-mobile-screen-1
       - type: image
         alias: phone
+        alt: James Arthur tour dates 
         path: images/articles/jamesarthur-mobile-screen-2
