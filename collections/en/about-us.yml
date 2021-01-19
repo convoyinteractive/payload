@@ -11,7 +11,9 @@ hero:
   title: Agency
   subtitle: About us
   alt: About us
-  path: images/convoy-agentur-hero
+  sizes:
+    small: images/convoy-agentur-hero-mobile
+    large: images/convoy-agentur-hero
 
 body:
   - type: markdown
