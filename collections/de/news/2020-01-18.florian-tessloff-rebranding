@@ -1,0 +1,50 @@
+type: article
+
+name: florian-tessloff-rebranding
+
+theme:
+  text: "#000000"
+  background: "#F8F7F6"
+
+meta:
+  title: Rebranding und Website-Relaunch für den Komponisten Florian Tessloff
+  image: images/articles/florian-tessloff-hero
+  alternates:
+    en: news/2020-01-18/florian-tessloff-rebranding
+
+hero:
+  type: image
+  title: Rebranding und Website-Relaunch für den Komponisten Florian Tessloff
+  subtitle: Rebranding und Website-Relaunch
+  sizes:
+    small: images/articles/florian-tessloff-hero-mobile
+    large: images/articles/florian-tessloff-hero
+
+body:
+  - type: markdown
+    body: |
+      Für den Hamburger Komponisten, Arrangeur und Studio-Musiker Florian Tessloff, haben wir zum Jahresstart ein neues Branding entwickelt und seine Website relauncht. 
+
+      Da Ressourcen und Budget knapp waren, nutzen wir als Basis für die neue Website eine Squarespace-Template. Dabei haben wir das verwendete Theme durch diverse Individualisierungen optimal auf Florians Bedürfnisse angepasst.
+
+      Während das Branding sehr zurückhaltend angelegt ist und im Wesentlichen auf einen charakteristischen Schriftzug in Kombination mit einem hellen Grauton setzt, wird es in sämtlichen Anwendungen um ein abstrakt-illustratives Element ergänzt, das auf die populären Blue Note Albumcover von Reid Miles referenziert.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Florian Tessloff Website - Homepage (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-1
+      - type: image
+        alias: phone
+        alt: Florian Tessloff Website - Referenzen (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-2
+      - type: image
+        alias: phone
+        alt: Florian Tessloff Website - Biografie (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-3
+      - type: image
+        alias: phone
+        alt: Florian Tessloff Website - Portrait (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-4
