@@ -1,0 +1,50 @@
+type: article
+
+name: oyster-studios-landingpage
+
+theme:
+  text: "#000000"
+  background: "#F5F5F5"
+
+meta:
+  title: Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing
+  image: images/articles/oyster-landingpage-hero
+  alternates:
+    de: news/2020-01-19/oyster-studios-landingpage
+
+hero:
+  type: image
+  title: Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing
+  subtitle: Website
+  sizes:
+    small: images/articles/oyster-landingpage-hero-mobile
+    large: images/articles/oyster-landingpage-hero
+
+body:
+  - type: markdown
+    body: |
+      Our client Oyster Studios likes it big. This is proven by photo studios in Hamburg, Lisbon, South Africa or Hong Kong. As a full-service provider, Oyster has produced more than 1.6 million images in the past 15 years. Wow.
+      
+      With the recent brand relaunch, a new website was needed as well. Starting with a compact overview as a one-pager, we developed an online presence that focuses primarily on contrasts: Lemon yellow meets black and white, hand-drawn illustrations meet striking typography.
+      
+      It makes you want more. In any case, we are already looking forward to continue developing this unusual website together with Oyster Studios in the coming months.
+
+ - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Oyster landing page - We are Oyster Studios (mobile view)
+        path: images/articles/oyster-landingpage-mobile-2
+      - type: image
+        alias: phone
+        alt: Oyster landing page - About Us (mobile view))
+        path: images/articles/oyster-landingpage-mobile-1
+      - type: image
+        alias: screen
+        alt: Oyster Landingpage - We are Oyster Studios
+        path: images/oyster-landingpage-desktop-1
+      - type: image
+        alias: screen
+        alt: Oyster Landingpage - What you get is what you need
+        path: images/oyster-landingpage-desktop-2
