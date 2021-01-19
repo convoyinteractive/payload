@@ -5,7 +5,7 @@ items:
 
   - type: collection
     alias: case
-    resource: cases/ooigo
+    resource: cases/architects-finest
 
   - type: collection
     alias: case
@@ -13,19 +13,15 @@ items:
 
   - type: collection
     alias: case
-    resource: cases/eha
-
-  - type: collection
-    alias: case
-    resource: cases/architects-finest
-
-  - type: collection
-    alias: case
-    resource: cases/dreifragezeichen
-
-  - type: collection
-    alias: case
     resource: cases/poggenpohl
+
+  - type: collection
+    alias: case
+    resource: cases/ooigo
+
+  - type: collection
+    alias: case
+    resource: cases/eha
 
   - type: collection
     alias: case
@@ -34,3 +30,7 @@ items:
   - type: collection
     alias: case
     resource: cases/thies-raetzke-images
+
+  - type: collection
+    alias: case
+    resource: cases/dreifragezeichen
