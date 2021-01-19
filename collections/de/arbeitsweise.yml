@@ -11,7 +11,9 @@ hero:
   title: Arbeitsweise
   subtitle: Unser Prozess
   alt: Arbeitsweise
-  path: images/arbeitsweise-hero
+  sizes:
+    small: images/arbeitsweise-hero-mobile
+    large: images/arbeitsweise-hero
 
 body:
   - type: markdown
