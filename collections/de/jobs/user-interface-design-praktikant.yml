@@ -10,7 +10,9 @@ hero:
   title: Praktikant User Interface Design (m/w/d)
   subtitle: Stellenangebot
   alt: Jobs bei Convoy
-  path: images/convoy-hinterhof
+  sizes:
+    small: images/images/convoy-hinterhof-mobile
+    large: images/images/convoy-hinterhof
 
 body:
   - type: markdown
