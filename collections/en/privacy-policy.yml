@@ -10,7 +10,9 @@ hero:
   type: image
   title: Privacy Policy
   alt: Privacy Policy
-  path: images/convoy-hinterhof
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown
