@@ -2,15 +2,17 @@ type: default
 
 meta:
   title: Junior frontend developer (m/f/d)
-  subtitle: Job offer
-
-  hero:
-    type: image
-    alt: Jobs at Convoy
-    path: images/convoy-hinterhof
-
+  image: images/convoy-hinterhof
   alternates:
-    en: jobs/frontend-developer-junior
+    de: jobs/frontend-developer-junior
+
+hero:
+  type: image
+  title: Junior frontend developer (m/f/d)
+  subtitle: Job offer
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown

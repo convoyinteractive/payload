@@ -10,7 +10,9 @@ hero:
   type: image
   title: Legal Notice
   alt: Legal
-  path: images/convoy-hinterhof
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown

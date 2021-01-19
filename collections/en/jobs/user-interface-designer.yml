@@ -2,15 +2,17 @@ type: default
 
 meta:
   title: User interface designer (m/f/d)
-  subtitle: Job offer
-
-  hero:
-    type: image
-    alt: Jobs bei Convoy
-    path: images/convoy-hinterhof
-
+  image: images/convoy-hinterhof
   alternates:
-    en: jobs/user-interface-designer
+    de: jobs/user-interface-designer
+
+hero:
+  type: image
+  title: User interface designer (m/f/d)
+  subtitle: Job offer
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown

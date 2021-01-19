@@ -10,7 +10,9 @@ hero:
   type: image
   title: Impressum
   alt: Impressum
-  path: images/convoy-hinterhof
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown

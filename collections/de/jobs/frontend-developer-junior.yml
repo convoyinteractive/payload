@@ -10,8 +10,9 @@ hero:
   type: image
   title: Junior Frontend Developer (m/w/d)
   subtitle: Stellenangebot
-  alt: Jobs bei Convoy
-  path: images/convoy-hinterhof
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown

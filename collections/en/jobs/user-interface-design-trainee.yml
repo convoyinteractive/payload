@@ -1,16 +1,18 @@
 type: default
 
 meta:
-  title: Trainee  in user interface design (m/f/d)
-  subtitle: Job offer
-
-  hero:
-    type: image
-    alt: Jobs at Convoy
-    path: images/convoy-hinterhof
-
+  title: Trainee in user interface design (m/f/d)
+  image: images/convoy-hinterhof
   alternates:
     de: jobs/user-interface-design-praktikant
+
+hero:
+  type: image
+  title: Trainee in user interface design (m/f/d)
+  subtitle: Job offer
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
 
 body:
   - type: markdown
