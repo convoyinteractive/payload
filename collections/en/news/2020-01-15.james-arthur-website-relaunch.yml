@@ -32,9 +32,9 @@ body:
     items:
       - type: image
         alias: phone
-        alt: James Arthur website 
+        alt: James Arthur website
         path: images/articles/jamesarthur-mobile-screen-1
       - type: image
         alias: phone
-        alt: James Arthur tour dates 
+        alt: James Arthur tour dates
         path: images/articles/jamesarthur-mobile-screen-2

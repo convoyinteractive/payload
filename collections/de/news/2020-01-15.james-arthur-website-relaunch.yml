@@ -20,22 +20,21 @@ hero:
     small: images/articles/jamesarthur-hero-mobile
     large: images/articles/jamesarthur-hero
 
-
 body:
   - type: markdown
     body: |
       Für unseren Kunden Sony Music Entertainment Germany haben wir im Frühjahr 2020 die Website des britischen Künstlers James Arthur relauncht. 
 
-      James und sein Management wünschten sich eine einfache Seite als zentralen Ort für seine Releases, Videos und Ankündigungen von Live-Shows. Das puristische Design orientiert sich dabei am Artwork von „You“, dem aktuellen Album von James.  
+      James und sein Management wünschten sich eine einfache Seite als zentralen Ort für seine Releases, Videos und Ankündigungen von Live-Shows. Das puristische Design orientiert sich dabei am Artwork von „You“, dem aktuellen Album von James.
 
   - type: gallery
     alias: group
     items:
       - type: image
         alias: phone
-        alt: James Arthur Website 
+        alt: James Arthur Website
         path: images/articles/jamesarthur-mobile-screen-1
       - type: image
         alias: phone
-        alt: James Arthur Tourplan 
+        alt: James Arthur Tourplan
         path: images/articles/jamesarthur-mobile-screen-2
