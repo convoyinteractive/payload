@@ -10,7 +10,7 @@ meta:
   title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing"
   image: images/articles/oyster-landingpage-hero
   alternates:
-    de: news/2020-01-19/oyster-studios-landingpage
+    de: news/2020-08-01/oyster-studios-landingpage
 
 hero:
   type: image
@@ -43,8 +43,8 @@ body:
       - type: image
         alias: screen
         alt: Oyster Landingpage - We are Oyster Studios
-        path: images/oyster-landingpage-desktop-1
+        path: images/articles/oyster-landingpage-desktop-1
       - type: image
         alias: screen
         alt: Oyster Landingpage - What you get is what you need
-        path: images/oyster-landingpage-desktop-2
+        path: images/articles/oyster-landingpage-desktop-2
