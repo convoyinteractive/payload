@@ -1,0 +1,50 @@
+type: article
+
+name: florian-tessloff-rebranding
+
+theme:
+  text: "#000000"
+  background: "#F8F7F6"
+
+meta:
+  title: Rebranding and website relaunch for composer Florian Tessloff
+  image: images/articles/florian-tessloff-hero
+  alternates:
+    de: news/2020-01-18/florian-tessloff-rebranding
+
+hero:
+  type: image
+  title: Rebranding and website relaunch for composer Florian Tessloff
+  subtitle: Rebranding and website relaunch
+  sizes:
+    small: images/articles/florian-tessloff-hero-mobile
+    large: images/articles/florian-tessloff-hero
+
+body:
+  - type: markdown
+    body: |
+      For the Hamburg based composer, arranger and studio musician Florian Tessloff, we developed a new branding and relaunched his website at the start of the year. 
+
+      Since resources and budget were tight, we used a Squarespace template as the basis for the new website. In doing so, we adapted the theme used optimally to Florian's needs through various individualizations.
+
+      While the branding is very discreet and mainly uses a characteristic lettering in combination with a light gray tone, it is complemented in all applications by an abstract-illustrative element that references the popular Blue Note album covers by Reid Miles.
+
+  - type: gallery
+    alias: group
+    items:
+      - type: image
+        alias: phone
+        alt: Florian Tessloff website - home page (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-1
+      - type: image
+        alias: phone
+        alt: Florian Tessloff website - references (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-2
+      - type: image
+        alias: phone
+        alt: Florian Tessloff website - biography (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-3
+      - type: image
+        alias: phone
+        alt: Florian Tessloff website - portrait (mobile view)
+        path: images/articles/florian-tessloff-mobile-screen-4
