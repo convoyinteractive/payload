@@ -50,13 +50,17 @@ body:
   - type: gallery
     items:
       - type: image
-        path: videos/convoy-jobs
+        poster: images/poster/convoy-jobs-video-1
+        path: videos/convoy-jobs-video-1
       - type: image
-        alt: Casual Dresscode.
+        alt: Casual dresscode.
         path: images/convoy-jobs-entwicklung
       - type: image
         alt: Teamwork
         path: images/convoy-jobs-besprechung
+      - type: image
+        poster: images/poster/convoy-jobs-video-2
+        path: videos/convoy-jobs-video-2
       - type: image
         alt: A great collection of design books.
         path: images/convoy-jobs-inspiration
@@ -67,8 +71,14 @@ body:
         alt: Moodboard
         path: images/convoy-jobs-praesentation
       - type: image
-        alt: St. Pauli - This is where we work.
+        poster: images/poster/convoy-jobs-video-3
+        path: videos/convoy-jobs-video-3
+      - type: image
+        alt: St. Pauli - This is where we work
         path: images/convoy-jobs-stpauli
+      - type: image
+        poster: images/poster/convoy-jobs-video-4
+        path: videos/convoy-jobs-video-4
 
   - type: definition
     title: We are currently looking for a
