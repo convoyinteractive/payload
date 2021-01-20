@@ -13,12 +13,10 @@ meta:
     de: news/2021-01-01/florian-tessloff-rebranding
 
 hero:
-  type: image
+  type: lottie
   title: Rebranding and website relaunch for composer Florian Tessloff
   subtitle: Rebranding and website relaunch
-  sizes:
-    small: images/articles/florian-tessloff-hero-mobile
-    large: images/articles/florian-tessloff-hero
+  path: assets/florian-tessloff-logo.json
 
 body:
   - type: markdown
