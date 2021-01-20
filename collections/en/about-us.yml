@@ -34,6 +34,7 @@ body:
 
   - type: image
     alt: About us
+    poster: images/poster/convoy-agentur
     path: videos/convoy-agentur
 
   - type: markdown
