@@ -15,34 +15,31 @@ hero:
 body:
   - type: markdown
     body: |
-      Every user experience is also a brand experience. We bring your brand’s DNA to life – consistently across all touchpoints, on every platform and in each medium. So that you stand out and remain etched on your customers’ memories.
+      Every user experience is also a brand experience. We bring your brand’s DNA to life – consistently across all touchpoints, on every platform and in each medium. For you to stand out and are remembered by your customers.
+
   - type: definition
     title: Our services in detail
     items:
       - type: markdown
         term: Digital Branding
         body: |
-          In addition to implementing various online marketing measures we also support you in sharpening your branding. By analysing and developing existing design specifications or adapting styleguides or guidelines for the use in digital channels, we set the foundation for both an appealing and consistent brand presence.
+          In addition to implementing various online marketing measures, we also support you in improving your branding. By analysing and developing existing design specifications or adapting style guides or guidelines for the use in digital channels, we set the foundation for an equally appealing and consistent brand presence.
       - type: markdown
-        term: Landungpages- + Microsites
+        term: Campaigns + microsites
         body: |
-          We develop concepts that stage products and messages in line with the branding and at the same time generate traffic and leads. But what’s even more important: we make brands become a digital experience for your target group. Whether campaign website, microsite or landing page – the interaction isn’t just fun, but also leaves a lasting favourable impression.
+          We develop concepts that stage products and messages in line with the branding and generate traffic and leads at the same time. But even more important, we make your brand become a digital experience for your target group. Whether campaign website, microsite or landing page – the moments of interaction are not only fun, but leave a lasting impression.
       - type: markdown
-        term: Display Advertising
+        term: Display advertising
         body: |
-          …
+          You’re planning an ad campaign in the Google Display Network or on social media platforms? We’ll not only help you with planning and controlling, but with our extensive knowledge also assist you in creating, designing and optimising all required assets – for you to achieve your goals and manage your budget in the best possible way.
       - type: markdown
-        term: Newsletter + e-mail campaigns
+        term: E-mail marketing
         body: |
-          In the field of e-mail marketing, we support you with the concept and implementation of mailings and campaigns. In addition to the design, this usually includes templating. Depending on your requirements, we also provide support in conceiving and creating contents as well as in statistical campaign evaluations. For processing and dispatch, we use service providers such as MailChimp or CleverReach.
-      - type: markdown
-        term: Social media campaigns
-        body: |
-          …
+          In the field of e-mail marketing, we can help you with the concept and implementation of mailings and campaigns. In addition to the design, this usually includes the templating. Depending on your requirements, we also support you in the conception and creation of content as well as in campaign evaluation. For processing and dispatch, we use service providers such as MailChimp or CleverReach.
       - type: markdown
         term: Content creation
         body: |
-          …
+          If desired, we are available as an external editorial office for content production. For example, we can take over the research of topics and the creation of texts for websites, mailings, campaigns, blogs or online magazines. In addition, we also take care of topics such as image research, art buying, layout or photo and video production.
 
 relations:
   - type: collection
