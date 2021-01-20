@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: Services
-  image:
+  image: images/services/services
   alternates:
     de: kompetenzen
 

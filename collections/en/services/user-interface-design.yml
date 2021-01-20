@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: UI Design
-  image:
+  image: images/services/ui-design
   alternates:
     de: kompetenzen/user-interface-design
 

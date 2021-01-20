@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: Online Marketing
-  image:
+  image: images/services/online-marketing
   alternates:
     de: kompetenzen/online-marketing
 

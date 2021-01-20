@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: Web + App Development
-  image:
+  image: images/services/web-app-development
   alternates:
     de: kompetenzen/web-app-development
 

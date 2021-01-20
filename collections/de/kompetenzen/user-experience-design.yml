@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: User Experience Design
-  image:
+  image: images/services/ux-design
   alternates:
     en: services/user-experience-design
 
