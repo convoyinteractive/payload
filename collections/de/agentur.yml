@@ -55,23 +55,23 @@ body:
         path: images/convoy-agentur-eingang
 
       - type: image
-        alt: Senior Designerin - Melanie
+        alt: Senior Designer Melanie
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Geschäftsführer - Marc und Felix
+        alt: Managing Partner Marc und Felix
         path: images/convoy-agentur-marc-felix
 
       - type: image
-        alt: Senior Software Developer - Tobias
+        alt: Senior Software Developer Tobias
         path: images/convoy-agentur-tobias
 
       - type: image
-        alt: Senior Designer - Mary
+        alt: Senior Designer Mary
         path: images/convoy-agentur-mary
 
       - type: image
-        alt: Senior Designer - Malwin
+        alt: Senior Designer Malwin
         path: images/convoy-agentur-malwin
 
       - type: image
