@@ -95,7 +95,9 @@ body:
     alpha: true
     alt: Individually designed icons
     title: Individually designed icons
-    path: images/cases/ooigo-icons-interests
+    sizes:
+      small: images/cases/ooigo-icons-interests-mobile
+      large: images/cases/ooigo-icons-interests
 
   - type: quote
     body: Working with Convoy on every single project is highly professional, rewarding and the results more than convincing. We could not wish for a better partner to work with.

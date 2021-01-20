@@ -93,7 +93,9 @@ body:
     alpha: true
     alt: Individuell gestaltete Interessen-Icons
     title: Individuell gestaltete Interessen-Icons
-    path: images/cases/ooigo-icons-interests
+    sizes:
+      small: images/cases/ooigo-icons-interests-mobile
+      large: images/cases/ooigo-icons-interests
 
   - type: quote
     body: Die Zusammenarbeit mit Convoy ist bei jedem einzelnen Projekt extrem professionell, angenehm und die Ergebnisse mehr als überzeugend. Wir könnten uns keinen besseren Partner an unserer Seite wünschen.
