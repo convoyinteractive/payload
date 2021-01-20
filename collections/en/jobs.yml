@@ -53,7 +53,7 @@ body:
         poster: images/poster/convoy-jobs-video-1
         path: videos/convoy-jobs-video-1
       - type: image
-        alt: Casual dresscode.
+        alt: Casual dresscode
         path: images/convoy-jobs-entwicklung
       - type: image
         alt: Teamwork
