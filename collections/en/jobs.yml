@@ -49,7 +49,7 @@ body:
 
   - type: gallery
     items:
-    - type: image
+      - type: image
         poster: images/poster/convoy-jobs-video-1
         path: videos/convoy-jobs-video-1
       - type: image
