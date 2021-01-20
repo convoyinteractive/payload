@@ -51,41 +51,36 @@ body:
   - type: gallery
     items:
       - type: image
+        alt: Entrance to our office
+        path: images/convoy-agentur-eingang
+
+      - type: image
         alt: Our senior designer Melanie
         path: images/convoy-agentur-melanie
 
       - type: image
-        alt: Webdevelopment at Convoy
-        path: images/convoy-agentur-macbook
+        alt: Managing partner Marc and Felix
+        path: images/convoy-agentur-marc-felix
 
       - type: image
-        path: videos/convoy-agentur-slider-illustrator
+        alt: Senior software developer - Tobias
+        path: images/convoy-agentur-tobias
+
+      - type: image
+        alt: Senior Designer - Mary
+        path: images/convoy-agentur-mary
+
+      - type: image
+        alt: Senior designer - Malwin
+        path: images/convoy-agentur-malwin
 
       - type: image
         alt: Fun at Work
         path: images/convoy-agentur-humor
 
       - type: image
-        path: videos/convoy-agentur-slider-code
-
-      - type: image
-        alt: Senior software developer, Tobias
-        path: images/convoy-agentur-tobias
-
-      - type: image
-        alt: Managing directors Marc and Felix
-        path: images/convoy-agentur-marc-felix
-
-      - type: image
         alt: Convoys Figure Collection
         path: images/convoy-agentur-figuren
-
-      - type: image
-        alt: Entrance to our office
-        path: images/convoy-agentur-eingang
-
-      - type: image
-        path: videos/convoy-agentur-slider-decor
 
   - type: list
     title: We can help you if …
