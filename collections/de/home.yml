@@ -17,6 +17,7 @@ body:
 
   - type: video
     alias: showreel
+    poster: images/poster/convoy-showreel
     preview: videos/convoy-showreel_preview
     path: videos/convoy-showreel_720
 
@@ -40,11 +41,20 @@ body:
         alias: case
         resource: referenzen/orendt-studios
       - type: collection
+        alias: article
+        resource: news/oyster-studios-landingpage
+      - type: collection
+        alias: article
+        resource: news/florian-tessloff-rebranding
+      - type: collection
         alias: case
         resource: referenzen/architects-finest
       - type: collection
         alias: case
         resource: referenzen/thies-raetzke-images
+      - type: collection
+        alias: article
+        resource: news/james-arthur-website-relaunch
       - type: collection
         alias: case
         resource: referenzen/poggenpohl

@@ -17,6 +17,7 @@ body:
   - type: video
     alias: showreel
     preview: videos/convoy-showreel_preview
+    poster: images/poster/convoy-showreel
     path: videos/convoy-showreel_720
 
   - type: quote
@@ -31,6 +32,31 @@ body:
       Together with our clients, we develop individual solutions that help them to unlock digital potential and drive growth.
 
       [More about us](/en/about-us) {.cta}
+
+  - type: list
+    alias: feed
+    items:
+      - type: collection
+        alias: case
+        resource: cases/orendt-studios
+      - type: collection
+        alias: article
+        resource: news/oyster-studios-landingpage
+      - type: collection
+        alias: article
+        resource: news/florian-tessloff-rebranding
+      - type: collection
+        alias: case
+        resource: cases/architects-finest
+      - type: collection
+        alias: case
+        resource: cases/thies-raetzke-images
+      - type: collection
+        alias: article
+        resource: news/james-arthur-website-relaunch
+      - type: collection
+        alias: case
+        resource: cases/poggenpohl
 
   - type: markdown
     body: |
