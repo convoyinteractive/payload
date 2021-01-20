@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: Strategische Beratung
-  image:
+  image: images/services/strategy
   alternates:
     en: services/strategic-consulting
 
