@@ -79,7 +79,7 @@ body:
       - type: image
         poster: images/poster/convoy-jobs-video-4
         path: videos/convoy-jobs-video-4
-    
+
   - type: definition
     title: We are currently looking for a
     items:
