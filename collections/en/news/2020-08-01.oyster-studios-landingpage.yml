@@ -8,7 +8,7 @@ theme:
 
 meta:
   title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing"
-  image: images/articles/oyster-landingpage-hero
+  image: images/articles/oyster-teaser
   alternates:
     de: news/2020-08-01/oyster-studios-landingpage
 
@@ -28,6 +28,10 @@ body:
       With the recent brand relaunch, a new website was needed as well. Starting with a compact overview as a one-pager, we developed an online presence that focuses primarily on contrasts: Lemon yellow meets black and white, hand-drawn illustrations meet striking typography.
 
       It makes you want more. In any case, we are already looking forward to continue developing this unusual website together with Oyster Studios in the coming months.
+
+  - type: url
+    value: //oyster-studios.com/
+    label: Visit the Oyster Studios website
 
   - type: gallery
     alias: group
