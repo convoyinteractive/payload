@@ -11,7 +11,7 @@
 
 @task('live:deploy', ['on' => 'production', 'confirm' => true])
     cd {{ $_ENV['PRODUCTION_STORAGE_DIR'] }}/content
-    git pull origin master
+    git pull origin production
 @endtask
 
 @task('stage:deploy', ['on' => 'staging', 'confirm' => false])
