@@ -39,13 +39,13 @@ body:
 relations:
   - type: collection
     alias: case
-    resource: cases/architects-finest
-  - type: collection
-    alias: case
-    resource: cases/ooigo
+    resource: cases/eha
   - type: collection
     alias: case
     resource: cases/teamcast
+  - type: collection
+    alias: case
+    resource: cases/ooigo
   - type: component
     alias: contact
     resource: contact/new-business

@@ -39,10 +39,13 @@ body:
 relations:
   - type: collection
     alias: case
-    resource: cases/teamcast
+    resource: cases/architects-finest
   - type: collection
     alias: case
-    resource: cases/golfhouse
+    resource: cases/orendt-studios
+  - type: collection
+    alias: case
+    resource: cases/poggenpohl
   - type: component
     alias: contact
     resource: contact/new-business

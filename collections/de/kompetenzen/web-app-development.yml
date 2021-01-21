@@ -44,13 +44,13 @@ body:
 relations:
   - type: collection
     alias: case
+    resource: referenzen/teamcast
+  - type: collection
+    alias: case
     resource: referenzen/ooigo
   - type: collection
     alias: case
     resource: referenzen/architects-finest
-  - type: collection
-    alias: case
-    resource: referenzen/teamcast
   - type: component
     alias: contact
     resource: contact/app-development
