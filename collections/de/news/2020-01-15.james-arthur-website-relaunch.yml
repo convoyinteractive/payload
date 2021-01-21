@@ -7,14 +7,14 @@ theme:
   background: "#FCEEDB"
 
 meta:
-  title: Website-Relaunch für den britischen Sänger und X-Factor-Winner James Arthur
+  title: Website-Relaunch für James Arthur
   image: images/articles/jamesarthur-teaser
   alternates:
     en: news/2020-01-15/james-arthur-website-relaunch
 
 hero:
   type: image
-  title: Website-Relaunch für den britischen Sänger und X-Factor-Winner James Arthur
+  title: Website-Relaunch für James Arthur
   subtitle: Website
   sizes:
     small: images/articles/jamesarthur-hero-mobile
