@@ -31,7 +31,7 @@ body:
 
   - type: url
     value: //oyster-studios.com/
-    label: Zur Oyster Studios Website
+    label: Visit the Oyster Studios website
 
   - type: gallery
     alias: group
