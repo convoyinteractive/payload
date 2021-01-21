@@ -44,13 +44,13 @@ body:
 relations:
   - type: collection
     alias: case
-    resource: referenzen/eha
+    resource: cases/eha
   - type: collection
     alias: case
-    resource: referenzen/ooigo
+    resource: cases/ooigo
   - type: collection
     alias: case
-    resource: referenzen/architects-finest
+    resource: cases/architects-finest
   - type: component
     alias: contact
     resource: contact/new-business
