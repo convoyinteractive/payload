@@ -27,6 +27,10 @@ body:
 
       James and his management wanted a simple site as a central spot for his releases, videos or live shows. The minimalist design is based on the album artwork of "You", the current release by James.
 
+  - type: url
+    value: //www.jamesarthurofficial.com
+    label: To the website of James Arthur
+
   - type: gallery
     alias: group
     items:
