@@ -2,7 +2,7 @@ type: legal
 
 meta:
   title: Privacy Policy
-  image: images/convoy-hinterhof
+  image: images/privacy-hero
   alternates:
     de: datenschutz
 
@@ -11,8 +11,8 @@ hero:
   title: Privacy Policy
   alt: Privacy Policy
   sizes:
-    small: images/convoy-hinterhof-mobile
-    large: images/convoy-hinterhof
+    small: images/privacy-hero-mobile
+    large: images/privacy-hero
 
 body:
   - type: markdown
