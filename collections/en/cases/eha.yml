@@ -103,7 +103,7 @@ body:
       For internal EHA use, we created a pattern library that allows employees to access guidelines and assets at any time. Since all elements of the website’s frontend feed directly from the library, any changes made there automatically appear on the website.
 
   - type: svg
-    caption: The Merriweather serif font conveys straight-forwardness and professionalism, while the Geogrotesque is more technical and constructed. The combination of those two fonts creates a distinct blend, showcasing EHA as a modern B2B brand.
+    caption: The Merriweather serif font conveys straight-forwardness and professionalism, while the Geogrotesque is more technical and constructed.
     path: assets/eha-corporate-design.svg
 
   - type: image
