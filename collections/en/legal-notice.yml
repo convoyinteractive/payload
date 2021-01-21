@@ -2,7 +2,7 @@ type: default
 
 meta:
   title: Legal Notice
-  image: images/convoy-hinterhof
+  image: images/legal-hero
   alternates:
     de: impressum
 
@@ -11,8 +11,8 @@ hero:
   title: Legal Notice
   alt: Legal
   sizes:
-    small: images/convoy-hinterhof-mobile
-    large: images/convoy-hinterhof
+    small: images/legal-hero-mobile
+    large: images/legal-hero
 
 body:
   - type: markdown
