@@ -27,6 +27,10 @@ body:
 
       James und sein Management wünschten sich eine einfache Seite als zentralen Ort für seine Releases, Videos und Ankündigungen von Live-Shows. Das puristische Design orientiert sich dabei am Artwork von „You“, dem aktuellen Album von James.
 
+  - type: url
+    value: //www.jamesarthurofficial.com
+    label: Zur Website von James Arthur
+
   - type: gallery
     alias: group
     items:
