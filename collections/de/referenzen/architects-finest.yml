@@ -127,7 +127,9 @@ body:
   - type: image
     alpha: true
     alt: Content für verschiedene Social-Media-Kanäle
-    path: images/cases/architects-finest-social-media-logos
+    sizes:
+      small: images/cases/architects-finest-social-media-logos-mobile
+      large: images/cases/architects-finest-social-media-logos
 
   - type: image
     alt: Architects’ Finest Instagram Feed
