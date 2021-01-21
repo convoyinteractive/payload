@@ -43,11 +43,3 @@ items:
       type: lottie
       mode: hover
       path: assets/online-marketing_small.json
-
-  - type: markdown
-    title: Digital Products
-    body: Wir realisieren Anwendungen, die Ihre Zielgruppe nachhaltig begeistern.
-    addon:
-      type: lottie
-      mode: hover
-      path: assets/product-development_small.json
