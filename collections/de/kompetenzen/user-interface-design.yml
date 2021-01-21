@@ -40,13 +40,13 @@ body:
 relations:
   - type: collection
     alias: case
-    resource: referenzen/architects-finest
-  - type: collection
-    alias: case
-    resource: referenzen/ooigo
+    resource: referenzen/eha
   - type: collection
     alias: case
     resource: referenzen/teamcast
+  - type: collection
+    alias: case
+    resource: referenzen/ooigo
   - type: component
     alias: contact
     resource: contact/new-business
