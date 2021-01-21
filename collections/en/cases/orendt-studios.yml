@@ -146,18 +146,13 @@ body:
 
   - type: image
     alias: screen
-    alt: Orendt Studios page entry Juvia case
-    path: videos/cases/orendt-3d-animation-juvia
+    alt: Orendt Studios page entry s.Oliver case
+    path: videos/cases/orendt-3d-animation-s-oliver
 
   - type: image
     alias: screen
     alt: Orendt Studios page entry Boger case
     path: videos/cases/orendt-3d-animation-bogner
-
-  - type: image
-    alias: screen
-    alt: Orendt Studios page entry s.Oliver case
-    path: videos/cases/orendt-3d-animation-s-oliver
 
   - type: image
     alias: screen
