@@ -105,7 +105,7 @@ body:
       Für den EHA-internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
 
   - type: svg
-    caption: Die Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch anmutet. Durch die Kombination beider Schriften entsteht ein eigenständiger Mix, der den modernen B2B-Charakter von EHA widerspiegelt.
+    caption: Die Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch anmutet.
     path: assets/eha-corporate-design.svg
 
   - type: image
