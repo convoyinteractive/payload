@@ -105,6 +105,7 @@ body:
     author:
       name: Tobias
       title: Senior Developer
+      image: images/team/tobias
 
 relations:
   - type: collection
