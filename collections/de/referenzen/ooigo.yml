@@ -155,9 +155,10 @@ body:
     caption: Auch bei diesem Projekt sorgte die Dokumentation sämtlicher Assets in einer Pattern Library für größtmögliche Konsistenz bei der Design-Implementierung.
     path: images/cases/ooigo-pattern-libary
 
-  - type: lottie
-    mode: onscroll
-    path: assets/ooigo-corona.json
+  - type: image
+    alpha: true
+    alt: Ooigo schützt sich vor Corona
+    path: images/cases/ooigo-corona
 
   - type: gallery
     title: Ooigo Merchandise
