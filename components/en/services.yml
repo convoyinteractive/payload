@@ -44,10 +44,3 @@ items:
       mode: hover
       path: assets/online-marketing_small.json
 
-  - type: markdown
-    title: Digital Products
-    body: We implement applications that appeal to your target group for the long haul.
-    addon:
-      type: lottie
-      mode: hover
-      path: assets/product-development_small.json
