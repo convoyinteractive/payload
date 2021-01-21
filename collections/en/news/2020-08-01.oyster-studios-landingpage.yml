@@ -7,15 +7,15 @@ theme:
   background: "#F5F5F5"
 
 meta:
-  title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing"
+  title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios"
   image: images/articles/oyster-teaser
   alternates:
     de: news/2020-08-01/oyster-studios-landingpage
 
 hero:
   type: image
-  title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios in online marketing"
-  subtitle: Website
+  title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios"
+  subtitle: Landing page
   sizes:
     small: images/articles/oyster-landingpage-hero-mobile
     large: images/articles/oyster-landingpage-hero
