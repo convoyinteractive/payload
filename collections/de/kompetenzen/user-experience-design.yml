@@ -40,6 +40,9 @@ body:
 relations:
   - type: collection
     alias: case
+    resource: referenzen/ooigo
+  - type: collection
+    alias: case
     resource: referenzen/teamcast
   - type: collection
     alias: case
