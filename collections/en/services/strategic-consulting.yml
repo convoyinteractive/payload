@@ -37,12 +37,15 @@ body:
           With the successful rollout of a product or service, the first milestone is usually already achieved. For the measure to be successful long-term, though, we also support you beyond the launch – for example with quality management, continuous maintenance, regular analyses, reports or technical support.
 
 relations:
+ - type: collection
+    alias: case
+    resource: cases/architects-finest
   - type: collection
     alias: case
-    resource: cases/teamcast
+    resource: cases/orendt-studios
   - type: collection
     alias: case
-    resource: cases/golfhouse
+    resource: cases/poggenpohl
   - type: component
     alias: contact
     resource: contact/new-business
