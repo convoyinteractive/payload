@@ -7,15 +7,15 @@ theme:
   background: "#F8F7F6"
 
 meta:
-  title: Rebranding und Website-Relaunch für den Komponisten Florian Tessloff
+  title: Rebranding und Website-Relaunch für Florian Tessloff
   image: images/articles/florian-tessloff-teaser
   alternates:
     en: news/2021-01-01/florian-tessloff-rebranding
 
 hero:
   type: lottie
-  title: Rebranding und Website-Relaunch für den Komponisten Florian Tessloff
-  subtitle: Rebranding und Website-Relaunch
+  title: Rebranding und Website-Relaunch für Florian Tessloff
+  subtitle: Website + Rebranding
   path: assets/florian-tessloff-logo.json
 
 body:
