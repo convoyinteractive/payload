@@ -21,7 +21,7 @@ body:
 
   - type: component
     alias: portfolio
-    title: Unsere Leistungen im Überblick
+    title: Unsere Leistungen
     resource: services
 
   - type: component
