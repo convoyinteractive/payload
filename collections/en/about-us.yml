@@ -3,6 +3,7 @@ type: default
 meta:
   title: Agency
   image: images/convoy-agentur-hero
+  description: Convoy is a digital agency based in Hamburg. We believe that only the combination of well-conceived design and technical perfection lead to compelling presences and an inspired user experience.
   alternates:
     de: agentur
 
