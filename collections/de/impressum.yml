@@ -31,11 +31,11 @@ body:
     title: Handelsregistereintrag
     body: |
       Amtsgericht Hamburg
-	    HRB 160187
-      
+      HRB 160187
+
       Vertretungsberechtigte Geschäftsführer:
-	    Marc Antosch
-	    Felix Schultze
+      Marc Antosch
+      Felix Schultze
 
   - type: markdown
     title: Umsatzsteuer-ID
