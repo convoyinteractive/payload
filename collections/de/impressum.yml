@@ -22,23 +22,32 @@ body:
       Budapester Strasse 47
       20359 Hamburg
 
-  - type: markdown
-    title: Vertreten durch
-    body: |
-      Marc Antosch
-      Felix Schultze
+      Telefon: 040 38 66 19 19 0
+      E-Mail: [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
+      
+      (www.convoyinteractive.com)
 
   - type: markdown
-    title: Kontakt
+    title: Handelsregistereintrag
     body: |
-      Telefon: 040 38 66 19 19 0
-      Telefax: 040 38 66 19 19 9
-      E-Mail: [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
+      Amtsgericht Hamburg
+	    HRB 160187
+      
+      Vertretungsberechtigte Geschäftsführer:
+	    Marc Antosch
+	    Felix Schultze
 
   - type: markdown
     title: Umsatzsteuer-ID
     body: |
-      Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE273620605
+      Umsatzsteuer-Identifikationsnummer nach § 27a UStG:
+      DE273620605
+
+  - type: markdown
+    title: Credits
+    body: |
+      [Thies Rätze Images](https://raetzke.com/de) (Photographie)
+      [Martin Niemeyer](https://www.alsploetzlich.de/) (Texte)
 
   - type: markdown
     title: Streitschlichtung
@@ -59,9 +68,3 @@ body:
     title: Urheberrecht
     body: |
       Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
-  - type: markdown
-    title: Credits
-    body: |
-      [Thies Rätze Images](https://raetzke.com/de) (Photographie)
-      [Martin Niemeyer](https://www.alsploetzlich.de/) (Texte)
