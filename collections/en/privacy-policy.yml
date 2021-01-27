@@ -173,7 +173,6 @@ body:
       #### Demographic parameters provided by Google Analytics
       This website uses the function “demographic parameters” provided by Google Analytics. It makes it possible to generate reports providing information on the age, gender and interests of website visitors. The sources of this information are interest-related advertising by Google as well as visitor data obtained from third party providers. This data cannot be allocated to a specific individual. You have the option to deactivate this function at any time by making pertinent settings changes for advertising in your Google account or you can generally prohibit the recording of your data by Google Analytics as explained in section “Objection to the recording of data.”
 
-
   - type: markdown
     body: |
       ## Newsletter
