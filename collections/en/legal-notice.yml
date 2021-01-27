@@ -16,29 +16,38 @@ hero:
 
 body:
   - type: markdown
-    title: Information in accordance with § 5 TMG
+    title: Information according to § 5 TM
     body: |
       Convoy Interactive GmbH
       Budapester Strasse 47
       20359 Hamburg
 
+      +49 40 3866 1919 0
+      [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
+
+      [www.convoyinteractive.com](https://www.convoyinteractive.com)
+
   - type: markdown
-    title: Represented by
+    title: Company registration
     body: |
+      Hamburg Local Court
+      HRB 160187
+
+      Authorized managing directors:
       Marc Antosch
       Felix Schultze
 
   - type: markdown
-    title: Contakt
+    title: Tax-ID
     body: |
-      Phone: 040 38 66 19 19 0
-      Fax: 040 38 66 19 19 9
-      Email: [info@convoyinteractive.com](mailto:info@convoyinteractive.com)
+      Sales tax identification number according to § 27a UStG:
+      DE327585713
 
   - type: markdown
-    title: VAT
+    title: Credits
     body: |
-      Sales tax identification number according to § 27 a of the Sales Tax Law: DE273620605
+      [Thies Rätze Images](https://raetzke.com/de) (Photographie)
+      [Martin Niemeyer](https://www.alsploetzlich.de/) (Texte)
 
   - type: markdown
     title: Dispute Resolution
@@ -59,9 +68,3 @@ body:
     title: Copyright
     body: |
       Contents and compilations published on these websites by the providers are subject to German copyright laws. Reproduction, editing, distribution as well as the use of any kind outside the scope of the copyright law require a written permission of the author or originator. Downloads and copies of these websites are permitted for private use only. The commercial use of our contents without permission of the originator is prohibited. Copyright laws of third parties are respected as long as the contents on these websites do not originate from the provider. Contributions of third parties on this site are indicated as such. However, if you notice any violations of copyright law, please inform us. Such contents will be removed immediately.
-
-  - type: markdown
-    title: Credits
-    body: |
-      [Thies Rätze Images](https://raetzke.com/de) (Photography)
-      [Martin Niemeyer](https://www.alsploetzlich.de/) (Copy)
