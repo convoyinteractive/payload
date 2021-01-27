@@ -1,4 +1,4 @@
-type: default
+type: legal
 
 meta:
   title: Datenschutzerklärung
@@ -17,7 +17,7 @@ hero:
 body:
   - type: markdown
     body: |
-      ## 1. Datenschutz auf einen Blick
+      ## Datenschutz auf einen Blick
 
       ### Allgemeine Hinweise
       Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
@@ -47,7 +47,7 @@ body:
 
   - type: markdown
     body: |
-      ## 2. Allgemeine Hinweise und Pflichtinformationen
+      ## Allgemeine Hinweise und Pflichtinformationen
 
       ### Datenschutz
       Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
@@ -108,7 +108,7 @@ body:
 
   - type: markdown
     body: |
-      ## 3. Datenerfassung auf unserer Website
+      ## Datenerfassung auf unserer Website
 
       ### Cookies
       Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.
@@ -151,7 +151,7 @@ body:
 
   - type: markdown
     body: |
-      ## 4. Analyse-Tools und Werbung
+      ## Analyse-Tools und Werbung
 
       ### Google Analytics
       Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
@@ -177,34 +177,9 @@ body:
       #### Demografische Merkmale bei Google Analytics
       Diese Website nutzt die Funktion “demografische Merkmale” von Google Analytics. Dadurch können Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten können keiner bestimmten Person zugeordnet werden. Sie können diese Funktion jederzeit über die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten durch Google Analytics wie im Punkt “Widerspruch gegen Datenerfassung” dargestellt generell untersagen.
 
-      ### Hotjar
-      Diese Website nutzt Hotjar. Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (Website: (hotjar.com)(https://www.hotjar.com) ).
-
-      Hotjar ist ein Werkzeug zur Analyse Ihres Nutzerverhaltens auf unserer Website. Mit Hotjar können wir u. a. Ihre Maus- und Scrollbewegungen und Klicks aufzeichnen. Hotjar kann dabei auch feststellen, wie lange Sie mit dem Mauszeiger auf einer bestimmten Stelle verblieben sind. Aus diesen Informationen erstellt Hotjar sogenannte Heatmaps, mit denen sich feststellen lässt, welche Websitebereiche vom Websitebesucher bevorzugt angeschaut werden.
-
-      Des Weiteren können wir feststellen, wie lange Sie auf einer Seite verblieben sind und wann Sie sie verlassen haben. Wir können auch feststellen, an welcher Stelle Sie Ihre Eingaben in ein Kontaktformular abgebrochen haben (sog. Conversion-Funnels).
-
-      Darüber hinaus können mit Hotjar direkte Feedbacks von Websitebesuchern eingeholt werden. Diese Funktion dient der Verbesserung der Webangebote des Websitebetreibers.
-
-      Hotjar verwendet Cookies. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Sie dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Mit diesen Cookies lässt sich insbesondere feststellen, ob unsere Website mit einem bestimmten Endgerät besucht wurde oder ob die Funktionen von Hotjar für den betreffenden Browser deaktiviert wurde. Hotjar-Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen.
-
-      Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
-
-      Die Nutzung von Hotjar und die Speicherung von Hotjar-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren.
-
-      #### Deaktivieren von Hotjar
-      Wenn Sie die Datenerfassung durch Hotjar deaktivieren möchten, klicken Sie auf folgenden Link und folgen Sie den dortigen Anweisungen: [hotjar.com/opt-out](//www.hotjar.com/opt-out)
-
-      Bitte beachten Sie, dass die Deaktivierung von Hotjar für jeden Browser bzw. für jedes Endgerät separat erfolgen muss.
-
-      Nähere Informationen über Hotjar und zu den erfassten Daten entnehmen Sie der Datenschutzerklärung von Hotjar unter dem folgenden Link: [hotjar.com/privacy](//www.hotjar.com/privacy)
-
-      #### Vertrag über Auftragsverarbeitung
-      Wir haben einen Vertrag über Auftragsverarbeitung mit Hotjar geschlossen, um die strengen europäischen Datenschutzvorschriften umzusetzen.
-
   - type: markdown
     body: |
-      ## 5. Newsletter
+      ## Newsletter
 
       ### Newsletterdaten
       Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
@@ -232,27 +207,3 @@ body:
 
       #### Abschluss eines Data-Processing-Agreements
       Wir haben ein sog. „Data-Processing-Agreement“ mit MailChimp abgeschlossen, in dem wir MailChimp verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: (https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/) .
-
-  - type: markdown
-    body: |
-      ## 6. Plugins und Tools
-
-      ### Vimeo
-      Unsere Website nutzt Plugins des Videoportals Vimeo. Anbieter ist die Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
-
-      Wenn Sie eine unserer mit einem Vimeo-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von Vimeo hergestellt. Dabei wird dem Vimeo-Server mitgeteilt, welche unserer Seiten Sie besucht haben. Zudem erlangt Vimeo Ihre IP-Adresse. Dies gilt auch dann, wenn Sie nicht bei Vimeo eingeloggt sind oder keinen Account bei Vimeo besitzen. Die von Vimeo erfassten Informationen werden an den Vimeo-Server in den USA übermittelt.
-
-      Wenn Sie in Ihrem Vimeo-Account eingeloggt sind, ermöglichen Sie Vimeo, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem Vimeo-Account ausloggen.
-
-      Die Nutzung von Vimeo erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
-
-      Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: [https://vimeo.com/privacy](https://vimeo.com/privacy) .
-
-      ### Google Maps
-      Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
-
-      Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung.
-
-      Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
-
-      Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de) .

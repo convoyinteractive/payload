@@ -17,7 +17,7 @@ hero:
 body:
   - type: markdown
     body: |
-      ## 1. Privacy policy at a glance
+      ## Privacy policy at a glance
       ### General information
       The following information will provide you with an easy to navigate overview of what will happen with your personal data when you visit our website. The term “personal data” comprises all data that can be used to personally identify you. For detailed information about the subject matter of data protection, please consult our Data Protection Declaration, which we have included beneath this copy.
 
@@ -46,7 +46,7 @@ body:
 
   - type: markdown
     body: |
-      ## 2. General information and mandatory information
+      ## General information and mandatory information
       ### Data protection
       The operators of this website and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.
 
@@ -106,7 +106,7 @@ body:
 
   - type: markdown
     body: |
-      ## 3. Recording of data on our website
+      ## Recording of data on our website
       ### Cookies
       In some instances, our website and its pages use so-called cookies. Cookies do not cause any damage to your computer and do not contain viruses. The purpose of cookies is to make our website more user friendly, effective and more secure. Cookies are small text files that are placed on your computer and stored by your browser.
 
@@ -148,7 +148,7 @@ body:
 
   - type: markdown
     body: |
-      ## 4. Analysis tools and advertising
+      ## Analysis tools and advertising
       ### Google Analytics
       This website uses functions of the web analysis service Google Analytics. The provider of this service is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
@@ -173,34 +173,10 @@ body:
       #### Demographic parameters provided by Google Analytics
       This website uses the function “demographic parameters” provided by Google Analytics. It makes it possible to generate reports providing information on the age, gender and interests of website visitors. The sources of this information are interest-related advertising by Google as well as visitor data obtained from third party providers. This data cannot be allocated to a specific individual. You have the option to deactivate this function at any time by making pertinent settings changes for advertising in your Google account or you can generally prohibit the recording of your data by Google Analytics as explained in section “Objection to the recording of data.”
 
-      ### Hotjar
-      This website utilizes Hotjar. The provider is Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (website: https://www.hotjar.com).
-
-      Hotjar is a tool used to analyse your user patterns on our website. Hotjar allows us to for instance record your mouse and scroll movements as well as your click. During this process, Hotjar also has the capability to determine how long your cursor remained in a certain position. Based on this information, Hotjar compiles so-called Heatmaps, that make possible to determine which parts of the website the website visitor reviews with preference.
-
-      We are also able to determine how long you have stayed on a page of our website and when you left. We can also determine at which point you suspended making entries into a contact form (so-called conversion funnels).
-
-      Furthermore, Hotjar can be deployed to obtain direct feedback from website visitors. This function aims at the improvement of the website offerings of the website operator.
-
-      Hotjar uses cookies. Cookies are small text files that are placed on your computer and stored by your browser. Their purpose is to make our website presentation more user friendly, more effective and more secure. These cookies allow us to in particular determine if our website was used with a certain device or if the functions of Hotjar have been deactivated for the respective browser. Hotjar cookies will remain on your device until you delete them.
-
-      You can set up your browser in such a manner that you will be notified anytime cookies are placed and you can permit cookies only in certain cases or exclude the acceptance of cookies in certain instances or in general and you can also activate the automatic deletion of cookies upon closing of the browser. If you deactivate cookies, the functions of this website may be limited.
-
-      The use of Hotjar and the storage of the Hotjar cookies are based on Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the analysis of user patterns, in order to optimize the operator’s web offerings and advertising.
-
-      #### Deactivation of Hotjar
-      If you would like to deactivate the recording of data by Hotjar, please click on the link below and follow the instructions provided under the link: https://www.hotjar.com/opt-out.
-
-      Please keep in mind that you will have to separately deactivate Hotjar for every browser and every device.
-
-      For more detailed information about Hotjar and the data to be recorded, please consult the Data Privacy Declaration of Hotjar under the following link: (https://www.hotjar.com/privacy).
-
-      #### Contract data processing
-      We have entered into a contract data processing agreement with Hotjar to implement the stringent European Data Protection Regulations.
 
   - type: markdown
     body: |
-      ## 5. Newsletter
+      ## Newsletter
       ### Newsletter data
       If you would like to subscribe to the newsletter offered on this website, we will need from you an e-mail address as well as information that allow us to verify that you are the owner of the e-mail address provided and consent to the receipt of the newsletter. No further data shall be collected or shall be collected only on a voluntary basis. We shall use such data only for the sending of the requested information and shall not share such data with any third parties.
 
@@ -227,26 +203,3 @@ body:
 
       #### Execution of a contract data processing agreement
       We have executed a so-called “Data Processing Agreement” with MailChimp, in which we mandate that MailChimp undertakes to protect the data of our customers and to refrain from sharing it with third parties. You may review this Agreement under the following link: (https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/).
-
-  - type: markdown
-    body: |
-      ## 6. Plugins and tools
-      ### Vimeo
-      Our website uses plug-ins of the video portal Vimeo. The provider is Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
-
-      If you visit one of the pages on our website into which a Vimeo plug-in has been integrated, a connection to Vimeo’s servers will be established. As a consequence, the Vimeo server will receive information as to which of our pages you have visited. Moreover, Vimeo will receive your IP address. This will also happen if you are not logged into Vimeo or do not have an account with Vimeo. The information recorded by Vimeo will be transmitted to Vimeo’s server in the United States.
-
-      If you are logged into your Vimeo account, you enable Vimeo to directly allocate your browsing patterns to your personal profile. You can prevent this by logging out of your Vimeo account.
-
-      The use of Vimeo is based on our interest in presenting our online content in an appealing manner. Pursuant to Art. 6 Sect. 1 lit. f GDPR, this is a legitimate interest.
-
-      For more information on how Vimeo handles user data, please consult the Vimeo Data Privacy Policy under: (https://vimeo.com/privacy).
-
-      ### Google Maps
-      Via an API, this website uses the mapping service Google Maps. The provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
-
-      To enable the use of the Google Maps features, your IP address must be stored. As a rule, this information is transferred to one of Google’s servers in the United States, where it is archived. The operator of this website has no control over the data transfer.
-
-      We use Google Maps to present our online content in an appealing manner and to make the locations disclosed on our website easy to find. This constitutes a legitimate interest as defined in Art. 6 Sect. 1 lit. f GDPR.
-
-      For more information on the handling of user data, please review Google’s Data Privacy Declaration under: (https://policies.google.com/privacy?hl=en).
