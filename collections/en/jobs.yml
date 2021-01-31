@@ -81,16 +81,12 @@ body:
         path: videos/convoy-jobs-video-4
 
   - type: definition
-    title: We are currently looking for a
+    title: We are currently looking for
     items:
       - type: collection
         alias: job
-        term: Trainee in user interface design (m/f/d)
-        resource: jobs/user-interface-design-trainee
-      - type: collection
-        alias: job
-        term: UX-Designer (m/f/d)
-        resource: jobs/user-interface-designer
+        term: Junior frontend developer (m/f/d)
+        resource: jobs/frontend-developer-junior
 
 relations:
   - type: component
