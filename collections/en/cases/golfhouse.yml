@@ -27,9 +27,7 @@ excerpt:
 
       In addition to 29 retail stores, the company operates its own e-commerce website. During its recent relaunch we were responsible for creative direction and design.
 
-  - type: url
-    value: //www.golfhouse.de
-    label: Visit The Golfhouse Online Store
+      [golfhouse.de](//www.golfhouse.de) {.cta}
 
 aside:
   - type: definition

@@ -25,9 +25,7 @@ excerpt:
     body: |
       The Orendt Studios Holding unites Europe’s largest media production for digital content and e-commerce image production under one roof. As part of a strategic reorientation, Convoy was commissioned to relaunch the online presence.
 
-  - type: url
-    value: //www.orendtstudios.com
-    label: Visit The Orendt Studios Website
+      [orendtstudios.com](//www.orendtstudios.com) {.cta}
 
 aside:
   - type: definition

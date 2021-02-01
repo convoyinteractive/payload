@@ -29,9 +29,7 @@ body:
 
       It makes you want more. In any case, we are already looking forward to continue developing this unusual website together with Oyster Studios in the coming months.
 
-  - type: url
-    value: //oyster-studios.com/
-    label: Visit the Oyster Studios website
+      [oyster-studios.com](//www.oyster-studios.com) {.cta}
 
   - type: gallery
     alias: group

@@ -27,9 +27,7 @@ excerpt:
 
       In addition to the introduction of a responsive design, our focus was on improving the usability and providing a less child-like look to be able to meet the requirements of the meanwhile very broad target group.
 
-  - type: url
-    value: //www.dreifragezeichen.de
-    label: Visit Die Drei Fragezeichen Website
+      [dreifragezeichen.de](//www.dreifragezeichen.de) {.cta}
 
 aside:
   - type: definition

@@ -25,9 +25,7 @@ excerpt:
     body: |
       Im Rahmen der Markteinführung von Architects’ Finest, der Farbton-Kollektion für gehobene Wohnansprüche von Schöner Wohnen Farbe, wurden wir mit der Konzeption und Umsetzung einer Microsite beauftragt. Darüber hinaus sind wir verantwortlich für die Strategie und Umsetzung der begleitenden Social Media-Kampagne sowie für die Produktion diverser Online-Werbemittel.
 
-  - type: url
-    value: //www.architects-finest.com
-    label: Zur Architects’ Finest Microsite
+      [architects-finest.com](//www.architects-finest.com) {.cta}
 
 aside:
   - type: definition

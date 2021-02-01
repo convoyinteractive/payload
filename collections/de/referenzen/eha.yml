@@ -27,9 +27,7 @@ excerpt:
 
       Im Rahmen eines umfangreichen Designrefreshs Mitte 2019 wurde das EHA Branding von uns umfassend überarbeitet und die neu erstellten Guidelines anschließend auf Website, Software und diverse Marketingmaterialien adaptiert. Seitdem entwickeln wir diese kontinuierlich weiter.
 
-  - type: url
-    value: //www.eha.net
-    label: Zur EHA Website
+      [eha.net](//www.eha.net) {.cta}
 
 aside:
   - type: definition

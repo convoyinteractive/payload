@@ -27,9 +27,7 @@ excerpt:
 
       Um diesen Wandel nach außen zu kommunizieren, haben wir das bestehende Branding inklusive Website vollständig überarbeitet.
 
-  - type: url
-    value: //raetzke.com
-    label: Zur Thies Raetzke Images Website
+      [raetzke.com](//www.raetzke.com) {.cta}
 
 aside:
   - type: definition
