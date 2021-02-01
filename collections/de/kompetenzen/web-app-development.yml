@@ -23,7 +23,7 @@ body:
       - type: markdown
         term: Websites + E-Commerce
         body: |
-          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content Management Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie zum Beispiel WordPress oder Strapi.io als auch mit Headless-CMS wie zum Beispiel CraftCMS.
+          Corporate Websites, Microsites und Online-Shops entwickeln wir mit modernen Technologien wie NuxtJS oder NextJS. Je nach Anforderung und Bedarf verwenden wir verschiedenste Content Management Systeme. Dabei arbeiten wir sowohl mit Open-Source-Systemen wie WordPress, als auch mit Headless-CMS wie zum Beispiel Strapi.io oder Statamic.
       - type: markdown
         term: Web-Apps + Cloud-Services
         body: |
