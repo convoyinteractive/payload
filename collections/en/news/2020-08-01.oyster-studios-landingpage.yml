@@ -15,7 +15,7 @@ meta:
 hero:
   type: image
   title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios"
-  subtitle: Landing page
+  subtitle: Landing-page
   sizes:
     small: images/articles/oyster-landingpage-hero-mobile
     large: images/articles/oyster-landingpage-hero
