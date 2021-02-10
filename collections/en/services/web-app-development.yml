@@ -9,7 +9,7 @@ meta:
 hero:
   type: lottie
   title: Web + App Development
-  subtitle: Kompetenzen
+  subtitle: Services
   path: assets/web-app-development.json
 
 body:
@@ -17,7 +17,7 @@ body:
     body: |
       Even the best idea can only unleash its full effect if we implement it to technical perfection. This is why we rely on future-proof technologies and develop high-performance, stable and long-term solutions.
   - type: definition
-    title: Our services at a glance
+    title: Our services in detail
     items:
       - type: markdown
         term: Websites + e-commerce
