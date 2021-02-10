@@ -15,7 +15,7 @@ meta:
 hero:
   type: image
   title: Thies Rätzke Images
-  subtitle: Branding + website
+  subtitle: Branding + Website
   sizes:
     small: images/cases/thies-raetzke-hero-mobile
     large: images/cases/thies-raetzke-hero
