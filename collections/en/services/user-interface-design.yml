@@ -9,7 +9,7 @@ meta:
 hero:
   type: lottie
   title: UI Design
-  subtitle: Kompetenzen
+  subtitle: Services
   path: assets/user-interface-design.json
 
 body:
