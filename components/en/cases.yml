@@ -1,15 +1,11 @@
 items:
   - type: collection
     alias: case
-    resource: cases/orendt-studios
-
-  - type: collection
-    alias: case
     resource: cases/architects-finest
 
   - type: collection
     alias: case
-    resource: cases/teamcast
+    resource: cases/orendt-studios
 
   - type: collection
     alias: case
@@ -21,15 +17,19 @@ items:
 
   - type: collection
     alias: case
+    resource: cases/teamcast
+
+  - type: collection
+    alias: case
+    resource: cases/thies-raetzke-images
+
+  - type: collection
+    alias: case
     resource: cases/eha
 
   - type: collection
     alias: case
     resource: cases/golfhouse
-
-  - type: collection
-    alias: case
-    resource: cases/thies-raetzke-images
 
   - type: collection
     alias: case
