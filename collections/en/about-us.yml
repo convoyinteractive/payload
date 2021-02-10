@@ -103,17 +103,17 @@ body:
           [Our areas of competence](/en/services) {.cta}
 
   - type: quote
-    body: Mit Convoy haben wir einen Agentur-Partner gefunden, der nicht nur unsere Sprache spricht, sondern auch weiß, wie man eine Marke zeitgemäß digital inszeniert.
+    body: In Convoy, we’ve not only found an agency partner who speaks our own language, but one who knows how to digitally stage a brand in contemporary fashion.
     author:
       name: Thorsten Orendt
       title: Inhaber und CEO Orendt Studios Holding
 
   - type: component
-    title: Ausgewählte Kunden
+    title: Selected clients
     resource: clients
 
   - type: component
-    title: Auszeichnungen + Awards
+    title: Awards + honors
     resource: awards
 
 relations:
