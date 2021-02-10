@@ -9,22 +9,22 @@ items:
     path: assets/en/workflow.json
 
   - type: markdown
-    title: Analysing
+    title: Analyze
     body: |
       The task and user research are the main focus in this phase. We analyse the problem, target group, the competitors and measures in place. In workshops, surveys and interviews, we develop a detailed understanding with our customers of all the requirements as well as goals and KPIs.
 
   - type: markdown
-    title: Defining
+    title: Define
     body: |
       In this phase we evaluate insights and feedback and develop first hypotheses and ideas that help determine the strategic direction to be taken.
 
   - type: markdown
-    title: Implementing
+    title: Implement
     body: |
       We plan the user experience in this phase. To do so, we focus on structural topics such as contents, information architecture, the user journey or navigation structure and work out different design approaches for the look and feel. For visualisation, we use wireframes and design mock-ups and test these both in form of prototypes.
 
   - type: markdown
-    title: Optimising
+    title: Optimize
     body: |
       In this phase, we validate and improve our approaches to solutions. We implement the best of them and document them in backlog or pattern libraries.
 
