@@ -109,11 +109,11 @@ body:
       title: Inhaber und CEO Orendt Studios Holding
 
   - type: component
-    title: Ausgewählte Kunden
+    title: Selected clients
     resource: clients
 
   - type: component
-    title: Auszeichnungen + Awards
+    title: Awards + honors
     resource: awards
 
 relations:
