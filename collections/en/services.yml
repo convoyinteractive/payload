@@ -25,6 +25,7 @@ body:
     resource: services
 
   - type: component
+    title: Selected clients
     resource: clients
 
 relations:
