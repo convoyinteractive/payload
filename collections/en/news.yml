@@ -6,4 +6,10 @@ meta:
 
   alternates:
     de: news
+
+
+hero:
+  type: text
+  title: News
+
 # NOTE: Articles will be auto injected #
