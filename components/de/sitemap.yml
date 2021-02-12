@@ -6,6 +6,8 @@ about:
       path: /de/kompetenzen
     - label: Arbeitsweise
       path: /de/arbeitsweise
+    - label: Neuigkeiten
+      path: /de/news
     - label: Jobs
       path: /de/jobs
   image:

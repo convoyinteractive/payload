@@ -6,6 +6,8 @@ about:
       path: /en/services
     - label: Process
       path: /en/process
+    - label: News
+      path: /en/news
     - label: Jobs
       path: /en/jobs
   image:
