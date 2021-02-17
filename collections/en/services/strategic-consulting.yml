@@ -48,4 +48,4 @@ relations:
     resource: cases/poggenpohl
   - type: component
     alias: contact
-    resource: contact/new-business
+    resource: contact/app-development
