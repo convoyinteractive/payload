@@ -21,7 +21,7 @@ body:
       We support companies with convincing design solutions and technological expertise, thereby helping them to achieve their goals and be successful on a long-term scale.
 
   - type: component
-    title: Our services at a glance
+    title: Our services
     alias: portfolio
     resource: services
 
