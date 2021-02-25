@@ -1,8 +1,8 @@
 type: services
 
 meta:
-  title: Agency for User Interface Design Hamburg | Convoy Interactive
-  description: We design appealing and intuitive digital user interfaces and interaction processes. Convoy Interactive UI Agency from Hamburg. Get to know us now!
+  title: Agency for user interface design Hamburg | Convoy Interactive
+  description: We design appealing and intuitive digital user interfaces and interaction processes. Convoy Interactive UI agency from Hamburg. Get to know us now!
   image: images/services/ui-design
   alternates:
     de: kompetenzen/user-interface-design
