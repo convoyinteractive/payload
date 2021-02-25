@@ -15,7 +15,7 @@ meta:
 
 hero:
   type: image
-  title: Die drei ??? (The Three Investigators)
+  title: The Three Investigators
   subtitle: Microsite
   sizes:
     small: images/cases/dreifragezeichen-hero-mobile
