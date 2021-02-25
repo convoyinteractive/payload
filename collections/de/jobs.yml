@@ -1,7 +1,8 @@
 type: jobs
 
 meta:
-  title: Jobs
+  title: Arbeiten in der Hamburger Digitalagentur Convoy Interactive
+  description: Convoy ist eine Digitalagentur aus Hamburg. Mit viel Leidenschaft gestalten und entwickeln wir mit unserem Team digitale Nutzererlebnisse von morgen.
   image: images/convoy-hinterhof
   alternates:
     en: jobs
