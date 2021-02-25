@@ -10,7 +10,7 @@ meta:
 hero:
   type: lottie
   title: Services
-  subtitle: Schedule of services
+  subtitle: Our competences
   path: assets/services.json
 
 body:
