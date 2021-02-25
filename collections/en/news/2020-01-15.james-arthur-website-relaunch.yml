@@ -7,7 +7,8 @@ theme:
   background: "#FCEEDB"
 
 meta:
-  title: Website relaunch for James Arthur
+  title: Website for James Arthur | Convoy Interactive
+  description: Website relaunch for British pop musician and The Voice winner James Arthur.
   image: images/articles/jamesarthur-hero
   alternates:
     de: news/2020-01-15/james-arthur-website-relaunch

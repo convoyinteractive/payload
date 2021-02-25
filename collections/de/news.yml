@@ -1,7 +1,8 @@
 type: blog
 
 meta:
-  title: Neuigkeiten
+  title: Neuigkeiten bei der Digital- und Webagentur Convoy Interactive
+  description: Convoy ist eine Digitalagentur aus Hamburg. Hier veröffentlichen wir regelmäßig Neuigkeiten zu aktuellen Projekten aus den Bereichen Webdesign, UX-Design, UI-Design und Web-Development.
   image:
   alternates:
     en: news

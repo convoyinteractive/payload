@@ -7,7 +7,8 @@ theme:
   background: "#F5F5F5"
 
 meta:
-  title: "Hamburg to Hong-Kong: Convoy supports Oyster Studios"
+  title: Website for Oyster Studios | Convoy Interactive
+  description: Web design and web development for Oyster Studios, a full-service photo production company with locations in Hamburg, Lisbon and Hong-Kong.
   image: images/articles/oyster-teaser
   alternates:
     de: news/2020-08-01/oyster-studios-landingpage

@@ -7,7 +7,8 @@ theme:
   background: "#E7D6D2"
 
 meta:
-  title: Architects’ Finest
+  title: Digital agency for Schöner Wohnen Farbe | Convoy Interactive
+  description: Design and implementation of a microsite for Architects' Finest, the color collection for sophisticated living. What can we do for you?
   image: images/cases/architects-finest-hero
   alternates:
     de: referenzen/architects-finest

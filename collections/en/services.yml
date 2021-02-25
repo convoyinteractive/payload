@@ -1,7 +1,8 @@
 type: services
 
 meta:
-  title: Services
+  title: Services of the digital and web agency Convoy Interactive
+  description: The digital and web agency Convoy Interactive supports companies with convincing design solutions and technological competence. Learn more now!
   image: images/services/services
   alternates:
     de: kompetenzen
@@ -9,7 +10,7 @@ meta:
 hero:
   type: lottie
   title: Services
-  subtitle: Schedule of services
+  subtitle: Our competences
   path: assets/services.json
 
 body:
@@ -20,7 +21,7 @@ body:
       We support companies with convincing design solutions and technological expertise, thereby helping them to achieve their goals and be successful on a long-term scale.
 
   - type: component
-    title: Our services at a glance
+    title: Our services
     alias: portfolio
     resource: services
 
