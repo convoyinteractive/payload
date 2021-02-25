@@ -7,14 +7,14 @@ theme:
   background: "#E4F0D8"
 
 meta:
-  title: Die drei ??? (The Three Investigators)
+  title: The Three Investigators
   image: images/cases/dreifragezeichen-hero
   alternates:
     de: referenzen/dreifragezeichen
 
 hero:
   type: image
-  title: Die drei ??? (The Three Investigators)
+  title: The Three Investigators
   subtitle: Microsite
   sizes:
     small: images/cases/dreifragezeichen-hero-mobile
