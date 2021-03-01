@@ -60,10 +60,21 @@ aside:
             body: Beratung
 
 body:
-  - type: image
-    alt: Die drei Fragezeichen Website
-    alias: screen
-    path: images/cases/dreifragezeichen-homepage
+  - type: gallery
+    alias: impressions
+    items:
+      - type: image
+        alias: screen
+        alt: Die drei Fragezeichen Website
+        path: images/cases/dreifragezeichen-homepage-slider
+      - type: image
+        alias: screen
+        alt: News von den drei Fragezeichen  
+        path: images/cases/dreifragezeichen-homepage-news
+      - type: image
+        alias: screen
+        alt: Hörproben aus den Hörspielen der drei Fragezeichen  
+        path: images/cases/dreifragezeichen-homepage-audioplayer
 
   - type: markdown
     title: Eine neue Zentrale für die drei Detektive
