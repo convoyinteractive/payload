@@ -69,11 +69,11 @@ body:
         path: images/cases/dreifragezeichen-homepage-slider
       - type: image
         alias: screen
-        alt: News von den drei Fragezeichen  
+        alt: News von den drei Fragezeichen
         path: images/cases/dreifragezeichen-homepage-news
       - type: image
         alias: screen
-        alt: Hörproben aus den Hörspielen der drei Fragezeichen  
+        alt: Hörproben aus den Hörspielen der drei Fragezeichen
         path: images/cases/dreifragezeichen-homepage-audioplayer
 
   - type: markdown
