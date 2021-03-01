@@ -111,7 +111,7 @@ body:
       - type: image
         alias: screen
         alt: Der Bestellprozess im Golf House Online-Shop
-        path: images/cases/golfhouse-checkout
+        path: images/cases/golfhouse-shop-checkout
 
   - type: svg
     title: Auszüge aus der Golf House Pattern Library
