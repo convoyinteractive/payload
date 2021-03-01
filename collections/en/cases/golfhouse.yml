@@ -110,7 +110,7 @@ body:
       - type: image
         alias: screen
         alt: The order process in the Golf House E-Commerce
-        path: images/cases/golfhouse-checkout
+        path: images/cases/golfhouse-shop-checkout
 
   - type: svg
     title: Excerpts from the Golf House pattern library
