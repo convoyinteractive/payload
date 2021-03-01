@@ -74,7 +74,7 @@ body:
       - type: image
         alias: screen
         alt: Hörproben aus den Hörspielen der drei Fragezeichen
-        path: images/cases/dreifragezeichen-homepage-audioplayer
+        path: images/cases/dreifragezeichen-homepage-audiopreviews
 
   - type: markdown
     title: Eine neue Zentrale für die drei Detektive
