@@ -101,12 +101,16 @@ body:
     items:
       - type: image
         alias: screen
-        alt: A product page from the Golf House E-Commerce
+        alt: A product page in the Golf House E-Commerce
         path: images/cases/golfhouse-produktseite
       - type: image
         alias: screen
-        alt: Excerpts from the Golf House pattern library
+        alt: A category overview in the Golf House E-Commerce
         path: images/cases/golfhouse-shop-uebersicht
+      - type: image
+        alias: screen
+        alt: The order process in the Golf House E-Commerce
+        path: images/cases/golfhouse-shop-checkout
 
   - type: svg
     title: Excerpts from the Golf House pattern library
