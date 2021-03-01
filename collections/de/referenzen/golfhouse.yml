@@ -108,6 +108,10 @@ body:
         alias: screen
         alt: Eine Kategorie-Übersichtsseite im Golf House Online-Shops
         path: images/cases/golfhouse-shop-uebersicht
+      - type: image
+        alias: screen
+        alt: Der Bestellprozess im Golf House Online-Shop
+        path: images/cases/golfhouse-checkout
 
   - type: svg
     title: Auszüge aus der Golf House Pattern Library
