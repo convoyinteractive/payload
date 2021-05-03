@@ -87,7 +87,7 @@ body:
   - type: video
     caption: In the background, archive shots run in a loop while scrolling through the story from top to bottom.
     poster: images/cases/poggenpohl-website-scroll-video-poster
-    path: videos/cases/poggenpohl-website-scroll
+    path: videos/cases/poggenpohl-website-scroll-2
 
   - type: markdown
     title: Emotional product experience
