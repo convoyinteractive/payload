@@ -46,6 +46,7 @@ items:
 
   - type: markdown
     title: Digital Products
+    link: /de/kompetenzen/digital-products
     body: Wir realisieren Anwendungen, die Ihre Zielgruppe nachhaltig begeistern.
     addon:
       type: lottie

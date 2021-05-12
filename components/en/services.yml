@@ -45,6 +45,7 @@ items:
       path: assets/online-marketing_small.json
 
   - type: markdown
+    link: /en/services/digital-products
     title: Digital Products
     body: We implement applications that appeal to your target group for the long haul.
     addon:
