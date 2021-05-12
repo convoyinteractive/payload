@@ -39,17 +39,17 @@ body:
         body: |
           Gerade im B2B-Kontext geht es darum, Nutzern professionelle Tools an die Hand zu geben, mit denen sie gern und effektiv arbeiten. Vor allem auf Smartphones verwenden wir alle jeden Tag Apps, die eine exzellente User Experience bieten. Dadurch steigt die Erwartung an Ihre eigenen Produkte. Und darum sind gutes User Experience und User Interface Design so wichtig für den Erfolg Ihrer Apps und Anwendungen.
       - type: markdown
-        term: Nutzerzentrierte Arbeitsweise
+        term: Cutting-edge technologies
         body: |
-          Wir arbeiten iterativ entlang der Bedürfnisse Ihrer zukünftigen Nutzer. Designs erstellen wir systematisch, modular und dokumentieren alle Elemente in Pattern Libraries. Wireframes und Design-Mockups testen wir in Form von Prototypen und verfolgen die besten Lösungsansätze weiter. Durch unsere inkrementelle Arbeitsweise können Sie und Ihre Nutzer bereits früh am Fortschritt teilhaben, von ihm profitieren und wertvolles Feedback liefern.
+          If required, we can give you comprehensive advice on the relevant frameworks and technologies relating to your project, so you get a high-performance, stable and scalable solution that fits your requirements exactly. Upon request, we also support you with the programming of clear and reactive user surfaces, sophisticated micro-services or coherently structured RESTful JSON APIs.
 
 relations:
   - type: collection
     alias: case
-    resource: referenzen/teamcast
+    resource: cases/teamcast
   - type: collection
     alias: case
     resource: referenzen/eha
   - type: component
     alias: contact
-    resource: contact/new-business
+    resource: contact/app-development
