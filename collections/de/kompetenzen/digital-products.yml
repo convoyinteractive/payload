@@ -41,12 +41,11 @@ body:
       - type: markdown
         term: Cutting-edge technologies
         body: |
-          If required, we can give you comprehensive advice on the relevant frameworks and technologies relating to your project, so you get a high-performance, stable and scalable solution that fits your requirements exactly. Upon request, we also support you with the programming of clear and reactive user surfaces, sophisticated micro-services or coherently structured RESTful JSON APIs.
-
+          Bei Bedarf beraten wir Sie umfassend zu den für Ihr Projekt relevanten Frameworks und Technologien. Damit Sie eine performante, stabile und skalierbare Lösung an die Hand bekommen, die genau zu Ihren Anforderungen passt. Auf Wunsch unterstützen wir Sie darüber hinaus auch bei der Programmierung von klaren und reaktiven Benutzeroberflächen, durchdachten Micro-Services oder übersichtlich strukturierten RESTful JSON APIs.
 relations:
   - type: collection
     alias: case
-    resource: cases/teamcast
+    resource: referenzen/teamcast
   - type: collection
     alias: case
     resource: referenzen/eha
