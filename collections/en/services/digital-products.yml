@@ -1,0 +1,55 @@
+
+type: services
+
+meta:
+  title: Digital Products
+  image: images/services/digital-products
+  alternates:
+    de: kompetenzen/digital-products
+
+hero:
+  type: lottie
+  title: Digital Products
+  subtitle: Services
+  path: assets/digital-products.json
+
+body:
+  - type: markdown
+    body: |
+      Whether prototype, MVP or cloud-based solution: We build apps and applications that will inspire your target group in the long term. We support you with conception, UX design and programming of your digital products. By optimising user experience and user interface design, we help you to increase the efficiency of your software or app.
+
+  - type: image
+    alt: Digital Products 
+    path: images/digital-products
+
+  - type: markdown
+    title: Digitalization as an opportunity
+    body: |
+      Are you planning an app? We help you to implement it so you can use the chances of digital transformation along with all the opportunities it presents. Your employees and customers are working with an application that is no longer up to date? We support you with your relaunch, so that you can fully exploit the potential of your digital products.
+
+  - type: markdown
+    title: Design as a success factor
+    body: |
+      Especially in the business-to-business context, it is important to provide users with professional tools that they like to work with effectively. Especially on smartphones, we all use apps every day that offer an excellent user experience. This increases the expectations on your own products. And that’s why a good user experience and user interface design are so important for the success of your apps and software.
+
+  - type: definition
+    title: Why Convoy?
+    items:
+      - type: markdown
+        term: User-centric approach
+        body: |
+          We work iteratively in line with the needs of your future users. We create designs systematically, modularly and document all elements in pattern libraries. We test wireframes and design mockups in form of prototypes and pursue the best approaches to solutions. Due to our incremental way of working, you and your users can be part of the progress at an early stage, benefit from it and provide valuable feedback.
+      - type: markdown
+        term: Cutting-edge technologies
+        body: |
+          If required, we can give you comprehensive advice on the relevant frameworks and technologies relating to your project, so you get a high-performance, stable and scalable solution that fits your requirements exactly. Upon request, we also support you with the programming of clear and reactive user surfaces, sophisticated micro-services or coherently structured RESTful JSON APIs.
+relations:
+  - type: collection
+    alias: case
+    resource: cases/teamcast
+  - type: collection
+    alias: case
+    resource: cases/eha
+  - type: component
+    alias: contact
+    resource: contact/app-development
