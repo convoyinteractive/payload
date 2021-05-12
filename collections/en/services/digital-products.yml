@@ -1,4 +1,3 @@
-
 type: services
 
 meta:
@@ -19,7 +18,7 @@ body:
       Whether prototype, MVP or cloud-based solution: We build apps and applications that will inspire your target group in the long term. We support you with conception, UX design and programming of your digital products. By optimising user experience and user interface design, we help you to increase the efficiency of your software or app.
 
   - type: image
-    alt: Digital Products 
+    alt: Digital Products
     path: images/digital-products
 
   - type: markdown
