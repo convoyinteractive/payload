@@ -35,9 +35,9 @@ body:
     title: Warum Convoy?
     items:
       - type: markdown
-        term: Design als Erfolgsfaktor
+        term: Nutzerzentrierte Arbeitsweise
         body: |
-          Gerade im B2B-Kontext geht es darum, Nutzern professionelle Tools an die Hand zu geben, mit denen sie gern und effektiv arbeiten. Vor allem auf Smartphones verwenden wir alle jeden Tag Apps, die eine exzellente User Experience bieten. Dadurch steigt die Erwartung an Ihre eigenen Produkte. Und darum sind gutes User Experience und User Interface Design so wichtig für den Erfolg Ihrer Apps und Anwendungen.
+          Wir arbeiten iterativ entlang der Bedürfnisse Ihrer zukünftigen Nutzer. Designs erstellen wir systematisch, modular und dokumentieren alle Elemente in Pattern Libraries. Wireframes und Design-Mockups testen wir in Form von Prototypen und verfolgen die besten Lösungsansätze weiter. Durch unsere inkrementelle Arbeitsweise können Sie und Ihre Nutzer bereits früh am Fortschritt teilhaben, von ihm profitieren und wertvolles Feedback liefern.
       - type: markdown
         term: Zukunftsweisende Technologien
         body: |
