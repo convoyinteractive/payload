@@ -39,7 +39,7 @@ body:
         body: |
           Gerade im B2B-Kontext geht es darum, Nutzern professionelle Tools an die Hand zu geben, mit denen sie gern und effektiv arbeiten. Vor allem auf Smartphones verwenden wir alle jeden Tag Apps, die eine exzellente User Experience bieten. Dadurch steigt die Erwartung an Ihre eigenen Produkte. Und darum sind gutes User Experience und User Interface Design so wichtig für den Erfolg Ihrer Apps und Anwendungen.
       - type: markdown
-        term: Cutting-edge technologies
+        term: Zukunftsweisende Technologien
         body: |
           Bei Bedarf beraten wir Sie umfassend zu den für Ihr Projekt relevanten Frameworks und Technologien. Damit Sie eine performante, stabile und skalierbare Lösung an die Hand bekommen, die genau zu Ihren Anforderungen passt. Auf Wunsch unterstützen wir Sie darüber hinaus auch bei der Programmierung von klaren und reaktiven Benutzeroberflächen, durchdachten Micro-Services oder übersichtlich strukturierten RESTful JSON APIs.
 relations:
