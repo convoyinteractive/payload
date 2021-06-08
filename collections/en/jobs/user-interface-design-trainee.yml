@@ -14,6 +14,11 @@ hero:
     small: images/convoy-hinterhof-mobile
     large: images/convoy-hinterhof
 
+excerpt:
+  - type: markdown
+    body: |
+      You study communication design, media or interaction design with a focus on digital media. During your mandatory internship, you assist us in the conception and design of digital projects. You also support our senior designers in developing consistent, functional and visually appealing user interfaces.
+
 body:
   - type: markdown
     body: |
