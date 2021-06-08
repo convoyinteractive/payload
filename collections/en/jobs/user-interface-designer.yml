@@ -21,10 +21,56 @@ excerpt:
 
 body:
   - type: markdown
+    title: Über uns
     body: |
-      As a user interface designer you are responsible for the conception and design of digital projects. You are passionate about consistent, functional and visually appealing user interfaces that focus on users and their needs. Whether landing page, microsite, corporate website, digital portal or app – you accompany a project from the initial idea to the successful launch and are also involved in the consistent refinement of existing measures.
+      We believe that truly creative solutions only surface in a relaxed and trusting working environment. This requires a good portion of team play, respectful cooperation, flat hierarchies and short communication channels.
+
+      This is one of the reasons why our team consists in almost equal parts of designers and developers who work together on projects. Everyone is an expert, each person in a different field. What unites us is the passion for functional and aesthetic design as well as a general interest in digital trends and new technologies.
+
+      If you feel the same way, apply for a job with us and let’s find out whether we’re a good match. All we need is a link to your portfolio and a few sentences about yourself. Everything else we will clarify later.
+
+  - type: gallery
+    items:
+      - type: image
+        poster: images/poster/convoy-jobs-video-1
+        path: videos/convoy-jobs-video-1
+      - type: image
+        alt: Casual dresscode
+        path: images/convoy-jobs-entwicklung
+      - type: image
+        alt: Teamwork
+        path: images/convoy-jobs-besprechung
+      - type: image
+        poster: images/poster/convoy-jobs-video-2
+        path: videos/convoy-jobs-video-2
+      - type: image
+        alt: A great collection of design books.
+        path: images/convoy-jobs-inspiration
+      - type: image
+        alt: Out of space
+        path: images/convoy-jobs-team
+      - type: image
+        alt: Moodboard
+        path: images/convoy-jobs-praesentation
+      - type: image
+        poster: images/poster/convoy-jobs-video-3
+        path: videos/convoy-jobs-video-3
+      - type: image
+        alt: St. Pauli - This is where we work
+        path: images/convoy-jobs-stpauli
+      - type: image
+        poster: images/poster/convoy-jobs-video-4
+        path: videos/convoy-jobs-video-4
+
+  - type: list
+    title: We look for
+    items:
+
+  - type: list
+    title: We offer
+    items:
 
 relations:
   - type: component
     alias: contact
-    resource: contact/human-resources
+    resource: contact/job-application
