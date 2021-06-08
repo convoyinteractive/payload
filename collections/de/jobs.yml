@@ -90,8 +90,8 @@ body:
         resource: jobs/user-interface-designer
       - type: collection
         alias: job
-        term: Junior Frontend Developer (m/w/d)
-        resource: jobs/frontend-developer-junior
+        term: Webentwickler (m/w/d)
+        resource: jobs/webdeveloper
 
 relations:
   - type: component

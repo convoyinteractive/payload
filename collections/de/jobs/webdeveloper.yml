@@ -1,0 +1,102 @@
+type: default
+
+meta:
+  title: Webentwickler (m/w/d) gesucht
+  description: Wir suchen einen Webentwickler (m/w/d) zur Verstärkung unseres interdisziplinären Teams.
+  image: images/convoy-hinterhof
+
+hero:
+  type: image
+  title: Webentwickler (m/w/d)
+  subtitle: Stellenangebot
+  sizes:
+    small: images/convoy-hinterhof-mobile
+    large: images/convoy-hinterhof
+
+excerpt:
+  - type: markdown
+    body: |
+      Als Webentwickler bist du verantwortlich für die Umsetzung von Web-Interfaces, Webanwendungen und REST-APIs. Darüber hinaus bist du es gewohnt in agilen Prozessen zu arbeiten, hast Spaß an der Umsetzung designorientierter Projekte und bringst dich gern mit eigenen Ideen ein.
+
+      Einstieg ab sofort
+
+body:
+  - type: markdown
+    title: Über uns
+    body: |
+      Convoy ist eine Hamburger Digitalagentur. Mit viel Leidenschaft gestalten und entwickeln wir in einem interdisziplinären Team Nutzererlebnisse von morgen.
+
+      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege. Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designern und Entwicklern, die gemeinsam an Projekten arbeiten. Alle sind Experten, jeder in einer anderen Disziplin. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und das Interesse an digitalen Trends und neuen Technologien.
+
+      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio, ein paar Sätze zu deiner Person und Angaben zu deinen Gehaltsvorstellungen. Alles andere klären wir später.
+
+  - type: markdown
+    title: Unser Stack
+    body: |
+      PHP, Laravel, PHPUnit, Composer, MySQL, Redis, Statamic, TailwindCSS, Webpack, Shell, JavaScript ES6+, TypeScript, NPM, VueJS, ReactJS, GSAP, Git, GitHub
+
+  - type: gallery
+    items:
+      - type: image
+        poster: images/poster/convoy-jobs-video-1
+        path: videos/convoy-jobs-video-1
+      - type: image
+        alt: Bei uns gibt es keinen Dresscode.
+        path: images/convoy-jobs-entwicklung
+      - type: image
+        alt: Ideenausstausch mit Mary und Tobias.
+        path: images/convoy-jobs-besprechung
+      - type: image
+        poster: images/poster/convoy-jobs-video-2
+        path: videos/convoy-jobs-video-2
+      - type: image
+        alt: Wir lieben Designbücher - Hier kannst du dich gerne inspirieren lassen.
+        path: images/convoy-jobs-inspiration
+      - type: image
+        alt: Meeting in der Sonne.
+        path: images/convoy-jobs-team
+      - type: image
+        alt: Wir verwenden verschiedene kreative Techniken zur Ideenfindung wie zum Beispiel ein Moodboard.
+        path: images/convoy-jobs-praesentation
+      - type: image
+        poster: images/poster/convoy-jobs-video-3
+        path: videos/convoy-jobs-video-3
+      - type: image
+        alt: St. Pauli - Hier sind wir zuhause.
+        path: images/convoy-jobs-stpauli
+      - type: image
+        poster: images/poster/convoy-jobs-video-4
+        path: videos/convoy-jobs-video-4
+
+  - type: list
+    title: Das bringst du mit
+    items:
+      - type: text
+        body: Du verfügst über eine abgeschlossene Berufsausbildung oder vergleichbare Qualifikationen und über min. 2 Jahre Berufserfahrung
+      - type: text
+        body: ...
+      - type: text
+        body: Du hast Bock an spannenden Digital-Projekten mitzuwirken und möchtest dich und deine Skills weiterentwickeln.
+
+  - type: list
+    title: Das bieten wir
+    items:
+      - type: text
+        body: selbstbestimmtes Arbeiten in flachen Hierarchien und agilen Prozessen
+      - type: text
+        body: flexible und geregelte Arbeitszeiten
+      - type: text
+        body: faire Bezahlung sowie einen unbefristeten Arbeitsvertrag
+      - type: text
+        body: spannende digitale Projekte für kleine und große Marken aus den unterschiedlichsten Branchen
+      - type: text
+        body: einen Platz in einem Team aus netten und kompetenten Kolleginnen und Kollegen
+      - type: text
+        body: ein inspirierendes Arbeitsumfeld in einem schicken Büro mit Blick über Hamburg St. Pauli
+      - type: text
+        body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen
+
+relations:
+  - type: component
+    alias: contact
+    resource: contact/job-application
