@@ -15,6 +15,13 @@ hero:
     small: images/convoy-hinterhof-mobile
     large: images/convoy-hinterhof
 
+excerpt:
+  - type: markdown
+    body: |
+      As a junior frontend developer you work side by side with our senior developers and are responsible for the implementation of web and software interfaces. You’ll work with JavaScript frameworks such as Vue or React. Furthermore, you’re used to working in agile processes, enjoy implementing design-oriented projects and like to be actively involved by contributing your own ideas.
+
+      Entry immediately
+
 body:
   - type: markdown
     body: |

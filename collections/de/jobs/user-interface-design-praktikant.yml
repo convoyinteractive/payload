@@ -15,6 +15,11 @@ hero:
     small: images/convoy-hinterhof-mobile
     large: images/convoy-hinterhof
 
+excerpt:
+  - type: markdown
+    body: |
+      Du studierst Kommunikationsdesign, Medien- oder Interaktionsdesign mit einem Schwerpunkt im Bereich Digitale Medien. Im Rahmen deines Pflichtpraktikums begleitest du bei uns die Konzeption und Gestaltung von digitalen Projekten. Dabei unterstützt du unsere Senior Designer bei der Entwicklung konsistenter, funktionaler und optisch ansprechender User Interfaces.
+
 body:
   - type: markdown
     body: |
