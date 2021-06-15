@@ -74,7 +74,13 @@ body:
       - type: text
         body: Du verfügst über eine abgeschlossene Berufsausbildung oder vergleichbare Qualifikationen und über min. 2 Jahre Berufserfahrung
       - type: text
-        body: ...
+        body: Du hast gute Kenntnisse in PHP und einem Framework wie Symfony oder Laravel
+      - type: text
+        body: Du bist sicher im Umgang mit JavaScript Frameworks wie VueJs oder ReactJS
+      - type: text
+        body: Idealerweise hast du Erfahrung mit relationalen Datenbanken
+      - type: text
+        body: DevOps-Kenntnisse wären ein Plus
       - type: text
         body: Du hast Bock an spannenden Digital-Projekten mitzuwirken und möchtest dich und deine Skills weiterentwickeln.
 
