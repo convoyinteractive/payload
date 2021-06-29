@@ -127,6 +127,11 @@ body:
     body: |
       Im Rahmen der Neugestaltung verschiedenster EHA-Software zur Visualisierung von Plan- und Verbrauchsdaten, entwickelten wir spezielle Icon-Sets und erweiterten das bestehende Farbschema. So konnten wir den spezifischen Anforderungen an die jeweilige Software gerecht werden und gleichzeitig sicherstellen, dass sich deren User Interfaces optimal in das neue Branding einfügen.
 
+  - type: image
+    caption: Dashboard-Ansicht der EHA Software
+    alt: EHA Software
+    path: images/cases/eha-software-mockup
+
 relations:
   - type: collection
     alias: case

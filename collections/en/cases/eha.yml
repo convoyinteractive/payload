@@ -125,6 +125,11 @@ body:
     body: |
       As part of the redesign of various EHA software components to visualise planning and consumption data, we developed specific sets of icon sets and extended the existing colour scheme. In doing so, we were able to cater to the respective software requirements and at the same time make sure that its user interfaces integrated optimally into the new branding.
 
+  - type: image
+    caption: Dashboard view of the EHA software
+    alt: EHA software
+    path: images/cases/eha-software-mockup
+
 relations:
   - type: collection
     alias: case
