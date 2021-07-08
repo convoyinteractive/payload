@@ -9,6 +9,10 @@ meta:
 hero:
   type: text
   title: More action, less noise.
+  alternates:
+    - Pushing pixels. And limits.
+    - Fun follows function.
+    - Turning complex into simple.
 
 body:
   - type: markdown
